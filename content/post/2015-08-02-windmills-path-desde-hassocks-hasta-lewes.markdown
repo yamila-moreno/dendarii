@@ -1,0 +1,39 @@
+---
+author: yamila
+date: 2015-08-02T15:31:12.055Z
+slug: windmills-path-desde-hassocks-hasta-lewes
+title: Windmills path, desde Hassocks hasta Lewes
+thumbnailImage: //c1.staticflickr.com/1/547/20220179932_fa3dd58a2c_k.jpg
+tags:
+- Senderismo
+- Windmills
+- Inglaterra
+---
+
+Y seguimos con las rutas por la campiña inglesa. Como en Londres, agosto es un mes con un tiempo realmente bueno, aproveché para hacerme otra ruta. Esta vez me uní a una excursión preparada, con otras 50 personas. Una ruta muy sencilla cerca de Brighton, con vistas geniales :)
+
+[![windmills1](http://c1.staticflickr.com/1/452/20202171756_f002a2db7f_z.jpg#small)](http://c1.staticflickr.com/1/452/20202171756_f002a2db7f_z.jpg)
+
+Ya en la estación divisé a una chica majísima de Cádiz (hola Quisqueya!) con la que hice la ruta, charlando y riendo :)
+
+La ruta comenzaba subiendo una colina hasta dos antiguos molinos: Jill, and Jack (el único molino inglés que es masculino). Desde allí cogimos la senda de los molinos, llamada así por algún motivo que no llegué a descubrir, pues en esa senda no vimos ninguno más, y sospecho que en Inglaterra en general habrá zonas con más densidad molinil. Pero así es la vida.
+
+
+![Full](https://c1.staticflickr.com/1/547/20220179932_fa3dd58a2c_k.jpg#full)
+
+La senda de los molinos es sencilla, y como está en altura (recordad que en UK cualquier repecho es altura), hay unas vistas increíbles: por un lado se veía Londres (eso decían XD) y por el otro ¡el mar!
+
+18kms y un caché después, llegamos a Lewes, un pueblo realmente bonito donde nos reagrupamos y cogimos el tren de vuelta. Aquí os dejo la ruta hecha:
+
+<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.nlplkcgn/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#12/50.9079/-0.0721'></iframe>
+
+Día genial, y ruta para repetir :)
+
+[![windmills1](http://c1.staticflickr.com/1/434/20234213151_ef3481b890_z.jpg#small)](http://c1.staticflickr.com/1/434/20234213151_ef3481b890_z.jpg)
+
+Y aquí os dejo todas las fotos en más calidad subidas a flickr:
+
+<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157654357404463/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+
+
+

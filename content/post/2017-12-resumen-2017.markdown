@@ -1,0 +1,76 @@
+---
+author: yamila
+date: 2017-12-28T11:44:06.925Z
+slug: resumen-2017
+title: Resumen de 2017
+thumbnailImage: https://farm5.staticflickr.com/4467/23841503518_734c0cbda5_c.jpg
+
+---
+
+Este año está ya terminando y me ha parecido una buena ocasión para hacer un pequeño resumen de cómo han ido los viajes dendarii. 2017 ha sido fantástico en cuanto a experiencias y a aprendizaje viajero. ¡Espero que os guste la retrospectiva!
+
+<!--more-->
+
+<figure>
+<img src="https://farm5.staticflickr.com/4467/23841503518_734c0cbda5_c.jpg" alt="Alex y yo en Angkor" />
+<figcaption>Alucinando con Camboya</figcaption>
+</figure>
+
+## Destinos
+
+En 2017 hemos hecho dos viajes <em>grandes</em> y otros más pequeños. En enero Alex y yo nos fuimos a <a href="/trips/marruecos-2017" target="_new">Marruecos</a> para huir del frío en la península y supuso mi primer viaje al continente africano. Me gustó mucho el viaje y pronto encontraré oportunidades para seguir explorando. El viaje más importante de 2017 fue en octubre a <a href="/trips/vietnam-2017" target="_new">Vietnam y Camboya</a>. Tanto para Álex como para mí fue la primera vez que visitábamos un país de Asia y nos dejamos sorprender por los colores y sabores, por el ritmo que llevan los vietnamitas y por las demenciales carreteras. Resultó una experiencia maravillosa, intensa, asombrosa y agotadora, ¡nos encantó!
+
+<figure>
+<img src="https://farm5.staticflickr.com/4461/36865268493_fde6c733bd_c.jpg"  alt="Alex y yo en Hue" />
+<figcaption>Presentadores del programa <em>Tu palacete Nguyen a juicio</em></figcaption>
+</figure>
+
+
+Además, en 2017 he tenido la oportunidad de visitar <a href="/trips/portugal-2017" target="_new">Portugal</a> de nuevo, un país al que tengo mucho aprecio e hicimos una breve incursión en <a href="{{< ref "2017-04-24-bearne.markdown" >}}" target="_new">Bearne</a> al sur de Francia, otro país que voy conociendo poco a poco y cada vez me gusta más.
+
+<figure>
+<img src="https://farm5.staticflickr.com/4187/34409242216_e879f4d408_c.jpg" alt=""/>
+<figcaption>Vistas desde el Palacio da Pena</figcaption>
+</figure>
+
+En la sección de viajes nacionales, descubrí <a href="/trips/león-2017" target="_new">las cuevas de Valporquero</a> en León, y nos fuimos al corazón del <a href="{{< ref "2017-12-otono-gredos.markdown" >}}" target="_new">otoño en Gredos</a>; ambas escapadas con muchas dosis de naturaleza y senderismo.
+
+<figure>
+<img src="https://farm4.staticflickr.com/3736/33446505331_964ba6780d_c.jpg" alt="Ruta por Los Argüellos" />
+<figcaption>Ruta por los Argüellos</figcaption>
+</figure>
+
+Finalmente, en agosto hice un viaje relámpago muy especial a Inglaterra y Gales, para tirar con arco (una afición que ha despegado este año) con <a href="{{< ref "2017-08-22-arcos-castillos-y-pastitas-de-te.markdown" >}}" target="_new">la SPTA</a>.
+
+<figure>
+<img src="https://farm5.staticflickr.com/4332/36333588850_642d61f634_c.jpg" alt="Selfie con Pablo, Angela y Luiyo"  />
+<figcaption>El elefante es el más fotogénico del grupo</figcaption>
+</figure>
+
+## Compañeros de viaje
+
+Casi todos los viajes y escapadas han sido con Álex (Team Tontako), aunque he tenido ocasión de compartir viaje con otros buenos amigos; con Luiyo, Pablo y Ángela fui a UK y a Esther le pude enseñar mi querida Navarra cuando fuimos juntas al norte. Ojalá 2018 me de más oportunidades de viajes así.
+
+<figure>
+<img src="https://farm5.staticflickr.com/4463/37084138504_9230c780fa_c.jpg" alt="Team Tontako" />
+<figcaption>Team Tontako FTW!</figcaption>
+</figure>
+
+## Habilidades viajeras
+
+Sin duda uno de los puntos fuertes de este año ha sido el desarrollo de mis habilidades viajeras. En mis viajes anteriores llevaba todo preparado exhaustivamente: itinerario, alojamientos, horarios de transporte si hubiera, alquiler de coche cuando tocaba, horarios de museos y visitas, incluso las entradas compradas. La ventaja es que hay poco que gestionar durante el viaje, así que todo el tiempo se dedica a disfrutar de las vacaciones; la obvia desventaja es que hay poco margen de maniobra.
+
+El viaje a Marruecos supuso un cambio en este aspecto; buscando en foros vimos que es un viaje que se organiza mejor "sobre la marcha", para poder negociar sobre el terreno. Así que aterrizamos en Marrakech con el alojamiento de la primera noche y el alquiler del coche concertado. Teníamos un itinerario aproximado que seguimos más o menos y salió un viaje fantástico.
+
+Sin embargo, fue el viaje a Vietnam y Camboya el que supuso un reto viajero para mí. Como no queríamos (ni podíamos para el caso) alquilar coche, tocaba medir muy bien el peso de la mochila. Una mochila mediana cada uno (ropa para 6-7 días) era todo lo que podíamos llevar cómodamente en un viaje de 3 semanas. Además, decidimos no alquilar tampoco conductor sino movernos con los transportes vietnamitas (¿he mencionado que no hablan mucho inglés?). Teníamos un itinerario dibujado pero sin alojamientos ni transportes cogidos. Si habéis leído la crónica sabréis que fue un viaje muy especial, me encantó el país, sus gentes, sus paisajes, y disfruté mucho del viaje de aventura y de estar <em>todo el rato incómoda-pero-bien</em>.
+
+<figure>
+<img src="https://farm5.staticflickr.com/4476/37784961861_95696d49e5_c.jpg" alt="Equipaje ligero"/>
+<figcaption>¡Viajar ligero!</figcaption>
+</figure>
+
+## Nuevo look dendarii
+
+Siguiendo con mi afán de mochila minimalista, cambié <em>las tripas</em> del blog para que me resulte más cómodo escribir durante los viajes. Además del <a href="{{< ref "2017-11-27-nuevo-look.markdown" >}}" target="_new">nuevo look</a>, aproveché para habilitar los comentarios (¡usadlos!) y para añadir la sección del currículum viajero.
+
+En definitiva, ha sido un gran año viajero; espero seguir explorando lugares y conociendo gente durante 2018. ¡Seguid atentas!

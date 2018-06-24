@@ -13,7 +13,6 @@
 # use grunt task `build` to synchronize assets
 
 baseurl = "https://dendarii.es"
-#baseurl = "http://localhost:8000"
 languageCode = "en-us"
 defaultContentLanguage = "es-es"
 title = "Viajes dendarii"

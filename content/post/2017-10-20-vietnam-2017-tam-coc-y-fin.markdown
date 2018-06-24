@@ -47,6 +47,6 @@ Igual de fantástico que este selfie despidiéndonos de Vietnam.
 
 Y las foticos de Tam Coc.
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157687556154930/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157687556154930" >}}
 
 ¡Hasta la próxima misión dendarii!

@@ -21,4 +21,4 @@ Pusimos nuestra base de operaciones en Pessac y desde ahí nos fuimos moviendo. 
 
 Aquí os dejo unas fotos del viaje.
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157650129848301/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157650129848301" >}}

@@ -78,4 +78,4 @@ Y aunque el viaje se está ya terminando, ni un post se queda sin su selfie tont
 
 O sin sus foticos...
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157687399586690/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157687399586690" >}}

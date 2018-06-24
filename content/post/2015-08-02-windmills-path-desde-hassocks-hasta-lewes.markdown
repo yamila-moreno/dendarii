@@ -33,7 +33,4 @@ Día genial, y ruta para repetir :)
 
 Y aquí os dejo todas las fotos en más calidad subidas a flickr:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157654357404463/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
-
-
-
+{{< flickr album="72157654357404463" >}}

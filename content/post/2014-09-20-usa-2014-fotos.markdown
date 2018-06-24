@@ -15,44 +15,44 @@ Aquí os voy dejando foticos del viaje.
 
 ## DragonCon
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157647828182462/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157647828182462" >}}
 
 ## San Francisco
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157647428007890/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157647428007890" >}}
 
 ## Muir Woods
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157647784542096/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157647784542096" >}}
 
 ## Point Lobos – Monterrey
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157647829263541/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157647829263541" >}}
 
 ## Sequoia National Park
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157647426610187/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157647426610187" >}}
 
 ## Yosemite
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157647429087959/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157647429087959" >}}
 
 ## Bodie – Mono Lake – Mammoth Lakes
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157647850812625/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157647850812625" >}}
 
 ## Mammoth Lakes – Death Valley – Zion Park
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157647832508361/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157647832508361" >}}
 
 ## Zion Park
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157647788494386/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157647788494386" >}}
 
 ## Grand Canyon
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157647836239532/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157647836239532" >}}
 
 ## Las Vegas
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157647429663107/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157647429663107" >}}

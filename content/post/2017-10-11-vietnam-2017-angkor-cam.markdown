@@ -95,4 +95,4 @@ Y hablando de maravillas, contemplad... ¡el selfie tontako!
 
 Y otras fotos de Angkor, muy bonitas pero no tanto como los tontakos claro:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157687065599621/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157687065599621" >}}

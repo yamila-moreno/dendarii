@@ -37,6 +37,6 @@ Viajar con Alex, como siempre, es un lujo: es un compa excepcional. ¡Hasta el p
 Edito: dejo aquí una galería de fotos de Países Bajos sin orden ni concierto :)
 
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157653164487163/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157653164487163" >}}
 
 

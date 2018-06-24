@@ -81,4 +81,4 @@ Y para terminar, que no falte el selfie:
 
 Y las foticos...
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157689033101056/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157689033101056" >}}

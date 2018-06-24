@@ -126,6 +126,6 @@ Igualmente felices estaréis vosotras al saber que se viene ¡un selfie!
 
 Y las foticos del viaje:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157663507270688/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157663507270688" >}}
 
 ¡Hasta la próxima aventura dendarii!

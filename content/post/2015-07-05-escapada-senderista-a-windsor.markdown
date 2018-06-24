@@ -20,4 +20,4 @@ Fue una salida muy agradable: la ruta estaba bien diseñada, iba prácticamente 
 
 Os dejo aquí unas cuantas fotos de la ruta:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157655424622976/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157655424622976" >}}

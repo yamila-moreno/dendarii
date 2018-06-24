@@ -109,4 +109,4 @@ Otro premio dieron a estos dos por este super selfie:
 
 Y aquí las foticos de Phong Nha:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157687020120180/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157687020120180" >}}

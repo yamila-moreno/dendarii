@@ -45,7 +45,6 @@ Esta mañana nos tomamos un buen <em>english breakfast</em>, dejamos que nos die
 
 Aquí os dejo más fotillos de la escapada:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157657011400621/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157657011400621" >}}
 
 ¡Hasta la siguiente misión!
-

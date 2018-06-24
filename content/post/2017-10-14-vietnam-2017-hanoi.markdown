@@ -52,4 +52,4 @@ Hanoi es una ciudad enorme y muy ruidosa. Al igual que en Ho Chi Minh City, el t
 
 En Hanoi nos llovió mucho así que tengo poquitas fotos:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157661469493378/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157661469493378" >}}

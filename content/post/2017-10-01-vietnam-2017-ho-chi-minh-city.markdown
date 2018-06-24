@@ -82,4 +82,4 @@ Y para terminar, selfie tontako ¡que no falte!
 
 Y las foticos de Ho Chi Minh City...
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/sets/72157686792725710/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157686792725710" >}}

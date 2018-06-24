@@ -45,9 +45,7 @@ Después tocó ir al camarote a dormir. Reconozco que se me hizo un poco duro lo
 
 Esta mañana nos hemos levantado pronto para ir a la isla de Ti Top. En 1962 Gherman Titov, astronauta ruso, acompañó al "tío Ho" a esta isla, y como conmemoración y agradecimiento le pusieron el nombre de Ti Top a la isla. Tiene una gran escalinata hasta la cima desde la que hay unas vistas panorámicas preciosas del archipiélago.
 
-<figure class="pano">
-<img src="https://c1.staticflickr.com/5/4464/37848258811_3e05fa3aab_o.jpg" alt="Vista del archipiélago y los barcos navegando entre islotes" />
-</figure>
+{{< wide-image src="https://c1.staticflickr.com/5/4464/37848258811_3e05fa3aab_o.jpg" title="Vista del archipiélago y los barcos navegando entre islotes" >}}
 
 Y poco a poco hemos ido termimando el crucero. Hemos navegado entre los islotes y hemos estado de charla amena con el resto de los pasajeros. Ha Long es un sitio precioso y muy singular; merece la pena visitarlo a pesar de la sensación de parque temático y de la cantidad de barcos con los que compartimos la bahía.
 

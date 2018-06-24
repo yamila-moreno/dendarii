@@ -17,10 +17,7 @@ trips:
 
 Tam Coc, en la región de Ninh Binh, al sur de Hanoi, es una zona de arrozales y canales que se visitan en barquita empujada de forma muy característica con los pies.
 
-<figure class="pano">
-<img src="https://c1.staticflickr.com/5/4462/37812227971_9f8a776fc3_o.jpg" alt="El canal rodeado de montañas" />
-<figcaption>La pequeña Venecia</figcaption>
-</figure>
+{{< wide-image src="https://c1.staticflickr.com/5/4462/37812227971_9f8a776fc3_o.jpg" title="El canal rodeado de montañas" >}}
 
 El paseo en barca es lo más llamativo y se cruza bajo la montaña varias veces. Con las crecidas que ha habido estos días atrás, el agua estaba realmente cerca del techo del paso y hemos tenido que reclinarnos en un par de ocasiones.
 

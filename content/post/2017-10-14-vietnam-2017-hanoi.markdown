@@ -34,10 +34,7 @@ En la zona oeste de la ciudad, pasamos por delante del mausoleo de "el tío Ho",
 
 Y en la zona francesa, al sur del Old Quarter, nos acercamos al museo de las mujeres, un museo etnográfico presentado desde la mujer: trajes típicos, costumbres, trabajo. También incluye un repaso / homenaje a la labor de las mujeres durante la guerra de Vietnam: desde enfermeras-cuidadoras hasta líderes y ganadoras de batallas o políticas relevantes.
 
-<figure class="pano">
-<img src="https://c1.staticflickr.com/5/4452/37688900171_a073ed6c0a_o.jpg" alt="pano" />
-<figcaption>Vistas del lago desde la terraza</figcaption>
-</figure>
+{{< wide-image src="https://c1.staticflickr.com/5/4452/37688900171_a073ed6c0a_o.jpg" title="Vistas del lago desde la terraza" >}}
 
 Hanoi es una ciudad enorme y muy ruidosa. Al igual que en Ho Chi Minh City, el tráfico es el dueño de la ciudad, las motos ocupan todo el espacio posible, incluidas las aceras. Los peatones tenemos, pues, que compartir la calzada con motos, coches y bicis. Los pocos espacios de acera que no están invadidos por motos, están ocupados por tiendas y restaurantes que se expanden todo lo que pueden. El problema de la contaminación es muy grave y son conscientes de ello. La solución que aquí usan es llevar mascarillas a todas horas, incluyendo, claro, bebés. Visitar esta ciudad tan hostil es un reto difícil y supongo que vivir aquí será demencial.
 

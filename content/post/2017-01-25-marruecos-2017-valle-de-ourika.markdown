@@ -26,7 +26,7 @@ Ni un turista, así que tampoco había nadie vendiendo desmesuradamente. Pudimos
 
 La ruta nos había devuelto las buenas vibraciones, así que nos arriesgamos a hacer la primera parte de la ruta de las cascadas. Durante toda la ruta tuvimos que esquivar vendedores y guías excepcionalmente pesados. Finalmente llegamos a la primera cascada y me di cuenta de que apenas había sitio para disfrutar de la naturaleza, pues estaba todo tomado por los puesticos. Así que tranquilamente nos volvimos al riad a descansar y a cenar tras dos rutas muy distintas:
 
-<iframe src="https://yamila-moreno.github.io/routes/#14/31.2314/-7.6603" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#14/31.2314/-7.6603" >}}
 
 En este riad en Setti Fadma además nos cobraron unos cuantos euros de más. Éxito total, vaya. Aun así, no os libráis del selfie:
 

@@ -61,7 +61,7 @@ Todo el mundo, con más o menos cansancio, pudo terminar la subida y disfrutar d
 
 Aquí está la ruta que hicimos:
 
-<iframe src="https://yamila-moreno.github.io/routes/#14/54.5685/-3.1625" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#14/54.5685/-3.1625" >}}
 
 Por la tarde visitamos algunos pueblos: Keswick, Grasmere y Ambleside. Pueblos con encanto muy orientados al turismo. Al turismo que cierra a las 16 ;-). Fuimos a la tienda típica de pan de jenjibre (desafortunadamente no quedaba) y al cementerio de Grasmere, donde un camino de losetas con nombres homenajea a todas las personas que contribuyeron con la creación y mantenimiento del cementerio.
 

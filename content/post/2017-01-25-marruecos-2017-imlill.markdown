@@ -24,7 +24,7 @@ Ya con el coche nos dirigimos hacia el primer destino en la ruta, Imlill. Es un 
 
 y del tirón nos fuimos a hacer una ruta senderista. Cogimos el camino del Toubkal, aunque nos quedamos bastante más atrás, donde no hacen falta ni crampones ni piolet. Durante toda la ruta nos adelantaron muchos alpinistas pertrechados para el ascenso.
 
-<iframe src="https://yamila-moreno.github.io/routes/#13/31.1209/-7.9138" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#13/31.1209/-7.9138" >}}
 
 Llegamos al santuario a la hora de comer, donde casualmente había un señor vendiendo comida. Nos supo a gloria. Descansito, té verde con menta, charla con el dueño del garito, y de vuelta al riad.
 

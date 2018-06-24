@@ -29,7 +29,7 @@ En estas vacaciones he usado intensivamente (más si cabe) TripAdvisor y Booking
 
 Esta es la ruta que hicimos en coche, unos 1500km:
 
-<iframe src="https://yamila-moreno.github.io/routes/#7/31.401/-6.119" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#7/31.401/-6.119" >}}
 
 **Gastos**
 

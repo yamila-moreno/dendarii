@@ -66,7 +66,7 @@ Y tras comer y disfrutar junto al río claro y refrescante, volvimos al coche po
 
 El resumen del track es que hemos hecho 12.3km con 600m de desnivel en unas 5h (de movimiento, descansos aparte). Aquí os dejo nuestro track en un mapa:
 
-<iframe src="https://yamila-moreno.github.io/routes/#14/40.7611/-3.9032" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#14/40.7611/-3.9032" >}}
 
 ¡Y el selfie! Entre los pinos, celebrando que habíamos sobrevivido:
 
@@ -77,6 +77,6 @@ El resumen del track es que hemos hecho 12.3km con 600m de desnivel en unas 5h (
 
 Así como el álbum con el resto de fotos del día:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157696228386244/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157696228386244" >}}
 
 ¡Hasta la próxima!

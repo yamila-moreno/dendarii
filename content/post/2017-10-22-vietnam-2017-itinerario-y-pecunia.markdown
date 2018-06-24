@@ -60,7 +60,7 @@ Hay <strong>wifi y 4g</strong> en todas partes y de buena calidad. Los sitios qu
 
 Este es el mapa del recorrido que hicimos:
 
-<iframe src="https://yamila-moreno.github.io/routes/#6/16.278/107.139" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#6/16.278/107.139" >}}
 
 <h3>Gastos</h3>
 

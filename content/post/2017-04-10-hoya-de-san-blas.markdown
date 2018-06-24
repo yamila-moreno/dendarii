@@ -20,7 +20,7 @@ Salimos desde la Ermita de San Blas, por caminos en perfecto estado entre pinare
 A mitad de camino hicimos un pequeño desvío de la ruta, y subimos hasta la Lagunilla del Lomo, zona considerada como Pedriza. Cuando fuimos nosotros tenía agua y sombra, así que aprovechamos el paraje para comer.
 
 <figure>
-<img src="https://c1.staticflickr.com/4/3829/33962287725_cf51493abe.jpg" /> 
+<img src="https://c1.staticflickr.com/4/3829/33962287725_cf51493abe.jpg" />
 <figcaption>La Lagunilla del Lomo</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Y poco a poco, llegamos de vuelta al punto de partida. Es una ruta realmente bon
 
 Esta es la ruta:
 
-<iframe src="https://yamila-moreno.github.io/routes/#13/40.7883/-3.8193" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#13/40.7883/-3.8193" >}}
 
 Y aquí dejo el álbum con las foticos que saqué:
 

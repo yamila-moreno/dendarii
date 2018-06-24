@@ -24,7 +24,7 @@ A las 19:30 (que está siendo nuestra hora de cenar durante estas vacaciones) fu
 
 A la mañana siguiente nos pusimos nuestras mejores galas montañeras y nos fuimos a recorrer parte de la garganta del Todra. Partimos de la entrada principal de la garganta, y rápidamente dejamos la carretera y a los poquísimos turistas que había a esas horas de la mañana para tomar un camino de mulas y remontar el río Todra hasta un collado a unos 4 km, desde donde se baja de nuevo hasta el nivel del río.
 
-<iframe src="https://yamila-moreno.github.io/routes/#14/31.5804/-5.5910" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#14/31.5804/-5.5910" >}}
 
 Debe ser bastante típico hacer la ruta con guía, aunque con un gps (¡imprescindibles curvas de nivel!) es perfectamente factible. La ruta es técnicamente sencilla aunque tiene zonas expuestas que para mí supusieron un reto. Dado que esencialmente es subir, subir, subir, y luego, bajar, bajar, bajar, fuimos despacio, sin quemarnos y disfrutando del entorno natural, que fue un punto fuerte en este viaje. Apenas había gente y pudimos disfrutar de los macizos de roca y las verticalidades de la garganta. Un lujazo.
 

@@ -54,7 +54,7 @@ Hemos pillado esta zona en un momento de paisaje privilegiado: ocres, rojizos y 
 
 Aquí os dejo el track de la ruta del cuevo de los Tesillos y de la Senda entre ríos:
 
-<iframe src="https://yamila-moreno.github.io/routes/#14/40.2712/-5.0925" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#14/40.2712/-5.0925" >}}
 
 Aunque inicialmente daban lluvias para el viernes, la previsión ha ido mejorando, así que el viernes nos lanzamos a otro día de rutillas. Comenzamos en el Puerto del Pico, desde donde se puede ver una calzada romana en muy buen estado de conservación.
 
@@ -72,7 +72,7 @@ Bajamos hasta el pueblo Cuevas del Valle donde hicimos una ruta breve por un cas
 
 Paseo de apenas una hora, y muy recomendable:
 
-<iframe src="https://yamila-moreno.github.io/routes/#15/40.3007/-5.0111" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#15/40.3007/-5.0111" >}}
 
 Cogimos el coche de nuevo y fuimos hasta las afueras de Ramacastañas, desde donde parte la <em>Senda de los pescadores</em>, una ruta clásica por la zona. Comenzamos el camino remontando el río por la margen izquierda, un camino bien señalizado (casi siempre). Como el camino discurre entre la fronda que crece junto al río, caminamos esta parte bajo una constante pérgola verdi-ocre que ya nos resulta familiar:
 
@@ -90,7 +90,7 @@ Al llegar al Puente Viejo del Río Pelayos, en lugar de cruzar directamente y vo
 
 Esta ruta, de unas 3 horas, me encantó. Ojalá tenga la oportunidad de volver en otra estación y disfrutar de otro paisaje. Aquí os dejo el track:
 
-<iframe src="https://yamila-moreno.github.io/routes/#14/40.1911/-5.0963" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#14/40.1911/-5.0963" >}}
 
 Y como últimamente todos los viajes tontakos tienen cueva, por la tarde nos acercamos a las <a href="TODO" target="_new">Cuevas del Águila</a>, una extrañeza kárstika en una sierra esencialmente granítica. Es una cueva muy pequeña, que se visita con guía en menos de una hora. Llama la atención la cantidad y la diversidad de espeleotemas, tiene muchas más formaciones que otras cuevas más famosas. Es una cueva viva, lo que significa que el agua sigue filtrándose y sigue creando estalagtitas, estalagmitas o excéntricas, aunque difícilmente podremos ver la evolución, ya que cada centímetro tarda unos 150 años. Una visita fantástica y super recomendable.
 

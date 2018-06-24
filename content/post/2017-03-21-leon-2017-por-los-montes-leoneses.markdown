@@ -30,7 +30,7 @@ Tras <a href="http://restaurantelasrocasvegacervera.com/" target="_new">reponer 
 
 El sábado fue un día con muy buenas sensaciones, así que nos vimos con muchas ganas para la <a href="https://www.wikiloc.com/wikiloc/view.do?id=5608462" target="_new">ruta fuerte</a> del domingo. Nos pusimos en marcha por la mañana pronto; primero un camino bien señalizado y poco exigente; después un hayedo muy cerrado con pequeños torrentes de agua debidos al deshielo. Salimos del hayedo y dimos con un claro en la montaña que nos llevó hasta un collado con unas vistas que no dejaron de sorprendernos en ningún momento. Aquí podéis ver las dos rutas:
 
-<iframe src="https://yamila-moreno.github.io/routes/#12/42.9207/-5.5550" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#12/42.9207/-5.5550" >}}
 
 No pudimos terminar la ruta prevista por la nieve-hielo que había desde el collado hasta la cresta, que nos impedía avanzar con una mínima seguridad. Nos quedamos a deber esta ruta para otoño, aunque las sensaciones del hayedo y del collado fueron realmente buenas.
 

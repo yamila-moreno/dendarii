@@ -73,7 +73,7 @@ La bajada fue casi más heróica y solo tengo palabras de alabanza para mí. No 
 
 Despacito y con tiento volvimos al coche tras una ruta perfecta gracias a los paisajes preciosos, esfuerzo físico y a algún reto técnico. Os dejo aquí la ruta que hicimos:
 
-<iframe src="https://yamila-moreno.github.io/routes/#13/54.4855/-3.1752" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#13/54.4855/-3.1752" >}}
 
 ¡Que no falte el selfie tontako!
 

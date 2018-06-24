@@ -28,7 +28,7 @@ Y para terminar las visitas, fuimos a las tumbas saadies, un gran mausoleo lleno
 
 Este fue el paseo que hicimos por Marrakech:
 
-<iframe src="https://yamila-moreno.github.io/routes/#15/31.6221/-7.9834" width="100%" height="500px" frameborder="0"></iframe>
+{{< route center="#15/31.6221/-7.9834" >}}
 
 Os dejo aquí una de las mejores muestras de arte hispano-marroquí, con un arco precioso detrás:
 

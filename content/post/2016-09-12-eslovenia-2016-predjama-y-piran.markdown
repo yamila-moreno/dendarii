@@ -37,6 +37,6 @@ Hoy ha sido día de visitar zonas muy famosas y turísticas. Hemos sobrevivido y
 
 Y el resto de foticos
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157673786530305/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157673786530305" >}}
 
 ¡Seguiremos!

@@ -48,6 +48,6 @@ Mientras tanto, calidad la de este selfie, y las foticos del día...
 
 <img src="https://c1.staticflickr.com/9/8536/29667796716_3038177195_c.jpg" />
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157670617929423/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157670617929423" >}}
 
 ¡Seguiremos!

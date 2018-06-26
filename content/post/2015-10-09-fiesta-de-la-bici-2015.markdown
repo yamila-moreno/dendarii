@@ -31,5 +31,4 @@ Aunque con la bici es más difícil hacer un selfie, Luiyo nos cazó durante la 
 
 Después de la ruta, merecido almuerzo en una terracita. Yo nunca había participado en una marcha así por Madrid y fue una experiencia genial que repetiré el año que viene :D Y mientras, aquí podéis ver todas las fotos:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157659588349516/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
-
+{{< flickr album="72157659588349516" >}}

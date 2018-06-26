@@ -46,6 +46,6 @@ De vuelta a casa, descanso y  cena. Mañana vamos a por una de las principales a
 
 Aquí están las fotos de la jornada. ¡Seguimos informando!
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157670466019873/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157670466019873" >}}
 
 pd. Hoy es el cumple de Juan, que ya es el tercer año que nos pilla fuera. Zorionak! espero que hayas tenido un día fetén :D

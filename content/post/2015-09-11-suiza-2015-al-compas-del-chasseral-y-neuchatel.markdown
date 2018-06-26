@@ -28,7 +28,7 @@ Y después llegamos al airbnb más curioso e interesante en el que hemos estado.
 
 Las foticos de estos dias...
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157658070911799/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157658070911799" >}}
 
 ¡Y seguiremos informando!
 

@@ -59,7 +59,7 @@ A media tarde llegamos a la que fue la mejor parada del viaje: un hotel rural co
 
 <img src="https://c2.staticflickr.com/8/7421/27868007821_7c08f0268f_c.jpg" />
 
-El tercer día amaneció soleado y sin pinta de llover. Pero no iba a ser tan fácil. ¿Os acordáis de las cárcavas? Indican arcilla. ¿Y sabéis qué pasa cuando la arcilla se moja? Pues que había tanto barro que se bloqueaban las ruedas. Tuvimos unas cuantas paradas técnicas para desatascar el barro de la horquilla y de los cambios. Nos encontramos algunos tramos donde se había desprendido tanta arcilla y había tanto barro que tuvimos que pasar a pie empujando la bici. 
+El tercer día amaneció soleado y sin pinta de llover. Pero no iba a ser tan fácil. ¿Os acordáis de las cárcavas? Indican arcilla. ¿Y sabéis qué pasa cuando la arcilla se moja? Pues que había tanto barro que se bloqueaban las ruedas. Tuvimos unas cuantas paradas técnicas para desatascar el barro de la horquilla y de los cambios. Nos encontramos algunos tramos donde se había desprendido tanta arcilla y había tanto barro que tuvimos que pasar a pie empujando la bici.
 
 <img src="https://c2.staticflickr.com/8/7634/27665963400_3932e1b623_c.jpg" />
 
@@ -94,4 +94,4 @@ Viajar con Luiyo ha sido fantástico. Es la segunda ruta larga en bici que hacem
 
 Os dejo como siempre las foticos de las jornadas. ¡¡Hasta la próxima!!
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157669712819202/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157669712819202" >}}

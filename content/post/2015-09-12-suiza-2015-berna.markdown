@@ -84,6 +84,6 @@ No es de extrañar que nos quedáramos así:
 
 Se nota que estas vacaciones van llegando a su fin, aunque aún queda una pequeña crónica y los títulos de crédito. Mientras, tanto, las fotitos del día en Berna :)
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157658495953365/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157658495953365" >}}
 
 <strong>pd</strong> como cada año más o menos por estas fechas, ha sido el cumple de Juan, zorionak majete, esperamos que tuvieras un día fetén :)

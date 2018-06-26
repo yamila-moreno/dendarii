@@ -36,4 +36,4 @@ En la parte alta tuvimos unas vistas fantásticas que podéis ver en las foticos
 
 <img src="https://c1.staticflickr.com/9/8402/29254552094_b638baf832_c.jpg" />
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157674283011695/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157674283011695" >}}

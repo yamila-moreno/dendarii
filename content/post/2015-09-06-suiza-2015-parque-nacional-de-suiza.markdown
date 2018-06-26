@@ -44,4 +44,4 @@ Al terminar, aún era pronto, así que Alex ha propuesto acercanos al Paso del S
 
 Ha sido un día genial, y el tiempo acompañó (las previsiones nos daban malas ayer mismo). Mañana salimos para Shaffhausen, al norte de Zurich, de nuevo cambio de tercio y encaramos la segunda semana de estas vacaciones. ¡Seguiremos informando!
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157655950944463/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157655950944463" >}}

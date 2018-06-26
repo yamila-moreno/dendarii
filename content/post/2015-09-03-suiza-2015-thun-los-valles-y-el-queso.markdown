@@ -58,4 +58,4 @@ Y para rematar el día, por la tarde hemos visitado Spiez, otro pueblo pequeño 
 
 ¡Y las foticos de estos días!
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157657736244560/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157657736244560" >}}

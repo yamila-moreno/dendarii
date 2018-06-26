@@ -54,4 +54,4 @@ Y ya en casita. Tenía muchas ganas de visitar Cantabria con Alex y ha sido un v
 
 <img src="http://c5.staticflickr.com/2/1493/26171144284_14680f3e9f_c.jpg"/>
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157667873993395/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157667873993395" >}}

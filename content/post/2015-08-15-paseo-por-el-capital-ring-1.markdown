@@ -16,7 +16,7 @@ Esta vez ha sido una escapada breve en los alrededores de Londres con mi compi D
 
 Está preparado para realizarse en 15 etapas, y por lo visto si lo terminas te firman un certificado. Como la Compostelana del Camino de Santiago, pero sin santo al final. Y sin pulpo a feira. Con lo que me gusta a mí el pulpo.
 
-Como este anillo pasa al lado de nuestra casa en Londres, hemos decidido empezar directamente ahí y ver hasta dónde llegábamos. En unos pocos kilómetros (y alguna milla menos) hemos entrado en el primer parque, y hemos hecho casi todo el recorrido rodeados de verde. 
+Como este anillo pasa al lado de nuestra casa en Londres, hemos decidido empezar directamente ahí y ver hasta dónde llegábamos. En unos pocos kilómetros (y alguna milla menos) hemos entrado en el primer parque, y hemos hecho casi todo el recorrido rodeados de verde.
 
 <img src="http://c1.staticflickr.com/1/608/20596949165_4d1f7618f3_z.jpg"/>
 
@@ -34,4 +34,4 @@ Hemos entrado por Wimbledon Common Park y hemos cruzado hasta el Richmond Park, 
 
 Y las fotos subidas en flickr:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157657265911682/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157657265911682" >}}

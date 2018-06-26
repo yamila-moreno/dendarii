@@ -41,4 +41,4 @@ Tras la ruta hemos vuelto al hotel a reponer fuerzas para la ruta con raquetas d
 
 <img src="http://c5.staticflickr.com/2/1547/26710398276_8186497f63_b.jpg"/>
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157667719619826/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157667719619826" >}}

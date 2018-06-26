@@ -42,9 +42,9 @@ Terminamos el día tan cansados que apenas nos dio la vida para preocuparnos por
 
 Las Arribes del Duero me han sorprendido muchísimo, es una zona muy verde con un paisaje maravilloso. Me quedo con ganas de volver y seguir explorando la zona.
 
-Como es habitual, os dejo aquí las fotos del finde. 
+Como es habitual, os dejo aquí las fotos del finde.
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157666835963814/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157666835963814" >}}
 
 Y como este post ha llegado un poco tarde, también el selfie (como si me lo fuera a dejar, sí ;-))
 

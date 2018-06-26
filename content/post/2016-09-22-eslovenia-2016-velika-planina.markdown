@@ -34,4 +34,4 @@ A pesar de la niebla, hubo foticos y que no falte el selfie!
 
 <img src="https://c1.staticflickr.com/9/8066/29232134583_9dfa4aa9ff_c.jpg" />
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157670858106843/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157670858106843" >}}

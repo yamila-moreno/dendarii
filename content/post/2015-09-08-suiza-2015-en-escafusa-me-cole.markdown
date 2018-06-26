@@ -34,8 +34,10 @@ Vuelta a Schaffhausen, aparcamos el coche y nos hemos ido dando un paseo por la 
 
 <img src="http://c2.staticflickr.com/6/5643/21065564160_1973eb478a_z.jpg" title="Como el nacedero de Arteta, oiga..." />
 
-Mañana comienza la recta final de nuestro viaje, salvo que convenza a Alex para que nos quedemos aquí para siempre. :D Pero por ahora, el selfie tontako y las foticos de estos días. ¡Seguiremos informando!
+Mañana comienza la recta final de nuestro viaje, salvo que convenza a Alex para que nos quedemos aquí para siempre. :D Pero por ahora, el selfie tontako...
 
 <img src="http://c2.staticflickr.com/6/5671/21243170092_c61a27648b_z.jpg" title="Tontako selfie" />
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157656040226143/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+Y las foticos de estos días. ¡Seguiremos informando!
+
+{{< flickr album="72157656040226143" >}}

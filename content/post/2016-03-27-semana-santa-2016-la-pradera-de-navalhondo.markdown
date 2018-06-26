@@ -27,7 +27,7 @@ Esta vez no quedaba ni rastro del camino y solo podíamos guiarnos por el track 
 
 Un paisaje un poco escondido pero que merece muchísimo la pena, y que tuvimos la suerte de pillar en buen momento. Y siguiendo el cauce del arroyo dejamos atrás las cascadas y nos dispusimos a acometer los kilómetros finales de la ruta.
 
-Un rato después revisamos nuestra posición en el GPS y vimos que nos habíamos desviado un poco del rumbo. Corregimos y avanzamos. Vuelta al GPS y el desvío era mayor. Teníamos el cauce del río donde se suponía que debía estar, pero el GPS nos posicionaba en otro sitio. Y así pasaron un par de horas, avanzando y retrocediendo intentando ubicarnos y con los dos GPSs con mal resultado. 
+Un rato después revisamos nuestra posición en el GPS y vimos que nos habíamos desviado un poco del rumbo. Corregimos y avanzamos. Vuelta al GPS y el desvío era mayor. Teníamos el cauce del río donde se suponía que debía estar, pero el GPS nos posicionaba en otro sitio. Y así pasaron un par de horas, avanzando y retrocediendo intentando ubicarnos y con los dos GPSs con mal resultado.
 
 - Alex, ¿estamos perdidos?
 - Solo temporalmente desubicados
@@ -46,12 +46,6 @@ Pongo también el track que hicimos, aunque aviso de que **no es recomendable se
 
 Y finalmente, las fotos que pudimos tomar durante el día:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157664157058323/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157664157058323" >}}
 
 ¡Hasta la próxima entrega dendarii!
-
-
-
-
-
-

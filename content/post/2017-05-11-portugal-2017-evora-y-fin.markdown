@@ -64,6 +64,6 @@ Como fantástico es este selfie, que creíais que no venía, pero sí:
 
 Y las foticos de despedida:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157681295812741/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157681295812741" >}}
 
 Una vez más, viajar con Alex es un planazo; y ya estamos preparando nuestro próximo periplo. ¡Hasta la próxima!

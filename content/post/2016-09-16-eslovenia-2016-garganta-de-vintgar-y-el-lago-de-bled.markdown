@@ -33,7 +33,10 @@ Aquí os dejo el track:
 
 Después hemos vuelto a nuestra terraza favorita, con un café y un trozo de <a href="https://www.google.si/search?q=krema+rezina&client=ms-android-oneplus&prmd=imvn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiywMWg1ZTPAhUDCZoKHQuVAqAQ_AUIBygB&biw=360&bih=560#tbm=isch&q=kremna+rezina" target="_new">kremna rezina</a>; la lluvia no ha dado tregua por la tarde, pero nos quedamos con las sensaciones de las dos rutas de hoy.
 
-Para mañana, tenemos prevista otra ruta toda bajo lluvia, por senderos que no requieren mucha ténica, ¡ya os contaremos! Y, como es habitual, selfie y foticos.
+Para mañana, tenemos prevista otra ruta toda bajo lluvia, por senderos que no requieren mucha ténica, ¡ya os contaremos! Y, como es habitual, selfie...
 
 <img src="https://c1.staticflickr.com/9/8254/29433589390_df228867d5_c.jpg" />
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157673953176835/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+
+y foticos...
+
+{{< flickr album="72157673953176835" >}}

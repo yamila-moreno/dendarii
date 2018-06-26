@@ -11,7 +11,7 @@ La segunda parte de la Semana Santa nos fuimos al Sur de Madrid, desde donde org
 
 El viernes tocó madrugar de nuevo (vacaciones, ¡ja!) para realizar la <a href="http://www.viasverdes.com/itinerarios/itinerario.asp?id=83" target="_new">Vía Verde Negrín</a>, que recorre la vía del Antiguo Tren de los 40 días. Os recomiendo encarecidamente que echéis un vistazo a la historia de este tren porque merece mucho la pena.
 
-De nuevo un día fantástico para una ruta sencilla, para disfrutar del sol y estirar un poco las piernas, con 28 km de ida y vuelta entre Carabaña y Estremera. 
+De nuevo un día fantástico para una ruta sencilla, para disfrutar del sol y estirar un poco las piernas, con 28 km de ida y vuelta entre Carabaña y Estremera.
 
 <img src="http://c4.staticflickr.com/2/1483/26070873075_49ef6ea489_c.jpg"/>
 
@@ -55,6 +55,6 @@ Y de vuelta a Chinchón, que estaba atestado de turistas para asistir a los even
 
 Ha sido una Semana Santa con mucho aire libre que nos ha sentado de miedo. Aquí os dejo las fotos de estos últimos días:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157666376615776/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157666376615776" >}}
 
 ¡Nos vemos en la próxima entrega dendarii!

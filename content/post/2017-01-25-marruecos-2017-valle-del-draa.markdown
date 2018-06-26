@@ -32,4 +32,4 @@ Y a media tarde llegamos a Zagora. Es la población más grande del Valle del Dr
 
 Después, cena temprana en un restaurante lleno de locales, y a preparar nuestra primera aproximación al desierto marroquí. ¡Continuará! Mientras, las foticos del día (¡se me olvidó el selfie!):
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157675948981003/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157675948981003" >}}

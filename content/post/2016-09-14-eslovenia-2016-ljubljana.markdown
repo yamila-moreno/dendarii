@@ -34,6 +34,6 @@ Y con esto terminamos la primera parte del viaje. La segunda, con base en Bled t
 
 Y el resto de foticos...
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157673875198885/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157673875198885" >}}
 
 ¡Nos vemos en Bled!

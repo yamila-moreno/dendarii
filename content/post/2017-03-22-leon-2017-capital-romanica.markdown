@@ -44,9 +44,6 @@ Salimos de la Catedral y nos despedimos de León y de un genial puente, para vol
 
 Y las foticos de León...
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157681625486846/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157681625486846" >}}
 
 ¡Hasta la próxima!
-
-
-

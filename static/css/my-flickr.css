@@ -1,8 +1,8 @@
 /* flickr gallery */
 .embed-container {
     position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 30px;
+    padding-bottom: 50%;
+    margin: 1.5em 0 0;
     height: 0;
     overflow: hidden;
     max-width: 100%;

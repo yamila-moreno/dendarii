@@ -8,7 +8,7 @@ tags:
 - Köln
 ---
 
-¡Nueva entrega dendarii! Como cada año por estas fechas, el Team Tontako se va de viaje coincidiendo con el FOSDEM y aprovechamos para conocer algún sitio nuevo del norte de Europa. 
+¡Nueva entrega dendarii! Como cada año por estas fechas, el Team Tontako se va de viaje coincidiendo con el FOSDEM y aprovechamos para conocer algún sitio nuevo del norte de Europa.
 
 Hace tres años que de la forma más tonta (tontaka, que dirán los historiadores) Alex y yo nos conocimos en Bruselas. Han llovido tres años y todo bien. Bueno, todo, todo, no. Veamos, 3 años después seguimos celebrando la fecha en que nos conocimos yendo al eventazo que nos hizo coincidir (FOSDEM!) y después sigue la celebración yendo a descubrir Bélgica, Holanda o, como este año, Colonia (Köln, Cologne).
 
@@ -16,7 +16,7 @@ Esto ocurre siempre el último finde de enero o primer finde de febrero. Que dig
 
 <img src="https://c2.staticflickr.com/2/1484/24450571699_7201576778_c.jpg" title="Impresionante catedral colonesa">
 
-Dicho lo cual, ya habéis adivinado que hemos pasado fresquete en estas vacaciones. El lunes post-FOSDEM viajamos desde Bruselas en tren hasta Köln. Escogimos esta ciudad tanto porque estaba cerquita como porque yo viví allí 3 meses mientras hacía mis prácticas de informática y quería pasear de nuevo la ciudad. En el AirBnB el anfitrión nos dejó una guía llamada "Colonia en 3 días" que nos vino fenomenal para organizarnos los paseos. Dejamos las mochilas y del tirón nos fuimos a conocer el centro de la ciudad. Encontramos para comer un antro mítico que normalmente está lleno con esperas de hasta 2 horas y que, un lunes de febrero, tenía a unos cuantos parroquianos y poco más. ¡Todos se conocían en el bar salvo nosotros dos! Según nos sentamos el camarero nos planta unas cervezas <em>kolsh</em> siguiendo la traidción local. Después llegaron otras cervezas y entre <em>kolsh</em> y <em>kolsh</em> nos pusieron las típicas costillas, bratwurst y la mejor <em>kartofelnsatat</em> que he probado nunca. Y después nos fuimos a pasear por el río con cuidado de no caernos al Rin. Descubrir entonces que Colonia no es ciudad muy geocacher fue un duro golpe que solo la aparición de más cerveza pudo paliar. 
+Dicho lo cual, ya habéis adivinado que hemos pasado fresquete en estas vacaciones. El lunes post-FOSDEM viajamos desde Bruselas en tren hasta Köln. Escogimos esta ciudad tanto porque estaba cerquita como porque yo viví allí 3 meses mientras hacía mis prácticas de informática y quería pasear de nuevo la ciudad. En el AirBnB el anfitrión nos dejó una guía llamada "Colonia en 3 días" que nos vino fenomenal para organizarnos los paseos. Dejamos las mochilas y del tirón nos fuimos a conocer el centro de la ciudad. Encontramos para comer un antro mítico que normalmente está lleno con esperas de hasta 2 horas y que, un lunes de febrero, tenía a unos cuantos parroquianos y poco más. ¡Todos se conocían en el bar salvo nosotros dos! Según nos sentamos el camarero nos planta unas cervezas <em>kolsh</em> siguiendo la traidción local. Después llegaron otras cervezas y entre <em>kolsh</em> y <em>kolsh</em> nos pusieron las típicas costillas, bratwurst y la mejor <em>kartofelnsatat</em> que he probado nunca. Y después nos fuimos a pasear por el río con cuidado de no caernos al Rin. Descubrir entonces que Colonia no es ciudad muy geocacher fue un duro golpe que solo la aparición de más cerveza pudo paliar.
 
 <img src="https://c2.staticflickr.com/2/1628/24191376293_cb7c7ffcc5_c.jpg" title="Casas coloridas en Colonia">
 
@@ -36,4 +36,4 @@ Llevo tres años comentando lo genial que es viajar con Alex; me vais a permitir
 
 ¡Hasta la próxima entrega! Y mientras, os dejo las foticos del viaje :D
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157663727814270/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157663727814270" >}}

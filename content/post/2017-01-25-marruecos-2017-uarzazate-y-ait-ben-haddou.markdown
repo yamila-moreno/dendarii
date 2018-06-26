@@ -46,4 +46,4 @@ Y después de la visita, partimos hacia el siguiente destino, el Valle del Draa.
 
 y si aún no os habéis muerto de latxa, las foticos:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157679463601376/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157679463601376" >}}

@@ -30,4 +30,4 @@ Y para rematar nuestra visita, ¡¡primer transporte público que cogimos!! Fue 
 
 En definitiva, ciudad coqueta como tantas otras por la zona :D No deja de ser una buena excusa para un genial paseo. ¡Y os dejo las foticos de Lucerna!
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157658251193032/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157658251193032" >}}

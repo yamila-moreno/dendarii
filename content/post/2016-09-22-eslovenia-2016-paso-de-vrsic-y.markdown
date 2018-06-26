@@ -44,4 +44,4 @@ Nos dio tiempo, eso sí, a hacernos... no os lo vais a creer, ¡un selfie!
 
 Y aquí las foticos...
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157673040521551/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157673040521551" >}}

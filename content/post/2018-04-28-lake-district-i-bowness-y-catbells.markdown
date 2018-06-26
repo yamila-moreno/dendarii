@@ -91,6 +91,6 @@ Y hablando de preciosidades, no os perdáis este selfie desde lo alto de Catbell
 
 Y las fotos del día:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157694680173682/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157694680173682" >}}
 
 ¡Mañana más!

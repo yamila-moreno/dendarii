@@ -40,4 +40,4 @@ Y con buen sabor de boca dejamos el Valle del Todra, una parada imprescindible p
 
 y fotazas:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157679463884046/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157679463884046" >}}

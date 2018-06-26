@@ -39,4 +39,4 @@ Esta es la ruta:
 
 Y aquí dejo el álbum con las foticos que saqué:
 
-<div class='embed-container'><iframe src='https://www.flickr.com/photos/125687915@N08/albums/72157682448287685/player' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+{{< flickr album="72157682448287685" >}}

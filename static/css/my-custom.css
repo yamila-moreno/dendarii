@@ -1,5 +1,9 @@
 .caption {
-    font-size: 1.7rem;
+  font-size: 1.7rem;
+}
+
+.figure {
+  margin: 1.5em 0 0;
 }
 
 /* fade in for pagination */
@@ -11,3 +15,4 @@
 .fade-in {
   animation: fadeIn .4s linear;
 }
+

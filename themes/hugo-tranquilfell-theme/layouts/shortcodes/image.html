@@ -1,5 +1,5 @@
 {{ $.Scratch.Set "i-classes" (split (.Get "classes") " ") }}
-{{ if in ($.Scratch.Get "i-classes") "clear" }} 
+{{ if in ($.Scratch.Get "i-classes") "clear" }}
   {{ $.Scratch.Set "i-clear" 1 }}
   {{ $classes := $.Scratch.Get "i-classes" }}
   {{ $.Scratch.Set "i-classes" (slice) }}
@@ -9,7 +9,7 @@
     {{ end }}
   {{ end }}
 {{ end }}
-{{ if in ($.Scratch.Get "i-classes") "fancybox" }} 
+{{ if in ($.Scratch.Get "i-classes") "fancybox" }}
   {{ $.Scratch.Set "i-fancybox" 1 }}
   {{ $classes := $.Scratch.Get "i-classes" }}
   {{ $.Scratch.Set "i-classes" (slice) }}
@@ -23,11 +23,11 @@
   {{ if eq ($.Scratch.Get "i-fancybox") 1 }}
     <a class="fancybox" href="{{ .Get "src" }}"{{ with (.Get "title") }} title="{{ . }}"{{ end }} data-fancybox-group="{{ with (.Get "group") }}{{ . }}{{ end }}">
   {{ end }}
-    <img class="fig-img" src="{{ with (.Get "thumbnail") }}{{ . }}{{ else }}{{ .Get "src" }}{{ end }}" {{ if or (.Get "thumbnail-width") (.Get "thumbnail-height") }}style="{{ with (.Get "thumbnail-width") }}width: {{ . }};{{ end }}{{ with (.Get "thumbnail-height") }}height: {{ . }};{{ end }}"{{ end }}{{ with (.Get "title") }} alt="{{ . }}"{{ end }}>
+    <img class="fig-img" src="{{ with (.Get "thumbnail") }}{{ . }}{{ else }}{{ .Get "src" }}{{ end }}" {{ if or (.Get "thumbnail-width") (.Get "thumbnail-height") }}style="{{ with (.Get "thumbnail-width") }}width: {{ . }};{{ end }}{{ with (.Get "thumbnail-height") }}height: {{ . }};{{ end }}"{{ end }}{{ with (.Get "alt") }} alt="{{ . }}"{{ end }}>
   {{ if eq ($.Scratch.Get "i-fancybox") 1 }}
     </a>
   {{ end }}
-  {{ if and (.Get "title") (not (in ($.Scratch.Get "i-classes") "nocaption")) }} 
+  {{ if and (.Get "title") (not (in ($.Scratch.Get "i-classes") "nocaption")) }}
     <span class="caption">{{ .Get "title" }}</span>
   {{ end }}
 </div>

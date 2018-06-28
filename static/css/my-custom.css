@@ -6,6 +6,10 @@
   margin: 1.5em 0 0;
 }
 
+.figure.figure--fullWidth .figure-img {
+  width: 100%;
+}
+
 /* fade in for pagination */
 @keyframes fadeIn {
   0% {opacity: 0;}

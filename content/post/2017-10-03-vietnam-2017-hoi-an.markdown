@@ -20,66 +20,43 @@ En el rato antes de que nos dieran la habitación hemos preguntado por varias ex
 
 De pronto ha salido el sol, así que en lo que quedaba de mañana hemos ido dando un paseo hasta la playa. Hay apenas 3 km de distancia, pero hay que ir por la carretera junto a los coches, camiones, motos, motos, bicis, y más motos. Al final hemos conseguido llegar al Pacífico y hacer check en el mar.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4495/37474077981_5e82681155_c.jpg" alt="Yo en el océano Pacífico" />
-<figcaption>El océano Pacífico que en esta parte se llama Mar de la China Meridional</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4495/37474077981_5e82681155_c.jpg" alt="Yo en el océano Pacífico" title="El océano Pacífico que en esta parte se llama Mar de la China Meridional" >}}
 
 Hemos vuelto con tiempo justo para refrescarnos y esperar a que nos recogiera la excursión de hoy: templos de My Son. Son templos hinduistas (a pesar que la población en Vietnam es más bien budista) de la etnia cham, que reinaron en esta zona entre los siglos IV y XII. Se estima que en My Son hay unos 70 templos aunque en la visita se accede a unos pocos. El complejo es desde hace unos años Patrimonio de la UNESCO. La visita es muy sencilla, siguiendo el camino marcado.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4508/37474165551_c93db0167a_c.jpg" alt="Camino en medio de la jungla" />
-<figcaption>Tienen una versión con baldosas amarillas</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4508/37474165551_c93db0167a_c.jpg" alt="Camino en medio de la jungla" title="Tienen una versión con baldosas amarillas" >}}
 
 La zona principal del recorrido incluye torres y templos en los que ya no hay adoración, aunque sí una peregrinación anual simbólica.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4470/23622648968_8e52c9d99b_c.jpg" alt="Templo en My Son" />
-</figure>
+{{< image classes="center" src="https://farm5.staticflickr.com/4470/23622648968_8e52c9d99b_c.jpg" alt="Templo en My Son" >}}
 
 Las construcciones se alzan maravillosas en medio de la jungla y de los restos de los restos de la guerra (que básicamente destrozaron casi todos los templos). Hay muchos símbolos hinduistas distribuidos entre los relieves de los templos.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4506/36765458344_77ff7ac0f2_c.jpg" alt="Templo en My Son" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4506/36765458344_77ff7ac0f2_c.jpg" alt="Templo en My Son" >}}
 
 Tras la visita (en unas 2 horas se ve el comlpejo entero), hemos asistido a un pequeño espectáculo de música y danza "típicos". En general es una visita bastante chula aunque me hubiera gustado menos sensación de parque temático y más sensación de historia y cultura.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4466/37474097991_c207d85448_c.jpg" alt="El río y una pequeña barca" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4466/37474097991_c207d85448_c.jpg" alt="El río y una pequeña barca" >}}
 
 Resulta que en Hoi An había un festival escolar y un montón de chavales con dragones y música iban por los comercios pidiendo ¿dinero?. Además, en Hoi An hay una zona japonesa y por la noche decoran con farolillos y depositan en el río los típicos farolillos flotantes.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4498/37474584941_19792e6efd_c.jpg" alt="Bar decorado con farolillos" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4498/37474584941_19792e6efd_c.jpg" alt="Bar decorado con farolillos" >}}
 
 Esta mañana la dedicamos a visitar Hoi An con más detalle. Es una ciudad con mucho encanto y el centro histórico está muy cuidado. En el centro histórico casi todas las casas están dedicadas al turismo. Esto significa que hay un poco de más agobio de turisteo pero sigue siendo muy llevadero o yo empiezo a tener callo.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4468/37447929136_6d120b4f78_c.jpg" alt="Escultura de dos dragones en el patio de una casa comunal" />
-<figcaption>Escultura en el patio central de una casa comunal</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4468/37447929136_6d120b4f78_c.jpg" alt="Escultura de dos dragones en el patio de una casa comunal" title="Escultura en el patio central de una casa comunal" >}}
 
 En la entrada del casco histórico se puede comprar un ticket con 5 visitas; te dan tus 5 pases y un listado de edificios que se pueden visitar: hay casas de asamblea, casas históricas, pagodas y algún museo. Nosotros hemos elegido un poco de todo y nos ha gustado mucho la selección:
 
 Las casas antiguas están muy reformadas y preparadas para las visitas, pero se conserva la arquitectura y disposición original; todas tienen una zona en la entrada con la foto de quien fundó la casa (varias generaciones atrás), y muchas tienen varias marcas con años indicando la altura a la que llegó la crecida del río ese año. Hubo años que superó con creces los 2 metros.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4464/37495797871_856e581095_c.jpg" alt="Interior de una casa típica vietnamita" />
-<figcaption>Portada interior donde se venera al fundador de la casa</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4464/37495797871_856e581095_c.jpg" alt="Interior de una casa típica vietnamita" title="Portada interior donde se venera al fundador de la casa" >}}
 
 Las casas de asamblea tienen una disposición similar, pero cuentan con un patio interior más grande y pensado para asambleas. Estos edificios por lo general no tienen ventanas, sino grandes estancias ventiladas gracias a los soportales y al patio interior.
 
 Hemos visitado también un templo y pagoda; aquí deben tomarse bastante en serio lo del decoro porque había varias advertencias al respecto. Yo iba preparada con una camiseta de manga corta en lugar de tirantes y ha ido bien. Los templos no están dedicados a dioses, sino a antepasados o personajes relevantes (guerreros, gobernantes, etc).
 
-<figure>
-<img src="https://farm5.staticflickr.com/4496/37447919906_52318b59a6_c.jpg" alt="Altar pirncipal en un templo" />
-<figcaption>La sobriedad por encima de todo</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4496/37447919906_52318b59a6_c.jpg" alt="Altar pirncipal en un templo" title="La sobriedad por encima de todo" >}}
 
 Se está construyendo una pagoda cerca de nuestro hotel y he ido a proponerme como figura estelar del templo. Según me han dicho, les ha parecido una idea estupenda e incluso han querido sellar el trato lanzándome excrementos de búfalo de agua. Esto promete.
 
@@ -98,10 +75,7 @@ Tras un par de días más tranquilos y con geniales visitas, mañana madrugamos 
 
 Igual que los selfies tontakos, que aparecen súbitamente:
 
-<figure>
-<img src="https://farm5.staticflickr.com/4465/36765534344_9a509d5605_c.jpg" alt="Selfie tontako" />
-<figcaption>En el barquito volviendo de My Son</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4465/36765534344_9a509d5605_c.jpg" alt="Selfie tontako" title="En el barquito volviendo de My Son" >}}
 
 Y las foticos de estos días...
 

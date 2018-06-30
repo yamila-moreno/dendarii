@@ -11,7 +11,7 @@ Este año está ya terminando y me ha parecido una buena ocasión para hacer un 
 
 <!--more-->
 
-{{< src="https://farm5.staticflickr.com/4467/23841503518_734c0cbda5_c.jpg" alt="Tontakos en Angkor" title="Alucinando con Camboya" >}}
+{{< image src="https://farm5.staticflickr.com/4467/23841503518_734c0cbda5_c.jpg" alt="Tontakos en Angkor" title="Alucinando con Camboya" >}}
 
 ## Destinos
 

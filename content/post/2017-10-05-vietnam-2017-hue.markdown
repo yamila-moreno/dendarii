@@ -18,53 +18,33 @@ Habíamos planeado ir en tren (por aquello de probar todos los transportes en Vi
 
 Primero visitamos las Marble Mountains, unas montañas con canteras de mármol con el que hacen muchísimas esculturas. De las varias montañas, se visita una de ellas: subimos en un ascensor y recorrimos el complejo de cuevas con budas y caminos, miradores y más caminos. Una visita sorprendente y agradable.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4472/37275923030_5710dc0dfb_c.jpg" alt="Vista de algunas de las montañas de mármol" />
-<figcaption>¡Son una marmolavilla! ¿Lo pilláis? Nah, qué lo vais a pillar...</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4472/37275923030_5710dc0dfb_c.jpg" alt="Vista de algunas de las montañas de mármol" title="¡Son una marmolavilla! ¿Lo pilláis? Nah, qué lo vais a pillar..." >}}
 
 Después continuamos el viaje por la carretera que discurre hacia el norte (sí, según se mire, si estás en el norte, la carretera discurre hacia el sur, listas, que sois unas listas), y que lleva hasta el paso Hai Van; un paso elevado que cruza una frontera natural que divide Vietnam. Un enclave estratégico, donde aún quedan restos de los puestos militares americanos. El mirador ofrece unas vistas geniales del mar junto a tupidas montañas.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4476/37486497986_f10528db23_c.jpg" alt="Paisaje desde el paso Hai Van" />
-<figcaption>Paisaje desde el paso Hai Van</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4476/37486497986_f10528db23_c.jpg" alt="Paisaje desde el paso Hai Van" title="Paisaje desde el paso Hai Van" >}}
 
 Y seguimos hasta una playa, cuyo interés me perdí, pero que era así bonica y paradisíaca:
 
-<figure>
-<img src="https://farm5.staticflickr.com/4481/23682010478_c46470e5f5_c.jpg" alt="Yami en la playa" />
-<figcaption>Tras esta foto es una playa mucho más interesante</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4481/23682010478_c46470e5f5_c.jpg" alt="Yami en la playa" title="Tras esta foto es una playa mucho más interesante" >}}
 
 La última parada antes de llegar a Hue, fue un puente japonés, Thanh Toan, el segundo más antiguo de Vietnam y en el que casi nos quedamos todos dormidos por la brisa rica que corría entre las columnas...
 
-<figure>
-<img src="https://farm5.staticflickr.com/4499/37275938670_bc8ddbdc3e_c.jpg" alt="Puente japonés" />
-<figcaption>Sombra aquí y sombra allí...</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4499/37275938670_bc8ddbdc3e_c.jpg" alt="Puente japonés" title="Sombra aquí y sombra allí..." >}}
 
 Y así llegamos al hotel en Hue. Durante el camino habíamos reservado una visita guiada por la ciudad imperial; teníamos reparos pues nuestros guías previos no hablaban muy bien inglés y sobre todo eran guías pésimos: no nos daban datos históricos, solo algo de leyenda superficial y mucha insistencia en que les encantaba mostrarnos su país porque les encantaba. Pero esta empresa tenía buenas reseñas y nos animanos.
 
 Dejamos las mochilas y sin hacer checkin en el hotel salimos pitando para la visita por la ciudad imperial; éramos un grupo reducido (6 personas), ¡genial! y el guía parecía hablar un inglés muy decente, ¡íbamos por buen camino! Y en seguida entramos en la Ciudad Imperial:
 
-<figure>
-<img src="https://farm5.staticflickr.com/4446/23682012888_052aebe1d6_c.jpg" alt="Puerta principal de la Ciudad Imperial en Hue" />
-<figcaption>Nos costó encontrar el timbre</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4446/23682012888_052aebe1d6_c.jpg" alt="Puerta principal de la Ciudad Imperial en Hue" title="Nos costó encontrar el timbre" >}}
 
 Es un choque increíble. Es grande, sí, pero sobre todo es grandiosa. En ese momento no teníamos mucho contexto del monumento en el que estábamos y éramos todo ojos muy abiertos capturando rincones y esencias. La Ciudad Imperial tiene unos 2 siglos y fue la sede de la última dinastía vietnamita, la Nguyen. El último emperador abdicó y el país se convirtió en una república socialista. Aquí vivían con sus concubinas, con los eunucos, sirvientes y militares. Toda la Ciudad, como cabe esperar, está llena de simbolismo: los colores, las zonas de privilegio, las puertas que acceden directamente a los palacetes están cerradas y solo se puede acceder por un lado (la puerta central está reservada para el emperador, y Alex no quiso sacar su carnet de Emperador Galáctico Geocacher).
 
-<figure>
-<img src="https://farm5.staticflickr.com/4486/36865176533_ae4f5e379c_c.jpg" alt="Templo en honor a los emperadores" />
-<figcaption>El amarillo es el color de los emperadores</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4486/36865176533_ae4f5e379c_c.jpg" alt="Templo en honor a los emperadores" title="El amarillo es el color de los emperadores" >}}
 
 La visita nos llevó a recorrer los palacios, templos, oficinas, el teatro... y así fuimos descubriendo a los 13 emperadores de la dinastía Nguyen. Unos más guerreros y otros más artísticos y (casi) todos venerados en la Ciudad Imperial. El budismo tiene dos tipos de "ritos"; por un lado rezan al buda en la pagoda y por otro lado, presentan sus respetos a sus antepasados en los templos. No les piden nada, y no hablan con ellos, solo les reverencian y siguen adelante. El caso es que 3 de los 13 emperadores no reciben esta veneración pues su memoria no es nada querida.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4492/37503347152_079944cbe5_c.jpg" alt="Dentro del templo" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4492/37503347152_079944cbe5_c.jpg" alt="Dentro del templo" >}}
 
 La visita también nos llevó a notar la cantidad de influencia francesa (pues estuvieron invadidos y algunos emperadores eran marionetas del imperio francés), y cómo esta Ciudad Imperial revela unas relaciones de poder como las que nos encontramos en Versalles: cómo se demuestra la riqueza, cómo se organiza por clases, cómo se busca harmonía.
 
@@ -72,49 +52,33 @@ Una visita imprescindible y que en este caso se vio claramente mejorada gracias 
 
 Nuestra visita comenzó cogiendo un barco que nos llevó hasta la pagoda de la dama celestial. El primer Nguyen tenía que montar la Ciudad Imperial pero no sabía cómo (tenía que ser Feng Sui pero no le estaba saliendo bien), y resulta que se le apareció una dama y le dijo que debía quemar incienso y que donde se consumiese del todo era el sitio adecuado. Así que como la dama se chivó del Feng Sui, el primer Nguyen le construyó una pagoda enorme. En esta pagoda viven monjes budistas y tuvimos la suerte de escucharles en una de sus plegarias. En esta pagoda también está el coche del que salió Dim Diem cuando el monje Thích Quang Duc se prendió fuego como protesta por la represión que sufrían los budistas en los años 60 en Vietnam. Un pedacito de historia que une la tradición budista con nuestra postmodernidad de forma poderosa.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4492/23682063908_203cabf056_c.jpg" width=481 alt="Escalinata frente a la pagoda" />
-<figcaption>Una pagoda en honor a la dama que se chivó</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4492/23682063908_203cabf056_c.jpg" width=481 alt="Escalinata frente a la pagoda" title="Una pagoda en honor a la dama que se chivó" >}}
 
 Volvimos al barco, a remontar el río hasta la primera tumba, la de Minh Mang. Famoso porque tuvo 500 concubinas y muchos hijos. Se dice que también trabajó muy duro, que era muy estricto y que hizo cosas buenas. También exterminó a los Cham (cuya capital estaba en My Son), lo que hace que la opinión vietnamita esté algo dividida respecto a su recuerdo. Su tumba tiene forma de persona, emulando la cara, los brazos y las piernas (hay que echarle imaginación, aviso). El mausoleo es enorme, pero la tumba realmente no se sabe dónde está. La zona de enterramiento es básicamente zona grande de campo y el lugar exacto es un secreto pues se les enterraba con muchas riquezas y así evitaban el expolio. Como creían que en el más allá seguían siendo emperadores, los mausoleos debían ofrecer las comodidades debidas al huésped, así que son unos palacios preciosos.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4468/23682086488_4e43b7ecee.jpg" alt="Fachada del templo" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4468/23682086488_4e43b7ecee.jpg" alt="Fachada del templo" >}}
 
 Tras esta visita dejamos el barco y cambiamos a taxi para llegar a la segunda tumba, la de Khai Dinh. Es la más pequeña, pero la más preciosista y con decoración barroca; tiene muchos elementos traídos de Europa: vallas decoradas con la flor de lis, cruces cristianas e incluso columnas de estilo egipcio (de aquella Francia también expoliaba Egipto). Este emperador fue especialmente denostado porque para construir su tumba (fue la que llevó más tiempo) subió los impuestos a los campesinos. Sospecho que le daba igual lo que pensaran de él los campesinos del más allá...
 
-<figure>
-<img src="https://farm5.staticflickr.com/4461/36865268493_fde6c733bd.jpg" alt="Fachada del templo" />
-<figcaption>Cuánto preciosismo. Y el templo también</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4461/36865268493_fde6c733bd.jpg" alt="Fachada del templo" title="Cuánto preciosismo. Y el templo también" >}}
 
 Y nuestra visita continuó hasta la tumba de Tu Duc, probablemente la más famosa. Es la más grande de las tumbas, y tiene forma de guitarra (dicen...), porque el Nguyen que descansa aquí no era un hombre de guerra sino de artes. En este mausoleo encontramos pinturas sobre cristal que él imaginaba, junto a los poemas que él escribía. De nuevo una tumba muy distinta a las anteriores e igualmente asombrosa.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4514/36824795814_c4cc7644d5.jpg" alt="Fachada del templo" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4514/36824795814_c4cc7644d5.jpg" alt="Fachada del templo" >}}
 
 Ya que aún disponíamos de tiempo, le pedimos a nuestro guía continuar la visita. Nos acercamos a un templo muy poco visitado y muy interesante; se llama el templo de los cuidados, Tu Hieu. Resulta que en otra pagoda, la madre del monje budista que la lideraba se enfermó porque le dio una bajona muy grande de B12; el médico le recomendó comer pescado para mejorarse. Esto es un poco movida para los budistas que en aquel entonces seguían una dieta vegetariana estricta (hoy en día deben cumplir solo 2 días al mes de dieta vegetariana). La única solución que vio nuestro protagonista fue abandonar la pagoda para cocinar el pescado a su madre (al cocinar el pescado perdía la posibilidad de seguir de líder en la pagoda). ¿Por qué no cocinaba otra persona? ¿Algún hermano? ¡No lo pudimos descubrir! En todo caso, un hombre dejó su exitosa carrera profesional y espiritual para cuidar de su madre. Amigos aliados feministas: ¡así, sí! Todo esto resultó muy tierno a la gente y le construyeron un templo en su honor, donde le veneran. Para este templo pusieron mucho dinero los eunucos del emperador así que aquí tienen un pequeño cementerio donde los monjes budistas les muestran respeto.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4481/23682116598_d5abd6e23f.jpg" alt="Campana de la pagoda" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4481/23682116598_d5abd6e23f.jpg" alt="Campana de la pagoda" >}}
 
 Después del templo nos hemos acercado a la última tumba, King Thieo. Es muy sencilla, pero me resultó muy interesante porque está sin restaurar, apenas han puesto unos andamios para que no colapsen algunos tejados, pero por lo demás, se ve la implacable acción del tiempo sobre el patrimonio.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4494/36865314353_d7222f227a.jpg" alt="Puerta de acceso a la tumba" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4494/36865314353_d7222f227a.jpg" alt="Puerta de acceso a la tumba" >}}
 
 Todos estos edificios son patrimonio de la UNESCO desde hace unos 20 años y representan una visita imprescindible si vas a Vietnam.
 
 Aunque hemos terminado bastante cansados del trote del día, por la noche nos hemos acercado de nuevo a la Ciudad Imperial, porque la abren para una sesión con espectáculos de música, danza, artes marciales y teatro tradicional. Muy recomendable porque además permite ver la Ciudad por la noche iluminada con muchos colores y farolillos. Mientras esperábamos para entrar, se me acercó una mujer muy humildemente, me agarró muy fuerte de la mano y de pronto, plas, estábamos posando para su hija, ¡fui exótica y famosa en un microsegundo! Tras lo cual, como podéis imaginar, pedí que me abrieran todas las puertas centrales y exigí a todo el mundo que se postrara ante Yami la emperatriz.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4494/36824819794_928a406810.jpg" alt="Ciudad Imperial iluminada de noche" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4494/36824819794_928a406810.jpg" alt="Ciudad Imperial iluminada de noche" >}}
 
 Como comenté al principio, la visita a Hue nos dejó un sabor de boca inmejorable. Cruzarse medio mundo para conocer este patrimonio merece totalmente la pena. Cansados y felices, nos vamos a descansar pues en pocas horas nos toca madrugar para seguir nuestro periplo hacia el norte del país...
 
@@ -128,10 +92,7 @@ Como comenté al principio, la visita a Hue nos dejó un sabor de boca inmejorab
 
 Y otra recomendación: ¡el selfie tontako!
 
-<figure>
-<img src="https://farm5.staticflickr.com/4509/37275967570_a7f2a701f6.jpg" alt="Selfie tontako" />
-<figcaption>Ni confirmo ni desmiento que nos echamos una siesta allí en la playa</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4509/37275967570_a7f2a701f6.jpg" alt="Selfie tontako" title="Ni confirmo ni desmiento que nos echamos una siesta allí en la playa" >}}
 
 Y las foticos de estos días...
 

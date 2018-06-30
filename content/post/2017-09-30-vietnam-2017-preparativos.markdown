@@ -31,19 +31,13 @@ En el centro de vacunación nos dieron "receta" para el Vivotif y el Malarone, p
 
 Es importante que hagáis esto con tiempo, pensad que en verano todo el mundo se quiere ir y las colas se eternizan, y algunas vacunas hay que tomarlas con antelación al viaje. No lo dejéis para el último momento porque os puede suponer un agobio innecesario.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4448/37558899096_acae05ffb2_c.jpg" alt="Selva y río en Phong Nha" />
-<figcaption>Al fondo de ese valle hay un poblado de malaria</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4448/37558899096_acae05ffb2_c.jpg" alt="Selva y río en Phong Nha" title="Al fondo de ese valle hay un poblado de malaria" >}}
 
 <strong>Actualización</strong> en el viaje encontramos muchos viajeros y prácticamente ninguno se había vacunado.
 
 Sobre qué <strong>equipaje</strong> llevar a un viaje así hay mucho escrito y solo quiero mencionar algunos imprescindibles para que tengáis en cuenta. Chubasquero fino: lo podéís llevar desde casa o comprar allí barato y muy apañado. El calzado acorde a la lluvia: yo me llevé botas buenas para el agua (para senderismo) y <a href="https://www.google.com.vn/search?q=sandalias+quechua&client=ms-unknown&prmd=ivn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiioZTu9PbWAhUBzpQKHVDQD3cQ_AUIEigB&biw=360&bih=247" target="_blank"><em>chanclandalias</em></a> (sí, me acabo de inventar el nombre pero no me digáis que no es descriptivo y adecuado). Antimosquitos fuerte (2 botes para 3 semanas). Y aunque llueve, también hace mucho sol así que un buen protector. Además tened en cuenta que en los templos (y hay muchos) hay que respetar el decoro, que consiste en pantalones o faldas por debajo de la rodilla y no enseñar los hombros. Aplica tanto a hombres como a mujeres. En algunos templos incluso tienen pareos para que la gente se tape.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4476/37784961861_95696d49e5_c.jpg" alt="Mochilas de viaje" />
-<figcaption>Procuramos viajar ligero</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4476/37784961861_95696d49e5_c.jpg" alt="Mochilas de viaje" title="Procuramos viajar ligero" >}}
 
 <strong>Visados</strong>: en este viaje visitamos 2 países que requieren visado, Vietnam y Camboya. El visado de Vietnam lo conseguimos yendo a la embajada (metro Alfonso XIII en Madrid). Allí rellenamos un formulario, pagamos las tasas, y tuvimos que dejarles el pasaporte durante varios días. A los días volví a recoger los pasaportes y allí estaba todo correcto. Por lo visto es práctica habitual, aunque dejar el pasaporte en una embajada no me gustó mucho. En nuestro caso, pagamos 95€ cada uno por el visado de Vietnam porque cogimos la opción de varias entradas; si hacéis el viaje de forma que sólo entráis una vez en el país, el visado sale más barato. De hecho, nos hemos enterado durante el viaje que para 15 días o menos no hace falta visado.
 
@@ -57,16 +51,10 @@ El <strong>negocio turístico</strong> está menos desarrollado de lo que yo cre
 
 Con todo esto listo, ¡nos hemos venido a Vietnam! Nos ha recibido el país lloviendo muchísimo y ya hemos podido probar una buena tormenta nada más llegar. Nos han dicho en el hostal que somos afortunados :P En realidad, nos encanta no dejar que la lluvia nos chafe planes durante las vacaciones.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4466/36865184083_b5f8e3839f_c.jpg" alt="Ciudad Imperial de Hue bajo la lluvia" />
-<figcaption>Nos quedamos solos en la visita cuando se puso a diluviar :D</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4466/36865184083_b5f8e3839f_c.jpg" alt="Ciudad Imperial de Hue bajo la lluvia" title="Nos quedamos solos en la visita cuando se puso a diluviar :D" >}}
 
 En el Aeropuerto de HoChiMin City, antes incluso de pasar el control de pasaporte ya hay puntos de venta de <strong>SIM</strong> (8€, gigas ilimitados de datos sin llamadas durante 1 mes) y puntos de <strong>cambio de dinero</strong>, para hacerse con Dongs (VND) antes de coger el primer taxi.
 
 Así que tras un largo vuelo y un par de gestiones, ya estamos preparados para el viaje que empieza mañana. Aunque el viaje en sí mismo no ha empezado, no puedo dejaros sin selfie tontako...
 
-<figure>
-<img src="https://farm5.staticflickr.com/4505/36722752824_38fba3de4e_c.jpg" alt="Selfie tontako en el avión de ida" />
-<figcaption>Qué felices y qué poco sabíamos del viaje que nos esperaba...</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4505/36722752824_38fba3de4e_c.jpg" alt="Selfie tontako en el avión de ida" title="Qué felices y qué poco sabíamos del viaje que nos esperaba..." >}}

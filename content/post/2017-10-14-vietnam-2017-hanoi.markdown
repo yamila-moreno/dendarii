@@ -16,21 +16,15 @@ La capital nos recibe lloviendo a mares. Se nota rápidamente que estamos entran
 
 La primera noche en Hanoi decidimos acudir a un espectáculo de teatro de marionetas de agua, donde el escenario está inundado. Es una tradición que proviene de las zonas rurales, de cuando se inundaban los arrozales, y que a día de hoy sobrevive en unos pocos teatros. Vi una mezcla de turistas y familias vietnaitas con niños pequeños. El espectáculo consiste en una serie de escenas que ilustran la vida típica de campo y la mitología vietnamitas. Un entretenimiento ligero acompañado de música y voz en directo; me gustó mucho en realidad por ese toque indudablemente tradicional que tenía todo el show.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4455/37018140403_d7af40af95_c.jpg" alt="Marionetas de agua" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4455/37018140403_d7af40af95_c.jpg" alt="Marionetas de agua" >}}
 
 Al día siguiente decidimos dar un paseo por algunos puntos importantes de Hanoi: una casa típica, el hostal donde Ho Chi Minh redactó la independencia de Vietnam (independencia de los franceses), o el lago "de la tortuga" en el corazón del <em>Old quarter</em>. Por la noche iluminan el lago y se llena de paseantes, artistas callejeros, vendedoras ambulantes y grupos de "señoras bailando cosas suaves" (¡había muchos grupos!).
 
-<figure>
-<img src="https://farm5.staticflickr.com/4469/37018242053_0cb8b83ff0_c.jpg" alt="Lago y puente iluminados por la noche" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4469/37018242053_0cb8b83ff0_c.jpg" alt="Lago y puente iluminados por la noche" >}}
 
 En la zona oeste de la ciudad, pasamos por delante del mausoleo de "el tío Ho", bien protegido por la policía y visitamos la pagoda de un solo pilar, muy concurrida por turistas y devotos. Dedicamos un par de horas al museo de bellas artes, donde se puede seguir la historia de las artes pictóricas y escultóricas de los últimos 3 o 4 siglos en Vietnam. Una visita muy interesante fue el Templo de la literatura, la primera universidad vietnamita, famosa porque tallaban en estelas los nombres de los poquísimos estudiantes que lograban graduarse, ya que era muy estricta.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4443/37681499242_f0d6522802_c.jpg" alt="Edificio dentro del Templo de la Literatura" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4443/37681499242_f0d6522802_c.jpg" alt="Edificio dentro del Templo de la Literatura" >}}
 
 Y en la zona francesa, al sur del Old Quarter, nos acercamos al museo de las mujeres, un museo etnográfico presentado desde la mujer: trajes típicos, costumbres, trabajo. También incluye un repaso / homenaje a la labor de las mujeres durante la guerra de Vietnam: desde enfermeras-cuidadoras hasta líderes y ganadoras de batallas o políticas relevantes.
 
@@ -38,9 +32,7 @@ Y en la zona francesa, al sur del Old Quarter, nos acercamos al museo de las muj
 
 Hanoi es una ciudad enorme y muy ruidosa. Al igual que en Ho Chi Minh City, el tráfico es el dueño de la ciudad, las motos ocupan todo el espacio posible, incluidas las aceras. Los peatones tenemos, pues, que compartir la calzada con motos, coches y bicis. Los pocos espacios de acera que no están invadidos por motos, están ocupados por tiendas y restaurantes que se expanden todo lo que pueden. El problema de la contaminación es muy grave y son conscientes de ello. La solución que aquí usan es llevar mascarillas a todas horas, incluyendo, claro, bebés. Visitar esta ciudad tan hostil es un reto difícil y supongo que vivir aquí será demencial.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4510/36978821304_92198a96e9_c.jpg" alt="Motos llenando una plaza" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4510/36978821304_92198a96e9_c.jpg" alt="Motos llenando una plaza" >}}
 
 <strong>Útil</strong>:
 

@@ -21,9 +21,7 @@ Tam Coc, en la región de Ninh Binh, al sur de Hanoi, es una zona de arrozales y
 
 El paseo en barca es lo más llamativo y se cruza bajo la montaña varias veces. Con las crecidas que ha habido estos días atrás, el agua estaba realmente cerca del techo del paso y hemos tenido que reclinarnos en un par de ocasiones.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4486/37763824776_a5e3af832b_c.jpg" alt="Entrada a la cueva" />
-</figure>
+{{< image src="https://farm5.staticflickr.com/4486/37763824776_a5e3af832b_c.jpg" alt="Entrada a la cueva" >}}
 
 Es una visita muy ligera y bastante enlatada, donde lo que más me ha llamado la atención es la cantidad de turismo interno que había en este lugar.
 
@@ -37,10 +35,7 @@ Ha sido un viaje especial, que me ha enseñado mucho sobre otras formas de viaja
 
 Igual de fantástico que este selfie despidiéndonos de Vietnam.
 
-<figure>
-<img src="https://farm5.staticflickr.com/4464/37812233411_d6035b3aac_c.jpg" alt="Selfie tontako" />
-<figcaption>Aquí, dando mucha latxa en el aeropuerto...</figcaption>
-</figure>
+{{< image src="https://farm5.staticflickr.com/4464/37812233411_d6035b3aac_c.jpg" alt="Selfie tontako" title="Aquí, dando mucha latxa en el aeropuerto..." >}}
 
 Y las foticos de Tam Coc.
 

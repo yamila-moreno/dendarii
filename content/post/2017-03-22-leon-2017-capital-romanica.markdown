@@ -14,11 +14,11 @@ Dejamos atrás los montes leoneses, a los que tenemos que volver, y nos fuimos a
 
 El mismo domingo, según llegamos, encontramos una empresa que ofrece un <em>free tour</em> por la ciudad; Alex y yo ya hemos hecho varios de estos tours y su funcionamiento nos gusta: la visita gratuita puede ir desde la hora y media hasta las 3 o incluso 4 horas. Es una visita guiada con muchos chascarrillos, un guía muy amigable, y que nos lleva máximo a una <em>trampa para turistas</em>. Después se le gratifica con lo que cada uno considere. La visita gratuita aprovecha para delegar algunos aspectos más interesantes en otras visitas de pago, pero aún así merece la pena y te haces una idea tanto de la ciudad como del tipo de visitas que se hacen. Como teníamos buenos precedentes, nos animanos con la visita de <a href="http://visitasguiadasoficiales.com/" target="_new">Ganda</a>.
 
-<img src="https://c1.staticflickr.com/4/3827/33465317191_ed8099267d_c.jpg" width="800" height="449" alt="León">
+{{< image src="https://c1.staticflickr.com/4/3827/33465317191_ed8099267d_c.jpg" alt="León" >}}
 
 Nuestro guía Raúl nos esperaba en la plaza de la Catedral desde la que hicimos un pequeño recorrido por la historia y los monumentos. Es una vista muy recomendable, de la que sacamos dos recomendaciones: la más evidente es la visita a la Catedral (visita guiada con Ganda), y la que nos sorprendió muchísimo fue la visita a la basílica de San Isidoro (visita guiada propia). Ambas visitas aguardarían hasta el lunes, pues teníamos una cita con la gastronomía leonesa en el Barrio Húmedo.
 
-<img src="https://c1.staticflickr.com/4/3684/33593979225_4709203817_c.jpg" width="800" height="450" alt="León">
+{{< image src="https://c1.staticflickr.com/4/3684/33593979225_4709203817_c.jpg" alt="León" >}}
 
 El lunes descubrimos una costumbre de León capital que nos encantó. Al pedir el café por la mañana, te ofrecen "tapa" de desayuno: bizcocho o tortilla, te ponen una porción entre pequeña y mediana que sienta de lujo con ese primer café.
 
@@ -32,15 +32,15 @@ Y así llegamos a la visita del Museo Panteón San Isidoro. La visita dura 45 mi
 
 Una foto (sacada de internet!) de los frescos:
 
-<img src="http://static.wixstatic.com/media/96a189_d29b28da08d44862a68e1bae5210a241.jpg_srz_960_1371_85_22_0.50_1.20_0.00_jpg_srz" />
+{{< image src="http://static.wixstatic.com/media/96a189_d29b28da08d44862a68e1bae5210a241.jpg_srz_960_1371_85_22_0.50_1.20_0.00_jpg_srz" >}}
 
 Y después de este románico tan especial, nos fuimos a la visita de la Catedral donde nos esperaban el gótico y nuestro guía Raúl. Otro imprescindible que no defrauda: pudimos aprender sobre las cristaleras, el órgano, la jirola y otros chascarrillos propios de una catedral.
 
-<img src="https://c1.staticflickr.com/3/2874/32751475454_b42608f6d9_c.jpg" width="800" height="449" alt="León">
+{{< image src="https://c1.staticflickr.com/3/2874/32751475454_b42608f6d9_c.jpg" alt="León" >}}
 
 Salimos de la Catedral y nos despedimos de León y de un genial puente, para volver a la mundanal rutina. Fue un viaje inesperado y que nos dejó unas sensaciones geniales, y muchísimas ganas de volver a esta maravillosa tierra.
 
-<img src="https://c1.staticflickr.com/3/2858/33465189131_a680ff296b_c.jpg" width="800" height="450" alt="León">
+{{< image src="https://c1.staticflickr.com/3/2858/33465189131_a680ff296b_c.jpg" alt="León" >}}
 
 Y las foticos de León...
 

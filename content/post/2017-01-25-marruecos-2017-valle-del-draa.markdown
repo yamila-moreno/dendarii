@@ -14,11 +14,11 @@ Sobre las 10, ya con el sol bastante alto, cogíamos el coche para recorrer part
 
 La primera parte del recorrido ha sido en una carretera panorámica, cruzando y recorriendo unos valles monumentales de tierra seca, que dejaban ver claramente los estratos de la roca. Nos recordó en algunas partes al Death Valley, aunque aquí teníamos la sensación de que era incluso más inhóspito. A esta parte del recorrido la hemos llamado, cariñosamente, Neo Murcia.
 
-<img src="https://c1.staticflickr.com/1/330/32515164155_e2c923aa98_c.jpg" />
+{{< image src="https://c1.staticflickr.com/1/330/32515164155_e2c923aa98_c.jpg" >}}
 
 La ruta nos ha llevado a visitar una kasbah sin terminar y con aires apocalípticos. Parecía el escenario de un videojuego. No debe ser una visita muy concurrida, pues estábamos solos y ni siquiera nos cruzamos con el ya habitual bereber con alajas o piedras semi preciosas.
 
-<img src="https://c1.staticflickr.com/1/312/32393078061_b88918fbe3_c.jpg" />
+{{< image src="https://c1.staticflickr.com/1/312/32393078061_b88918fbe3_c.jpg" >}}
 
 Las distancias aquí hay que tomárselas con mucha calma. La siguiente parada estaba a 80 km, que nos han llevado más o menos 1h30m. La carretera está de obras y constantemente teníamos desvíos. En el mejor de los casos podíamos ir a 60km/h. Y aun así, no ha sido ni de lejos la carretera más difícil que hemos transitado. Así que con calma llegamos al ksar de Tissergat.
 
@@ -28,7 +28,7 @@ A propósito, en el sur de Marruecos, si no hablas francés o árabe, te pierdes
 
 Y a media tarde llegamos a Zagora. Es la población más grande del Valle del Dráa, aunque en sí misma no tiene más que una kasbah y un palmeral que no dudamos en pasear al caer la tarde.
 
-<img src="https://c1.staticflickr.com/1/516/32474559776_919dcf2cf8_c.jpg" />
+{{< image src="https://c1.staticflickr.com/1/516/32474559776_919dcf2cf8_c.jpg" >}}
 
 Después, cena temprana en un restaurante lleno de locales, y a preparar nuestra primera aproximación al desierto marroquí. ¡Continuará! Mientras, las foticos del día (¡se me olvidó el selfie!):
 

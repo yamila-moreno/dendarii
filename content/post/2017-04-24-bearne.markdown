@@ -15,17 +15,11 @@ En este pequeño viaje nos acompañó mi padre, que no sabe mucho francés (tamp
 
 Tras llegar a tierras francesas, hicimos la primera parada en San Juan Pie de Puerto, un pequeño enclave del Camino de Santiago francés. Es un pueblo coqueto, con un casco histórico muy bien conservado y que estaba lleno de peregrinos.
 
-<figure>
-<img src="https://c1.staticflickr.com/3/2910/34077099336_98190fef17.jpg" />
-<figcaption>Vista del pueblo</figcaption>
-</figure>
+{{< image src="https://c1.staticflickr.com/3/2910/34077099336_98190fef17.jpg" title="Vista del pueblo" >}}
 
 Subimos hasta la parte superior de lo que queda de la antigua ciudadela, desde donde conseguimos unas vistas geniales.
 
-<figure>
-<img src="https://c1.staticflickr.com/3/2950/33960788492_dc2bcc5602.jpg" />
-<figcaption>Vista desde la Ciudadela</figcaption>
-</figure>
+{{< image src="https://c1.staticflickr.com/3/2950/33960788492_dc2bcc5602.jpg" title="Vista desde la Ciudadela" >}}
 
 Continuamos hasta Pau, <em>el balcón de los Pirineos</em>. Llegamos sobre las 13:30, que viene a ser super tardísimo para comer en horarios franceses. Afortundamente pillamos un restaurante donde nos dieron de comer genial a pesar de que entramos cuando ya eran las 13:45 (locurón). Pau es una ciudad medieval, en el corazón del antiguo Bearne, que conserva muchas trazas de toda su historia. Hace además honor a su nombre con unas vistas espectaculares de la cara norte de los Pirineos. Pudimos pasear por el centro y visitar los jardines del castillo.
 
@@ -33,46 +27,30 @@ A media tarde fuimos a Lourdes. Sí, la famosa Lourdes. A pesar de haber estudia
 
 Nos sorprendió encontrar tan poca gente un jueves santo, pero esto nos permitió entrar en el santuario y en la gruta tranquilamente. Todo el pueblo gira en torno al santuario, y hay muchas (muuuuchas) tiendas de souvenirs católicos, botellas para rellenar con agua de la gruta, colgantes con agua bendita de Lourdes, etc... Un poco parque temático en este sentido, aunque merece la pena la visita por la grandiosa cúpula de la cripta.
 
-<figure>
-<img src="https://c1.staticflickr.com/3/2898/33306512713_f1becbf1e5.jpg" />
-<figcaption>Santuario de Lourdes</figcaption>
-</figure>
+{{< image src="https://c1.staticflickr.com/3/2898/33306512713_f1becbf1e5.jpg" title="Santuario de Lourdes" >}}
 
 El día siguiente amaneció con un pantagruélico desayuno en el hostal donde estábamos. Cogimos fuerzas pues teníamos por delante un largo día de relax. Nos tocó madrugar para ir a la Grottes de Bétharram, una visita por unas históricas cuevas, donde nos encontramos el mayor número de turistas. Las cuevas se visitan a pie primero, después se coge un baquito con forma de drakkar (¡lo prometo!) y finalmente un tren hasta la salida. Es una visita muy masificada, y aunque la disfrutamos, solo la recomendaría si tenéis mucho tiempo.
 
 Según bajábamos hacia el Sur por carreteras secundarias, vimos un cartel de venta de queso. Volantazo. Nos desviamos. Esquivamos una oveja. Más volantazos. Esquivamos una vaca. Otro volantazo. No pudimos esquivar la piedra y pinchamos una rueda. Pero ya estábamos en la venta de queso. Sebastián, el quesero, abrió la cámara, seleccionó el queso y nos cortó los trozos que le pedimos. Entonces se lanzó a una diatriba sobre el dinero (por los gestos que hacía) que por supuesto no entendimos ninguno. Casi ninguno, porque en estas que Javier le suelta en perfecto castellano: "Es exactamente lo mismo que me pasa a mí". El francés siguió cortando queso y cobrando diligentemente. Cogimos nuestro alijo y continuamos nuestro viaje.
 
-<figure>
-<img src="https://c1.staticflickr.com/3/2875/33306526373_1c55c56638.jpg" />
-<figcaption>Lac de Castet</figcaption>
-</figure>
+{{< image src="https://c1.staticflickr.com/3/2875/33306526373_1c55c56638.jpg" title="Lac de Castet" >}}
 
 Y después tocaba cruzar de nuevo los Pirineos, esta vez por Son Port. Hay un túnel que te ahorra la carretera de montaña y que estuvimos a punto de coger por accidente. Una carretera espectacular, acompañada de los Pirineos que se alzaban en todas direcciones. Debía ser el último fin de semana de esquí, y vimos bajar las lomas a quienes querían estirar hasta el final la temporada.
 
-<figure>
-<img src="https://c1.staticflickr.com/3/2821/33733092150_833428f9b3.jpg" />
-<figcaption>Pirineos</figcaption>
-</figure>
+{{< image src="https://c1.staticflickr.com/3/2821/33733092150_833428f9b3.jpg" title="Pirineos" >}}
 
 Así llegamos a Canfranc, al pie de los Pirineos oscenses, pueblo famoso por su Estación Internacional: se empezó a construir a principios de S.XX dentro del proyecto de unir por tren Francia y España. Se terminó 30 años más tarde, y su época dorada llegaría hacia los años 50. A finales de los años 70 se cerró definitivamente, y se deterioró hasta que la Comunidad de Aragón se hizo cargo. Actualmente se visita únicamente con visita guiada, y desafortunadamente no encontramos ningún hueco libre. Está bastante decrépita, pero aún se conservan los ventanales Fin de Siglo y las estructuras Art Nouveau. Dimos un paseo alrededor de la estación por un camino habilitado muy recomendable, y después nos acercamos a la zona de vías (abandonadas) donde había vagones destartalados. Y un caché ;-) Nos encantó Canfranc y nos quedamos con ganas de volver a visitarla con algo más de tiempo.
 
-<figure>
-<img src="https://c1.staticflickr.com/3/2838/33306386853_8c78a2044d.jpg" />
-<figcaption>Estación Internacional de Canfranc</figcaption>
-</figure>
+{{< image src="https://c1.staticflickr.com/3/2838/33306386853_8c78a2044d.jpg" title="Estación Internacional de Canfranc" >}}
 
 Y así nos encontramos volviendo a casa, tras una incursión fugaz pero muy entretenida en el país bearnés. Nos quedamos con idea de volver, es una zona con muchas oportunidades para el senderismo que queremos explorar.
 
 Os dejo como siempre el selfie:
 
-<figure>
-<img src="https://c1.staticflickr.com/3/2915/33987717531_6740a1ee02.jpg" />
-<figcaption>Selfie Tontako con Javier</figcaption>
-</figure>
+{{< image src="https://c1.staticflickr.com/3/2915/33987717531_6740a1ee02.jpg" title="Selfie Tontako con Javier" >}}
 
 Y las foticos:
 
 {{< flickr album="72157682757973715" >}}
 
 ¡hasta la próxima!
-

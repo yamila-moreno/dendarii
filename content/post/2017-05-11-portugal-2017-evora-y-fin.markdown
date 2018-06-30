@@ -15,10 +15,7 @@ El día de vuelta nos lo tomamos con calma y haciendo una parada en Évora, ciud
 
 En primer lugar fuimos a ver la Iglesia de San Francisco y su exposición de belenes (que llaman <em>presépios</em> porque belén ya estaba pillado con los pastelitos). Fuimos un poco por despiste, pero resultó ser una exposición muy curiosa, sobre todo cuando en las vitrinas jugaban al "más difícil todavía": un belén en una cáscara de nuez, y después, un belén en la cáscara de un cacahuete.
 
-<figure>
-<img src="https://c1.staticflickr.com/5/4191/34291273632_a7972c357e_c.jpg" width="800" height="449" alt="DSCF3109">
-<figcaption>Claustro de la Catedral</figcaption>
-</figure>
+{{< image src="https://c1.staticflickr.com/5/4191/34291273632_a7972c357e_c.jpg" title="Claustro de la Catedral" >}}
 
 Dejamos los belenes y entramos después en la famosa <a href="https://www.google.es/search?q=capela+dos+ossos&client=firefox-b-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjoxNWj3OjTAhXEOxoKHYPMA5MQ_AUICigB" target="_new">Capela dos Ossos</a>, una capilla decorada con huesos, donde los monjes meditaban sobre la transitoriedad de la vida, bajo el lema:
 
@@ -26,10 +23,7 @@ Dejamos los belenes y entramos después en la famosa <a href="https://www.google
 
 Que en lengua llana significa: "la que os espera". Es una visita muy pequeña que pudimos disfrutar prácticamente solos. Después de comer nos acercamos a la catedral y el claustro, de nuevo una visita breve pero muy interesante. Y de camino al coche callejeamos por Évora, disfrutamos de su impresionante templo romano, de las vistas que ofrece desde sus balcones y de nuestras últimas horas de viaje por Portugal. Y de algún caché.
 
-<figure>
-<img src="https://c1.staticflickr.com/3/2866/34320305561_51eaf6a493_c.jpg" width="800" height="449" alt="DSCF3105">
-<figcaption>Apartamento del S.I ac luminoso y con vistas. Ojo goteras.</figcaption>
-</figure>
+{{< image src="https://c1.staticflickr.com/3/2866/34320305561_51eaf6a493_c.jpg" title="Apartamento del S.I ac luminoso y con vistas. Ojo goteras." >}}
 
 Y con muy buenas sensaciones nos despedimos de un viaje breve y maravilloso; Portugal sigue siendo un lugar precioso para visitar y para vivirlo. Nos hemos sentido muy bien recibidos y espero tener la oportunidad de volver pronto y seguir profundizando en esa tierra.
 
@@ -57,10 +51,7 @@ Es muy fácil abaratar el viaje en transporte, comida y alojamiento, y que siga 
 
 Como fantástico es este selfie, que creíais que no venía, pero sí:
 
-<figure>
-<img src="https://c1.staticflickr.com/5/4159/34452296905_aabfe56d4c_c.jpg" width="800" height="450" alt="IMG_20170502_150426">
-<figcaption>Senatus Populusque Tontakus</figcaption>
-</figure>
+{{< image src="https://c1.staticflickr.com/5/4159/34452296905_aabfe56d4c_c.jpg" alt="Selfie tontako" title="Senatus Populusque Tontakus" >}}
 
 Y las foticos de despedida:
 

@@ -16,15 +16,15 @@ Y así llegamos al último día en Marruecos; teníamos unas cuantas horas por l
 
 Cruzamos brevemente el zoco a primera hora de la mañana, y llegamos a la Medersa Ben Yusuf. Una medersa (madrasa o almadrasa) es una escuela coránica. Esta es del S.XVII y destacan los maravillosos decorados por todas las paredes. Imprescindible:
 
-<img src="https://c1.staticflickr.com/1/258/32515309705_ae05cc03a4_c.jpg" />
+{{< image src="https://c1.staticflickr.com/1/258/32515309705_ae05cc03a4_c.jpg" >}}
 
 A la salida nos acercamos al museo de arte marroquí que estaba cerrado por ser martes, así que redirigimos nuestros dirhams al Palacio de la Bahía, otra visita muy tranquila por dentro de un edificio fabuloso, en el que destacan sin duda los techos artesonados:
 
-<img src="https://c1.staticflickr.com/1/493/32369404772_a71377a157_c.jpg" />
+{{< image src="https://c1.staticflickr.com/1/493/32369404772_a71377a157_c.jpg" >}}
 
 Y para terminar las visitas, fuimos a las tumbas saadies, un gran mausoleo lleno de tumbas al estilo árabe (sin nombre!), con salas excepcionalmente decoradas:
 
-<img src="https://c1.staticflickr.com/1/344/32481162826_5567bf55f8_c.jpg" />
+{{< image src="https://c1.staticflickr.com/1/344/32481162826_5567bf55f8_c.jpg" >}}
 
 Este fue el paseo que hicimos por Marrakech:
 
@@ -32,7 +32,7 @@ Este fue el paseo que hicimos por Marrakech:
 
 Os dejo aquí una de las mejores muestras de arte hispano-marroquí, con un arco precioso detrás:
 
-<img src="https://c1.staticflickr.com/1/299/32515309285_2e5c314cd8_c.jpg" />
+{{< image src="https://c1.staticflickr.com/1/299/32515309285_2e5c314cd8_c.jpg" >}}
 
 y las foticos del día...
 

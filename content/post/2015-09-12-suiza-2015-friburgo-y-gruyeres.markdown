@@ -14,7 +14,7 @@ Y así llegamos a la última etapa de estas vacaciones. Esta mañana nos levanta
 
 En Friburgo hemos pillado el mercadillo, un festival de estudiantes jóvenes bailando (y sí, ¡me ha dado la furia bailaora otra vez!), y la grabación de un videoclip estilo bollywood. Hasta aquí todo normal.
 
-<img src="http://c1.staticflickr.com/1/704/21336970206_8cc01aa9ba.jpg" title="Friburgo" />
+{{< image src="http://c1.staticflickr.com/1/704/21336970206_8cc01aa9ba.jpg" title="Friburgo" >}}
 
 Desde ahí nos hemos ido hasta Gruyeres, donde teníamos prevista alguna visita cultCOMER QUESO. Ya está, ya lo he dicho. El acceso en coche parece estar prohibido o muy controlado, así que hemos dejado el coche al pie de la colina donde se alza Gruyeres y hemos subido hasta el poblado.
 
@@ -24,11 +24,11 @@ Hemos llegado a la plaza y nos hemos encontrado con varias bodas teniendo lugar 
 
 Hemos visitado el castillo y hemos comido cosas con queso de las que me arrepentiré el resto de mi vida, pero qué rico todo.
 
-<img src="http://c2.staticflickr.com/6/5796/21336969576_3761c97c9e_z.jpg" title="Por ahí vienen los de Savoya con los hermanos Pinzones" />
+{{< image src="http://c2.staticflickr.com/6/5796/21336969576_3761c97c9e_z.jpg" title="Por ahí vienen los de Savoya con los hermanos Pinzones" >}}
 
 Después de comer, parada obligatoria en la cafetería estilo Alien. El peor café del mundo y un susto de muerte...
 
-<img src="http://c2.staticflickr.com/6/5699/21371522331_8e29b14768.jpg" title="Pero si es todo corchopán!" />
+{{< image src="http://c2.staticflickr.com/6/5699/21371522331_8e29b14768.jpg" title="Pero si es todo corchopán!" >}}
 
 Y nos hemos venido ya a Ginebra a descansar y a preparar nuestras mochilas para mañana.
 Vuelta a la realidad, al trabajo y a la rutina. Como siempre, y no me canso de darme cuenta, viajar con Alex es un lujazo. ¡Larga vida a los viajes del Tontako Team! :D

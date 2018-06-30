@@ -19,7 +19,7 @@ Esta es la cueva con mayor volumen de Europa, con cámaras de más de 90 metros 
 
 La cueva quita el aliento. Una hilera de luces al pie de las escaleras conduce hasta el corazón de la tierra, a más de 150 metros bajo la superficie. Nada que envidiar a las grandes escalinatas de Moria, salvo por el Balrog, que aquí lo han suplido con un montón de murciélagos. Buen intento. Como dentro no se podían hacer fotos, os pongo una genérica de internet:
 
-<img src="http://www.hisa-odlicnosti-bok.si//assets/pkc/images/c_108_330_l.jpg" />
+{{< image src="http://www.hisa-odlicnosti-bok.si//assets/pkc/images/c_108_330_l.jpg" >}}
 
 Tras una hora bajo tierra hemos salido de nuevo por otro extremo de la cueva y hemos encabalgado con la segunda ruta. Esta ruta recorre las dolinas alrededor de la cueva. Una dolina es una depresión producida por el colapso del techo de una cueva (lo que viene siendo un agujero del kopón). Esta ruta ha activado un poco mi vértigo, pues había puentes de rejilla, pero Alex ha venido al rescate:
 
@@ -29,11 +29,11 @@ Tras una hora bajo tierra hemos salido de nuevo por otro extremo de la cueva y h
 - El Mario Kart, supongo, pero no veo cómo eso va a ayudarme con este puente...
 - Vale, pues imagínate que estás jugando al Mario Karst
 
-<img src="https://media3.giphy.com/media/zNrg4ulntLBMk/giphy.gif" />
+{{< image src="https://media3.giphy.com/media/zNrg4ulntLBMk/giphy.gif" >}}
 
 Tras esta gloriosa intervención me he puesto muy digna y he intentado sacar alguna fotico decente:
 
-<img src="https://c1.staticflickr.com/9/8805/29035681033_8036b7dff1_c.jpg" />
+{{< image src="https://c1.staticflickr.com/9/8805/29035681033_8036b7dff1_c.jpg" >}}
 
 Y al terminar esta rutita, hemos ido a por la tercera (y no última) del día, que recorre un par de miradores sobre las dolinas y que conduce a los museos etnográfico y geológico de la zona.
 
@@ -58,11 +58,11 @@ La cosa podría haberse puesto peor, pero entonces, Alex ha salido corriendo hac
 
 Como nos sobraba tiempo y estábamos tan cerca de Italia, hemos cruzado la frontera para ir a visitar la Reserva Natural della Val Rosandra, desde donde se ve Triestre justo en la salida del valle. Otra rutita para coger un caché, y unas vistas de escándalo:
 
-<img src="https://c1.staticflickr.com/9/8026/29369619960_0d14f416b7_c.jpg" />
+{{< image src="https://c1.staticflickr.com/9/8026/29369619960_0d14f416b7_c.jpg" >}}
 
 Y para escándalo, lo de estos dos de la foto:
 
-<img src="https://c1.staticflickr.com/9/8433/29550691482_3e11ee1bde_c.jpg" />
+{{< image src="https://c1.staticflickr.com/9/8433/29550691482_3e11ee1bde_c.jpg" >}}
 
 Mañana toca día tranquilo de visita turística por Ljubjlana. Y mientras tanto, las foticos de hoy.
 

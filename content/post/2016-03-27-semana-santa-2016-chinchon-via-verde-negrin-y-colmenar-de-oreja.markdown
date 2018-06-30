@@ -13,7 +13,7 @@ El viernes tocó madrugar de nuevo (vacaciones, ¡ja!) para realizar la <a href=
 
 De nuevo un día fantástico para una ruta sencilla, para disfrutar del sol y estirar un poco las piernas, con 28 km de ida y vuelta entre Carabaña y Estremera.
 
-<img src="http://c4.staticflickr.com/2/1483/26070873075_49ef6ea489_c.jpg"/>
+{{< image src="http://c4.staticflickr.com/2/1483/26070873075_49ef6ea489_c.jpg">}}
 
 Aquí os dejo la ruta que hicimos, aunque es muy sencilla, pues discurre enteramente por la vía verde.
 
@@ -45,13 +45,13 @@ Resulta que había reservado en mi argentino favorito. En Segovia. Y yo apurada 
 
 El sábado nos acercamos a Chinchón a coger un <a href="https://www.geocaching.com/seek/log.aspx?LUID=0fe74193-0b5f-473a-a593-d3bc312155df" target="_new">épico caché</a> e ir paseando hasta Colmenar de Oreja, un paseo chulísimo entre almendros florecidos. Aquí, dos almendros en flor XDDDD
 
-<img src="http://c6.staticflickr.com/2/1653/26004532621_410fff77dc_c.jpg"/>
+{{< image src="http://c6.staticflickr.com/2/1653/26004532621_410fff77dc_c.jpg">}}
 
 En Colmenar descubrí el museo municipal de Ulpiano Checa, prolífico y polifacético pintor del que me declaro fan absoluto desde ya. Un museo municipal montado con mucho mimo y muy interesante. Como nota curiosa: Ulpiano Checa fue famoso por sus pinturas recreando novelas históricas, como *Ben Hur* y *Quo Vadis*; estos cuadros fueron tiempo después inspiración para la fotografía y montaje de escenas tan emblemáticas como la carrera de carros.
 
 Y de vuelta a Chinchón, que estaba atestado de turistas para asistir a los eventos de la Pasión de Semana Santa, pudimos coger esta estampa:
 
-<img src="http://c1.staticflickr.com/2/1618/25466104544_e1dbe0a230_c.jpg"/>
+{{< image src="http://c1.staticflickr.com/2/1618/25466104544_e1dbe0a230_c.jpg">}}
 
 Ha sido una Semana Santa con mucho aire libre que nos ha sentado de miedo. Aquí os dejo las fotos de estos últimos días:
 

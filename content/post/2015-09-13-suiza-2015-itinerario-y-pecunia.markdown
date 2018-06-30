@@ -45,6 +45,6 @@ En definitiva: es un viaje caro. Suiza es preciosa. Está limpia en todas partes
 
 Y el selfin (¡el selfie del fin! es un txistako! ¿lo pilláis? Nah, qué lo vais a pillar... no estáis en Suiza...)
 
-<img src="http://c1.staticflickr.com/1/650/20754433234_0bcdc12d02_z.jpg" title="Tontako Team FTW!" />
+{{< image src="http://c1.staticflickr.com/1/650/20754433234_0bcdc12d02_z.jpg" title="Tontako Team FTW!" >}}
 
 Gracias por seguir nuestras aventuras por Suiza. ¡Hasta la próxima! :)

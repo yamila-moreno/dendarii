@@ -17,7 +17,7 @@ En Fuente Dé está la estación del teleférico; viene a ser "abajo". Y con el 
 
 Una vez arriba se nos pasaron todos los males; un sol genial para acompañar estas vistas:
 
-<img src="http://c1.staticflickr.com/2/1474/26751541976_992a40a45a_c.jpg"/>
+{{< image src="http://c1.staticflickr.com/2/1474/26751541976_992a40a45a_c.jpg">}}
 
 Nos reunimos con el resto de la excursión y descubrimos que éramos 6 personas únicamente. El guía nos tanteó sobre nivel y motivación y al final nos hizo una ruta muy de pachanga por los alrededores. Estuvo muy bien porque, al no ser nada exigente, nos permitió hacer piña y risas con las otras dos parejas, y disfrutar del paisaje tranquilamente. Este fue el paseo que hicimos:
 
@@ -40,11 +40,11 @@ Llegamos al pueblo. Lleno de coches. Un pueblo de 44 habitantes. Qué raro. ¿Se
 
 En la plaza había un camión. Debió llegar en helicóptero porque no cabía por ninguna calle. Tenía un cartel: "Heidi crew trailer". ¡¡ERA ESO!! Ahora todos diréis: "claro, Mogrovejo, mítico pueblo donde se está grabando la serie de Heidi". A todos los que decís eso os estoy haciendo la peineta; que lo sepáis.
 
-<img src="http://c7.staticflickr.com/2/1487/26171142894_29f3cf27cd_c.jpg"/>
+{{< image src="http://c7.staticflickr.com/2/1487/26171142894_29f3cf27cd_c.jpg">}}
 
 Pues sí, resulta que el pueblo fue elegido para sustituir Suiza como enclave donde grabar esta serie. Seguramente vieron que con lo que cuesta un café en Suiza podrían grabar la peli y varias secuelas en Mogrovejo. El pueblo no ha tenido tantos turistas nunca, sospecho. Lo cierto es que el sitio es precioso y no cuesta imaginárselo en la historia de Heidi.
 
-<img src="http://c3.staticflickr.com/2/1467/26751541266_8f23d71bb9_c.jpg"/>
+{{< image src="http://c3.staticflickr.com/2/1467/26751541266_8f23d71bb9_c.jpg">}}
 
 Dimos un paseo por el pueblo y los alrededores, con unas vistas alucinantes. Pusimos un palito en el lugar donde queremos construir nuestra casa de monte para la próxima vez que volvamos. Dejamos Mogrovejo y nos fuimos por el Desfiladero del Deva hasta Hermida: una carretera angosta y llena de curvas encaramada junto al río que se abre paso a través de la roca. Y así terminó el segundo día: de nuevo lo pasamos fetén y pudimos descansar y desconectar.
 
@@ -52,6 +52,6 @@ Hoy teníamos la vuelta y de nuevo hemos tenido que replanificar: íbamos a una 
 
 Y ya en casita. Tenía muchas ganas de visitar Cantabria con Alex y ha sido un viaje de lujo. ¡¡Hasta la próxima entrega dendarii!!
 
-<img src="http://c5.staticflickr.com/2/1493/26171144284_14680f3e9f_c.jpg"/>
+{{< image src="http://c5.staticflickr.com/2/1493/26171144284_14680f3e9f_c.jpg">}}
 
 {{< flickr album="72157667873993395" >}}

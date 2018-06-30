@@ -15,7 +15,7 @@ trips:
 
 Decidimos poner nuestra base de operaciones en Pesariego, un pueblo muy pequeño en la carretera que llega a Potes y más allá a Fuente De. Un sitio fantástico en lo profundo del Valle en la comarca lebaniega.
 
-<img src="http://c4.staticflickr.com/2/1694/26736103555_2ac1af0860_c.jpg"/>
+{{< image src="http://c4.staticflickr.com/2/1694/26736103555_2ac1af0860_c.jpg">}}
 
 La previsión para el sábado era de un 90% de lluvia, así que tocó replanificar un poco. Desayuno tranquilo en el hotel y directos al Monasterio de Santo Toribio de Liébana. Enclavado en medio de la nada, resulta que es uno de los 4 lugares que tienen año santo, junto con Roma, Jerusalén y Santiago. Fue un lugar de peregrinaje masivo, pues tienen el trozo más grande que se conserva de la <i>Lignum Crucis</i>; concretamente, del brazo izquierdo de la cruz donde colgaron Jesús. El equipo tontako, que está siempre en la cresta de la tecnología, nos hemos puesto a diseñar una red social para pegrinos: Peregrindr. No puede fallar ;-)
 
@@ -23,7 +23,7 @@ La previsión para el sábado era de un 90% de lluvia, así que tocó replanific
 
 La historia es que Toribio se trajo en realidad un trozo de cada cruz que había en el Calvario (os acordáis, ¿no? Jesús y dos ladrones). Toribio, que era muy bueno expoliando reliquias, había faltado a clase de "etiquetar correctamente la cruz del Señor" y para cuando volvió ya no sabía cuál era cuál. Hubo revuelo porque a ver qué hacían ahora si solo podían reconocer uno de los maderos como la verdadera Lignum Crucis. ¡¡No hay problema!! Se trajeron un enfermo y le pusieron a tocar las cruces, las tres, y va y se curó después de tocar una de ellas, con lo que pudieron demostrar que era la verdadera cruz. Como no es la historia de Lázaro no diré que fue una demostración a doble ciego (#patapumpish!) pero no negaremos que el enfermo que se cura tocando una madera es tope científico. Pero qué bonito el valle.
 
-<img src="http://c4.staticflickr.com/2/1527/26736104555_110c005d90_c.jpg"/>
+{{< image src="http://c4.staticflickr.com/2/1527/26736104555_110c005d90_c.jpg">}}
 
 En cierto momento la gente ha formado una cola para ir a besar la cruz que reviste las reliquias y Alex y yo hemos aprovechado para escabullirnos y bajar a Potes, para visitar el pueblo. Es un municipio muy famoso y lo tienen muy cuidado, lleno de turistas, pero todos muy limpitos. Orujos y quesos. Un par de cachés. Y una torre con unas vistas alucinantes y una exposición de beatos (códices iluminados explicando el libro del Apocalipsis) que merece mucho la pena.
 
@@ -31,7 +31,7 @@ Iba ya siendo hora de comer y hemos ido a un sitio muy recomendado para tomar do
 
 Así que con la panza llenísima hemos empezado una ruta que nos ha llevado por pistas y cortafuegos hasta lo alto del Picu Cutriales, con unas vistas de los Picos de Europa orientales que quitaban el hipo; y desde ahí hasta Tudes, un pueblo precioso en medio de la montaña donde hemos aprovechado para descansar un ratito.
 
-<img src="http://c2.staticflickr.com/2/1710/26736102305_cca4bed0e2_c.jpg"/>
+{{< image src="http://c2.staticflickr.com/2/1710/26736102305_cca4bed0e2_c.jpg">}}
 
 En el camino de vuelta se pasa por Porcieda (pueblo abandonado) que está a la venta por 1M de €. Me lo estoy pensando. Aquí podéis ver la ruta en el mapa.
 
@@ -39,6 +39,6 @@ En el camino de vuelta se pasa por Porcieda (pueblo abandonado) que está a la v
 
 Tras la ruta hemos vuelto al hotel a reponer fuerzas para la ruta con raquetas de mañana desde Fuente Dé. Mañana más, pero mientras, ¡el selfie y las foticos!
 
-<img src="http://c5.staticflickr.com/2/1547/26710398276_8186497f63_b.jpg"/>
+{{< image src="http://c5.staticflickr.com/2/1547/26710398276_8186497f63_b.jpg">}}
 
 {{< flickr album="72157667719619826" >}}

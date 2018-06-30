@@ -18,15 +18,15 @@ Está preparado para realizarse en 15 etapas, y por lo visto si lo terminas te f
 
 Como este anillo pasa al lado de nuestra casa en Londres, hemos decidido empezar directamente ahí y ver hasta dónde llegábamos. En unos pocos kilómetros (y alguna milla menos) hemos entrado en el primer parque, y hemos hecho casi todo el recorrido rodeados de verde.
 
-<img src="http://c1.staticflickr.com/1/608/20596949165_4d1f7618f3_z.jpg"/>
+{{< image src="http://c1.staticflickr.com/1/608/20596949165_4d1f7618f3_z.jpg">}}
 
 Además nos ha hecho un día genial, sol y buena temperatura así que ha sido una gozada ir caminando. Los parques en Londres son un mundo aparte: hay muchísimos, muy verdes y en general muy bien cuidados. También por eso es habitual ver que están llenos de gente: paseando sus mascotas (aquí socializan sacando al perro), haciendo deporte o picnics al solete.
 
-<img src="http://c2.staticflickr.com/6/5663/20408996700_c2a8f9fced_z.jpg" />
+{{< image src="http://c2.staticflickr.com/6/5663/20408996700_c2a8f9fced_z.jpg" >}}
 
 Hemos entrado por Wimbledon Common Park y hemos cruzado hasta el Richmond Park, donde nos hemos cruzado con ciervos pastando a sus anchas. Uno de ellos estaba en nuestro camino y Dani ha puesto a prueba sus dotes de sonidos animales (era como una tos seca, y le he dado benzocaína) y hemos podido pasar. Cerca de los Kew Gardens (que visité con Alex en mayo y que tanto me gustaron) hemos decidido que cogíamos el tren de vuelta. Y como sé que lo estáis esperando ¡el selfie! ;-)
 
-<img src="http://c1.staticflickr.com/1/703/20410262659_c69825ce3d_c.jpg" />
+{{< image src="http://c1.staticflickr.com/1/703/20410262659_c69825ce3d_c.jpg" >}}
 
  Al final han sido 20 kilómetros de ruta, muy tranquila pero genial excusa para desconectar del mundanal ruido, que tanto me gusta :D  Y aquí os dejo también el tramo que hemos recorrido hoy:
 

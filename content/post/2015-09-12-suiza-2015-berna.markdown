@@ -72,15 +72,15 @@ _ JAJAJAJA JA JA JA - se notaba que era una risa falsa total...
 
 Y así fue como este segundo nivel pudo con nosotros y nos quedamos sin visita guiada. Al día siguiente tocó ver Berna con el mapita en mano. Berna es <em>yet another small city</em> sin demasiado encanto, aunque conseguimos un par de rinconcitos:
 
-<img src="http://c1.staticflickr.com/1/648/21320926392_a134308a92_z.jpg" title="Berna desde un puente bernés" />
+{{< image src="http://c1.staticflickr.com/1/648/21320926392_a134308a92_z.jpg" title="Berna desde un puente bernés" >}}
 
 Como veis, no nos atrajo especialmente mucho la ciudad y dimos un paseo browniano, visitamos iglesias, parques y miradores y cogimos muchos cachés. Uno de los cuales merece una foto y un <a href="http://www.geocaching.com/seek/log.aspx?LUID=60404a65-1d2e-4f9e-8596-5ae49e84f8d0" target="_new">log</a>...
 
-<img src="http://c2.staticflickr.com/6/5775/21320925982_46ba7ef9f4_z.jpg" title="Allí no está el caché" />
+{{< image src="http://c2.staticflickr.com/6/5775/21320925982_46ba7ef9f4_z.jpg" title="Allí no está el caché" >}}
 
 No es de extrañar que nos quedáramos así:
 
-<img src="http://c2.staticflickr.com/6/5790/21331601965_c13d3d7e5f_z.jpg" title="Vale, solo yo me quedé así..." />
+{{< image src="http://c2.staticflickr.com/6/5790/21331601965_c13d3d7e5f_z.jpg" title="Vale, solo yo me quedé así..." >}}
 
 Se nota que estas vacaciones van llegando a su fin, aunque aún queda una pequeña crónica y los títulos de crédito. Mientras, tanto, las fotitos del día en Berna :)
 

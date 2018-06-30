@@ -14,21 +14,21 @@ trips:
 
 Nos ha salido un día genial, y durante toda la jornada nos ha acompañado un solazo fantástico. Así que hemos hecho la ruta con muy buen ánimo.
 
-<img src="https://c1.staticflickr.com/9/8091/29229546324_c94407b292_c.jpg" />
+{{< image src="https://c1.staticflickr.com/9/8091/29229546324_c94407b292_c.jpg" >}}
 
 Se trata de la subida al pico Slemenova, a 1910 metros de altura, desde el paso de Vrsic (a 1611). Teóricamente se sube en 1h30m y se baja en 45m. Aún estoy llorando de la risa.
 
 Es una ruta bien señalizada, pero con zonas expuestas que cruzan por paredes de grava y cuya catalogación técnica es "MUCHO YUYU". Así que la subida ha sido pausada, disfrutando de los paisajes, ayudándome de Alex en algunos tramos y cuidando el tobillo. En total, 2 horas de ascenso para llegar a unas vistas que quitan el hipo:
 
-<img src="https://c1.staticflickr.com/9/8863/29821577976_330955a563_c.jpg" />
+{{< image src="https://c1.staticflickr.com/9/8863/29821577976_330955a563_c.jpg" >}}
 
 En la bajada me encontraba bastante fuerte y he llevado la marcha; hemos hecho la vuelta por el mismo camino, así que los espacios más expuestos eran ya conocidos y pude tener el control. He ido muchísimo mejor de lo que hubiéramos esperado ambos. Finalmente hemos hecho el descenso en 1h20m, con unas sensaciones muy muy buenas.
 
-<img src="https://c1.staticflickr.com/9/8355/29229574324_fd9f3459d7_c.jpg" />
+{{< image src="https://c1.staticflickr.com/9/8355/29229574324_fd9f3459d7_c.jpg" >}}
 
 Ayer estuvimos en este mismo paso de Vrsic, pero con tanta niebla que nos fue imposible ver nada. Hoy el día era tan bueno, que hicimos la mini-ruta de nuevo hasta la gostilna, para poder ver el paisaje que nos perdimos ayer. De nuevo, una gozada.
 
-<img src="https://c1.staticflickr.com/9/8422/29563940610_b60ffaaa9d_c.jpg" />
+{{< image src="https://c1.staticflickr.com/9/8422/29563940610_b60ffaaa9d_c.jpg" >}}
 
 Podéis ver la cara de "La chica pagana", una deidad del bosque que ayudaba a pastores y tenía premoniciones, a la que los otros dioses convirtieron en piedra por una premonición que no les gustó. Cosas de dioses.
 
@@ -40,7 +40,7 @@ Hemos comido en una terraza al solete en medio de las montañas, para rematar un
 
 Pero tranquilidad, que hay selfie:
 
-<img src="https://c1.staticflickr.com/9/8172/29744905792_df40d2e6eb_c.jpg" />
+{{< image src="https://c1.staticflickr.com/9/8172/29744905792_df40d2e6eb_c.jpg" >}}
 
 Y foticos:
 

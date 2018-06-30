@@ -13,11 +13,11 @@ tags:
 
 Se trata de una marcha ciclista por Madrid, con más de 18.000 ciclistas. Se cierran 20 km por las vías principales de la ciudad, y los ciclistas tomamos la calzada. Madrugamos un poco y pudimos colocarnos en la primera fila de salida.
 
-<img src="https://c2.staticflickr.com/6/5726/22030932626_d3d538fe57_c.jpg" title="Selfie de 3 antes de salir" />
+{{< image src="https://c2.staticflickr.com/6/5726/22030932626_d3d538fe57_c.jpg" title="Selfie de 3 antes de salir" >}}
 
 Empezó el día chispeando y amenazando con lluvia, a pesar de lo cual pronto éramos varios miles en la salida en Menéndez Pelayo:
 
-<img src="http://c1.staticflickr.com/1/776/22030933476_3b6fe3656f_c.jpg" title="Todos impacientes por salir a rodar Madrid" />
+{{< image src="http://c1.staticflickr.com/1/776/22030933476_3b6fe3656f_c.jpg" title="Todos impacientes por salir a rodar Madrid" >}}
 
 Salimos sin mayores problemas y, como no es una carrera sino una marcha popular, íbamos todos a ritmo tranquilo y de buen rollo. Nos cruzábamos con gente disfrazada, con un montón de familias con canijas en bici, y por todo el recorrido habían apostado escenarios con actuaciones y avituallamientos.
 
@@ -27,7 +27,7 @@ Aquí os dejo la ruta que hicimos:
 
 Aunque con la bici es más difícil hacer un selfie, Luiyo nos cazó durante la ruta:
 
-<img src="http://c1.staticflickr.com/1/633/21869232728_55b205c7d4_c.jpg" title="Casi-selfie tontako" />
+{{< image src="http://c1.staticflickr.com/1/633/21869232728_55b205c7d4_c.jpg" title="Casi-selfie tontako" >}}
 
 Después de la ruta, merecido almuerzo en una terracita. Yo nunca había participado en una marcha así por Madrid y fue una experiencia genial que repetiré el año que viene :D Y mientras, aquí podéis ver todas las fotos:
 

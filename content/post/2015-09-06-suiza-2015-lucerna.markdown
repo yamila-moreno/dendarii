@@ -16,15 +16,15 @@ Tocó día de paseo urbano. Lucerna es una ciudad moderna (tengo una abuela pate
 
 Lucerna tiene puentes:
 
-<img src="http://c1.staticflickr.com/1/745/20576046194_f34edfa92b_z.jpg" title="Lucerna tiene puentes" />
+{{< image src="http://c1.staticflickr.com/1/745/20576046194_f34edfa92b_z.jpg" title="Lucerna tiene puentes" >}}
 
 Lucerna tiene muchísimas fachadas pintadas de muy diversas formas:
 
-<img src="http://c1.staticflickr.com/1/578/21010611470_88d1fc39ed.jpg" title="Los graffiteros aquí se lo toman muy en serio" />
+{{< image src="http://c1.staticflickr.com/1/578/21010611470_88d1fc39ed.jpg" title="Los graffiteros aquí se lo toman muy en serio" >}}
 
 Y tiene un león tristón; como dijo Mark Twain, "es el trozo de roca más conmovedor que jamás haya conocido". Como la mayoría de las citas de Mark Twain, tiene pinta de ser falsa, pero las falsas atribuciones son a veces la mejor forma en la que vemos el mundo:
 
-<img src="http://c2.staticflickr.com/6/5830/21198716665_7feb1828ca_z.jpg" title="El león está triste, qué tendrá el león, los suspiros se escapan de la herida en su costado..." />
+{{< image src="http://c2.staticflickr.com/6/5830/21198716665_7feb1828ca_z.jpg" title="El león está triste, qué tendrá el león, los suspiros se escapan de la herida en su costado..." >}}
 
 Y para rematar nuestra visita, ¡¡primer transporte público que cogimos!! Fue el trolebús, un medio sumamente ecológico y que llega a muchísimos sitios. Además, no produce el efecto barrera de los trenMARTA, SAL DE ESTE CUERPO!!
 

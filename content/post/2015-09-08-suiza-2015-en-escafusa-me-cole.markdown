@@ -18,25 +18,25 @@ Desde Vaduz fuimos a Sankt Gallen, ciudad pequeñita y esta sí, con muchísimo 
 
 Además, la ciudad tiene una zona que es patrimonio de la UNESCO, unas cuantas calles aledañas a la catedral (donde está la biblioteca) con unas fachadas y balcones geniales.
 
-<img src="http://c1.staticflickr.com/1/768/21243171032_43bb6ecf85_z.jpg" title="Aquí cualquier pared está bien para hacerse un fresco" />
+{{< image src="http://c1.staticflickr.com/1/768/21243171032_43bb6ecf85_z.jpg" title="Aquí cualquier pared está bien para hacerse un fresco" >}}
 
 A media tarde llegamos a Escafusa, y nos dio tiempo a dar un paseo por la ciudad (¡chulísima!) antes de descansar
 
-<img src="http://c1.staticflickr.com/1/761/21243171852_4b833cfe43_z.jpg" title="Vista de Escafusa desde el Munot" />
+{{< image src="http://c1.staticflickr.com/1/761/21243171852_4b833cfe43_z.jpg" title="Vista de Escafusa desde el Munot" >}}
 
 Esta mañana, después de desayunar el muesli casero que nos ha preparado nuestra anfitriona, que es acupuntora y con la que he preferido no hablar de ese tema porque es muy maja y hace el mejor muesli del mundo... Tras el desayuno, decía, nos hemos ido a conocer un pequeño pueblo cercano llamado Stein am Rhein. Es un pueblo muy turístico, pero como hemos llegado prontico, hemos podido pasearlo a nuestro aire, y visitar la abadía tranquilamente.
 
-<img src="http://c1.staticflickr.com/1/563/21253668695_fb8b72ce05.jpg" title="Graffiteros del s.xviii, lo petaban muy fuerte" />
+{{< image src="http://c1.staticflickr.com/1/563/21253668695_fb8b72ce05.jpg" title="Graffiteros del s.xviii, lo petaban muy fuerte" >}}
 
 Estando tan cerca de Alemania nos hemos dicho, ¿y sucederá algo mágico si cruzamos la frontera? ¡Es una duda legítima! Además, Alex me tiene con la brújula haciendo ejercicios de orientación todo el día. Y solo había una forma de comprobar si voy aprendiendo algo. Nos hemos acercado y hemos cruzado a Alemania (al segundo intento, maldito norte). Y hemos cogido un caché. Y con las visitas de hoy ya hemos estado en 4 países distintos en estas vacaciones (y sí, hemos cogido cachés en los 4 países, faltaría más).
 
 Vuelta a Schaffhausen, aparcamos el coche y nos hemos ido dando un paseo por la orilla del Rhein hasta las Rheinfalls, unas (mini)cascadas muy bonitas entre dos castillos. Allí hemos comido al solete y por la tarde paseo de vuelta.
 
-<img src="http://c2.staticflickr.com/6/5643/21065564160_1973eb478a_z.jpg" title="Como el nacedero de Arteta, oiga..." />
+{{< image src="http://c2.staticflickr.com/6/5643/21065564160_1973eb478a_z.jpg" title="Como el nacedero de Arteta, oiga..." >}}
 
 Mañana comienza la recta final de nuestro viaje, salvo que convenza a Alex para que nos quedemos aquí para siempre. :D Pero por ahora, el selfie tontako...
 
-<img src="http://c2.staticflickr.com/6/5671/21243170092_c61a27648b_z.jpg" title="Tontako selfie" />
+{{< image src="http://c2.staticflickr.com/6/5671/21243170092_c61a27648b_z.jpg" title="Tontako selfie" >}}
 
 Y las foticos de estos días. ¡Seguiremos informando!
 

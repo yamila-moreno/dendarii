@@ -14,17 +14,17 @@ Hace tres años que de la forma más tonta (tontaka, que dirán los historiadore
 
 Esto ocurre siempre el último finde de enero o primer finde de febrero. Que digo yo que ya podríamos habernos conocido en Tenerife a 20 grados, y no en Bruselas a -12. Entenderéis que no es el mismo regocijo. Pero claro, los grandes sucesos de la Historia perfectamente pueden darse con clima adverso; que se lo digan si no a las tropas napoleónicas intentando entrar en Rusia. Pues lo mismo el Team Tontako, un evento de similar importancia, y con mejor equipo de estrategas si nos atenemos a los resultados. Napoleón 0 - Tontakos 1.
 
-<img src="https://c2.staticflickr.com/2/1484/24450571699_7201576778_c.jpg" title="Impresionante catedral colonesa">
+{{< image src="https://c2.staticflickr.com/2/1484/24450571699_7201576778_c.jpg" title="Impresionante catedral colonesa" >}}
 
 Dicho lo cual, ya habéis adivinado que hemos pasado fresquete en estas vacaciones. El lunes post-FOSDEM viajamos desde Bruselas en tren hasta Köln. Escogimos esta ciudad tanto porque estaba cerquita como porque yo viví allí 3 meses mientras hacía mis prácticas de informática y quería pasear de nuevo la ciudad. En el AirBnB el anfitrión nos dejó una guía llamada "Colonia en 3 días" que nos vino fenomenal para organizarnos los paseos. Dejamos las mochilas y del tirón nos fuimos a conocer el centro de la ciudad. Encontramos para comer un antro mítico que normalmente está lleno con esperas de hasta 2 horas y que, un lunes de febrero, tenía a unos cuantos parroquianos y poco más. ¡Todos se conocían en el bar salvo nosotros dos! Según nos sentamos el camarero nos planta unas cervezas <em>kolsh</em> siguiendo la traidción local. Después llegaron otras cervezas y entre <em>kolsh</em> y <em>kolsh</em> nos pusieron las típicas costillas, bratwurst y la mejor <em>kartofelnsatat</em> que he probado nunca. Y después nos fuimos a pasear por el río con cuidado de no caernos al Rin. Descubrir entonces que Colonia no es ciudad muy geocacher fue un duro golpe que solo la aparición de más cerveza pudo paliar.
 
-<img src="https://c2.staticflickr.com/2/1628/24191376293_cb7c7ffcc5_c.jpg" title="Casas coloridas en Colonia">
+{{< image src="https://c2.staticflickr.com/2/1628/24191376293_cb7c7ffcc5_c.jpg" title="Casas coloridas en Colonia" >}}
 
 El martes daban "lluvia fina", y esto nos permitió descubrir cómo funciona la climatología (sí, climatología) en Colonia. A toda predicción hay que sumarle "lluvia". Si dicen que hará sol, significa que hará sol y lluvia. Si dicen "lluvia fina", significa que hará lluvia fina más lluvia. Por suerte habíamos dejado los planes bajo techo para el martes y pudimos esquivar parcialmente el factor "+ lluvia". Cogimos la visita guiada a la muy famosa Catedral de Colonia: fuimos los únicos así que tuvimos un tour privado por la <em>Dom</em>, muy interesante. Descubrí que la ciudad es orgullosa poseedora de las reliquias de los Reyes Magos (Drei Könige) y tienen muchísimos motivos civiles y artísticos en torno a estas figuras. Después, visita obligada al museo Romano-Germánico: Colonia fue una famosa colonia (no os lo esperábais eh) romana y tienen muchísimos restos. El museo está bastante mal diseñado pero la visita merece la pena.
 
 A petición de Alex, nos acercamos a comer a un sitio de <em>snitzel</em>. No entiendo los snitzels como no entiendo los cachopos: es un filete empanado. Superadlo. Y por la tarde, más visita al resguardo: el museo del Chocolate. Antes de entrar en el museo propiamente dicho, pasamos por la cafetería donde acompañamos un café con una porción de <del>suculenta y deliciosa</del> tarta de chocolate. Como no estaba muy buena, yo apenas comí. Lo que implica que Alex se puso ciego y le dio un empacho. Después de la gesta/ingesta no nos vimos con fuerza para entrar en el museo así que nos quedamos leyendo desde la cafetería con vistas al Rin.
 
-<img src="https://c2.staticflickr.com/2/1461/24791953726_1bc2c5476e_c.jpg" title="La catedral mola, pero el chocolate, más ;-)">
+{{< image src="https://c2.staticflickr.com/2/1461/24791953726_1bc2c5476e_c.jpg" title="La catedral mola, pero el chocolate, más ;-)" >}}
 
 Esta mañana la previsión era de "no lluvias" así que hizo "no lluvias" más "lluvia". Todo esto acompañado por un desconcertante momento de granizo. Hemos aprovechado la mañana para pasear una parte que nos habíamos dejado el primer día, para coger uno de los poquísimos cachés tradicionales de la ciudad y después de comer, al aeropuerto y de vuelta a la mundanal rutina.
 
@@ -32,7 +32,7 @@ Estos días nos hemos encontrado una ciudad en un momento muy peculiar: en un pa
 
 Llevo tres años comentando lo genial que es viajar con Alex; me vais a permitir que me ponga un poco románOSTRAS EL SELFIE!!!
 
-<img src="https://c2.staticflickr.com/2/1680/24818288305_deb5e30bdd_b.jpg" title="En cada selfie nos gustamos más" />
+{{< image src="https://c2.staticflickr.com/2/1680/24818288305_deb5e30bdd_b.jpg" title="En cada selfie nos gustamos más" >}}
 
 ¡Hasta la próxima entrega! Y mientras, os dejo las foticos del viaje :D
 

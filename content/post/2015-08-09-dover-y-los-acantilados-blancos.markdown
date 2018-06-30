@@ -19,11 +19,11 @@ Encontramos una única empresa que hiciera salidas en barco pero tenían todo re
 
 El castillo tiene bastante historia: fue sede de varios reyes británicos en la Edad Media y durante la Segunda Guerra Mundial fue un emplazamiento estratégico, donde se cavaron túneles (se pueden visitar) para montar puestos de comunicaciones. La mezcla queda un poco rara, y la tienda y los museos están muy orientados a rememorar esta parte final de su vida.
 
-<img src="http://c1.staticflickr.com/1/363/20421744522_3a27a9b4d9_z.jpg" />
+{{< image src="http://c1.staticflickr.com/1/363/20421744522_3a27a9b4d9_z.jpg" >}}
 
 Después, del tirón nos fuimos al centro de visitantes de los Acantilados Blancos, desde donde partía la rutilla hasta el faro. Es una ruta sencilla y bien señalizada, de 3kms de ida, genial para estirar un poco las piernas.
 
-<img src="http://c1.staticflickr.com/1/273/20404162026_f8cddc4d85_z.jpg" />
+{{< image src="http://c1.staticflickr.com/1/273/20404162026_f8cddc4d85_z.jpg" >}}
 
 Esta es la ruta que hicimos por los acantilados, desde donde ¡veíamos Francia!
 
@@ -37,7 +37,7 @@ Como hacía una tarde buenísima (no sé qué decís siempre del tiempo londinen
 
 En el camino de vuelta, hicimos un recorrido a menor altura y que corría más cerca del filo del acantilado. Y como muestra de mi valentía asomándome a un precipicio de infinito vacío:
 
-<img src="http://c1.staticflickr.com/1/549/20242407698_52d6141aba_c.jpg" />
+{{< image src="http://c1.staticflickr.com/1/549/20242407698_52d6141aba_c.jpg" >}}
 
 Y vuelta para el centro de Dover. Pasamos 5 minutos por el hostal, para dejar las mochilas y hacer el checkin, y nos fuimos al puerto, a un <a href="http://www.tripadvisor.es/Restaurant_Review-g186313-d2282931-Reviews-The_Hythe_Bay_Seafood_Restaurant-Dover_Kent_England.html" target="_new">restaurante</a> con pescado rico y música en directo!
 

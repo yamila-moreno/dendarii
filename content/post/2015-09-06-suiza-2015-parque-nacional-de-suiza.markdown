@@ -18,7 +18,7 @@ Del lado suizo, la entrada al Parque Nacional pasa por Zernez, donde está el ce
 
 Era una ruta que corría a través de varios <em>grimmels</em> (que nosotros hemos traducido por "claros en el bosque"), y tuvimos la oportunidad de ver una manada de corzos (similar).
 
-<img src="http://c2.staticflickr.com/6/5695/21172464446_70e73f1a5d_z.jpg" title="Hijas mías, algún día todo este grimmel será vuestro" />
+{{< image src="http://c2.staticflickr.com/6/5695/21172464446_70e73f1a5d_z.jpg" title="Hijas mías, algún día todo este grimmel será vuestro" >}}
 
 Tras la ruta, nos fuimos hacia nuestro alojamiento en Italia. Para llegar hay que recorrer el túnel Munt La Schera, un impresionante túnel bastante claustrofóbico de 3 kilómetros de longitud, bajo la montaña que separa Italia y Suiza.
 
@@ -26,13 +26,13 @@ Tras la ruta, nos fuimos hacia nuestro alojamiento en Italia. Para llegar hay qu
 
 Hoy por la mañana hemos vuelto a cruzar el túnel para ir a la parte Suiza a hacer nuestras rutas. Cogimos el alojamiento en Italia porque era bastante más barato, sin saber que por cruzar <del>el túnel</del> la presa que hay junto al túnel, te cobran 15 chocofrancos (CHF). Cada vez que pasas :P Avisados quedáis.
 
-<img src="http://c2.staticflickr.com/6/5754/21172464576_72d66dd5e6_z.jpg" title="Con 10 chocofrancos, te monto una presa" />
+{{< image src="http://c2.staticflickr.com/6/5754/21172464576_72d66dd5e6_z.jpg" title="Con 10 chocofrancos, te monto una presa" >}}
 
 Hemos llegado pronto y hemos empezado la ruta número 17. Es la más emblemática y la que (según nos dijeron) más se hace. De nuevo estar fuera de temporada nos ha supuesto hacer la ruta prácticamente solos. Ha sido una auténtica gozada hacer la ruta, especialmente después de que canceláramos la de Faulhorn. Esta parte de Suiza tiene un paisaje alpino distinto del que nos encontramos en Lauternbrunen, más parecido tal vez a lo que nos hemos encontrado en Pirineos.
 
 Esta ruta nos ha llevado poco más de 3 horas, así que nos hemos ido directamente a hacer otra ruta: una más sencilla pero también con vistas increíbles. En esta hemos tenido suerte y hemos visto una marmota saltando por la pradera. Aquí hemos aprovechado para comer 'con vistas':
 
-<img src="http://c2.staticflickr.com/6/5627/20576839654_ceed6727c5_z.jpg" title="La marmota hace marmúúúú" />
+{{< image src="http://c2.staticflickr.com/6/5627/20576839654_ceed6727c5_z.jpg" title="La marmota hace marmúúúú" >}}
 
 Aquí os dejo las 3 rutas que hemos hecho en el parque:
 
@@ -40,7 +40,7 @@ Aquí os dejo las 3 rutas que hemos hecho en el parque:
 
 Al terminar, aún era pronto, así que Alex ha propuesto acercanos al Paso del Stelvio, famosa carretera por ser pintoresca y peligrosa. Es un sitio muy concurrido por moteros y conductores de cochazos. Esta es la más famosa, en parte por ser muy fotogénica, aunque las carreteras que hemos cogido de vuelta a Italia (¡sin pasar por el túnel!) no tenían nada que envidiar tampoco. Ha sido una ruta alucinante por unos valles bastante recónditos y preciosos.
 
-<img src="http://c2.staticflickr.com/6/5750/20576039244_a21a81d52d_z.jpg" title="Ruta de moteros y ricachones" />
+{{< image src="http://c2.staticflickr.com/6/5750/20576039244_a21a81d52d_z.jpg" title="Ruta de moteros y ricachones" >}}
 
 Ha sido un día genial, y el tiempo acompañó (las previsiones nos daban malas ayer mismo). Mañana salimos para Shaffhausen, al norte de Zurich, de nuevo cambio de tercio y encaramos la segunda semana de estas vacaciones. ¡Seguiremos informando!
 

@@ -13,7 +13,7 @@ Estuvimos barajando varias opciones para organizar el viaje, y al final nos deci
 
 Llegamos a Santa Eulalia el martes a mediodía, hacía un sol esplendoroso y nos dio muy buenas sensaciones. Aprovechamos para poner a punto las bicis, llenar bidones y ponernos en marcha. Atravesamos el pueblo y en seguida nos cruzamos con la Vía Verde que daba comienzo a nuestra ruta.
 
-<img src="https://c2.staticflickr.com/8/7391/27867959901_e4cf7c3a76_c.jpg" />
+{{< image src="https://c2.staticflickr.com/8/7391/27867959901_e4cf7c3a76_c.jpg" >}}
 
 La Vía Verde de Ojos Negros sigue el recorrido de la antigua ruta desde Ojos Negros hasta Sagunto, por la que llevaban el mineral extraído en las minas de Ojos Negros. Actualmente está acondicionada únicamente desde Santa Eulalia, aunque la primera parte del recorrido está parcialmente señalizada. Es la Vía Verde más larga de España, con unos 160 kms. Los más avezados la hacen en un solo día. Nosotros, que estábamos de vacaciones, y no somos tan avezados, la hicimos en 4 días.
 
@@ -21,11 +21,11 @@ El primer tramo nos llevó hasta Teruel. Sí, existe. Sí, es probablemente la p
 
 Teruel es una ciudad super pequeña y bien apañada, muy mudéjar y que han sabido sacar partido a la historia de amor más absurda ever. ¿Os sabéis lo de los amantes? Con ese nombre, al menos serán amantes, ¿no? Pues no. ¿Ni siquiera un besico? NI SIQUIERA UN BESICO. Ella le dijo que no, que estaba casada y que no había beso. Él va y se muere. O sea. Y luego va ella y por lo visto también se muere. Y de ahí han montado un mausoleo chulísimo que bien merece la visita.
 
-<img src="https://c2.staticflickr.com/8/7105/27910935476_c59436d07a_c.jpg" />
+{{< image src="https://c2.staticflickr.com/8/7105/27910935476_c59436d07a_c.jpg" >}}
 
 El segundo día continuamos nuestra ruta; el camino está en buen estado y bien señalizado. El paisaje va cambiando: pasos a nivel entre cárcavas y campos de cultivo, molinos gigantescos y, cómo no, estaciones abandonadas de la antigua vía.
 
-<img src="https://c2.staticflickr.com/8/7440/27665901140_bab7937763_c.jpg" />
+{{< image src="https://c2.staticflickr.com/8/7440/27665901140_bab7937763_c.jpg" >}}
 
 Íbamos disfrutando de la ruta, en plan así:
 
@@ -35,7 +35,7 @@ Cuando de pronto, sin (casi) avisar, se pone a chispear. ¡¡Fantástico!! Nada 
 
 Nos pusimos a pedalear fuerte, a 90 km/hora (o incluso menos) cuando de pronto, detrás de una curva, nos encontramos con un hotel-cafetería-spa-techo-cubierto-salvación. Nos pusimos un ratito bajo el alerón del parking esperando que parase de llover, pero como pintaba fatal, decidimos candar las bicis y aprovechar para comer en el sitio. Y aquí vino el primer presagio de que iba a ser un gran día. Le pedí caldico. Así, a bocajarro. Y va tenía.
 
-<img src="https://media0.giphy.com/media/13p77tfexyLtx6/giphy.gif" />
+{{< image src="https://media0.giphy.com/media/13p77tfexyLtx6/giphy.gif" >}}
 
 ¡¡Tenían caldico!! Y qué bien sentó. Ya puestos, hicimos una comida no-muy-frugal, y a eso de las 14:30 salió el sol y se despejó, así que decidimos que era hora de seguir la ruta. Mientras tomábamos el café, me dio por mirar la previsión del tiempo.
 
@@ -57,21 +57,21 @@ Y con estas partimos rápidamente de ese trocito de cielo que era el bar con cal
 
 A media tarde llegamos a la que fue la mejor parada del viaje: un hotel rural construido en una antigua estación, en el apeadero de Albentosa. El anfitrión y su madre fueron excepcionales, pudimos lavar y secar nuestra ropa y descansar tranquilamente. Después del tute del día nos vino de perlas.
 
-<img src="https://c2.staticflickr.com/8/7421/27868007821_7c08f0268f_c.jpg" />
+{{< image src="https://c2.staticflickr.com/8/7421/27868007821_7c08f0268f_c.jpg" >}}
 
 El tercer día amaneció soleado y sin pinta de llover. Pero no iba a ser tan fácil. ¿Os acordáis de las cárcavas? Indican arcilla. ¿Y sabéis qué pasa cuando la arcilla se moja? Pues que había tanto barro que se bloqueaban las ruedas. Tuvimos unas cuantas paradas técnicas para desatascar el barro de la horquilla y de los cambios. Nos encontramos algunos tramos donde se había desprendido tanta arcilla y había tanto barro que tuvimos que pasar a pie empujando la bici.
 
-<img src="https://c2.staticflickr.com/8/7634/27665963400_3932e1b623_c.jpg" />
+{{< image src="https://c2.staticflickr.com/8/7634/27665963400_3932e1b623_c.jpg" >}}
 
 Con todo, fue una buena etapa de nuevo. Íbamos parando en las distintas estaciones, y disfrutando de una etapa un poco más larga pero sencilla y muy agradable. Por cierto, elegimos hacer la ruta en sentido descendente. Y añado: por supuesto :D
 
 Esa noche dormimos en una casona en un pueblecito llamado Algar de Palancia. Había que reponer fuerzas para la última etapa.
 
-<img src="https://c2.staticflickr.com/8/7530/27332822894_c56fd05689_c.jpg" />
+{{< image src="https://c2.staticflickr.com/8/7530/27332822894_c56fd05689_c.jpg" >}}
 
 Y así amanecimos el cuarto y último día de la ruta. Fue el tramo peor llevado, tuvimos que callejear bastante y gracias a que Luiyo se había estudiado la ruta, pudimos avanzar sin (apenas) perdernos. Nos encontramos un par de tramos de obras que tocó sortear y casi sin darnos cuenta llegamos al Puerto de Sagunto, y un poco más allá, estaba el mar \o/
 
-<img src="https://c2.staticflickr.com/8/7677/27911119526_29b56132d7_c.jpg" />
+{{< image src="https://c2.staticflickr.com/8/7677/27911119526_29b56132d7_c.jpg" >}}
 
 Tras hacer check en el mar Mediterráneo, fuimos a una gasolinera a limpiar un poco el barro de las bicis y de ahí cogimos un cercanías a Valencia. Fuimos directos a la estación de AVE para comprar unos billetes para nosotros y nuestras bicis.
 

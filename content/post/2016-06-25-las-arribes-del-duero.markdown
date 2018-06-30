@@ -11,15 +11,15 @@ Finde largo tontako aprovechando el puente de San Isidro en Madrid. Esta vez el 
 
 Tras varios intentos, encontramos alojamiento en Vilvestre, un pueblecito con mucho encanto de día y niebla <em>lovecraftiana</em> de noche. Lo normal. SPOILER: no nos comió ningún Profundo surgido del Duero. Llegamos el viernes y nos dimos un paseo por las inmediaciones del pueblo, que está en pleno parque natural. Unas vistas geniales nos dieron la bienvenida:
 
-<img src="https://farm8.staticflickr.com/7419/27803612202_aab9bef2ed_h.jpg"/>
+{{< image src="https://farm8.staticflickr.com/7419/27803612202_aab9bef2ed_h.jpg">}}
 
 El sábado daban lluvias así que decidimos hacer la ruta en coche; recorrimos la zona centro y sur de las arribes, parándonos en los muchos miradores que se asoman al río y al paisaje. Tuvimos oportunidad de ver muchísimas rapaces que anidan entre las rocas. SPOILER: tampoco nos comió ninguna rapaz. Nosotros no nos comimos ninguna rapaz. Bueno, yo no me comí ninguna. Y no miro a nadie.
 
-<img src="https://farm8.staticflickr.com/7331/27828381711_f815d4fe0b.jpg" />
+{{< image src="https://farm8.staticflickr.com/7331/27828381711_f815d4fe0b.jpg" >}}
 
 El domingo aprovechamos que daban buena previsión de tiempo para hacer una ruta por las propias Arribes, cerca de Aldeadávila. La ruta sale de un merendero fantástico con sombra y agua y en pocos kilómetros se asoma al Duero desde el Picón de Felipe, un saliente precioso con una historia tristísima. Allí pastoreaba Felipe e iba siempre a asomarse al Duero porque al otro lado la dulce Aurelia (tal vez fuera una Fátima) pastoreaba a las suyas propias. Y el muchacho la cortejaba desde la distancia pero queria algo más, y se propuso cruzar el río para hablar con ella. La única idea que se le ocurrió fue hacer un puente a base de pedrolos. No lo consiguió y ya os digo que aunque no tengo ninguna ingeniería de Puentes do Douro se veía venir. Total, que puso en marcha el plan B: se suicidó. Y al saliente le pusieron su nombre. ¿Por qué no usó una barca? ¿Una cuerda? ¿Por qué no se enamoró de una muchacha de su misma orilla? ¿Por qué no cruzó por otro punto más accesible? Son preguntas que os sugiero que NO hagáis a los guías de la zona porque se lo toman muy a mal.
 
-<img src="https://farm8.staticflickr.com/7364/27292249343_cf1cf715aa.jpg" />
+{{< image src="https://farm8.staticflickr.com/7364/27292249343_cf1cf715aa.jpg" >}}
 
 La visita hasta el Picón es la más típica de esa zona, y después de asomarnos por si veíamos a Fátima, continuamos con nuestra ruta. Nos hacía un día genial e íbamos con unas vistas preciosas. Unos kilómetros más allá la ruta empezó a ser un poco más técnica de lo que habíamos anticipado. El camino no se veía apenas, había barro y muchas raíces dificultaban el avance. Otros cuantos kilómetros más allá, estábamos completamente fuera del camino. Oops.
 
@@ -34,7 +34,7 @@ Teníamos el camino 60 metros más arriba, y como estábamos en las arribes, ¡�
 
 Volvimos al merendero donde nos comimos hasta las piñas que había por ahí caídas. Y tras descansar un poco fuimos a por el <em>crucero</em> por el Duero: un paseo de 22 kms sobre el Duero, desde una presa hasta la siguiente. Una guía nos fue contando mucho del folklore y la idiosincrasia de la zona, la historia marcada por la industria hidroeléctrica, y la biodiversidad que hay entre las paredes verticales. ¡Muy recomendable!
 
-<img src="https://farm8.staticflickr.com/7337/27870399946_234eb05149.jpg" />
+{{< image src="https://farm8.staticflickr.com/7337/27870399946_234eb05149.jpg" >}}
 
 Y después del paseo en barco aún nos dio tiempo a acercanos al Pozo de los Humos.
 
@@ -48,4 +48,4 @@ Como es habitual, os dejo aquí las fotos del finde.
 
 Y como este post ha llegado un poco tarde, también el selfie (como si me lo fuera a dejar, sí ;-))
 
-<img src="https://farm8.staticflickr.com/7230/27292248263_1eba181f31.jpg" />
+{{< image src="https://farm8.staticflickr.com/7230/27292248263_1eba181f31.jpg" >}}

@@ -13,7 +13,7 @@ Fuimos hasta La Pradera de Navalhondo (junto a Valsaín) desde donde partía nue
 
 La ruta comienza bajo una arboleda preciosa, y tuvimos la suerte de que hacía un tiempo inmejorable, así que con paso firme vamos siguiendo el track que estábamos siguiendo:
 
-<img src="http://c2.staticflickr.com/2/1682/26004525521_4b2cbcf80c_c.jpg"/>
+{{< image src="http://c2.staticflickr.com/2/1682/26004525521_4b2cbcf80c_c.jpg">}}
 
 Poco a poco vamos subiendo y en la pista aparecen bloques de nieve, fáciles de sortear. En cierto momento, el track nos saca de la pista y durante un rato, vamos campo a través. Descubrimos que había bastante más nieve de la que creíamos, cuando a cada paso nos íbamos hundiendo hasta la rodilla. Un rato después recuperamos una pista por la que había pasado el quitanieves y así llegamos hasta el punto más alto de la jornada, donde aprovechamos para comer en unos troncos al solete.
 
@@ -23,7 +23,7 @@ Entonces comenzó la parte inesperada y algo más difícil de la ruta. El sitio 
 
 Esta vez no quedaba ni rastro del camino y solo podíamos guiarnos por el track del GPS, y seguir el curso del río que bajaba parejo con nuestra ruta. Los siguientes kilómetros fuimos por las lomas entre los árboles con unos paisajes preciosos. Y así llegamos hasta las cascadas del arroyo de la Chorranca, que con el comienzo del deshielo están increíbles.
 
-<img src="http://c4.staticflickr.com/2/1535/26004524891_1ea29ce3b3_c.jpg"/>
+{{< image src="http://c4.staticflickr.com/2/1535/26004524891_1ea29ce3b3_c.jpg">}}
 
 Un paisaje un poco escondido pero que merece muchísimo la pena, y que tuvimos la suerte de pillar en buen momento. Y siguiendo el cauce del arroyo dejamos atrás las cascadas y nos dispusimos a acometer los kilómetros finales de la ruta.
 
@@ -38,7 +38,7 @@ Final feliz para una ruta fantástica en la que tuvimos que poner a prueba nuest
 
 Aunque el tono de esta entrada es algo más serio, la ruta fue genial y os dejo el selfie que lo demuestra:
 
-<img src="http://c3.staticflickr.com/2/1627/26044931626_3176eba951_c.jpg"/>
+{{< image src="http://c3.staticflickr.com/2/1627/26044931626_3176eba951_c.jpg">}}
 
 Pongo también el track que hicimos, aunque aviso de que **no es recomendable seguirlo**:
 

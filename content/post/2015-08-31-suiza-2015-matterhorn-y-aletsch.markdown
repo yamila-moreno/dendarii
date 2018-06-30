@@ -22,11 +22,11 @@ El Matterhorn o Cervino está ahí en medio y lo reconoceréis porque aparece en
 
 Bajamos de nuevo en góndola hasta Trokener Steg, la estación donde comenzaba nuestra ruta senderista. En realidad fueron dos rutas. La primera fue la ruta del glaciar del Matterhorn. Esta ruta termina en la estación Schwarzsee, donde aprovechamos para descansar un poco y comer (sí, ¡también cogimos cachés!)
 
-<img src="http://c2.staticflickr.com/6/5790/20420345223_ae1c2866eb_z.jpg" title="Y me cuentan que en Madrid llovía a cántaros..."/>
+{{< image src="http://c2.staticflickr.com/6/5790/20420345223_ae1c2866eb_z.jpg" title="Y me cuentan que en Madrid llovía a cántaros...">}}
 
 De ahí seguimos con la Matterhorn trail, que termina de rodear la montaña por la cara oeste, también con unas vistas espectaculares. Esta vez los prismáticos nos dieron un sorpresón: pillamos a unos alpinistas subiendo la cresta final de la montaña. Es un poco como Peñalara, pero más. Mucho más. A lo bestia más XD
 
-<img src="http://c2.staticflickr.com/6/5792/21015167436_8bb51e141a.jpg" title="Matterhorn"/>
+{{< image src="http://c2.staticflickr.com/6/5792/21015167436_8bb51e141a.jpg" title="Matterhorn">}}
 
 Finalmente fueron unos 15 kms, prácticamente todo cuesta abajo (ojo que también cuesta!) por una zona alucinante.
 
@@ -46,7 +46,7 @@ Han sido dos días muy intensos de Alpes, estamos cansadicos del trote, y mañan
 
 Urgente, últimas noticias. Me dicen por el pinganillo que me acabo de inventar en este momento, que he cerrado el post sin selfie. Ay, cordericos, dónde vais sin nuestro selfie... ;-)
 
-<img src="http://c2.staticflickr.com/6/5719/21042023405_c7b5193773_z.jpg" title="Una maravilla de la naturaleza, y detrás el Matterhorn ;-)"/>
+{{< image src="http://c2.staticflickr.com/6/5719/21042023405_c7b5193773_z.jpg" title="Una maravilla de la naturaleza, y detrás el Matterhorn ;-)">}}
 
 Y también os dejo por aquí las foticos de estas dos jornadas, ¡incluye un vídeo!
 

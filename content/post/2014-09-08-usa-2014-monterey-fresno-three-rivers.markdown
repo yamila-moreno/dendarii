@@ -15,8 +15,7 @@ Nos hemos despertado pronto para bajar al desayuno del <del>Marriot</del> Merrit
 
 Antes de salir de Monterey (que no…) hemos parado brevemente en la playa San Carlos para hacer check en el Pacífico.
 
-[![He estado un rato esperando a que viniera Mitch Buchannan a rescatarme, pero solo han venido tres gaviotas y unas cuantas algas.](/images/2014/09/blog-check-atlantico.jpg#small)](/images/2014/09/blog-check-atlantico.jpg#full)
-He estado un rato esperando a que viniera Mitch Buchannan a rescatarme, pero solo han venido tres gaviotas y unas cuantas algas.
+{{< image title="He estado un rato esperando a que viniera Mitch Buchannan a rescatarme, pero solo han venido tres gaviotas y unas cuantas algas." src="/images/2014/09/blog-check-atlantico.jpg" >}}
 
 Y a media mañana hemos cogido a Totx (le encanta que le llamemos así) y hemos enfilado rumbo a Fresno, donde pensábamos parar a comer y pequeña visita.
  Las carreteras americanas, ¡qué decir! Son rectas y muy norteamericanas. Como son muchos muchos kilómetros, montar una incorporación cada <del>kilómetro</del> milla es muy costoso; así que mejor hacen cruces, con un semáforo o con un stop y ya si eso los conductores se orgainzan. Hay cruces con 4 stops y todavía estamos intentando descubrir cómo funcionan.
@@ -29,9 +28,6 @@ Como en Fresno no había mucho que hacer, aparte de cocernos, hemos cogido el co
 
 Nos hemos alojado en una acogedora cabaña al pie de la carretera donde seguro que no ha habido ningún crimen en mucho tiempo. Ni es zona de riesgo de predators o psicópatas. Si no vuelvo, recordadme como la gran taxidermista que fui.
 
-[![Hay un libro de Stephen King que me viene a la cabeza...](/images/2014/09/blog-cabin.jpg#small)](/images/2014/09/blog-cabin.jpg#full)
-Hay un libro de Stephen King que me viene a la cabeza…
+{{< image title="Hay un libro de Stephen King que me viene a la cabeza..." src="/images/2014/09/blog-cabin.jpg" >}}
 
 Mañana, visita al Sequoia National Park. ¡seguiremos informando!
-
-

@@ -15,18 +15,15 @@ El jueves nos tomamos un desayuno largo en el café cercano para aprovechar que 
 
 Tomamos la calle Divisadero hacia el norte hasta esta zona entre las calles Broderick y Bush. ¿Adivináis qué nos llevó hasta allí?
 
-[![Everywhere you go...](/images/2014/09/full-house.jpg#small)](/images/2014/09/full-house.jpg#full)
-Everywhere you go…
+{{< image classes="center" title="Everywhere you go..." src="/images/2014/09/full-house.jpg" >}}
 
 Volvimos a la calle Divisadero y hacia el este nos encontramos con el barrio japonés. Aquí llaman barrio a cualquier cosa: son unas pocas manzanas con un centro japonés, supermercados japoneses y, por supuesto, japoneses. Antes de la Segunda Guerra Mundial vivía una población muy grande de japoneses, pero durante la guerra los llevaron a campos de concentración (aunque tenían la ciudadanía estadounidense, de traca); al término de la guerra volvieron a establecerse aquí aunque no llegaron a recobrar el antiguo esplendor.
 
-[![El área 51 es claramente un señuelo; los extraterrestres llegaron al barrio japonés.](/images/2014/09/aliens.jpg#small)](/images/2014/09/aliens.jpg#full)
-El área 51 es claramente un señuelo; los extraterrestres llegaron al barrio japonés.
+{{< image classes="center" title="El área 51 es claramente un señuelo; los extraterrestres llegaron al barrio japonés." src="/images/2014/09/aliens.jpg" >}}
 
-Desde el *Japan Town* llegamos hasta la Plaza Alta, que efectivamente, está muy alta. Bajamos la Plaza Alta hasta Divisidadero (que es una calle más larga que un día sin pan), y seguimos bajando hacia el mar por la zona Pacific Heighs, casas pintorescas: pintaban carísimas vaya. Tras la zona pija, entramos en Marina, que es por donde cruza la famosa Lombard (es empinada, ¡pero las hay más!). Aprovechamos para comprar unos sandwiches en el Wallgreens, que es una cadena de “pharmacy” con comida (WTF!) y nos fuimos a comer a los jardines del [Palace of Fine Arts](https:/www.google.com/search?q=palace+of+fine+arts&es_sm=93&source=lnms&tbm=isch&sa=X&ei=SyILVJXxLca7igLt2YC4Aw&ved=0CAgQ_AUoAQ), por si veíamos a Sean Connery hablando con su hija antes de irse a Alcatraz. Lo típico. Y muy muy impresionante.
+Desde el *Japan Town* llegamos hasta la Plaza Alta, que efectivamente, está muy alta. Bajamos la Plaza Alta hasta Divisidadero (que es una calle más larga que un día sin pan), y seguimos bajando hacia el mar por la zona Pacific Heighs, casas pintorescas: pintaban carísimas vaya. Tras la zona pija, entramos en Marina, que es por donde cruza la famosa Lombard (es empinada, ¡pero las hay más!). Aprovechamos para comprar unos sandwiches en el Wallgreens, que es una cadena de “pharmacy” con comida (WTF!) y nos fuimos a comer a los jardines del [Palace of Fine Arts](https://www.google.com/search?q=palace+of+fine+arts&es_sm=93&source=lnms&tbm=isch&sa=X&ei=SyILVJXxLca7igLt2YC4Aw&ved=0CAgQ_AUoAQ), por si veíamos a Sean Connery hablando con su hija antes de irse a Alcatraz. Lo típico. Y muy muy impresionante.
 
-[![Solete y palacio, ¿qué más se puede pedir?](/images/2014/09/palace.jpg#small)](/images/2014/09/palace.jpg#full)
-Solete y palacio, ¿qué más se puede pedir?
+{{< image classes="center" title="Solete y palacio, ¿qué más se puede pedir?" src="/images/2014/09/palace.jpg" >}}
 
 Pequeña mención al caché que encontramos en esta zona y que es uno de los muy mejores que he buscado/encontradojamás. Nos llevó un buen rato, pero mereció mucho la pena.
 
@@ -40,6 +37,4 @@ Yo ya estaba estando (sí, así lo he dicho) un poco cansada con todo el trote d
 
 Con todo el palizón del día, no tenía muchas ganas de cenar fuera, así que hemos comprado comida orgánica en un restaurante orgánico. Este tema me tiene un poco frita porque a mí me va el silicio duro, pero aquí en San Francisco es imposible comprar comida que no sea muy orgánica…
 
-El viernes tocó cambio de tercio, salimos de San Francisco y todavía estamos en el atasaco que pillamos…
-
-
+El viernes tocó cambio de tercio, salimos de San Francisco y todavía estamos en el atasaco que pillamos...

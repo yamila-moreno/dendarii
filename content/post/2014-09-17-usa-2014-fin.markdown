@@ -15,13 +15,11 @@ trips:
 
 Hace dos días salíamos de Williams hacia Las Vegas; como íbamos con tiempo de sobra, cogimos un tramo de la histórica ruta 66, que pasa por Williams, y aprovechamos para comer en un sitio que debía estar allí durante el apogeo de la ruta. Después seguimos por el *antiguo* trazado de la ruta 66, aunque casi todo lo que recorrimos había sido totalmente reformado y renombrado.
 
-[![Esas sillas llevan ahí más tiempo del que se puede contar...](/images/2014/09/blog-ruta66.jpg#small)](/images/2014/09/blog-ruta66.jpg#full)
-Esas sillas llevan ahí más tiempo del que se puede contar…
+{{< image title="Esas sillas llevan ahí más tiempo del que se puede contar..." src="/images/2014/09/blog-ruta66.jpg" >}}
 
 Descubrimos que la presa Hoover nos quedaba de camino, así que hicimos un alto. Es impresionante, *art nouveau*, y hacía un calor horrible: hicimos el paseo por el puente frente a la presa, pero la presa en sí la recorrimos en coche, porque yo no quería despegarme del aire acondicionado (haría unos 105º… F!).
 
-[![Hamijos, Franco no fue el  único que hizo pantanos...](/images/2014/09/blog-hoover.jpg#small)](/images/2014/09/blog-hoover.jpg#full)
-Hamijos, Franco no fue el único que hizo pantanos…
+{{< image title="Hamijos, Franco no fue el  único que hizo pantanos..." src="/images/2014/09/blog-hoover.jpg" >}}
 
 Finalmente llegamos a Las Vegas. Es una ciudad muy hortera y si por mí fuera, dejaría que el desierto se la comiera. Lo bueno es que hemos ido a un espectáculo del Circo del Sol, uno de los que no giran fuera de las Vegas. Y no me sorprende, el escenario es impresionante y la puesta en escena genial.
 
@@ -37,8 +35,6 @@ El viaje me ha gustado muchísimo y me deja muy buen sabor de boca. Viajar con A
 
 Pronto publicaré un resumen con el itinerario y costes generales, por si os resulta útil. ¡Gracias por seguir con atención <del>y por comentar en</del> el blog!
 
-[![Esta es la verdadera razón de tanto selfie: ver si se nos ha quedado algo entre los dientes.](/images/2014/09/blog-adios.jpg#small)](/images/2014/09/blog-adios.jpg#full)
-Esta es la verdadera razón de tanto selfie: ver si se nos ha quedado algo entre los dientes.
+{{< image classes="center" title="Esta es la verdadera razón de tanto selfie: ver si se nos ha quedado algo entre los dientes." src="/images/2014/09/blog-adios.jpg" >}}
 
 Nos vemos en el próximo viaje
-

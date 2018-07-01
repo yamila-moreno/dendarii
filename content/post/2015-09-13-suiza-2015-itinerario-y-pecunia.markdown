@@ -5,6 +5,7 @@ slug: suiza-2015-itinerario-y-pecunia
 title: Suiza 2015 - Itinerario y pecunia
 tags:
 - Suiza
+- Senderismo
 trips:
 - Suiza 2015
 ---
@@ -17,7 +18,7 @@ Con el coche hemos disfrutado de muchísima libertad para recorrer Suiza. Hemos 
 
 En el mapa donde he ido subiendo las rutas he subido el recorrido (bastante aproximado) que hicimos durante estas vacaciones. Veréis que hay un desvío hacia el este, la parte de Valdidentro y del Parque Nacional Suizo. No es una visita tan habitual (lo normal es recorrer el oeste), pero nosotros fuimos con tiempo de sobra y nos encantó.
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.namhbm8l/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#8/46.727/8.295'></iframe>
+{{< route center="#8/46.727/8.295" >}}
 
 No pudimos ir ni al noroeste ni al sureste, no por falta de ganas sino de tiempo, así que lo dejaremos para otros viajes con suerte :)
 

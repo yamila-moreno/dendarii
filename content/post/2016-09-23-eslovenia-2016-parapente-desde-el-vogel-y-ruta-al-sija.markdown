@@ -6,6 +6,7 @@ title: Eslovenia 2016 - Parapente desde el Vogel y ruta al Sija
 thumbnailImage: https://c1.staticflickr.com/9/8773/29586971330_34891fdcd8_c.jpg
 tags:
 - Eslovenia
+- Senderismo
 trips:
 - Eslovenia 2016
 ---
@@ -26,11 +27,11 @@ Salió primero Alex, y unos minutos después salí yo. Fue un rato muy intenso, 
 
 Mi piloto era bastante enrollado y me hizo alguna "jugarreta" que añadió mucha emoción. Nos ha encantado, ¡y queremos repetir! Pero ya será a la vuelta, porque mañana toca salto base. Nos han dicho que es muy seguro. Mientras, aquí la ruta que hice en vuelo:
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.1dhb9fk5/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#14/46.275/13.866'></iframe>
+{{< route center="#14/46.275/13.866" >}}
 
 Después subimos de nuevo a la planicie, para revisitar las vistas, ¡¡por fin pudimos ver el Triglav!! y hacer una pequeña ruta hasta un pico. Resultó ser una ruta muy expuesta y en cierto momento me tocó pedir cambio así que nos volvimos. La (media) ruta que hicimos está aquí:
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.1dhb9fk5/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#14/46.251/13.839'></iframe>
+{{< route center="#14/46.251/13.839" >}}
 
 En la parte alta tuvimos unas vistas fantásticas que podéis ver en las foticos, y por supuesto, nos hicimos un selfie con el monte más alto de Eslovenia, que se nos había resistido.
 

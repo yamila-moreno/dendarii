@@ -6,6 +6,7 @@ title: Suiza 2015 - Parque Nacional de Suiza
 thumbnailImage: http://c2.staticflickr.com/6/5754/21172464576_72d66dd5e6_z.jpg
 tags:
 - Suiza
+- Senderismo
 trips:
 - Suiza 2015
 ---
@@ -22,7 +23,7 @@ Era una ruta que corría a través de varios <em>grimmels</em> (que nosotros hem
 
 Tras la ruta, nos fuimos hacia nuestro alojamiento en Italia. Para llegar hay que recorrer el túnel Munt La Schera, un impresionante túnel bastante claustrofóbico de 3 kilómetros de longitud, bajo la montaña que separa Italia y Suiza.
 
-![¡Nos ha nevado!](http://c1.staticflickr.com/1/618/21206609631_fb933f366f_b.jpg#full)
+{{< image title="¡Nos ha nevado!" src="http://c1.staticflickr.com/1/618/21206609631_fb933f366f_b.jpg" >}}
 
 Hoy por la mañana hemos vuelto a cruzar el túnel para ir a la parte Suiza a hacer nuestras rutas. Cogimos el alojamiento en Italia porque era bastante más barato, sin saber que por cruzar <del>el túnel</del> la presa que hay junto al túnel, te cobran 15 chocofrancos (CHF). Cada vez que pasas :P Avisados quedáis.
 
@@ -36,7 +37,7 @@ Esta ruta nos ha llevado poco más de 3 horas, así que nos hemos ido directamen
 
 Aquí os dejo las 3 rutas que hemos hecho en el parque:
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.namhbm8l/attribution,zoompan.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#13/46.6700/10.2003'></iframe>
+{{< route center="#13/46.6700/10.2003" >}}
 
 Al terminar, aún era pronto, así que Alex ha propuesto acercanos al Paso del Stelvio, famosa carretera por ser pintoresca y peligrosa. Es un sitio muy concurrido por moteros y conductores de cochazos. Esta es la más famosa, en parte por ser muy fotogénica, aunque las carreteras que hemos cogido de vuelta a Italia (¡sin pasar por el túnel!) no tenían nada que envidiar tampoco. Ha sido una ruta alucinante por unos valles bastante recónditos y preciosos.
 

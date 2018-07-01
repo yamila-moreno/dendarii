@@ -4,6 +4,8 @@ date: 2016-03-27T19:48:48.590Z
 slug: semana-santa-2016-chinchon-via-verde-negrin-y-colmenar-de-oreja
 title: Semana Santa 2016- Chinchón, Vía Verde Negrín y Colmenar de Oreja
 thumbnailImage: http://c4.staticflickr.com/2/1483/26070873075_49ef6ea489_c.jpg
+tags:
+- Senderismo
 
 ---
 
@@ -17,7 +19,7 @@ De nuevo un día fantástico para una ruta sencilla, para disfrutar del sol y es
 
 Aquí os dejo la ruta que hicimos, aunque es muy sencilla, pues discurre enteramente por la vía verde.
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.nljg6ee6/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#12/40.22/-3.182'></iframe>
+{{< route center="#12/40.22/-3.182" >}}
 
 Tras la ruta, íbamos a Tarancón a comer y a por unos cachés; así que busqué algún restaurante y llamé para reservar. Eran las 14:20 y nos daban para las 15:30; de sobra para llegar y tomarnos un pote antes de comer. En este momento nos avisan de que nos hemos dejado la puerta de la casa de Chinchón abierta. ¡¡LA CASA ABIERTA!!
 

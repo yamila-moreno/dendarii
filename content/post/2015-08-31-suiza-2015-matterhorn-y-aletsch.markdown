@@ -6,6 +6,7 @@ title: Suiza 2015 - Matterhorn y Aletsch
 thumbnailImage: http://c1.staticflickr.com/1/710/20853291870_f8fee91a75_b.jpg
 tags:
 - Suiza
+- Senderismo
 trips:
 - Suiza 2015
 ---
@@ -14,7 +15,7 @@ Ayer domingo tocaron diana muy pronto y a las 6 estábamos en marcha. El plan er
 
 El día empezó despejado y con buena previsión, así que íbamos motivados. A esto de las 9:30 llegábamos al Klein Matterhorn, a 3883 mt, con unas vistas del Cervino impresionantes. Gracias a los prismáticos super pro de Alex, dimos buena cuenta de los Alpes que teníamos a la redonda.
 
-![Panorámica desde Matterhorn](http://c1.staticflickr.com/1/710/20853291870_f8fee91a75_b.jpg#full)
+{{< image title="Panorámica desde Matterhorn" src="http://c1.staticflickr.com/1/710/20853291870_f8fee91a75_b.jpg" >}}
 
 El Matterhorn o Cervino está ahí en medio y lo reconoceréis porque aparece en el logo de Toblerone. Atención pregunta de gallifante: ¿habéis visto el oso de Toblerone?
 
@@ -30,17 +31,17 @@ De ahí seguimos con la Matterhorn trail, que termina de rodear la montaña por 
 
 Finalmente fueron unos 15 kms, prácticamente todo cuesta abajo (ojo que también cuesta!) por una zona alucinante.
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.namhbm8l/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#13/45.9939/7.7225'></iframe>
+{{< route center="#13/45.9939/7.7225" >}}
 
 Y para casa a descansar porque hoy, repetíamos madrugón. Esta vez porque íbamos a visitar el Aletsch, el glaciar más grande de Europa, con otra ruta que partía desde el Eggishorn, bajaba hasta casi el glaciar rodeando la montaña y llega hasta una estación de esquí donde hemos cogido otra góndola hasta el coche.
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.namhbm8l/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#13/46.4245/8.0891'></iframe>
+{{< route center="#13/46.4245/8.0891" >}}
 
 Aquí las estaciones de esquí son un poco como las marquesinas en países no-alpinos. Vas por la calle, y toma, teleférico para ir al próximo pueblo. Estoy deseando que por fin en Madrid pongan unos buenos teleféricos para ir cómodamente al trabajo, al super o a la manicura.
 
 La ruta del Aletsch era, en principio, menos exigente que la que hicimos ayer. Sin embargo, es una ruta bastante aérea, así que se me ha hecho bastante difícil, y Alex ha tenido que echarme una mano en más de una ocasión para sortear ciertas partes de la ruta (e 13 kms). Igualmente, hemos podido tener unas vistas increíbles del glaciar y de las montañas que lo rodean.
 
-![Panorámica desde Eggishorn sobre el glaciar Aletsch](http://c2.staticflickr.com/6/5809/21031456822_31ba517fc9_b.jpg#full)
+{{< image title="Panorámica desde Eggishorn sobre el glaciar Aletsch" src="http://c2.staticflickr.com/6/5809/21031456822_31ba517fc9_b.jpg" >}}
 
 Han sido dos días muy intensos de Alpes, estamos cansadicos del trote, y mañana partimos hacia Thun, en la zona de Interlaken, donde tenemos previstas más rutas senderistas y esta vez sí, coronar un pico a pie :D ¡Seguiremos informando!
 

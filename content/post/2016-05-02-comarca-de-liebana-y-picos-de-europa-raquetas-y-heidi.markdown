@@ -7,6 +7,7 @@ thumbnailImage: http://c1.staticflickr.com/2/1474/26751541976_992a40a45a_c.jpg
 tags:
 - Liébana
 - Picos de Europa
+- Senderismo
 trips:
 - Comarca lebaniega 2016
 ---
@@ -21,8 +22,7 @@ Una vez arriba se nos pasaron todos los males; un sol genial para acompañar est
 
 Nos reunimos con el resto de la excursión y descubrimos que éramos 6 personas únicamente. El guía nos tanteó sobre nivel y motivación y al final nos hizo una ruta muy de pachanga por los alrededores. Estuvo muy bien porque, al no ser nada exigente, nos permitió hacer piña y risas con las otras dos parejas, y disfrutar del paisaje tranquilamente. Este fue el paseo que hicimos:
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.nlplkcgn/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#16/43.158/-4.808'></iframe>
-
+{{< route center="#16/43.158/-4.808" >}}
 
 Bajábamos en el teleférico a eso de las 15:30 y con bastante hambre, así que tras la mini-incursión cachera nos fuimos a buscar algún sitio donde nos dieran de comer. A las 16 llegábamos a Espinama donde al fin nos sentamos a descansar. Parecía que siendo ya tan tarde no íbamos a hacer la ruta vespertina y nos fuimos a visitar algunos pueblos de la comarca lebaniega.
 
@@ -40,7 +40,7 @@ Llegamos al pueblo. Lleno de coches. Un pueblo de 44 habitantes. Qué raro. ¿Se
 
 En la plaza había un camión. Debió llegar en helicóptero porque no cabía por ninguna calle. Tenía un cartel: "Heidi crew trailer". ¡¡ERA ESO!! Ahora todos diréis: "claro, Mogrovejo, mítico pueblo donde se está grabando la serie de Heidi". A todos los que decís eso os estoy haciendo la peineta; que lo sepáis.
 
-{{< image src="http://c7.staticflickr.com/2/1487/26171142894_29f3cf27cd_c.jpg">}}
+{{< image classes="center" src="http://c7.staticflickr.com/2/1487/26171142894_29f3cf27cd_c.jpg">}}
 
 Pues sí, resulta que el pueblo fue elegido para sustituir Suiza como enclave donde grabar esta serie. Seguramente vieron que con lo que cuesta un café en Suiza podrían grabar la peli y varias secuelas en Mogrovejo. El pueblo no ha tenido tantos turistas nunca, sospecho. Lo cierto es que el sitio es precioso y no cuesta imaginárselo en la historia de Heidi.
 

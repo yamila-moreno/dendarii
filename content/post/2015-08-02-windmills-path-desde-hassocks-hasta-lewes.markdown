@@ -24,7 +24,7 @@ La senda de los molinos es sencilla, y como está en altura (recordad que en UK 
 
 18kms y un caché después, llegamos a Lewes, un pueblo realmente bonito donde nos reagrupamos y cogimos el tren de vuelta. Aquí os dejo la ruta hecha:
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.nlplkcgn/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#12/50.9079/-0.0721'></iframe>
+{{< route center="#12/50.9036/-0.0484" >}}
 
 Día genial, y ruta para repetir :)
 

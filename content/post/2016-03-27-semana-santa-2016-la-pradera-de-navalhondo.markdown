@@ -4,6 +4,8 @@ date: 2016-03-27T19:30:32.336Z
 slug: semana-santa-2016-la-pradera-de-navalhondo
 title: Semana Santa 2016- La Pradera de Navalhondo
 thumbnailImage: http://c4.staticflickr.com/2/1535/26004524891_1ea29ce3b3_c.jpg
+tags:
+- Senderismo
 
 ---
 
@@ -42,7 +44,7 @@ Aunque el tono de esta entrada es algo más serio, la ruta fue genial y os dejo 
 
 Pongo también el track que hicimos, aunque aviso de que **no es recomendable seguirlo**:
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.nlplkcgn/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#14/40.88/-3.988'></iframe>
+{{< route center="#14/40.88/-3.988" >}}
 
 Y finalmente, las fotos que pudimos tomar durante el día:
 

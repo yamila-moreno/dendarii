@@ -6,6 +6,7 @@ title: Eslovenia 2016 - Logarska Dolina
 thumbnailImage: https://c1.staticflickr.com/9/8301/29658762132_c58114d0e3_c.jpg
 tags:
 - Eslovenia
+- Senderismo
 trips:
 - Eslovenia 2016
 ---
@@ -28,7 +29,7 @@ Y además, como decían los latinos <em>fortuna tontakos adiuvat</em> y ¡¡no n
 
 Os dejo la ruta que hemos hecho, ¡muy recomendable!
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.1dhb9fk5/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#14/46.387/14.619'></iframe>
+{{< route center="#14/46.387/14.619" >}}
 
 El selfie tontako...
 

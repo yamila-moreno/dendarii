@@ -7,6 +7,7 @@ thumbnailImage: http://c4.staticflickr.com/2/1527/26736104555_110c005d90_c.jpg
 tags:
 - Liébana
 - Picos de Europa
+- Senderismo
 trips:
 - Comarca lebaniega 2016
 ---
@@ -35,7 +36,7 @@ Así que con la panza llenísima hemos empezado una ruta que nos ha llevado por 
 
 En el camino de vuelta se pasa por Porcieda (pueblo abandonado) que está a la venta por 1M de €. Me lo estoy pensando. Aquí podéis ver la ruta en el mapa.
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.nlplkcgn/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#13/43.141/-4.612'></iframe>
+{{< route center="#13/43.141/-4.612" >}}
 
 Tras la ruta hemos vuelto al hotel a reponer fuerzas para la ruta con raquetas de mañana desde Fuente Dé. Mañana más, pero mientras, ¡el selfie y las foticos!
 

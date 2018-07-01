@@ -6,6 +6,7 @@ title: Eslovenia 2016 - Velika Planina
 thumbnailImage: https://c1.staticflickr.com/9/8464/29546902190_7c1e059a01_c.jpg
 tags:
 - Eslovenia
+- Senderismo
 trips:
 - Eslovenia 2016
 ---
@@ -26,7 +27,7 @@ Es una zona donde la niebla provoca estragos, pues en apenas 10 segundos se qued
 
 Con niebla es bastante peligroso, pues hay acantilados altísimos, y dolinas por sorpresa, pero con GPS pudimos deshacer nuestros pasos de forma segura. Aquí podéis ver el track:
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.1dhb9fk5/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#14/46.293/14.655'></iframe>
+{{< route center="#14/46.293/14.655" >}}
 
 Tras la bajada, tomamos un café con un estudiante de Indonesia al que pudimos acercar a Kamnik y hacerle el trayecto más sencillo.
 

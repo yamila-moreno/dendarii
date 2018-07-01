@@ -88,7 +88,7 @@ Y ahí nos dio todo el agobio. A toda pastilla en metro y en avión hasta la est
 
 Aquí os dejo la ruta que hicimos, unos 200 km:
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.nljg6ee6/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#9/40.074/-0.731'></iframe>
+{{< route center="#9/40.074/-0.731" >}}
 
 Viajar con Luiyo ha sido fantástico. Es la segunda ruta larga en bici que hacemos juntos y espero que haya ocasión de pedalear más veces. Un gran compi de aventuras sobre ruedas.
 

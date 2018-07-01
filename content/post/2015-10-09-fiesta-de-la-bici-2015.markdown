@@ -23,7 +23,7 @@ Salimos sin mayores problemas y, como no es una carrera sino una marcha popular,
 
 Aquí os dejo la ruta que hicimos:
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.nljg6ee6/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#13/40.4401/-3.6855'></iframe>
+{{< route center="#13/40.4401/-3.6855" >}}
 
 Aunque con la bici es más difícil hacer un selfie, Luiyo nos cazó durante la ruta:
 

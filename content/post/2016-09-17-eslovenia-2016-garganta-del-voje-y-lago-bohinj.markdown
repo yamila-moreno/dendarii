@@ -6,6 +6,7 @@ title: Eslovenia 2016 - Garganta del Voje y lago Bohinj
 thumbnailImage: https://c1.staticflickr.com/9/8357/29745359465_8b99e849a4_c.jpg
 tags:
 - Eslovenia
+- Senderismo
 trips:
 - Eslovenia 2016
 ---
@@ -20,7 +21,7 @@ Originalmente la ruta iba a ser de 12 kilómetros, hasta llegar a una cascada; s
 
 Finalmente han sido casi 6 kilómetros, casi todo por la garganta. Nos hemos mojado hasta el DNI pero ha merecido mucho la pena.
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.1dhb9fk5/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#14/46.299/13.889'></iframe>
+{{< route center="#14/46.299/13.889" >}}
 
 Desde ahí y bajo el diluvio universal nos hemos acercado a Ribcev Laz donde hay una iglesia con unos frecos preciosa. La hemos pillado por los pelos pues cierra "a mediados de septiembre" y menos mal, ya que es muy impresionante. Impresiona sobre todo que tenga el título de "Iglesia más fotografiada" de Eslovenia cuando a) no se pueden sacar fotos en la iglesia, y b) ¡lo he comprobado y ese título ni siquiera existe!. Pero qué bonica la iglesia.
 
@@ -36,7 +37,7 @@ Por la tarde y a pesar de la previsión, ha salido el sol, y el Tontako Team, co
 
 El tiempo ha aguantado perfectamente hasta que a 400 metros se ha largado a llover y nos ha tocado correr un poquito para salir ilesos.
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.1dhb9fk5/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#14/46.28/13.857'></iframe>
+{{< route center="#14/46.28/13.857" >}}
 
 Al final ha sido un día muy completo. La visita a este lago ha sido fantástica, por los paisajes y el ambiente. Además, hemos puesto un poco a prueba nuestra capacidad de adaptación al clima y ha salido bien parada :D
 

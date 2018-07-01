@@ -7,6 +7,7 @@ thumbnailImage: http://c1.staticflickr.com/1/273/20404162026_f8cddc4d85_z.jpg
 tags:
 - Inglaterra
 - Dover
+- Senderismo
 ---
 
 Una vez más, aprovechando mi estancia en Londres y que este finde venía a verme Alex, decidimos escaparnos del mundanal ruido. Elegimos Dover, por recomendación de un conocido. Los famosos acantilados blancos y el castillo nos parecieron un estupendo reclamo para ir.
@@ -27,7 +28,7 @@ Después, del tirón nos fuimos al centro de visitantes de los Acantilados Blanc
 
 Esta es la ruta que hicimos por los acantilados, desde donde ¡veíamos Francia!
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.nlplkcgn/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#14/51.1375/1.3558'></iframe>
+{{< route center="#14/51.1375/1.3558" >}}
 
 Al final de la ruta llegamos al faro, que actualmente no está en uso. Entramos directamente y los guías nos dijeron que estaba cerrado. Nos disculpamos por llegar tarde, y según nos íbamos, uno de ellos nos dice: "Pero es que habéis venido hasta aquí para ver el faro, venid conmigo".
 

@@ -6,6 +6,7 @@ title: Eslovenia 2016 - Pico de Slemenova
 thumbnailImage: https://c1.staticflickr.com/9/8863/29821577976_330955a563_c.jpg
 tags:
 - Eslovenia
+- Senderismo
 trips:
 - Eslovenia 2016
 ---
@@ -34,7 +35,7 @@ Podéis ver la cara de "La chica pagana", una deidad del bosque que ayudaba a pa
 
 Aquí la ruta:
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.1dhb9fk5/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#14/46.442/13.737'></iframe>
+{{< route center="#14/46.442/13.737" >}}
 
 Hemos comido en una terraza al solete en medio de las montañas, para rematar un día genial. Ambos teníamos muchas ganas de hacer alguna ruta un poco más exigente, y esta nos ha salido a pedir de boca. Mañana seguimos con más visitas, y ya empezamos a ver el final de las vacaciones (ayyyy).
 

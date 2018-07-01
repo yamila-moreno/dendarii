@@ -30,7 +30,7 @@ Hemos entrado por Wimbledon Common Park y hemos cruzado hasta el Richmond Park, 
 
  Al final han sido 20 kilómetros de ruta, muy tranquila pero genial excusa para desconectar del mundanal ruido, que tanto me gusta :D  Y aquí os dejo también el tramo que hemos recorrido hoy:
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.nlplkcgn/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#12/51.4599/-0.2328'></iframe>
+{{< route center="#12/51.4599/-0.2328" >}}
 
 Y las fotos subidas en flickr:
 

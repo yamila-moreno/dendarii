@@ -6,6 +6,7 @@ title: Suiza 2015 - Thun, los valles y el queso
 thumbnailImage: http://c2.staticflickr.com/6/5623/20933322510_587a7cbec3_z.jpg
 tags:
 - Suiza
+- Senderismo
 trips:
 - Suiza 2015
 ---
@@ -22,9 +23,9 @@ El miércoles fuimos a conocer dos valles al sur de Interlaken bastante turísti
 
 Lauterbrunen se enorgullece de tener una ruta UNESCO, la de las 72 cascadas, aunque debo decir que solo pudimos ver 10 ó 12. Y pedí que me devolvieran el dinero, claro, que no está en horno para bollos y quien mucho abarca poco aprieta. Es una ruta super sencilla llaneando (hicimos finalmente unos 20kms) por la parte baja de un valle muy cerrado. Las vistas alucinantes, y allí abajo el tiempo respetó.
 
-{{< image src="http://c2.staticflickr.com/6/5623/20933322510_587a7cbec3_z.jpg" title="" >}}
+{{< image src="http://c2.staticflickr.com/6/5623/20933322510_587a7cbec3_z.jpg" >}}
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/yamila.namhbm8l/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoieWFtaWxhIiwiYSI6IjUzNDE5ZDRkZjBiZjBiZDY0YTBhZjBmNmUyZGYzYTZiIn0.okLJEzGsBQ6IOgn1mhToIQ#13/46.5676/7.9217'></iframe>
+{{< route center="#13/46.5676/7.9217" >}}
 
 Una de las cascadas se puede visitar por dentro de la montaña, donde han montado un ascensor para acceder a las cascadas interiores. Fue un sorpresón de visita, andar por dentro de la montaña, llamando a las puertas por si allá andaba el Balrog, y viendo caer 20K litros de agua por segundo (sí, lo he escrito bien) provenientes del deshielo de un glaciar, y sabiendo que desplaza 20K toneladas de piedra al año (que sí, que lo he escrito bien).
 

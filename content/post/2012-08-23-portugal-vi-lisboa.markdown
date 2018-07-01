@@ -22,29 +22,25 @@ Marta, que ya sabéis cómo es, me hizo hecho entrar en dos H&M y en un Fnac. Y 
 
 Nos topamos con la iglesia de San Roque donde tuve uno de estos momentos de inspiración; me acerco al policía y le pregunto:
 
-– ¿Y dónde está el perro?
- – ¿Qué perro?
- – El de San Roque
- – Señorita, ¿se encuentra bien?
- – Quiero ver si el perro de San Roque tiene o no tiene rabo
- – Creo que no la entiendo
- – Es por ir a hablar con Ramón Ramírez, que me parece fatal lo suyo
+- ¿Y dónde está el perro?
+- ¿Qué perro?
+- El de San Roque
+- Señorita, ¿se encuentra bien?
+- Quiero ver si el perro de San Roque tiene o no tiene rabo
+- Creo que no la entiendo
+- Es por ir a hablar con Ramón Ramírez, que me parece fatal lo suyo
 
 Tampoco lo pilló. Los portugueses no tienen mucho sentido del humor… Luego que les rescatan, claro.
 
 Hoy tocó ruta turística durilla por Lisboa; por la mañana fuimos a Belem. En tranvía porque Marta decidió que tampoco hay bici. Y no, no hay pastores. Sí, yo ya he hecho esa gracia esta mañana. No, parece que no es tan graciosa. Pues tiene un paseo marítimo de lo más apacible y es EL sitio donde está LA tienda si quieres comer LOS pasteis de nata. Así que con todas las recomendaciones de lugareños y turistas hemos ido AL sitio. Y me he comido un pasteis. ¿Sabéis cuando algo supera todas vuestras expectativas de textura, sabor y sensación? Pues no ha sido una de esas veces…
 
-[![](/images/2012/08/p1030758.jpg "Pasteis de nata")](/images/2012/08/p1030758.jpg#full)
-Hemos documentado el unboxing del pasteis de nata. Le hemos quitado el retractilado porque se digiere fatal.
+{{< image classes="center" src="/images/2012/08/p1030758.jpg" alt="Pasteis de nata" title="Hemos documentado el unboxing del pasteis de nata. Le hemos quitado el retractilado porque se digiere fatal." >}}
 
 Con el pasteis y la buena ventura leída (aquí todo es muy gitano y hasta el revisor del tranvía te lee la buena ventura), nos hemos ido a la Alfama. Barrio famoso por sus cuestas, y su castillo (en cuesta). Esta vez no defraudó: había un castillo y cuestas.
 
 Hemos visitado un par de sitios emblemáticos, y nos hemos ido a cenar. Había comida y vinho verde. Y Marta ha decidido que estamos muy borrachas como para continuar la farra (yo tampoco entiendo la lógica, pero es que no tengo las llaves y no puedo discutir). Padre, madre, recordad que “borrachas” significa “culturetas, gafapastas”, que estamos en casa de una artista.
 
-[![](/images/2012/08/p1030775.jpg "Monumento a los descubridores")](/images/2012/08/p1030775.jpg#small)
-Todos estos están haciendo cola para tirarse al mar que hace mucha caló.
+{{< image classes="center" src="/images/2012/08/p1030775.jpg" alt="Monumento a los descubridores" title="Todos estos están haciendo cola para tirarse al mar que hace mucha caló." >}}
 
 Y mañana, Sintra, parque natural genérico, playa y descanso. Ahá, yo también veo el contrasentido. Hablad con Marta vosotros que yo ya me rindo
 pd. No, no pienso hacer el Chiquitorl que os veo venir ~~’
-
-

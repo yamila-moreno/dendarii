@@ -15,7 +15,8 @@ trips:
 
 He aquí la versión de Marta de los mismos hechos. Sin retocar una coma o un punto.
 
-*************************************************************************************************
+-----------------------------------------------------------------------------------------
+
 
 Hoy ha sido un día de sorpresas. La verdad es que Portugal está dando más de sí de lo que podríamos esperar, es un país bonito, aunque no nos extrañe que les hayan rescatado
 Esta mañana el plan era irnos a visitar el Parque Nacional de Peneda Geres, en el límite con España, que era el destino número 1 en el top de recomendados por la Lonely Planet. Una rutita por monte, que nos vendría bien, y por la tarde a la playa. Llegar al parque ya ha sido un pequeño reto: carreteras de montaña de esas de subir en primera o en segunda, sin carriles definidos y con un tráfico que casi parecía la M-30. Esa tendría que haber sido la primera pista, pero no la hemos sabido ver. Llegamos a un megapantano, que hubiera sido la envidia de Franco, con su pueblo inundado y todo. Y eso era Benidorm. Y ya sabéis lo que opino yo de Benidorm. “Bueno, ésta es la parte acuática, seguro que cuando lleguemos a la zona de rutas senderistas está todo más tranquilo”. Efectivamente: no. Cuando conseguimos encontrar la oficina de información, la chica nos da datos para ir a ver las cascadas… en coche.
@@ -40,6 +41,4 @@ Marta
 
 PS: Ayer mandé el email poniendo las direcciones en abierto y no en copia oculta. Mis disculpas :S
 
-PS2: yami va contando su visión del viaje en su blog: http:/dendarii.es/ Y ella sube alguna foto. Eso sí, sólo cuenta mentiras.
-
-
+PS2: yami va contando su visión del viaje en su blog: https://dendarii.es/ Y ella sube alguna foto. Eso sí, sólo cuenta mentiras.

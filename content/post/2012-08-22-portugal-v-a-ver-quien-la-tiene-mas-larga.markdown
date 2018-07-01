@@ -21,21 +21,20 @@ Paseíto por la zona histórica, calle para arriba, calle para abajo. Lo más in
 
 Lo curioso del asunto es que las heces de los murciélagos en cuestión es muy corrosivo, pero hay una especie de escarabajo pelotero que se alimenta de esta sustancia tan ricamente. Así que cada tanto, sueltan un montón de escarabajos para que localicen y deglutan las heces de murciélagos. El problema de soltar bichos pequeños en una biblioteca es que luego no resulta fácil localizarlos a todos; así que, cuando, tras la recolección de los escarabajos, ven que no están todos, avisan a un herpetólogo que suelta (bajo extrema vigilancia, dicen) una serpiente que puede oler fácilmente a los escarabajos. Y se los come. Espero que la serpiente en cuestión no produzca ninguna segregación que sea corrosiva para los libros porque entonces volvemos a empezar. Nada tiene sentido.
 
-[![](/images/2012/08/biblioteca-joanina-da-universidade-de-coimbra2.jpg "Biblioteca Joanina da Universidade de Coimbra")](/images/2012/08/biblioteca-joanina-da-universidade-de-coimbra2.jpg#small)
-Biblioteca Joanina. En la esquina superior derecha se ve un escarabajo comiendo heces de murciélago.
+{{< image classes="center" src="/images/2012/08/biblioteca-joanina-da-universidade-de-coimbra2.jpg" alt="Biblioteca Joanina da Universidade de Coimbra" title="Biblioteca Joanina. En la esquina superior derecha se ve un escarabajo comiendo heces de murciélago." >}}
 
 En la Catedral Vieja había unos relicarios bastante potentes, pero todo fémures, dentaduras, o huesos nobles. Ni un solo coxis, ¿por qué? me pregunto yo. Dan Brown, te acabo de dar el argumento de tu próximo libro: “El coxis del Santo”. De nada.
 
 Por la noche cenamos en un sitio local, que destaca porque tenían justo la botella de vinho verde que queríamos. Esta se distingue de las demás porque estaba en nuestra mesa. Nos la pimplamos. Luego han caído otras. Qué rico está el vinho verde (papá, mamá, cuando hablo del vinho verde me refiero a leer plácidamente en una arbolada,claro).
 
 Después fuimos a un sitio de fados que a Marta desconcertó mucho:
- – canta una chica
- – estás hecha un sabueso
- – el fado de Coimbra lo cantan solo hombres
- – un sabueso pedante
- – pero es que me han dicho
- – me falta vinho para esta conversación
- – opino igual que tú
+- canta una chica
+- estás hecha un sabueso
+- el fado de Coimbra lo cantan solo hombres
+- un sabueso pedante
+- pero es que me han dicho
+- me falta vinho para esta conversación
+- opino igual que tú
 
 Y así ha caído la segunda botella de vinho, mientras una fadista acompañada por una guitarra se marcaba unos fados en un txiki-bar. Dos horas después, el camarero de pronto se arrancó por un fado. Y Marta y yo, que necesitamos poco para animarnos, nos marcamos “Al compás del chacachá”. Fadeando. Fue triste, emotivo y karaókiko a la vez.
 
@@ -46,5 +45,3 @@ Esta mañana hemos salido Para Lisboa; conducía yo y Marta ha tenido a bien ser
 Por cierto, donde dije ‘digo’ digo ‘Diego’. Sin lugar a dudas, Lisboa la tiene más larga. Menudas cuestas, estoy por ponerme el spider-traje e ir de aquí para allá a salto de farola, porque no hay quien suba hasta la Alfama con este calor. Nos vamos a ver si cogemos el tranvía sin que nos roben
 
 Para mañana: Marta no quiere ir en bici, pero a mí me da igual y nos vamos a Belén, con los pastores a comer pasteis.
-
-

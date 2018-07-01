@@ -20,12 +20,12 @@ Tras el desayuno íbamos hacia el Rijksmuseum, pero por la vuelta panorámica qu
 
 Hemos llegado a la cola del museo hacia las 13 y yo he empezado a replantearme la vida:
 
-– ¿Y como cuántas ganas de ir al Rijksmuseum tienes? – he preguntado con pocas segundas
- – Yo ya he estado tantas veces viendo la [Lección de anatomía](https:/www.google.com/search?q=lecci%C3%B3n+de+anatom%C3%ADa&espv=2&biw=1083&bih=535&source=lnms&tbm=isch&sa=X&ei=JJDWVKPcDo3saL2WgYgL&ved=0CAYQ_AUoAQ) que ya me han convalidado primero de Medicina.
+- ¿Y como cuántas ganas de ir al Rijksmuseum tienes? – he preguntado con pocas segundas
+- Yo ya he estado tantas veces viendo la [Lección de anatomía](https://www.google.com/search?q=lecci%C3%B3n+de+anatom%C3%ADa&espv=2&biw=1083&bih=535&source=lnms&tbm=isch&sa=X&ei=JJDWVKPcDo3saL2WgYgL&ved=0CAYQ_AUoAQ) que ya me han convalidado primero de Medicina.
 
 Resulta que tras el Köller-Müller, la casa de Anna Frank y el Museo Van Gogh yo estaba ya un poco saturada de museos, aśi que hemos cambiado al plan y hemos seguido pateando zonas de Amsterdam que no conocíamos, como parques y otros barrios (y cogiendo unos cuantos cachés XD).
 
-[![¿Es un oso? ¿Es un avión? No, es un perro de cartón...](/images/2015/02/rembrandtpark-blog.jpg#small)](/images/2015/02/rembrandtpark-blog.jpg#full)¿Es un oso? ¿Es un avión? No, es un perro de cartón…
+{{< image title="¿Es un oso? ¿Es un avión? No, es un perro de cartón..." src="/images/2015/02/rembrandtpark-blog.jpg" >}}
 
 Por la noche íbamos a por comida surinamesa, pero nos ha dado un ataque de moñería con el Bij Ons y nos hemos ido a cenar ahí tranquilamente.
 
@@ -36,7 +36,4 @@ Viajar con Alex, como siempre, es un lujo: es un compa excepcional. ¡Hasta el p
 
 Edito: dejo aquí una galería de fotos de Países Bajos sin orden ni concierto :)
 
-
 {{< flickr album="72157653164487163" >}}
-
-

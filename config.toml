@@ -16,7 +16,7 @@ baseurl = "https://dendarii.es"
 languageCode = "en-us"
 defaultContentLanguage = "es-es"
 title = "Viajes dendarii"
-theme = "hugo-tranquilfell-theme"
+theme = "hugo-tranquilpeak-theme"
 disqusShortname = "https-dendarii-es"
 # googleAnalytics = "UA-109832381-1"
 paginate = 12
@@ -140,6 +140,12 @@ canonifyurls = true
   # Set this value to `true` if you have old posts that use the cover image or the first photo as the thumbnail image
   # and set `autoThumbnailImage` to `false` on a post to overwrite this setting
   autoThumbnailImage = true
+
+  # Pagination configuration
+  # Default pagination is with classic <PREV NEXT> buttons.
+  # Enabling scrollPagination creates an infinite scroll for your posts
+  # scrollPagination = false
+  scrollPagination = true
 
   # Your favicon path, default is "/favicon.png"
   # favicon = "/favicon.png"

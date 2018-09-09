@@ -34,6 +34,7 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 ### 2018
 <DIV class="cv-list">
 
+* 05 - <a href="{{< ref "2018-05-15_Ruta-por-La-Pedriza" >}}" target="_blank">Rutaza por la Pedriza</a>
 * 05 - <a href="/trips/lake-district-2018" target="_blank">Lake District (Inglaterra)</a>
 * 04 - <a href="{{< ref "2018-04-22-spta-san-georges-shoot.markdown" >}}" target="_blank">San George's Shoot en Taunton</a>
 * 03 - <a href="{{< ref "2018-03-29-sierra-de-aracena-y-minas-de-riotinto.markdown" >}}" target="_blank">Sierra de Aracena y Minas de Riotinto</a>
@@ -44,17 +45,17 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 ### 2017
 <DIV class="cv-list">
 
-* 12 - <a href="{{< ref "2017-12-otono-gredos.markdown" >}}" target="_new">Otoño en Gredos</a>
+* 12 - <a href="{{< ref "2017-12-otono-gredos.markdown" >}}" target="blank">Otoño en Gredos</a>
 * 11 - Cádiz
-* 10 - <a href="/trips/vietnam-2017" target="_new">Vietnam y Camboya</a>
-* 08 - <a href="{{< ref "2017-08-22-arcos-castillos-y-pastitas-de-te.markdown" >}}" target="_new">UK y Gales SPTA</a>
+* 10 - <a href="/trips/vietnam-2017" target="blank">Vietnam y Camboya</a>
+* 08 - <a href="{{< ref "2017-08-22-arcos-castillos-y-pastitas-de-te.markdown" >}}" target="blank">UK y Gales SPTA</a>
 * 06 - Vigo
 * 05 - Cuenca
-* 04 - <a href="/trips/portugal-2017" target="_new">Portugal</a>
-* 04 - <a href="{{< ref "2017-04-24-bearne.markdown" >}}" target="_new">Francia</a>
-* 03 - <a href="/trips/león-2017" target="_new">Valporquero y León</a>
+* 04 - <a href="/trips/portugal-2017" target="blank">Portugal</a>
+* 04 - <a href="{{< ref "2017-04-24-bearne.markdown" >}}" target="blank">Francia</a>
+* 03 - <a href="/trips/león-2017" target="blank">Valporquero y León</a>
 * 02 - Fosdem
-* 01 - <a href="/trips/marruecos-2017" target="_new">Marruecos</a>
+* 01 - <a href="/trips/marruecos-2017" target="blank">Marruecos</a>
 
 </DIV>
 
@@ -64,30 +65,30 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 * 12 - Sierra de Cazorla
 * 12 - Cerdeñuela y Atapuerca
 * 10 - París
-* 09 - <a href="/trips/eslovenia-2016" target="_new">Eslovenia</a>
+* 09 - <a href="/trips/eslovenia-2016" target="blank">Eslovenia</a>
 * 08 - Hoces del río Duratón
-* 08 - <a href="{{< ref "2016-08-30-via-verde-de-ojos-negros.markdown" >}}" target="_new">VV Ojos Negros Mayo</a>
-* 06 - <a href="{{< ref "2016-06-25-las-arribes-del-duero.markdown" >}}" target="_new">Arribes del Duero</a>
-* 04 - <a href="/trips/comarca-lebaniega-2016" target="_new">Comarca lebaniega</a>
-* 03 - <a href="{{< ref "2016-03-27-semana-santa-2016-chinchon-via-verde-negrin-y-colmenar-de-oreja.markdown" >}}" target="_new">Chinchón y Colmenar de Oreja</a>
-* 02 - <a href="{{< ref "2016-02-04-koln-2016.markdown" >}}" target="_new">Fosdem y Köln</a>
+* 08 - <a href="{{< ref "2016-08-30-via-verde-de-ojos-negros.markdown" >}}" target="blank">VV Ojos Negros Mayo</a>
+* 06 - <a href="{{< ref "2016-06-25-las-arribes-del-duero.markdown" >}}" target="blank">Arribes del Duero</a>
+* 04 - <a href="/trips/comarca-lebaniega-2016" target="blank">Comarca lebaniega</a>
+* 03 - <a href="{{< ref "2016-03-27-semana-santa-2016-chinchon-via-verde-negrin-y-colmenar-de-oreja.markdown" >}}" target="blank">Chinchón y Colmenar de Oreja</a>
+* 02 - <a href="{{< ref "2016-02-04-koln-2016.markdown" >}}" target="blank">Fosdem y Köln</a>
 
 </DIV>
 
 ### 2015
 <DIV class="cv-list">
 
-* 10 - <a href="{{< ref "2015-10-09-fiesta-de-la-bici-2015.markdown" >}}" target="_new">Fiesta de la bici 2015</a>
-* 09 - <a href="/trips/suiza-2015" target="_new">Suiza</a>
-* 08 - <a href="{{< ref "2015-08-15-paseo-por-el-capital-ring-1.markdown" >}}" target="_new">Paseo por el Capital Ring</a>
-* 08 - <a href="{{< ref "2015-08-09-dover-y-los-acantilados-blancos.markdown" >}}" target="_new">Dover</a>
-* 08 - <a href="{{< ref "2015-08-02-windmills-path-desde-hassocks-hasta-lewes.markdown" >}}" target="_new">Windmills path</a>
+* 10 - <a href="{{< ref "2015-10-09-fiesta-de-la-bici-2015.markdown" >}}" target="blank">Fiesta de la bici 2015</a>
+* 09 - <a href="/trips/suiza-2015" target="blank">Suiza</a>
+* 08 - <a href="{{< ref "2015-08-15-paseo-por-el-capital-ring-1.markdown" >}}" target="blank">Paseo por el Capital Ring</a>
+* 08 - <a href="{{< ref "2015-08-09-dover-y-los-acantilados-blancos.markdown" >}}" target="blank">Dover</a>
+* 08 - <a href="{{< ref "2015-08-02-windmills-path-desde-hassocks-hasta-lewes.markdown" >}}" target="blank">Windmills path</a>
 * 07 - Bilbo
-* 07 - <a href="{{< ref "2015-07-05-escapada-senderista-a-windsor.markdown" >}}" target="_new">Windsor</a>
-* 04 - <a href="{{< ref "2015-04-05-salisbury-y-stonehenge.markdown" >}}" target="_new">Salisbury y Stonehenge</a>
-* 02 - <a href="/trips/países-bajos-2015" target="_new">Fosdem y Países Bajos</a>
-* 01 - <a href="{{< ref "2015-01-26-valle-de-iruelas.markdown" >}}" target="_new">Valle de Iruelas</a>
-* 01 - <a href="{{< ref "2015-01-08-burdeos-landas-aquitania.markdown" >}}" target="_new">Burdeos, Landas, Aquitania</a>
+* 07 - <a href="{{< ref "2015-07-05-escapada-senderista-a-windsor.markdown" >}}" target="blank">Windsor</a>
+* 04 - <a href="{{< ref "2015-04-05-salisbury-y-stonehenge.markdown" >}}" target="blank">Salisbury y Stonehenge</a>
+* 02 - <a href="/trips/países-bajos-2015" target="blank">Fosdem y Países Bajos</a>
+* 01 - <a href="{{< ref "2015-01-26-valle-de-iruelas.markdown" >}}" target="blank">Valle de Iruelas</a>
+* 01 - <a href="{{< ref "2015-01-08-burdeos-landas-aquitania.markdown" >}}" target="blank">Burdeos, Landas, Aquitania</a>
 
 </DIV>
 
@@ -95,10 +96,10 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 <DIV class="cv-list">
 
 * 12 - Cartagena y Cabo de Palos (submarinismo)
-* 09 - <a href="/trips/usa-2014" target="_new">USA</a>
+* 09 - <a href="/trips/usa-2014" target="blank">USA</a>
 * 06 - Ordesa
 * 05 - Sierra de la Alpujarra
-* 05 - <a href="{{< ref "2014-05-06-galicia-rias-baixas.markdown" >}}" target="_new">Galicia: Rias Baixas</a>
+* 05 - <a href="{{< ref "2014-05-06-galicia-rias-baixas.markdown" >}}" target="blank">Galicia: Rias Baixas</a>
 * 04 - Zaragoza
 * 03 - Ezcaray
 * 02 - Fosdem y Bélgica
@@ -109,7 +110,7 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 ### 2013
 <DIV class="cv-list">
 
-* 12 - <a href="/trips/ruta-de-los-cátaros-2013" target="_new">Cátaros</a>
+* 12 - <a href="/trips/ruta-de-los-cátaros-2013" target="blank">Cátaros</a>
 * 08 - Londres
 * 08 - Val de Aran
 * 07 - Sigüenza
@@ -120,10 +121,10 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 ### 2012
 <DIV class="cv-list">
 
-* 12 - <a href="/trips/tenerife-2012" target="_new">Tenerife</a>
-* 11 - <a href="{{< ref "2012-11-27-guadalajara-hayedo-de-la-tejera-negra-y-ocejon.markdown" >}}" target="_new">Hayedo de la Tejera Negra y Pico Ocejón</a>
+* 12 - <a href="/trips/tenerife-2012" target="blank">Tenerife</a>
+* 11 - <a href="{{< ref "2012-11-27-guadalajara-hayedo-de-la-tejera-negra-y-ocejon.markdown" >}}" target="blank">Hayedo de la Tejera Negra y Pico Ocejón</a>
 * 09 - La Loire à Vélo
-* 08 - <a href="/trips/portugal-2012" target="_new">Portugal</a>
+* 08 - <a href="/trips/portugal-2012" target="blank">Portugal</a>
 
 </DIV>
 
@@ -134,23 +135,23 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 * Alemania
 * Argentina
 * Bélgica
-* <a href="/tags/camboya" target="_new">Camboya</a>
+* <a href="/tags/camboya" target="blank">Camboya</a>
 * Croacia
 * Escocia
-* <a href="/tags/eslovenia" target="_new">Eslovenia</a>
+* <a href="/tags/eslovenia" target="blank">Eslovenia</a>
 * España
-* <a href="/tags/usa" target="_new">Estados Unidos</a>
+* <a href="/tags/usa" target="blank">Estados Unidos</a>
 * Francia
 * <a href="/tags/gales" target="_blank">Gales</a>
 * Holanda
 * <a href="/tags/inglaterra" target="_blank">Inglaterra</a>
 * Irlanda
 * Italia
-* <a href="/tags/marruecos" target="_new">Marruecos</a>
+* <a href="/tags/marruecos" target="blank">Marruecos</a>
 * Polonia
-* <a href="/tags/portugal" target="_new">Portugal</a>
-* <a href="/tags/suiza" target="_new">Suiza</a>
-* <a href="/tags/vietnam" target="_new">Vietnam</a>
+* <a href="/tags/portugal" target="blank">Portugal</a>
+* <a href="/tags/suiza" target="blank">Suiza</a>
+* <a href="/tags/vietnam" target="blank">Vietnam</a>
 
 </DIV>
 

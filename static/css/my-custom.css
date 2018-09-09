@@ -2,8 +2,8 @@
   font-size: 1.7rem;
 }
 
-.figure {
-  margin: 1.5em auto !important;
+.figure.margin-top {
+  margin-top: 1.5em;
 }
 
 .figure.figure--fullWidth .figure-img {

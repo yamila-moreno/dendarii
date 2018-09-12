@@ -1,11 +1,11 @@
 ---
-draft: true
 author: yamila
-date: 2018-09-16T10:00:00.000Z
+date: 2018-09-16T08:00:00.000Z
 slug: usa-2018-preparativos
 title: USA 2018 - Preparativos
 thumbnailImage: https://c.pxhere.com/photos/96/cb/buffalo_bison_american_grazing_animals_herd_wildlife_yellowstone-437409.jpg!d
 coverImage: https://c.pxhere.com/photos/96/cb/buffalo_bison_american_grazing_animals_herd_wildlife_yellowstone-437409.jpg!d
+hidden: true
 tags:
 - USA
 - Yellowstone
@@ -98,4 +98,4 @@ Finalmente, compramos una guía sobre <a href="https://www.goodreads.com/book/sh
 {{< image classes="left fancybox fig-25" src="https://c2.staticflickr.com/2/1767/43154049571_0516cdb760_c.jpg" title="" alt="" >}}
 {{< image classes="left fancybox fig-25 clear" src="https://c2.staticflickr.com/2/1806/43105017692_51dbbb4bcc_c.jpg" title="" alt="" >}}
 
-Con todo esto, teníamos todo listo para el viaje. Tras un vuelo de 6 horas aterrizamos en NYC para dar comienzo a la aventura. ¡Seguid atentas!
+Con todo esto, teníamos todo listo para el viaje y tan solo quedaba coger el vuelo hacia NYC para dar comienzo a la aventura. ¡Seguid atentas!

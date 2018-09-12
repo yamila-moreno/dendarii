@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseurl = "https://dendarii.es"
+baseurl = "http://localhost:8000"
 languageCode = "en-us"
 defaultContentLanguage = "es-es"
 title = "Viajes dendarii"
@@ -146,6 +146,9 @@ canonifyurls = true
   # Enabling scrollPagination creates an infinite scroll for your posts
   # scrollPagination = false
   scrollPagination = true
+
+  hiddenTags = ["yellowstone", "nueva-york"]
+  hiddenTrips = ["usa-2018"]
 
   # Your favicon path, default is "/favicon.png"
   # favicon = "/favicon.png"

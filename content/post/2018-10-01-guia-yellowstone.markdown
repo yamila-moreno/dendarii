@@ -1,17 +1,12 @@
 ---
 draft: true
 author: yamila
-date: 2018-10-01T10:00:00.000Z
+date: 2018-10-15T10:00:00.000Z
 slug: guia-de-yellowstone
 title: Guía de Yellowstone
 thumbnailImage: https://farm1.staticflickr.com/955/42086483882_4e775be710_c.jpg
 coverImage: https://farm1.staticflickr.com/955/42086483882_4e775be710_c.jpg
-tags:
-- Guía
-- USA
-- Yellowstone
-trips:
-- USA 2018
+hidden: true
 ---
 
 

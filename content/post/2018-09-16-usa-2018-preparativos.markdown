@@ -87,7 +87,7 @@ La **SIM con datos** requirió algo más de tiempo. Los planes de *roaming* son 
 
 Aunque a este viaje vamos con coche, repetimos con **equipaje** minimalista. Nos llevaremos cada uno una mochila de 32l, y una pequeña de 10l para las excursiones, llevar la cámara, etc. El reto este año es que vamos a temperaturas más frescas así que la ropa necesariamente ocupa más. Por esto mismo, hice una pequeña prospección de servicios de lavanderías en nuestros hoteles o cerca.
 
-Para la **gestión del dinero** en este viaje vamos a probar con un sistema nuevo. Normalmente usábamos mi tarjeta de EVOBanco porque tenían (han cambiado hace poco) buenas condiciones para sacar dinero en el extranjero, pero este año vamos con Revolut: consiste en una cuenta en un banco inglés, que ofrece tarjetas virtuales (para pagos por internet) y físicas (para pagos en tiendas) y cuya ventaja es que se recarga con cargos a una tarjeta en euros por ejemplo (*top up*), y la conversión a dólares es muy barata.
+Para la **gestión del dinero** en este viaje vamos a probar con un sistema nuevo. Normalmente usábamos mi tarjeta de EVOBanco porque *tenían* (han cambiado hace poco) buenas condiciones para sacar dinero en el extranjero, pero este año vamos con Revolut: consiste en una cuenta en un banco inglés, que ofrece tarjetas virtuales (para pagos por internet) y físicas (para pagos en tiendas) y cuya ventaja es que se recarga con cargos a una tarjeta en euros por ejemplo (*top up*), y la conversión a dólares es muy barata.
 
 Para la visita en NYC estuve mirando información y precios de **musicales de Broadway**; hay opciones *last minute* y loterías varias, pero requieren tiempo de cola o mucha suerte, así que busqué varias opciones, elegimos uno y... ¡ya os contaré!
 

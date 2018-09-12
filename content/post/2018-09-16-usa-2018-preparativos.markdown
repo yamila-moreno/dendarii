@@ -1,17 +1,17 @@
 ---
 author: yamila
 date: 2018-09-16T08:00:00.000Z
-slug: usa-2018-preparativos
+slug: cb424d08-e7f7-498e-9b3d-c76e11471263-usa-2018-preparativos
 title: USA 2018 - Preparativos
 thumbnailImage: https://c.pxhere.com/photos/96/cb/buffalo_bison_american_grazing_animals_herd_wildlife_yellowstone-437409.jpg!d
 coverImage: https://c.pxhere.com/photos/96/cb/buffalo_bison_american_grazing_animals_herd_wildlife_yellowstone-437409.jpg!d
 hidden: true
-tags:
-- USA
-- Yellowstone
-- Nueva York
-trips:
-- USA 2018
+# tags:
+# - USA
+# - Yellowstone
+# - Nueva York
+# trips:
+# - USA 2018
 ---
 
 No es ningún secreto que a Alex y a mí nos encanta el monte; desde <a href="{{< ref "2018-05-15_Ruta-por-La-Pedriza" >}}" target="_blank">paseo sencillos</a>, rutas largas o *trekkings* más duros, cualquier excusa nos parece buena para salir a respirar <a href="/trips/vietnam-2017">aire fresco</a>. En general nuestras <a hfref="/trips/eslovenia-2016">vacaciones</a> tienen unas <a href="/trips/suiza-2015">enormes</a> dosis de naturaleza y <a href="/tags/senderismo" target="_new">senderismo</a>.
@@ -73,9 +73,9 @@ Para ir a USA desde España no es necesario un visado, pero hay que adquirir la 
 
 Como queríamos alquilar coche porque vamos a movernos bastante, nos sacamos también el **carné internacional**; en Madrid al menos, hay que pedir cita previa en la DGT, e ir con fotocopia del DNI, DNI original (o pasaporte), fotocopia y original del carné de conducir y 1 foto, además del documento de solicitud firmado y con fecha.
 
-Si quieres hacer la gestión por ti y por otra persona, ten en cuenta que debes pedir una cita por persona (según me dijeron) y debes añadir también una au torización firmada por la persona a la que le vas a hacer la gestión. Además, es importante que la persona a la que le haces la gestión tenga sus datos actualizados, o necesitarás mucha persuasión (cara de penica) y *savoir faire* (cara de penica).
+Si quieres hacer la gestión por ti y por otra persona, ten en cuenta que debes pedir una cita por persona (según me dijeron) y debes añadir también una autorización firmada por la persona a la que le vas a hacer la gestión. Además, es importante que la persona a la que le haces la gestión tenga sus datos actualizados, o necesitarás mucha persuasión (cara de penica) y *savoir faire* (cara de penica).
 
-{{< image classes="center margin-top" src="https://images.unsplash.com/photo-1533419784160-1f7f79022119?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3cc8690dc35ae8378b6ccc04c4d57fbf&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb" title="Un géyser, para acabar con el capitalismo (fuente: Unsplash)" alt="Foto aérea de géysers" >}}
+{{< image classes="center margin-top" src="https://images.unsplash.com/photo-1533419784160-1f7f79022119?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3cc8690dc35ae8378b6ccc04c4d57fbf&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb" title="Los géyseres son una forma muy original de la naturaleza de demostrar lo mucho que mola" alt="Foto aérea de géysers" >}}
 
 Reservamos el coche en el aeropuerto de SLC; uno pequeño porque iremos siempre por carreteras y porque sospechamos que aún así puede ser más grande de lo que nos esperamos, como nos sucedió en el <a href="{{< ref "2014-09-06-usa-2014-muir-woods-y-point-lobos.markdown" >}}" target="_blank">anterior viaje a Estados Unidos</a>.
 

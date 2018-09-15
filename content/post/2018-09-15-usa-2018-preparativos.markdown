@@ -1,6 +1,6 @@
 ---
 author: yamila
-date: 2018-09-16T08:00:00.000Z
+date: 2018-09-15T08:00:00.000Z
 slug: cb424d08-e7f7-498e-9b3d-c76e11471263-usa-2018-preparativos
 title: USA 2018 - Preparativos
 thumbnailImage: https://c.pxhere.com/photos/96/cb/buffalo_bison_american_grazing_animals_herd_wildlife_yellowstone-437409.jpg!d
@@ -85,7 +85,7 @@ La **SIM con datos** requirió algo más de tiempo. Los planes de *roaming* son 
 
 {{< image classes="center margin-top" src="https://c2.staticflickr.com/8/7361/16248159020_b0e5e777c3_b.jpg" title="Fuente: Flickr" alt="Río y colina" >}}
 
-Aunque a este viaje vamos con coche, repetimos con **equipaje** minimalista. Nos llevaremos cada uno una mochila de 32l, y una pequeña de 10l para las excursiones, llevar la cámara, etc. El reto este año es que vamos a temperaturas más frescas así que la ropa necesariamente ocupa más. Por esto mismo, hice una pequeña prospección de servicios de lavanderías en nuestros hoteles o cerca.
+Aunque a este viaje vamos con coche, repetimos con <a href="https://docs.google.com/spreadsheets/d/1nmhlk7hN2SYU-MEWMAPejUbVwnuHZj4jiL9Kp6COtW0/edit#gid=0" target="_blank">**equipaje** pequeño</a>. Nos llevaremos cada uno una mochila de 32l, y una pequeña de 10l para las excursiones, llevar la cámara, etc. El reto este año es que vamos a temperaturas más frescas así que la ropa necesariamente ocupa más. Por esto mismo, hice una pequeña prospección de servicios de lavanderías en nuestros hoteles o cerca.
 
 Para la **gestión del dinero** en este viaje vamos a probar con un sistema nuevo. Normalmente usábamos mi tarjeta de EVOBanco porque *tenían* (han cambiado hace poco) buenas condiciones para sacar dinero en el extranjero, pero este año vamos con Revolut: consiste en una cuenta en un banco inglés, que ofrece tarjetas virtuales (para pagos por internet) y físicas (para pagos en tiendas) y cuya ventaja es que se recarga con cargos a una tarjeta en euros por ejemplo (*top up*), y la conversión a dólares es muy barata.
 
@@ -98,4 +98,4 @@ Finalmente, compramos una guía sobre <a href="https://www.goodreads.com/book/sh
 {{< image classes="left fancybox fig-50" src="https://c2.staticflickr.com/2/1767/43154049571_0516cdb760_c.jpg" title="" alt="" >}}
 {{< image classes="left fancybox fig-50 clear" src="https://c2.staticflickr.com/2/1806/43105017692_51dbbb4bcc_c.jpg" title="" alt="" >}}
 
-Con todo esto, teníamos todo listo para el viaje y tan solo quedaba coger el vuelo hacia NYC para dar comienzo a la aventura. ¡Seguid atentas!
+Con todo esto,  ya estaba todo listo para el viaje y tan solo quedaba coger el vuelo hacia NYC para dar comienzo a la aventura. ¡Seguid atentas!

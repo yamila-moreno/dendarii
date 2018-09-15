@@ -37,7 +37,7 @@ Preparar un viaje a USA es relativamente fácil, aun así, puede resultar útil 
 
 {{< image classes="center margin-top" src="https://media.giphy.com/media/6h4z4b3v6XWxO/giphy.gif" title="Nope (fuente: Giphy)" alt="Pulpo en el fondo del mar" >}}
 
-En la web oficial sugieren que se planifique con antelación, que luego vienen los llanos; y yo no me hacía a la idea hasta que me puse a mirar alojamientos, por hacerme una idea del presupuesto, 8 meses antes del viaje y me dio un parraque y dos infartitos: la oferta hotelera dentro del parque era cara o carísima, con pocas plazas libres (repito, a 8 meses del viaje), y en los pueblos que hay en las entradas del parque la cosa no pintaba muchísimo mejor. Así que con 8 meses de anticipación, nos vimos reservando habitaciones porque si no, nos iba a tocar pernoctar en camping (con mínimas de -10º #LOL).
+En la web oficial sugieren que se planifique con antelación, que luego vienen los llantos; y yo no me hacía a la idea hasta que me puse a mirar alojamientos, por hacerme una idea del presupuesto, 8 meses antes del viaje y me dio un parraque y dos infartitos: la oferta hotelera dentro del parque era cara o carísima, con pocas plazas libres (repito, a 8 meses del viaje), y en los pueblos que hay en las entradas del parque la cosa no pintaba muchísimo mejor. Así que con 8 meses de anticipación, nos vimos reservando habitaciones porque si no, nos iba a tocar pernoctar en camping (con mínimas de -10º #LOL).
 
 Yellowstone es uno de los parques más grandes de USA y está en el top-5 de los más visitados con más de 4 millones de visitantes por año desde 2015. Es decir, **antelación**.
 

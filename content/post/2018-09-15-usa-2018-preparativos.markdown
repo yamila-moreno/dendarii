@@ -1,5 +1,4 @@
 ---
-draft: true
 author: yamila
 date: 2018-09-15T08:00:00.000Z
 slug: cb424d08-e7f7-498e-9b3d-c76e11471263-usa-2018-preparativos

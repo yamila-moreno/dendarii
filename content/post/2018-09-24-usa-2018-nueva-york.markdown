@@ -1,0 +1,79 @@
+---
+author: yamila
+date: 2018-09-24T08:00:00.000Z
+slug: e76e9d0f-9a98-4ee4-95a6-78c48ef39bb9-usa-2018-nueva-york
+title: USA 2018 - Nueva York (no es nueva)
+thumbnailImage: https://c2.staticflickr.com/2/1928/44854844871_bf0411eb0d_c.jpg
+coverImage: https://c2.staticflickr.com/2/1928/44854844871_bf0411eb0d_b.jpg
+hidden: true
+# tags:
+# - USA
+# - Nueva York
+# trips:
+# - USA 2018
+---
+
+Nueva York no es nueva; seguramente lo fue alguna vez, pero a día de hoy está más bien herrumbrosa. Es una gran ciudad muy turística, con todo lo que eso conlleva.
+
+<!--more-->
+
+La primera impresión al bajar en Port Authority fue la de una ciudad ruidosa, muy sucia (huele taaaan mal), caótica y hostil. Además, tuvimos la mala suerte de que nuestro alojamiento iba a juego con la ciudad (¡cucarachas!). Recién llegados del paraíso que resultó para nosotros Adirondacks, el impacto fue notorio.
+
+Con todo, reconozco que nuestras visitas fueron de menos a más y que el tiempo fresco y nublado acompañó durante toda nuestra estancia, así que tras el choque inicial, después vinieron días un poco más agradables (salvo para las fotos, que se me quemaban todas :P).
+
+{{< image classes="center margin-top" src="https://c2.staticflickr.com/2/1871/44834959971_33f47a9dec_b.jpg" title="Así es la vida" alt="Foto de NYC con el cielo quemado" >}}
+
+{{< alert info >}}Para ir desde JFK hasta Manhattan: primero hay que coger el AirTrain en el aeropuerto y bajarse en Jamaica Station (es la última). Este pasaje se paga al bajar en Jamaica, pues en el aeropuerto no hay máquinas. En Jamaica dees comprar la *metrocard* para salir del Airtrain y después cargarle más dinero para coger el metro hacia el centro de Manhattan.{{< /alert >}}
+
+**Día 1: el mayhem**
+
+Fuimos paseando por **Chinatown** y **Little Italy**, hasta llegar al punto donde empezaba nuestro tour guiado por NYC. Con el tour visitamos **Wall Street**, el **9/11 Memorial**, el **Oculus** de Calatrava y descubrimos algo más sobre los primeros pobladores del Sur de Manhattan y la colonización holandesa y británica.
+
+Por la tarde paseamos por el **High Line** y por **Hell's Kitchen**, fuimos a **Times Square** y a la estación **Grand Central**; además, aprovechamos que el **MOMA** es gratis los viernes de 16 a 20 para acercanos a conocer este museo.
+
+{{< image classes="left fancybox fig-50" src="https://c2.staticflickr.com/2/1956/44785214182_f7761de4e8_b.jpg " title="" alt="" >}}
+{{< image classes="left fancybox fig-50 clear" src="https://c2.staticflickr.com/2/1917/44834957101_fbd00f0c66_b.jpg" title="" alt="" >}}
+
+{{< alert info >}}Nosotros hicimos 3 de las visitas más importantes con la tarjeta C3 (3 monumentos); hay varias modalidades y puede ser útil echar un vistazo si os encajan con vuestras visitas.{{< /alert >}}
+
+**Día 2: las vistas**
+
+El segundo día comenzamos el día subiendo al **Empire State**; como fuimos pronto, pudimos visitarlo sin muchas esperas ni aglomeraciones. Tras asomarnos al piso 87 del edificio más alto de NYC, nos acercamos dando un paseo hasta la **Biblioteca pública**, una visita muy breve pero interesante.
+
+{{< image classes="center margin-top" src="https://c2.staticflickr.com/2/1970/44854889611_8b3264bd25_b.jpg" title="" alt="" >}}
+
+Por la tarde fuimos a visitar el **Intrepid Museum**, porque era gratis (día del Smithsonian) y porque tenían una feria de ciencia y astronomía que Alex quería ver. También había una conferencia de Mae Jemison pero era solo para miembros del museo (tsk). El museo es el portaaviones *Intrepid* que sirvió en varias campañas bélicas de USA y que jubilaron en forma de museo. Dentro del museo se pueden visitar la lanzadera espacial *USS Enterprise* y un submarino que está varado en el Hudson junto al museo. Fue una visita chulísima.
+
+{{< image classes="center margin-top" src=https://c2.staticflickr.com/2/1945/43944302305_70b2c8c0e6_b.jpg"" title="" alt="" >}}
+
+Y por la noche ¡nos fuimos a Broadway! El musical elegido fue **Aladdin** y fue una auténtica pasada. El actor que hace de genio es el dueño incontestable de la obra y nos dejó una sonrisa enorme.
+
+{{< image classes="center margin-top" src="https://c2.staticflickr.com/2/1866/30982626208_06693391a6_b.jpg" title="" alt="" >}}
+
+{{< alert info >}}En las marquesinas de autobus hay máquinas donde meter la metrocard (sirve para bus y metro) y que te dan el ticket del bus, puesto que en el autobus no se puede ni ticar ni comprar billete. Nosotros nos colamos en el bus por no saberlo :P{{< /alert >}}
+
+**Día 3: museos**
+
+El tercer día lo dedicamos casi íntegramente a visitar dos museos. Por la mañana fuimos al **Museo de Historia Natural**. Es un museo enorme, similar a su homónimo londinense; tiene una gran sección sobre dinosaurios, muchos animales americanos, el planetario Hayden y mucho mucho más; es improbable verlo en un día entero, y es recomendable dedicar un rato antes a elegir bien qué se quiere visitar.
+
+{{< image classes="center margin-top" src="https://c2.staticflickr.com/2/1946/43962289585_d5a3084ce5_b.jpg" title="" alt="" >}}
+
+Aprovechamos la hora de comer para dar un paseo por el **Central Park** y salir al otro lado, donde está precisamente el **Metropolitan Museum (MET)**, otro gigante. Este tiene mucho de British Museum y aparte pinacoteca y arte norteamericanos.
+
+**Día 4: cruzar el Hudson**
+
+El último día fuimos pronto hasta la estación donde se coge el **ferry que va a Staten Island** y que es la *otra* forma oficial de ver la **Estatua de la Libertad**. El ferry nos ayudó a cruzar dos veces el Hudson y pudimos hacer las fotos de rigor al símbolo neoyorquino por excelencia.
+
+{{< image classes="center margin-top" src="https://c2.staticflickr.com/2/1922/29980119227_f0ce5593f3_b.jpg" title="" alt="" >}}
+
+Después fuimos en metro hasta **Brooklyn**, que es una zona mucho menos agobiante y turística, y desde donde volvimos a cruzar el Hudson esta vez sobre el famoso **puente de Brooklyn**; pudimos ver a Spiderman descolgarse y salvar un *hot dog* de caer al río. Heróico.
+
+Después recogimos nuestras cosas y nos despedimos de NYC. Como veis, no ha sido mi visita favorita (tampoco contaba con ello); y seguramente me haya dejado algunas cuestiones útiles en el tintero; si estáis pensando en ir y tenéis dudas, no dejéis de preguntar, contestaré de mil amores.
+
+Y para mil amores, los que se ven en este selfie tontako:
+
+{{< image classes="center margin-top" src="https://c2.staticflickr.com/2/1923/44873543261_21ae3dc525_b.jpg" title="" alt="" >}}
+
+Y el resto de fotos de la visita a NYC:
+
+{{< flickr album="72157701334893354" >}}

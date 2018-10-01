@@ -40,7 +40,7 @@ Por la tarde fuimos al **Grand Canyon** de Yellowstone, que no es tan grande com
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1964/44302050914_cb9f8bac99_b.jpg" title="Un pequeño salto para el Yellowstone, un gran salto para el cañón" alt="Cascada en el cañón" >}}
 
-Los primeros exploradores volvieron con historias sobre un parque en el que las cascadas iban hacia arriba, con piscinas de barro y ríos de agua hirviendo, imágenes tan improbables que nadie les creyó. Así que se montó una expedición en la que, además de geólogos, geógrafos, etc, llevaron a un pintor, Thomas Moran, que hizo una famosa composición de este cañón desde lo que después se llamaría el **Artist Point**. Este cuadro fue el principal reclamo que usaron para conseguir que Yellowstone fuera el primer Parque Nacional de la historia de USA.
+Los primeros exploradores volvieron con historias sobre un parque en el que las cascadas iban hacia arriba, con piscinas de barro y ríos de agua hirviendo, imágenes tan improbables que nadie les creyó. Así que se montó una expedición en la que, además de geólogos, geógrafos, etc, llevaron a un pintor, Thomas Moran, que hizo una <a href="https://goo.gl/images/1y51PB" target="_blank">famosa composición</a> de este cañón desde lo que después se llamaría el **Artist Point**. Este cuadro fue el principal reclamo que usaron para conseguir que Yellowstone fuera el primer Parque Nacional de la historia de USA.
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1952/44301813474_793ca75e75_b.jpg" title="" alt="Cañón del Río Yellowstone" >}}
 

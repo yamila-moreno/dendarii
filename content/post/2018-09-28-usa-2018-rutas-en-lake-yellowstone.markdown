@@ -44,7 +44,7 @@ En la zona norte del lago hicimos un par de rutas: por un lado, la **Pelican Cre
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1916/44109979785_a779530510_b.jpg" title="No hay pelícanos" alt="Camino en el bosque" >}}
 
-Por otro lado, hicimos la **Storm Point Nature Trail** con una Ranger enantadora que nos llevó a conocer mejor los bosques del Parque. En Yellowstone, debido a un suelo muy pobre, el 80% de los árboles son los *lodgepole pine*, unos pinos de raíces muy superficiales. El otro 20% son pinos blancos y un par de variedades de abetos en las zonas más húmedas y altas.
+Por otro lado, hicimos la **Storm Point Nature Trail** con una Ranger encantadora que nos llevó a conocer mejor los bosques del Parque. En Yellowstone, debido a un suelo muy pobre, el 80% de los árboles son los *lodgepole pine*, unos pinos de raíces muy superficiales. El otro 20% son pinos blancos y un par de variedades de abetos en las zonas más húmedas y altas.
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1927/43209804190_faf4611242_b.jpg" title="" alt="Lago y bosque al fondo" >}}
 

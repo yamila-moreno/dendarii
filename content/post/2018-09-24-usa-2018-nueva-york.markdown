@@ -23,7 +23,7 @@ Con todo, reconozco que nuestras visitas fueron de menos a más y que el tiempo 
 
 {{< image classes="center margin-top" src="https://c2.staticflickr.com/2/1871/44834959971_33f47a9dec_b.jpg" title="Así es la vida" alt="Foto de NYC con el cielo quemado" >}}
 
-{{< alert info >}}Para ir desde JFK hasta Manhattan: primero hay que coger el AirTrain en el aeropuerto y bajarse en Jamaica Station (es la última). Este pasaje se paga al bajar en Jamaica, pues en el aeropuerto no hay máquinas. En Jamaica dees comprar la *metrocard* para salir del Airtrain y después cargarle más dinero para coger el metro hacia el centro de Manhattan.{{< /alert >}}
+{{< alert info >}}Para ir desde JFK hasta Manhattan: primero hay que coger el AirTrain en el aeropuerto y bajarse en Jamaica Station (es la última). Este pasaje se paga al bajar en Jamaica, pues en el aeropuerto no hay máquinas. En Jamaica debes comprar la *metrocard* para salir del Airtrain y después cargarle más dinero para coger el metro hacia el centro de Manhattan.{{< /alert >}}
 
 **Día 1: el mayhem**
 

@@ -21,7 +21,7 @@ Tras un largo viaje de avión, tren y bus, durante unas 20 horas, llegamos bien 
 
 {{< image classes="center margin-top" src="https://c2.staticflickr.com/2/1961/29877686757_f009e4c232_k.jpg" title="El lago Goodnow desde nuestro rinconcito" alt="Jardín y vistas al lago Goodnow" >}}
 
-*Alexander Camp*, la casita en el bosque de Lee y Cristina, está situada junto a uno de los 3000 lagos que hay en las Adirondacks y es todo lo que una se imagina que es un rinconcito en el bosque: mágico. Solo el rumor del viento entre las hojas de los arces, las ardillas cruzando por delante de la casa y las ocas canadientes rompían el silencio que nos acompañaba mientras leíamos en las mecedoras.
+*Alexander Camp*, la casita en el bosque de Lee y Cristina, está situada junto a uno de los 3000 lagos que hay en las Adirondacks y es todo lo que una se imagina que es un rinconcito en el bosque: mágico. Solo el rumor del viento entre las hojas de los arces, las ardillas cruzando por delante de la casa y las ocas canadienses rompían el silencio que nos acompañaba mientras leíamos en las mecedoras.
 
 {{< image classes="center margin-top" src="https://c2.staticflickr.com/2/1845/43003486140_f1486a47f5_b.jpg" title="Alexander Camp" alt="Cartel del Alexander Camp" >}}
 

@@ -52,7 +52,7 @@ Durante esta ruta, mientras observábamos cómo un pino luchaba con su resina co
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1946/44301834464_aceb60343e_b.jpg" title="" alt="Bisonte tumbado tras la hierba" >}}
 
-En la zona de Canyon, hicimos la **Lake Cascade Trail**, una ruta super llana que atraviesa algunos bosques y sobre todo muchos claros hasta el lago Cascade.
+En la zona de Canyon, hicimos la **Cascade Lake Trail**, una ruta super llana que atraviesa algunos bosques y sobre todo muchos claros hasta el lago Cascade.
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1971/44109849175_900a57c825_b.jpg" title="" alt="Tronco sobre el lago" >}}
 

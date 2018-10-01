@@ -24,7 +24,7 @@ Llegamos a Yellowstone desde Utah, donde habíamos alquilado el coche, y entramo
 
 El Parque Nacional de Yellowstone es un parque grande (unos 8000m2) que se recorre esencialmente con una carretera en forma de ocho (*the loop road*); casi todas las atracciones más famosas están junto a este ocho y otras zonas más alejadas obligan igualmente a circular por él. Es una carretera bastante buena, aunque la velocidad máxima es 70km/h por el peligro de encontrarse animales salvajes.
 
-{{< alert info >}}Para acceder a muchos parques nacionales en USA hace falta la *American Beautiful*; es una tarjeta (80$ por coche) que dura 1 año y que permite la entrada en casi todos los parques. Normalmente se puede comprar en la entrada de cualquiera de los parques asociados.{{< /alert >}}
+{{< alert info >}}Para acceder a muchos parques nacionales en USA hace falta la <a href="https://www.nps.gov/planyourvisit/passes.htm" target="_blank">*America the Beautiful*</a>; es una tarjeta (80$ por coche) que dura 1 año y que permite la entrada en casi todos los parques. Normalmente se puede comprar en la entrada de cualquiera de los parques asociados.{{< /alert >}}
 
 Durante los primeros días nos alojamos en una cabañita junto al lago Yellowstone, que fue la primera zona que visitamos. Como cuando llegamos era tarde, apenas nos dio tiempo a acomodar nuestras cosas y a caer rendidos.
 

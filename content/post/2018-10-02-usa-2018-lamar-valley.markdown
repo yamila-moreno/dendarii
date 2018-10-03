@@ -60,7 +60,7 @@ Justo Antes de comer hemos paseado por el **Specimen Ridge**, que recorre el ca�
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1922/43251921130_792537db6e_b.jpg" title="Aquí un especímen" alt="" >}}
 
-Y para terminar nos hemos acercado al **Petrified Tree**, un árbol petrificado (esto lo visteis venir) por la lava de erupciones violentas hace más de 50 millones de años (uno detrás de otro). Está vallado porque, según leímos, había dos árboles juntos y alguien se llevó uno.
+Y para terminar nos hemos acercado al **Petrified Tree**, un árbol petrificado (esto lo visteis venir) por la lava de erupciones violentas hace más de 50 millones de años (uno detrás de otro). Está vallado porque, según leímos, había tres árboles juntos y "cazadores de souvenires" se llevaron dos.
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1936/45016075802_b84b4a8d06_b.jpg" title="Qué buen tronco, parece que solo tuviera 40 millones de años" alt="" >}}
 

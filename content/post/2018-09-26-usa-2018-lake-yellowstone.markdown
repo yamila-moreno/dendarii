@@ -9,7 +9,6 @@ hidden: true
 # tags:
 # - USA
 # - Yellowstone
-# - Senderismo
 # trips:
 # - USA 2018
 ---

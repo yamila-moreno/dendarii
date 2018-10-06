@@ -67,11 +67,11 @@ Por ejemplo, el géiser Solitary no se puede visitar actualmente porque ha apare
 
 ## Old Faithful Area
 
-El géiser más famoso del parque es, posiblemente, el **Old Faithful** ("viejo fidedigno) porque es muy predecible y tiene muy poco margen de actuación (aproximadamente cada hora, con 10 minutos de error).
+El géiser más famoso del parque es, posiblemente, el **Old Faithful** ("viejo fidedigno") porque es muy predecible y tiene muy poco margen de actuación (aproximadamente cada hora, con 10 minutos de error).
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1966/44386323154_316d34aaef_b.jpg" title="Es como un señoro, viejo y precedible" alt="" >}}
 
-Junto al Old Faithful hay un porrón de géiseres que se visitan recorriendo unas pasarelas de madera; es importante quedarse en las pasarelas, ya que el suelo es muy frágil y quebraizo (se han dado varias desgracias por descuidos con esto).
+Junto al Old Faithful hay un porrón de géiseres que se visitan recorriendo unas pasarelas de madera; es importante quedarse en las pasarelas, ya que el suelo es muy frágil y quebradizo (se han dado varias desgracias por descuidos con esto).
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1935/45057717952_456edbee82_b.jpg" title="" alt="" >}}
 

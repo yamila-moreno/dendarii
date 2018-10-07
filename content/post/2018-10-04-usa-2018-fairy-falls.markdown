@@ -1,6 +1,6 @@
 ---
 author: yamila
-date: 2018-10-03T08:00:00.000Z
+date: 2018-10-04T08:00:00.000Z
 slug: 13fa6373-8371-478f-9f84-464729da5050-usa-2018-fairy-falls
 title: USA 2018 - (Ruta) Fairy Falls
 thumbnailImage: https://farm2.staticflickr.com/1916/30168937747_19e2257004_c.jpg
@@ -90,7 +90,7 @@ Y con las energías renovadas por la fotosíntesis mental, nos lanzamos a por es
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1905/45106791861_eb10669ba5_b.jpg" title="" alt="" >}}
 
-Entonces algo llamó nuestra atención: primero, algún bisonte andaba especialmente revuelto y otros bramaban mucho. Que un bisonte se mueva es para nosotros algo excepcional pues hemos jugado durante el viaje a "bisonte o roca" ya que están tan quitos que en el paisaje son indistinguibles. Tras los bramidos, llegó la réplica: lobos aullando a lo lejos. ¿Cómo de lejos? Ni idea. ¿Era por los bisontes? Probablemente no; los lobos son muy listos y no van a atacar una manada de bisontes que les puede destrozar. ¿Era por nosotros? Tal vez los lobos se estuvieran avisando de que había una manada de Tontakos. Como los lobos sonaban muy lejos y los bisontes parecían estar entre medio, decidimos continuar sin apenas miedito (bueno igual un poco #ay).
+Entonces algo llamó nuestra atención: primero, algún bisonte andaba especialmente revuelto y otros bramaban mucho. Que un bisonte se mueva es para nosotros algo excepcional pues hemos jugado durante el viaje a "bisonte o roca" ya que están tan quietos que en el paisaje son indistinguibles. Tras los bramidos, llegó la réplica: lobos aullando a lo lejos. ¿Cómo de lejos? Ni idea. ¿Era por los bisontes? Probablemente no; los lobos son muy listos y no van a atacar una manada de bisontes que les puede destrozar. ¿Era por nosotros? Tal vez los lobos se estuvieran avisando de que había una manada de Tontakos. Como los lobos sonaban muy lejos y los bisontes parecían estar entre medio, decidimos continuar sin apenas miedito (bueno igual un poco #ay).
 
 Llegamos al géiser y ese sí, era el punto más alejado que íbamos a recorrer. Tocaba volver por la misma carretera hasta encontrarnos con el tramo que habíamos hecho al principio de la mañana y que nos dejaría en el coche al cabo de un rato.
 
@@ -100,7 +100,7 @@ Y entonces, Yellowstone decidió responder a mis plegarias: se puso a llover fue
 
 La vuelta nos dio unas vistas (nuevas) preciosas; aun mojados como estábamos, pudimos disfrutar de los valles y del río **Firehole**. De pronto, en los últimos kilómetros dejó de llover y gracias al viento llegamos al coche *casi* secos.
 
-Secos os quedáis vosotras con este selfie:
+Secos os quedáis vosotros con este selfie:
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1932/44195683255_1f6a7acd58_b.jpg" title="" alt="" >}}
 

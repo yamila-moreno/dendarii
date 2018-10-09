@@ -1,0 +1,75 @@
+---
+author: yamila
+date: 2018-10-05T08:00:00.000Z
+slug: c3b17d24-3527-43f8-8a6c-9fe081f71446-usa-2018-gtnp-i
+title: USA 2018 - Grand Teton National Park (I)
+thumbnailImage: https://farm2.staticflickr.com/1908/44257447485_2becf4e87b_c.jpg
+coverImage: https://farm2.staticflickr.com/1908/44257447485_2becf4e87b_b.jpg
+hidden: true
+# tags:
+# - USA
+# - Grand Teton
+# trips:
+# - USA 2018
+---
+
+Ayer dejábamos atrás el invierno en Yellowstone para entrar de cabeza en el otoño de **Grand Teton National Park**, la última gran visita de este viaje.
+
+<!--more-->
+
+El <a href="https://www.nps.gov/grte/index.htm" target="_blank">Grand Teton National Park</a> es un parque ubicado al sur de Yellowstone, gestionado también por el servicio nacional de parques.
+
+Nos lo encontramos "de casualidad" cuando planificábamos y en mi investigación sobre el parque lo que más leí eran "testimonios" de gente que se arrepentía de no haber estado más, de no haberlo conocido con más tiempo, etc. Uno de los atractivos era que el "hermano pequeño" de Yellowstone tiene muchos menos turistas y se nota mucha tranquilidad. ¡Nada más lejos de la realidad! Tiene apenas 1/4 de la superficie de Yellowstone y en 2017 recibió más de 3 millones de visitantes (frente a los 4 millones de Yellowstone). Es decir, es un parque también muy famoso y querido. Y no le faltan razones.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1949/44257416055_08c296bb41_b.jpg" title="" alt="" >}}
+
+Como decía, salimos del invierno en la Caldera de Yellowstone, y entramos en el otoño de Grand Teton, donde la tierra es mucho más rica y la vegetación da bosques de hoja caduca, arbustos y praderas que rápidamente nos cautivaron. Y para rematar una entrada "mágica", llegábamos al atardecer a nuestro alojamiento cuando de pronto ¡un alce!, enorme con sus cuernos y su pose digna.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1962/45168640811_178be1c006_b.jpg" title="" alt="" >}}
+
+GTNP es un parque que pide a gritos que lo camines, lo pasees o lo recorras por sus altas montañas. Los *Grand Tetons* son 3 montes dentro de una cordillera enclavada en las Montañas Rocosas y que domina el paisaje del parque. Con nieves perpetuas y unos picos magníficos, estas jóvenes montañas reclaman toda la atención mientras recorres el parque.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1971/31294905018_49863f70e2_b.jpg" title="" alt="" >}}
+
+El primer día nos pusimos en marcha, y pronto nos encontramos con un pequeño atasco. ¿Otro alce? Sin más opciones que esperar, bajé del coche y miré hacia donde apuntaban todos los teleobjetivos. Un parpadeo. Dos parpadeos. Contuve la respiración y miré de nuevo fijamente. Si mis ojos no me engañaban (¡no lo hacían!), aquel animal era un **oso negro**. Rápidamente avisé a Álex para que se uniera con los prismáticos. Ensimismada como estaba, apenas saqué dos fotos; sin embargo, la imagen del oso comiendo bayas a menos de 20 metros de mí se me quedó grabada en la retina.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1953/43354573500_a6c373a5e4_b.jpg" title="" alt="" >}}
+
+Nosotros comenzamos con la ruta por el **Phelps Lake**, dentro de la reserva Laurance Rockefeller (el hijo del famoso multimillonario); una ruta muy icónica donde nos acompañó el buen tiempo en todo momento.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1941/43354599130_a013458460_b.jpg" title="" alt="" >}}
+
+Esta es la pinta que tuvo la ruta:
+
+{{< route center="#13/43.6335/-110.7878" >}}
+
+Tras una ruta con sensaciones fantásticas, comimos nuestros sandwiches rápidamente y nos fuimos a conocer el **Murie Ranch**. Dos hermanos noruegos, Olaus y Adolf, se casaron con dos hermanas americanas, Mardy y Luise y durante toda su vida se dedicaron a realizar estudios de ecología, de relaciones predador-presa, y de hacer lobby en favor de crear espacios de conservación de la naturaleza. Sus estudios en los años 50 cambiaron la forma en que se veía (y trataba) a los coyotes: como predadores de ganado eran sistemáticamente cazados, pero estas dos parejas demostraron que eran parte necesaria de un ciclo ecológico. El rancho está abierto para pasear entre los distintos edificios, y conocer un poco más sobre estas 4 personas, tan importantes como interesantes.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1962/44257412565_c7b86a5c18_b.jpg" title="" alt="" >}}
+
+Salíamos del rancho y de pronto vi algo por el rabillo del ojo. ¡Un alce! Dejamos el coche a un lado del camino y salimos a observarlo. El alce no solo no se inmutó, sino que decidió que se acercaría. Poniendo el coche entre el alce y nosotros, vimos cómo se acercaba, cruzaba la carretera y se iba, como un suspiro.
+
+{{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1962/44446575874_cd42ec08b5_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1917/44257479695_9bf43d44ca_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1901/44257484545_6e9e0e1c80_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50 clear" src="https://farm2.staticflickr.com/1918/44257487485_2d1f631d56_b.jpg" title="" alt="" >}}
+
+Seguimos por la tarde con más visitas breves; fuimos al **Visitor and Discovery Center Craig Thomas**, con varias exposiciones muy amenas. Después fuimos al **Menors Ferry Historic District**, un pequeño rancho de los hermanos *Menor*, que además de los edificios típicos del rancho, eran los encargados del ferry que cruzaba el *Snake River*.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1949/44257496965_e9c93cc79b_b.jpg" title="" alt="" >}}
+
+Desde ahí, dando un pequeño paseo fuimos hasta la **Chapel of Transfiguration** una pequeña iglesia que se construyó para los *ranch dudes* y turistas que venían a GTNP. Lo llamativo es que tras el altar hay un gran ventanal que apunta hacia *el Grupo de la Catedral* (que lo componen los montes Teewinot, Owen y Grand Teton).
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1940/44257499085_383f125254_b.jpg" title="" alt="" >}}
+
+{{< alert info >}}Hemos visto: oso negro, alces, águilas calvas, además de las tradicionales ardillas y chipmonks que nos acompañaban siempre.{{< /alert >}}
+
+Y con esta imagen tan sagrada nos volvimos a casa tras un día de estampas inolvidables. Y por si os estábais olvidando de nosotras, aquí va el selfie:
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1922/30230374987_d753724115_b.jpg" title="" alt="" >}}
+
+Y las fotitos del día:
+
+{{< flickr album="72157672089079507" >}}
+
+Queda ya poquito de viaje, pero aún tenemos ganas y tiempo para recorrer un poco más este fantástico parque. ¡Seguid atentas!

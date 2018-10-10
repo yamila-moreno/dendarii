@@ -1,0 +1,81 @@
+---
+author: yamila
+date: 2018-10-09T08:00:00.000Z
+slug: a05e3e26-3bf4-416b-87ce-1faf0c6be5ff-usa-2018-gtnp-ii-iii
+title: USA 2018 - Grand Teton National Park (II y III)
+thumbnailImage: https://farm2.staticflickr.com/1913/45210241791_dde780ca79_c.jpg
+coverImage: https://farm2.staticflickr.com/1913/45210241791_dde780ca79_b.jpg
+hidden: true
+# tags:
+# - USA
+# - Grand Teton
+# trips:
+# - USA 2018
+---
+
+Los dos últimos días de *Grand Teton* y de este viaje a USA 2018 los dedicamos a hacer rutas y más visitas breves.
+
+<!--more-->
+
+El lunes nos levantábamos con un solazo así que lo vimos como una señal para aprovechar y que nos diera el aire.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1913/45210241791_dde780ca79_b.jpg" title="" alt="" >}}
+
+Con buenas energías nos acercamos a otro de los puntos icónicos del parque: la visita al **Jenny Lake**, desde donde se accede a las **Hidden Falls** y al *Inspiration Point* que está cerrado por reparaciones, aunque el camino permite asomarse al **Lower Inspiration Point**.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1937/43397101080_9f531a54cf_b.jpg" title="Vista del Jenny Lake" alt="" >}}
+
+De nuevo es un paseo sencillo, y el inesperado sol hizo que nos juntáramos bastantes grupos de senderistas.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1971/45210235031_d2f25ddf4e_b.jpg" title="Hidden Falls" alt="" >}}
+
+Aunque el punto más alto está cerrado, las vistas a las que sí pudimos llegar eran maravillosas:
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1952/45210235881_6a4a6369f5_b.jpg" title="Vistas maravillosas con el lago detrás" alt="" >}}
+
+Al terminar, hicimos una breve parada en el *Signal Mount Lodge*, un pequeño complejo de *cabins* con una cafetería que ofrecía unas vistas al Lago Jackson y que acompañaban de lujo a los cafés que nos tomamos.
+
+Ya empezaba el atardecer y aún queríamos acercarnos a dos miradores emblemáticos; el primero, **Schawabacher's Landing** con unas vistas increíbles de los Tetons y el grupo de la Catedral, con el río reflejando el sol.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1926/45210230661_7642a9042b_b.jpg" title="" alt="" >}}
+
+El segundo "mirador" es el **Mormon Row District**, un antiguo poblado mormón, y que ofrece la foto más repetida de todos los parques nacionales de USA.
+
+{{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1923/30271329707_6aa648c8cd_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1980/31336236948_ef3aff9772_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-100 clear" src="https://farm2.staticflickr.com/1913/45163553092_7a911469cb_b.jpg" title="" alt="" >}}
+
+Hoy nos hemos levantado con un tiempo completamente distinto al de ayer: estaba nevando y daban lluvias para más adelante. Está claro que **Grand Teton** nos está diciendo que ya va siendo hora de volver. Aun así, decidimos salir a un paseo, para despedirnos del parque y del viaje como se merece: recorriendo una ruta senderista por el medio de un bosque. Le ha tocado el turno a la **Taggart Lake Trail**. Eso sí, para que no se hiciera muy pesada por el tiempo (y porque llevo unos días acusando dolor en un pie), la hemos recortado un poco.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1936/43397112080_7347b0121d_b.jpg" title="" alt="" >}}
+
+Entre árbol y árbol nos hemos topado con los sospechosos habituales, muy tranquilos y agazapados:
+
+{{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1940/43397113980_6753903248_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50 clear" src="https://farm2.staticflickr.com/1974/43397113170_4226e05c53_b.jpg" title="" alt="" >}}
+
+Hemos llegado al lago y la nieve y el viento han empezado a dar más guerra, así que a paso firme hemos vuelto hasta el coche.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1942/43397110390_2fd4ac17a8_b.jpg" title="" alt="" >}}
+
+Aquí podéis ver por dónde nos han llevado estas dos rutas:
+
+{{< route center="#12/43.7248/-110.7344" >}}
+
+Como el tiempo no mejoraba, hemos aprovechado para acercanos a Jackson's Hole, la ciudad más importante de la zona, donde hemos podido tomar un café (y coger algunos cachés tradicionales :-))
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1913/43401213610_8e2178b1c1_b.jpg" title="" alt="" >}}
+
+{{< alert info >}}Hemos visto: liebres silbadoras, coyotes y alces apacibles.{{< /alert >}}
+
+Lo que sí mejora a lo largo de este blog de viajes son los selfies:
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1941/45210235261_bd915be223_b.jpg" title="" alt="" >}}
+
+Y las fotitos de estos dos días:
+
+{{< flickr album="72157672157679107" >}}
+
+Y así terminamos el viaje; mañana nos acercaremos a un centro de visitantes a entregar el spray anti-osos para que lo puedan usar en formaciones ya que, afortunadamente, no lo hemos necesitado. Después llevaremos el coche hasta Salt Lake City, donde nos entregaremos en cuerpo y alma a un periplo aéreo que nos hará apareceren Madrid en algún momento del día 12. Aunque el viaje termina, aún compartiré algunas cuestiones en el blog: un resumen y generalidades y por supuesto, el ya tradicional post con el itinerario y los dineros.
+
+¡No os los perdáis!

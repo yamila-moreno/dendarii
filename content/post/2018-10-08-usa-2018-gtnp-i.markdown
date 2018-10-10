@@ -1,6 +1,6 @@
 ---
 author: yamila
-date: 2018-10-05T08:00:00.000Z
+date: 2018-10-08T08:00:00.000Z
 slug: c3b17d24-3527-43f8-8a6c-9fe081f71446-usa-2018-gtnp-i
 title: USA 2018 - Grand Teton National Park (I)
 thumbnailImage: https://farm2.staticflickr.com/1908/44257447485_2becf4e87b_c.jpg

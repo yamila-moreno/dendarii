@@ -147,9 +147,6 @@ canonifyurls = true
   # scrollPagination = false
   scrollPagination = true
 
-  hiddenTags = ["yellowstone", "nueva-york"]
-  hiddenTrips = ["usa-2018"]
-
   # Your favicon path, default is "/favicon.png"
   # favicon = "/favicon.png"
 

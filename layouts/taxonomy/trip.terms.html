@@ -19,14 +19,14 @@
               data-message-other="{{ i18n "global.tags_found.other" }}"></h4>
 
             <section>
-              {{ range where .Data.Terms.ByCount "Name" "not in" .Site.Params.hiddenTrips }}
+	      {{ range .Data.Terms.ByCount }}
                 <a class="tag tag--primary tag--small" href="#{{ .Name | urlize }}-list" data-tag="{{ .Name | lower }}">
                   {{ .Name }}
                 </a>
               {{ end }}
             </section>
             <section class="boxes">
-              {{ range where .Data.Terms.ByCount "Name" "not in" .Site.Params.hiddenTrips }}
+	      {{ range .Data.Terms.ByCount }}
                 <div id="{{ .Name | urlize }}-list" class="archive box" data-tag="{{ .Name | lower }}">
                   <h4 class="archive-title">
                     <a class="link-unstyled" href="{{ .Name | urlize }}">
@@ -35,14 +35,12 @@
                   </h4>
                   <ul class="archive-posts">
                     {{ range .Pages.ByDate }}
-                    {{ if not .Params.hidden }}
                       <li class="archive-post">
                         <a class="archive-post-title" href="{{ .Permalink }}">
                           {{ .Title }}
                         </a>
                         <span class="archive-post-date"> - {{ partial "internal/date" . }}</span>
                       </li>
-                    {{ end }}
                     {{ end }}
                   </ul>
                 </div>

@@ -1,17 +1,16 @@
 ---
 author: yamila
 date: 2018-09-20T08:00:00.000Z
-slug: b8c5dccf-bfb6-42a0-a193-0f23d8869557-usa-2018-goodnow-mountain
+slug: usa-2018-goodnow-mountain
 title: USA 2018 - Goodnow Mountain
 thumbnailImage: https://c2.staticflickr.com/2/1859/43003344630_db3632ab92_c.jpg
 coverImage: https://c2.staticflickr.com/2/1859/43003344630_db3632ab92_b.jpg
-hidden: true
-# tags:
-# - USA
-# - Adirondack
-# - Senderismo
-# trips:
-# - USA 2018
+tags:
+- USA
+- Adirondack
+- Senderismo
+trips:
+- USA 2018
 ---
 
 Una de las formas que más nos gusta a Alex y a mí para *conocer campo* es caminar por él; así que hoy dimos una tregua a nuestros anfitriones y nos fuimos a hacer una pequeña ruta senderista: subir la *Goodnow Mountain*.

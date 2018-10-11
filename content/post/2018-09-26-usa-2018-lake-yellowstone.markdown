@@ -1,16 +1,15 @@
 ---
 author: yamila
 date: 2018-09-26T08:00:00.000Z
-slug: a79c8f92-6e4c-416d-bf6b-bfe27d9e39a8-usa-2018-lake-yellowstone
+slug: usa-2018-lake-yellowstone
 title: USA 2018 - Lake Yellowstone
 thumbnailImage: https://farm2.staticflickr.com/1975/43210131840_cb99657264_c.jpg
 coverImage: https://farm2.staticflickr.com/1975/43210131840_cb99657264_b.jpg
-hidden: true
-# tags:
-# - USA
-# - Yellowstone
-# trips:
-# - USA 2018
+tags:
+- USA
+- Yellowstone
+trips:
+- USA 2018
 ---
 
 Tras nuestro paso por la <a href="{{< ref "2018-09-24-usa-2018-nueva-york.markdown" >}}" target="_blank">Gran Manzana</a>, ya tocaba otro poco de naturaleza, ¡y nos vinimos a **Yellowstone**! Teníamos muchas ganas de conocer este Parque Nacional, famoso por su geología, los géyseres, los bisontes, los osos, ¡incluso un super volcán!

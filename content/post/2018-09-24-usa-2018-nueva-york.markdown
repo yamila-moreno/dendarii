@@ -1,16 +1,15 @@
 ---
 author: yamila
 date: 2018-09-24T08:00:00.000Z
-slug: e76e9d0f-9a98-4ee4-95a6-78c48ef39bb9-usa-2018-nueva-york
+slug: usa-2018-nueva-york
 title: USA 2018 - Nueva York (no es nueva)
 thumbnailImage: https://c2.staticflickr.com/2/1928/44854844871_bf0411eb0d_c.jpg
 coverImage: https://c2.staticflickr.com/2/1928/44854844871_bf0411eb0d_b.jpg
-hidden: true
-# tags:
-# - USA
-# - Nueva York
-# trips:
-# - USA 2018
+tags:
+- USA
+- Nueva York
+trips:
+- USA 2018
 ---
 
 Nueva York no es nueva; seguramente lo fue alguna vez, pero a día de hoy está más bien herrumbrosa. Es una gran ciudad muy turística, con todo lo que eso conlleva.

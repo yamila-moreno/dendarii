@@ -1,16 +1,15 @@
 ---
 author: yamila
 date: 2018-10-03T08:00:00.000Z
-slug: 39684e1b-0055-4515-80d2-ecd6ade34650-usa-2018-old-faithful
+slug: usa-2018-old-faithful
 title: USA 2018 - Old Faithful, de supervolcanes y géiseres
 thumbnailImage: https://farm2.staticflickr.com/1915/43292953610_7b86983df3_c.jpg
 coverImage: https://farm2.staticflickr.com/1915/43292953610_7b86983df3_b.jpg
-hidden: true
-# tags:
-# - USA
-# - Yellowstone
-# trips:
-# - USA 2018
+tags:
+- USA
+- Yellowstone
+trips:
+- USA 2018
 ---
 
 Los géiseres son, sin duda, uno de los grandes atractivos que reúne a unos 4 millones de visitantes anuales en Yellowstone. La realidad es mucho más rica e interesante que "chorros de agua caliente", y estos días en Yellowstone hemos podido aprender un poquito de por qué esta zona es tan peculiar y maravillosa.

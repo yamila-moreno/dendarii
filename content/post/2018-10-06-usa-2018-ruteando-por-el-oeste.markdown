@@ -1,16 +1,15 @@
 ---
 author: yamila
 date: 2018-10-06T08:00:00.000Z
-slug: 5a7b020e-791c-48c6-aa2f-ff5f4dc0da43-usa-2018-ruteando-por-el-oeste
+slug: usa-2018-ruteando-por-el-oeste
 title: USA 2018 - Ruteando por el oeste
 thumbnailImage: https://farm2.staticflickr.com/1920/45057810782_c94519f8db_c.jpg
 coverImage: https://farm2.staticflickr.com/1920/45057810782_c94519f8db_b.jpg
-hidden: true
-# tags:
-# - USA
-# - Yellowstone
-# trips:
-# - USA 2018
+tags:
+- USA
+- Yellowstone
+trips:
+- USA 2018
 ---
 
 Además de las *grandes visitas* y las rutas épicas también hicimos un buen montón de pequeñas paradas, miradores y desvíos recorriendo el *loop* por el oeste de norte a sur que bien merecen un post.

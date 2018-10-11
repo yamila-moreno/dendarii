@@ -1,17 +1,16 @@
 ---
 author: yamila
 date: 2018-09-28T08:00:00.000Z
-slug: 9d396a00-9e24-4d2a-85fb-a70f4bef640c-usa-2018-rutas-lake-yellowstone
+slug: usa-2018-rutas-lake-yellowstone
 title: USA 2018 - Rutas en Lake Yellowstone
 thumbnailImage: https://farm2.staticflickr.com/1947/45020742031_8ae1ecc04f_c.jpg
 coverImage: https://farm2.staticflickr.com/1947/45020742031_8ae1ecc04f_b.jpg
-hidden: true
-# tags:
-# - USA
-# - Yellowstone
-# - Senderismo
-# trips:
-# - USA 2018
+tags:
+- USA
+- Yellowstone
+- Senderismo
+trips:
+- USA 2018
 ---
 
 En nuestra primera etapa por Yellowstone no podían faltar algunas rutas senderistas para conocer el terreno de primera mano. En el caso particular de Yellowstone, hacer senderismo significa además la posibilidad de encontrarse con animales (algunos realmente grandes!)

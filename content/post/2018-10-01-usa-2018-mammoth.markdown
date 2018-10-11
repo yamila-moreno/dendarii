@@ -1,17 +1,16 @@
 ---
 author: yamila
 date: 2018-10-01T08:00:00.000Z
-slug: cfad6492-63bf-441a-8cb1-d6a455adcee4-usa-2018-mammoth
+slug: usa-2018-mammoth
 title: USA 2018 - Mammoth, terrazas y castores
 thumbnailImage: https://farm2.staticflickr.com/1933/43251463260_380ebc6927_c.jpg
 coverImage: https://farm2.staticflickr.com/1933/43251463260_380ebc6927_b.jpg
-hidden: true
-# tags:
-# - USA
-# - Yellowstone
-# - Senderismo
-# trips:
-# - USA 2018
+tags:
+- USA
+- Yellowstone
+- Senderismo
+trips:
+- USA 2018
 ---
 
 Después de visitar el Lake Yellowstone, nos fuimos al norte del parque, a conocer las terrazas de caliza de Mammoth, un nuevo paisaje y nuevas formaciones hidrotermales. Nuestro centro de operaciones estos días es Gardiner, un pueblo justo en la entrada norte de Yellowstone.

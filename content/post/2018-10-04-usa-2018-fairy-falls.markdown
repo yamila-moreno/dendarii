@@ -1,17 +1,16 @@
 ---
 author: yamila
 date: 2018-10-04T08:00:00.000Z
-slug: 13fa6373-8371-478f-9f84-464729da5050-usa-2018-fairy-falls
+slug: usa-2018-fairy-falls
 title: USA 2018 - (Ruta) Fairy Falls
 thumbnailImage: https://farm2.staticflickr.com/1916/30168937747_19e2257004_c.jpg
 coverImage: https://farm2.staticflickr.com/1916/30168937747_19e2257004_b.jpg
-hidden: true
-# tags:
-# - USA
-# - Yellowstone
-# - Senderismo
-# trips:
-# - USA 2018
+tags:
+- USA
+- Yellowstone
+- Senderismo
+trips:
+- USA 2018
 ---
 
 El paseo a **Fairy Falls** es una ruta bastante popular, especialmente en verano. Nosotros nos despertamos con lluvia y una previsión de más lluvia. ¿Qué debíamos hacer?

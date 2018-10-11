@@ -1,17 +1,18 @@
 ---
 author: yamila
 date: 2018-09-15T08:00:00.000Z
-slug: cb424d08-e7f7-498e-9b3d-c76e11471263-usa-2018-preparativos
+slug: usa-2018-preparativos
 title: USA 2018 - Preparativos
 thumbnailImage: https://c.pxhere.com/photos/96/cb/buffalo_bison_american_grazing_animals_herd_wildlife_yellowstone-437409.jpg!d
 coverImage: https://c.pxhere.com/photos/96/cb/buffalo_bison_american_grazing_animals_herd_wildlife_yellowstone-437409.jpg!d
-hidden: true
-# tags:
-# - USA
-# - Yellowstone
-# - Nueva York
-# trips:
-# - USA 2018
+tags:
+- USA
+- Adirondack
+- Nueva York
+- Yellowstone
+- Grand Teton
+trips:
+- USA 2018
 ---
 
 No es ningún secreto que a Alex y a mí nos encanta el monte; desde <a href="{{< ref "2018-05-15_Ruta-por-La-Pedriza" >}}" target="_blank">paseo sencillos</a>, rutas largas o *trekkings* más duros, cualquier excusa nos parece buena para salir a respirar <a href="/trips/vietnam-2017">aire fresco</a>. En general nuestras <a hfref="/trips/eslovenia-2016">vacaciones</a> tienen unas <a href="/trips/suiza-2015">enormes</a> dosis de naturaleza y <a href="/tags/senderismo" target="_new">senderismo</a>.

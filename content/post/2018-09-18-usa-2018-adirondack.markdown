@@ -1,16 +1,15 @@
 ---
 author: yamila
 date: 2018-09-18T08:00:00.000Z
-slug: 39391fd4-2eb5-4a78-832f-1f10ba05f358-usa-2018-adirondack
+slug: usa-2018-adirondack
 title: USA 2018 - Camp Alexander, en el corazón de Adirondack
 thumbnailImage: https://c2.staticflickr.com/2/1961/29877686757_25087928ed_c.jpg
 coverImage: https://c2.staticflickr.com/2/1961/29877686757_f009e4c232_k.jpg 
-hidden: true
-# tags:
-# - USA
-# - Adirondack
-# trips:
-# - USA 2018
+tags:
+- USA
+- Adirondack
+trips:
+- USA 2018
 ---
 
 La primera etapa de este viaje ha sido el Parque Estatal Adirondack, un parque del que apenas sabía nada, pero que queríamos conocer puesto que los tíos de Alex nos habían invitado. Tras cuatro días se ha convertido en un sitio muy especial y que ha supuesto una enorme sorpresa.

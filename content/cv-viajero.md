@@ -34,6 +34,7 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 ### 2018
 <DIV class="cv-list">
 
+* 09 - <a href="/trips/usa-2018" target="_blank">USA 2018</a>
 * 05 - <a href="{{< ref "2018-05-15_Ruta-por-La-Pedriza" >}}" target="_blank">Rutaza por la Pedriza</a>
 * 05 - <a href="/trips/lake-district-2018" target="_blank">Lake District (Inglaterra)</a>
 * 04 - <a href="{{< ref "2018-04-22-spta-san-georges-shoot.markdown" >}}" target="_blank">San George's Shoot en Taunton</a>

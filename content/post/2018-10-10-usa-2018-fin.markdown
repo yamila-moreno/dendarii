@@ -1,15 +1,14 @@
 ---
 author: yamila
 date: 2018-10-10T08:00:00.000Z
-slug: 5a8904c2-c7f8-49a4-8a7f-bacd1e6c74fe-usa-2018-y-fin
+slug: usa-2018-y-fin
 title: USA 2018 - ... y fin
 thumbnailImage: https://farm2.staticflickr.com/1941/44405163524_6ce1576365_c.jpg
 coverImage: https://farm2.staticflickr.com/1941/44405163524_6ce1576365_b.jpg
-hidden: true
-# tags:
-# - USA
-# trips:
-# - USA 2018
+tags:
+- USA
+trips:
+- USA 2018
 ---
 
 Ya hemos terminado el viaje, y quería echar un vistazo a este mes que se ha pasado volando y compartir esta especie de resumen - retrospectiva.

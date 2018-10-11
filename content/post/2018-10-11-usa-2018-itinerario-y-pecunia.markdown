@@ -1,15 +1,14 @@
 ---
 author: yamila
 date: 2018-10-11T08:00:00.000Z
-slug: bf8dea6b-4865-44e0-9ad5-2a4dc8bacf32-usa-2018-itinerario-y-pecunia
+slug: usa-2018-itinerario-y-pecunia
 title: USA 2018 - Itinerario y pecunia
 thumbnailImage: https://farm2.staticflickr.com/1953/44195686895_e20901c07b_c.jpg
 coverImage: https://farm2.staticflickr.com/1953/44195686895_e20901c07b_b.jpg
-hidden: true
-# tags:
-# - USA
-# trips:
-# - USA 2018
+tags:
+- USA
+trips:
+- USA 2018
 ---
 
 Como es habitual en <a href="{{< ref "2017-10-22-vietnam-2017-itinerario-y-pecunia.markdown" >}}" target="_blank">viajes</a> <a href="{{< ref "2016-09-25-eslovenia-2016-kropa-itinerario-y-pecunia.markdown" >}}" target="_blank">anteriores</a> comparto los detalles significativos del itinerario y del presupuesto. Confío en que sean útiles a otras viajeras pensando en un viaje similar.

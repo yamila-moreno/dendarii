@@ -1,0 +1,75 @@
+---
+author: yamila
+date: 2018-10-10T08:00:00.000Z
+slug: 5a8904c2-c7f8-49a4-8a7f-bacd1e6c74fe-usa-2018-y-fin
+title: USA 2018 - ... y fin
+thumbnailImage: https://farm2.staticflickr.com/1941/44405163524_6ce1576365_c.jpg
+coverImage: https://farm2.staticflickr.com/1941/44405163524_6ce1576365_b.jpg
+hidden: true
+# tags:
+# - USA
+# trips:
+# - USA 2018
+---
+
+Ya hemos terminado el viaje, y quería echar un vistazo a este mes que se ha pasado volando y compartir esta especie de resumen - retrospectiva.
+
+<!--more-->
+
+## Algunos datos
+
+Han sido **26 días** de viaje. Hemos pasado por **5 estados**. Hemos trackeado **17 rutas** que suman **120 kilómetros**, y en realidad hemos caminado un montón más de kilómetros no trackeados. Hemos recorrido **1597 millas en coche** (algo más si cuentas kilómetros).
+
+Hemos cogido **42 cachés**; casi todos eran *earth cachés* pues en los parques está prohibido poner tradicionales, así que hemos aprendido un montón de geología.
+
+Hemos tenido **0 encuentros violentos con osos**, lo cual es de agradecer; y hemos visto muchísimos animales que era parte del atractivo del viaje.
+
+He recibido más de **50 fotos de mis gatos**, que estaban siendo cuidados por la Gatoteca (siempre fan). Hemos estado en **7 alojamientos** distintos y hemos hecho **5 coladas**.
+
+Con el que me queda por escribir, serán **16 posts del viaje** que he escrito, más las fotos (he subido **586 fotos a flickr**); no está mal teniendo en cuenta que he tenido bastantes problemas técnicos (con la cámara, el móvil y el teclado ¡!)
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1911/30084938677_fba7d84fa3_b.jpg" title="" alt="" >}}
+
+## Cuestiones prácticas
+
+En general, hemos **comido mal**. A veces era mal y caro. Eso sí, en todos los restaurantes te ponen **agua de grifo** fresquita, y solo por eso yo les perdono todo. Hemos procurado organizar los desayunos en los alojamientos y para las comidas nos hacíamos a diario unos *bagels deluxe* que nos daban la vida.
+
+Hay **baños públicos** por todas partes y están entre limpios y limpísimos. Incluso en Yellowstone con más de 4 millones de visitantes al año y los baños estupendos. Para visitar Yellowstone es imprescindible ir **con coche**.
+
+En los bazillones de kilómetros en coche que hemos hecho no nos hemos topado con pirulas inesperadas. En mi opinión, por aquí **conducen bien**, sin agobiar, sin pitar y con calma ante un conductor que de pronto se ha equivocado.
+
+En las rutas reconocíamos a los locales porque eran los que saludaban y sonreían; nos hemos encontrado con **gente amable** (salvo un par de excepciones) y nos han echado un cable en más de una ocasión.
+
+La **revolut** ha funcionado bastante bien en general, aunque no hemos podido sacar dinero de ningún cajero, y tuvimos que activar la banda magnética porque aquí está a la orden del día.
+
+Habíamos comprado una **sim de Misimcard** que salió rana; el paquete llegó vacío y están siendo extremadamente perezosos para devolver el dinero. Intentamos adquirir una sim de Verizon, pero resulta que en mi móvil no iba a funcionar, y además nos trataron fatal en la tienda. Por otro lado, las **wifi** en Yellowstone han funcionado bastante mal. Cuando encontrábamos una red que funcionaba la exprimíamos por encima de nuestras posibilidades.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1952/43251947520_015f8d4335_b.jpg" title="" alt="" >}}
+
+## De qué iba este viaje
+
+Hace casi un mes comenzábamos nuestras vacaciones de forma excepcional. Cristina y Lee (los tíos de Alex) nos acogían en el idílico <a href="/tags/adirondack" target="_blank">**Parque Estatal de los Adirondacks**</a> donde nos dimos un baño de naturaleza ¡e hicimos kayak!
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1961/29877686757_25087928ed_b.jpg" title="" alt="" >}}
+
+Después nos acercamos unos días a <a href="/tags/nueva-york" target="_blank">**Nueva York**</a>; conocí la Gran Manzana, paseamos por Wall Street, visitamos algunos museos alucinantes y lo mejor, fuimos al musical de Aladdin. Creo que fue un acierto enmarcar la visita a NYC en un viaje mayor.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1853/44805288562_a411278eb0_b.jpg" title="" alt="" >}}
+
+Y así llegamos al grueso del viaje, el <a href="/tags/yellowstone" target="_blank">**Parque Nacional de Yellowstone**</a>; en Yellowstone pudimos observar mucha fauna en libertad, lobos, coyotes, renos, ciervos, ¡la berrea!, me hice muy fan de los *bisons* completamente estáticos (¿*bison* o roca?), nos maravillamos con los géiseres y aprendimos sobre supervolcanes de hace cientos de miles de años. Superó con creces todo lo que creíamos que nos íbamos a encontrar.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1915/43292953610_7b86983df3_b.jpg" title="" alt="" >}}
+
+La puntilla del viaje fue acercarnos unos días a <a href="/tags/grand-teton" target="_blank">**Grand Teton National Park**</a>, al lado de Yellowstone y completamente distinto. Aquí pudimos ver por fin un oso y muchos alces, y caminamos en un otoño mágico.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1910/45210227881_d8a7313e0c_b.jpg" title="" alt="" >}}
+
+{{< alert info >}}Creo que la mayoría de viajeros tendrá de sobra con 5 días en Yellowstone; si no quieres una visita exhaustiva sino un baño de sensaciones, 5 días es perfecto para visitar Old Faithful, el cañón, Mammoth Terraces, alguna ruta de al menos 10km para alejarse del grueso de visitantes y recorrer el *loop* haciendo paradas en miradores. En Grand Teton diría que el mínimo son dos días completos para conocer dos zonas del parque y tener más oportunidades de ver fauna en libertad.{{< /alert >}}
+
+En este viaje os he tenido especialmente presentes, habéis comentado en el blog o por privado y me ha encantado ver vuestras reacciones a las fotos o a los txistakos. Además, entre ruta y ruta, unos amigos en Madrid daban la bienvenida a Gael, a quien tengo muchas ganas de conocer en cuanto volvamos.
+
+Apenas recuerdo de qué iba este viaje cuando empezamos a planificarlo. Sé que he dejado un trocito de corazón en unos cuantos rincones de los que he visitado estos días. Además, viajando con Álex nos hemos complementado bien en las tareas y me encanta salir a recorrer el mundo a su lado. ¡Por muchos años tontakos!
+
+¡Y por muchos selfies tontakos!
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1906/29877691057_00712b9f38_b.jpg" title="" alt="" >}}

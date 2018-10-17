@@ -14,6 +14,19 @@
   width: 100%;
 }
 
+/* pano */
+.post .pano {
+  position: relative;
+  width: 300%;
+  max-width: 300%;
+  left: -100%;
+}
+
+.post .pano img {
+  width: 100vw;
+}
+/**/
+
 /*
 #main.hasCoverMetaIn {
   background: rgba(255,255,255,.85);

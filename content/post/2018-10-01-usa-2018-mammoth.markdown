@@ -63,6 +63,8 @@ Después el camino se puso a llanear por bosques con álamos, juníperos y arbus
 
 Más o menos a mitad de camino nos cruzamos con dos senderistas canarios, que andan haciendo un intenso viaje por USA (¡hola, majos!). Tuvimos un rato de genial charla, intercambiamos algún consejo sobre el parque y nos despedimos con los mejores deseos para el resto del viaje.
 
+{{< image classes="center margin-top" src="https://c2.staticflickr.com/2/1927/31776800288_35b57f8f93_o.jpg" title="" alt="" >}}
+
 Y ya por fin entramos en la parte de los lagos de castores. Había lagos, pero no había castores. La literatura del parque (y los rangers, y el sentido común...) dice que están ya poco activos esperando el frío y que son de naturaleza elusiva. Yo creo que no hay castores ni nah y que es otro caso más en el que los <a href="{{< ref "2014-09-01-usa-2014-atlanta-y-dragoncon.markdown" >}}" target="_blank">toponominadores de USA</a> no se ganaron el sueldo. Eso sí, los lagos son preciosérrimos.
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1922/44343946044_8675fb51fb_b.jpg" title="Lacustrérrimo" alt="" >}}

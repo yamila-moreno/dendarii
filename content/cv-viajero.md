@@ -134,6 +134,7 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 <DIV class="cv-list">
 
 * 09 - USA
+* 08 - Menorca
 
 ### 2010
 <DIV class="cv-list">

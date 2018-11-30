@@ -8,6 +8,8 @@ showActions: false
 
 ---
 
+En este currículum viajero podéis encontrar de un vistazo rápido los viajes que he hecho. Espero que los disfrutéis :)
+
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css" />
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" />
 <style>

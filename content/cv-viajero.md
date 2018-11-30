@@ -128,6 +128,28 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 * 09 - La Loire à Vélo
 * 08 - <a href="/trips/portugal-2012" target="blank">Portugal</a>
 
+### 2011
+<DIV class="cv-list">
+
+* 09 - USA
+
+### 2010
+<DIV class="cv-list">
+
+* 09 - Croacia
+
+### 2009
+<DIV class="cv-list">
+
+* Escocia
+* Mallorca
+* Sierra Salmantina
+
+### 2008
+<DIV class="cv-list">
+
+* Argentina
+
 </DIV>
 
 ## Países visitados

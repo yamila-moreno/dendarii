@@ -17,14 +17,15 @@ before_install:
 - openssl aes-256-cbc -K $encrypted_63d3c23833fb_key -iv $encrypted_63d3c23833fb_iv -in travis_access.enc -out travis_access -d
 
 install:
-- GOPATH=$HOME/go go get github.com/gohugoio/hugo
 - eval $(ssh-agent -s)
 - chmod 600 travis_access && ssh-add travis_access
 - mkdir -p ~/.ssh
 - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+- curl -sL "https://github.com/gohugoio/hugo/releases/download/v0.51/hugo_0.51_Linux-64bit.tar.gz" -o hugo.tar.gz
+- tar -zxvf hugo.tar.gz
 
 script:
-- "$HOME/go/bin/hugo"
+- "./hugo"
 
 after_success:
 - rsync -avz --delete public/ $BLOG

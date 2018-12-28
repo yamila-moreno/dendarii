@@ -1,0 +1,105 @@
+---
+author: yamila
+date: 2018-12-28T08:00:00.000Z
+slug: resumen-viajero-2018
+title: Resumen viajero de 2018
+thumbnailImage: https://farm2.staticflickr.com/1960/45119809892_120272346e_c.jpg
+
+---
+
+Como en <a href="{{< ref "2017-12-resumen-2017.markdown" >}}" target="_new">ocasiones anteriores</a>, aprovecho estos últimos días para hacer el repaso viajero del año. 2018 ha sido un año con menos salidas que 2017 pero con viajes más grandes si cabe. Un año de conocer lugares muy especiales cerca y lejos y que me han dejado unos recuerdos maravillosos.
+
+<!--more-->
+
+{{< image classes="center margin-top" src="https://farm5.staticflickr.com/4837/46498787491_de14e10ec7_b.jpg" alt="Tontakos en Yellowstone" title="Tontakos en Yellowstone" >}}
+
+### Enero en Bruselas: frío y Open Source
+
+Comenzamos el año viajando al <a href="https://fosdem.org/2019/" target="_new">FOSDEM</a>, en Bruselas, como cada año; yo llevo asistiendo unas 8 ediciones y Alex otras 6. Es un evento técnico, para <strong>comunidades de Open Source</strong>, muy interesante; tan interesante como para ir año tras año a Bruselas en enero/febrero a pesar del frío: en 2012 pillé una ola de frío siberiana que nos tuvo a -12º, y generalmente nos llueve, nieva o graniza. Todo se aguanta por un evento único en Europa. Bruselas no es una ciudad que me apasione, pero tras tantos años visitándola, ya tengo restaurantes favoritos, conozco los autobuses y me manejo con relativa soltura y familiaridad, ¡quién lo iba a decir!
+
+### Marzo en Huelva: serranía y exploración de Marte
+
+En <strong>marzo</strong>, nos escapamos del final del invierno y fuimos a tierras onubenses, a conocer <a href="{{< ref "2018-03-29-sierra-de-aracena-y-minas-de-riotinto.markdown" >}}" target="_new">la Sierra de Aracena y la Minas de Riotinto</a>, con <a href="https://www.geocaching.com/profile/?guid=f42461b6-7b9a-4f07-abc1-f4d511c84993" target="_new">Zarangollo</a>. Era un destino que tenía en mi lista desde hacía tiempo; me gustaron muchísimo la sierra con esas <strong>dehesas preciosas</strong> que nos acompañaron todo el viaje. Pude conocer además un entorno tan especial como el Riotinto, y las bacterias que lo habitan, <strong>las extremófilas</strong>; en las visitas y el museo pude descubrir cómo este entorno tan singular es muy importante actualmente en la exploración espacial: al ser un entorno con condiciones <em>similares</em> a Marte, la NASA y otras agencias lo usan para verificar algunas hipótesis sobre el planeta rojo. La mina en sí misma también es una visita histórica que da una visión sobre la industrialización en España muy interesante. Junto con Zarangollo conocimos la zona, comimos genial y, cómo no, cogimos unos cuantos cachés.
+
+{{< image classes="center margin-top" src="https://farm1.staticflickr.com/871/41280989861_d59d671aee_b.jpg" alt="Tontako Team y Zarangollo" title="Tontako Team y Zarangollo" >}}
+
+### Abril en Taunton: tiro con arco y amigos
+
+En abril, coincidiendo con la festividad de <em>San Jorge</em>, desde el <a href="http://ithilien.es" target="_new">Club de Tiro con Arco Ithilien</a> montamos una excursión para asistir a una maravillosa tirada histórica en <a href="{{< ref "2018-04-22-spta-san-georges-shoot.markdown" >}}" target="_new">Taunton, Inglaterra</a>. Allí fuimos 7 arqueros y arqueras del club: los locales nos llamaban con cierta sorna <em>la armada española</em> y nos acogieron con los brazos abiertos. Fue un fin de semana de tiro con <strong>arco histórico, recreación de tiro con arco de distintas culturas, gymkanas</strong>, ¡un patito de goma que se nos resistió!, buena conversación y fantástica gente. Creo que también le dimos a alguna diana, aunque a esas distancias es difícil de decir :P Además, <a href="http://aljaba.net" target="_new">Pablo</a> se preparó una charla sobre la <strong>batalla de Aljubarrota</strong> que seguro aún resuena en el recuerdo de todos los asisntes. Un viaje entre amigos, compartiendo esta afición, no podía salir mejor. Me lo pasé increíblemente bien, y ojalá repitamos más años.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1756/41909942454_8e1fcc6766_b.jpg" alt="¡La armada española!" title="¡La armada española!" >}}
+
+
+### Mayo en Lake District: senderismo y lagos
+
+Otro sitio que teníamos Alex y yo en nuestra lista de visitas muy recomendadas era el <a href="/trips/lake-district-2018" target="_new">Distrito de los Lagos</a>, en el norte de Inglaterra. Es una zona de <strong>lagos y montañas</strong> famosa por ser la cuna del senderismo en Inglaterra y porque <strong>Beatrix Potter</strong> inspiró su obra en estos paisajes. Entre lago y lago también hay <strong>observatorios astronómicos</strong> pues el cielo es especialmente puro, aunque a la vez el tiempo es imprevisible (entre malo y super malo) y esta vez nos quedamos sin poder hacer una observación. Lo que sí nos llevamos fueron unos paseos maravillosos, y coronar el pico más alto de Inglaterra, el <strong>Skafell Pike</strong> de 3000 <del>metros</del> <em>pies</em> de altura.
+
+{{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1723/27845181687_c4b69f2ee8_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1730/28840132208_879674c2ce_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1730/42714477581_14a2a37ce7_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50 clear" src="https://farm2.staticflickr.com/1741/40904096750_84bfa5a3b2_b.jpg" title="" alt="" >}}
+
+Aprovechamos también el viaje para conocer brevemente Manchester, donde descubrí <a href="https://www.google.com/search?q=The+John+Rylands+Library&client=firefox-b-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj1-t7XvsLfAhXTtXEKHeKTAccQ_AUIDigB&biw=2558&bih=1313" target="_new">The John Rylands Library</a>, una biblioteca preciosa e impresionante. Y como Londres nos quedaba de camino (por qué no...), pues también estuvimos unos días en <em>la capi</em>. Con Londres tengo una relación dual: por un lado es una gran <em>polis</em>, una ciudad enorme, centro económico, financiero, coches, agobio, gentrificación y humo; por otro lado, la cantidad y calidad de <strong>sus parques</strong> es algo que me llena el corazoncito y cada vez que voy procuro descubrir alguna nueva zona verde.
+
+### Septiembre en USA: lagos, osos, alces y géiseres
+
+Después de visitar los lagos, nos tocaba guardar todos los días posibles para el gran, <em>enorme</em> destino de este año: <a href="/trips/usa-2018" target="_new">USA 2018</a> se llevó todas nuestras vacaciones y muchas energías, y de vuelta nos dejó tantísimos recuerdos en la retina, y experiencias que difícilmente podremos olvidar.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1965/43209943650_78daaf160f_b.jpg" alt="Las ardillas nos acompañaron todo el viaje" title="Las ardillas nos acompañaron todo el viaje" >}}
+
+Fue un viaje bastante largo de 27 días; para quienes tenemos 23 días al año de vacaciones, invertir casi todo el tiempo en un único viaje significa que pasas unos meses sin poder cogerte ni un día (se hace pesado) y que pasas mucho tiempo organizando un viaje largo (también se puede hacer pesado). En realidad fueron <strong>cuatro viajes</strong> distintos unidos por el itinerario que nos marcamos Alex y yo.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1923/44110297985_84e9b3fda1_b.jpg" alt="Los renos, en cambio, nos ignoraron todo el viaje" title="Los renos, en cambio, nos ignoraron todo el viaje" >}}
+
+Descubrimos los montes <strong>Adirondacks</strong>, al norte de Nueva York, con Lee y Cristina, los tíos de Alex. Una cabañita junto a un lago, donde compartieron con nosotros su afición por la naturaleza. Allí escuchamos a los <strong>loons</strong>, pudimos navegar el <strong>Goodnow flow</strong> en kayak y tuvimos la suerte de observar las <strong>águilas calvas</strong>. Fue una forma excepcional de comenzar nuestro viaje, y aún nos quedaban muchas sorpresas por delante.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1958/43003343650_b751365790_b.jpg" alt="Tontako Team con Lee y Cristina" title="Tontako Team con Lee y Cristina" >}}
+
+También hubo espacio en el viaje para una gran urbe: pasamos unos días en <strong>New York City</strong>. Quienes seguís este blog, sabéis que las ciudades no son mis lugares favoritos en la tierra y NYC no fue una excepción: no conseguí dejarme seducir por las luces de Time Square. Como me conozco, me aseguré de hacer visitas y actividades que me gustasen, y así me traje buenos momentos: el METropolitan Museum, el Museo de Historia Natural, el High Line, o el musical de Aladdin. En realidad nos organizamos muy bien y pude disfrutar de muchos ratos, aunque reconozco que no tengo prisa por volver a NYC.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1949/29918701697_39f55f4d8c_b.jpg" alt="NYC desde el Empire State" title="NYC desde el Empire State" >}}
+
+Y poco después llegábamos al parque que había iniciado el viaje, <strong>Yellowstone National Park</strong>. Es el primer parque de USA (y en su concepción moderna, seguramente el primero del mundo), y uno de lo más visitados globalmente. Aquí pasamos casi dos semanas y no pasó un día sin que nos quedásemos alucinados con los paisajes; dedicamos a este parque mucho más tiempo que el habitual (viendo otros blogs de viajes) y nos alegramos de habernos dado la oportunidad de conocer el parque a fondo. Pudimos visitar las zonas más importantes y muchas de las que se pasan por alto. Pudimos hacer <strong>senderismo</strong> de calidad y descubrir rincones que quitan el aliento. Todos los días íbamos con tiempo de sobra, de forma que siempre teníamos la posibilidad de bajarnos del coche a observar la <strong>fauna salvaje</strong> del parque: renos, bisontes, ciervos, coyotes, lobos, águilas, halcones... Los renos estaban de berrea y fue un espectáculo ser testigo de sus gruñidos.
+
+{{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1941/44405163524_6ce1576365_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1915/43292953610_7b86983df3_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1952/44301813474_793ca75e75_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50 clear" src="https://farm2.staticflickr.com/1949/44195695885_418541da1c_b.jpg" title="" alt="" >}}
+
+Conocimos los géiseres y la supercaldera, un paisaje alienígena, una naturaleza indómita y salvaje para quien el hombre no es más que una anécdota en su larga y devastadora historia. Y además, olía a pedos. Solo Yellowstone ya supone un viajazo para cualquier amante de la naturaleza. Si estáis pensando en un viaje a Yellowstone, no puedo más que animaros, no os va a defraudar; eso sí, como si fuera un mantra: planificad con bastante antelación.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1963/30168989117_b8f7eed34a_b.jpg" alt="Old Faithful" title="Old Faithful" >}}
+
+El viaje terminaba en <strong>Grand Teton National Park</strong>, al sur de Yellowstone. Tan cerca y tan distinto. Entre montañas altas encontramos el otoño de colores ocre y aprendimos sobre el (ya no tan) lejano oeste. Aquí además tuvimos la suerte de poder ver <strong>un oso</strong> forrajeando y unos cuantos <strong>alces</strong> que habían sido más esquivos en Yellowstone.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1971/31294905018_49863f70e2_b.jpg" alt="Las montañas del Gran Tetón" title="Las montañas del Gran Tetón" >}}
+
+### Noviembre: amigas en Sóller
+
+Y para terminar el año me acerqué unos días a Mallorca, donde una amiga de Sóller hizo de <em>Cicerona</em> de excepción de Palma y de Sóller. Tuve la suerte de que nos hizo muy buen tiempo, que aprovechamos para dar paseos super tranquilos, con mucha charleta y más risas. Un viaje más sencillo y que resultó ser memorable. ¡Habrá que repetir!
+
+## Compañeros de viaje
+
+El Tontako Team (Alex y yo), aparte de tener un discutible nombre de equipo, nos complementamos muy bien en la planificación de vacaciones y durante el viaje. En un viaje siempre pueden surgir imprevistos o algún plan no salir como uno se espera (por idealización tal vez), y hay que tomarse estas ocasiones con calma, buscar alternativas o sencillamente, recoger pronto esa tarde y preparar las actividades del día siguiente. En este sentido, es fantástico viajar con Álex como compañero porque nos repartimos muy bien las responsabilidades del viaje.
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1942/30210056867_50746e8a15_b.jpg" title="Tontako Team FTW" alt="Tontako Team FTW" >}}
+
+Este año, como otros anteriores, no he perdido la oportunidad de viajar con amigos; la vida, la familia, las fechas... a veces organizarse una escapada con amigos es más difícil de lo que parece, conlleva más esfuerzo porque hay más gente a la que poner de acuerdo, y hay que tener en cuenta más preferencias. Sin embargo, creo que el esfuerzo merece totalmente la pena y espero que 2019 me de más viajes con amigos y amigas.
+
+## Próximos destinos
+
+En 2018, todas nuestras escapadas estuvieron dominadas por el viaje a USA. Desde mayo a septiembre no hicimos ningún viaje (ni grande ni pequeño) porque todos los días estaban ya "gastados" en el viaje a USA. Un viaje así de grande exige mucha implicación tanto durante la organización como durante el viaje. Tanto esfuerzo resultó en un viaje inolvidable y único, como habéis podido leer.
+
+Con todo, creo que yo no estoy hecha para uno de estos viajes al año. No tanto por el esfuerzo de planificación, sino sobre todo porque el resto del año se hace muy duro no poder organizarse ni 4 días (¡no los tenía!) para desconectar. Así que estos grandes viajes se añaden a nuestro catálogo de viajes pero no creo que en modalidad muy frecuente. Hemos hecho viajes maravillosos en 2 y 3 semanas que nos dan margen para organizar escapadas durante el resto del año. Aun así, hay destinos que requieren mucho tiempo (no me veo visitando Nueva Zelanda en 15 días, cuando llegue ese viaje...) y esfuerzo, y tras este viaje ya tenemos un poco mejor la medida de lo que significa ese esfuerzo.
+
+No sabemos con exactitud qué nos deparará en cuanto a viajes el 2019, pero ya tenemos 3 viajes en marcha, muy distintos entre sí, y también distintos de cómo hemos viajado hasta ahora; contaré puntualmente esas aventuras en el blog, ¡no os las perdáis!
+
+## 10 años de misiones dendarii
+
+Hace no mucho hice un poco de arqueología <em>bloggera</em> y descubrí los primeros posts que escribí en este blog. No era exactamente este blog, sino su primera encarnación en <em>blogspot</em>. Aquellas primeras historias ya no son publicables, pero me sirvieron para actualizar mi <a href="/cv-viajero/" target="_new">currículum viajero</a> y recordar algunos destinos preciosos, como Escocia o Croacia, a los que espero volver pronto. Y viéndolas, me fijé en que comencé esas historias en 2008, que es como antes de ayer, pero que no, que es hace 10 años.
+
+En este tiempo muchas cosas han cambiado en el blog: la tecnología de las tripas, los colorinchis, el tono, algunos temas, ¡los destinos por supuesto! Pero hay algo que no ha cambiado: mi compromiso conmigo misma en este blog; nunca me lo planteé como una obligación, rara vez me da pereza dedicarle tiempo y siempre me encanta escribir un post nuevo y que llegue a los pocos (poquísimos, no nos engañemos) lectores. Pero incluso en épocas en las que había todavía menos lectores, yo he seguido escribiendo posts de mis viajes. Me siento muy unida a lo que cuento en este blog, y sin darme cuenta, ya son 10 años escribiendo. ¡Me encanta!
+
+{{< image classes="center margin-top" src="https://farm2.staticflickr.com/1956/44785214182_f7761de4e8_b.jpg" title="Capitana dendarii" alt="Capitana dendarii" >}}
+
+Así que a por un 2019 con muchos viajes y que los cuente todos por aquí... ¡seguid atentas!

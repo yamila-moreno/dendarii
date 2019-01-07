@@ -33,6 +33,12 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 <div id="map" style="height: 400px; width: 100%"></div>
 
 ## En orden cronológico
+### 2019
+<DIV class="cv-list">
+
+* 01 - <a href="{{< ref "2019-01-05_Ruta-Alto-del-Mirlo" >}}" target="_blank">Ruta Alto del Mirlo y Valle del Tiétar</a>
+
+</DIV>
 ### 2018
 <DIV class="cv-list">
 
@@ -144,6 +150,7 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 ### 2009
 <DIV class="cv-list">
 
+* Norte de Italia (Lombardía, Véneto, Toscana, Emilia-Romaña)
 * Escocia
 * Mallorca
 * Sierra Salmantina

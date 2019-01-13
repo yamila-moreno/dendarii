@@ -36,6 +36,7 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 ### 2019
 <DIV class="cv-list">
 
+* 01 - <a href="https://yamila-moreno.github.io/routes/#15/40.6636/-4.1413" target="_blank">Ruta por La Jarosa</a>
 * 01 - <a href="{{< ref "2019-01-05_Ruta-Alto-del-Mirlo" >}}" target="_blank">Ruta Alto del Mirlo y Valle del Tiétar</a>
 
 </DIV>

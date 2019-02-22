@@ -36,8 +36,7 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 ### 2019
 <DIV class="cv-list">
 
-* 01 - <a href="https://yamila-moreno.github.io/routes/#15/40.6636/-4.1413" target="_blank">Ruta por La Jarosa</a>
-* 01 - <a href="{{< ref "2019-01-05_Ruta-Alto-del-Mirlo" >}}" target="_blank">Ruta Alto del Mirlo y Valle del Tiétar</a>
+* 02 - <a href="/trips/madeira-2019" target="_blank">Madeira</a>
 
 </DIV>
 ### 2018
@@ -45,7 +44,6 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 
 * 11 - Palma de Mallorca y Sóller
 * 09 - <a href="/trips/usa-2018" target="_blank">USA 2018</a>
-* 05 - <a href="{{< ref "2018-05-15_Ruta-por-La-Pedriza" >}}" target="_blank">Rutaza por la Pedriza</a>
 * 05 - <a href="/trips/lake-district-2018" target="_blank">Lake District (Inglaterra)</a>
 * 04 - <a href="{{< ref "2018-04-22-spta-san-georges-shoot.markdown" >}}" target="_blank">San George's Shoot en Taunton</a>
 * 03 - <a href="{{< ref "2018-03-29-sierra-de-aracena-y-minas-de-riotinto.markdown" >}}" target="_blank">Sierra de Aracena y Minas de Riotinto</a>
@@ -89,7 +87,6 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 ### 2015
 <DIV class="cv-list">
 
-* 10 - <a href="{{< ref "2015-10-09-fiesta-de-la-bici-2015.markdown" >}}" target="blank">Fiesta de la bici 2015</a>
 * 09 - <a href="/trips/suiza-2015" target="blank">Suiza</a>
 * 08 - <a href="{{< ref "2015-08-15-paseo-por-el-capital-ring-1.markdown" >}}" target="blank">Paseo por el Capital Ring</a>
 * 08 - <a href="{{< ref "2015-08-09-dover-y-los-acantilados-blancos.markdown" >}}" target="blank">Dover</a>

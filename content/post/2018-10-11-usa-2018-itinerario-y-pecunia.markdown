@@ -98,7 +98,7 @@ Por otro lado, normalmente hago notar gastos que mucha gente no tendrá, como la
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1949/29877682107_80e9b12fa0_b.jpg" title="" alt="" >}}
 
-**Comer en USA es bastante caro**, sobre todo de restaurantes, así que se puede abaratar el gasto siendo estrictas a la hora de hacer compra en supermercado. Los **Museos en NYC** son escandalosamente caros, pero tienen días u horas gratis. 
+**Comer en USA es bastante caro**, sobre todo de restaurantes, así que se puede abaratar el gasto siendo estrictas a la hora de hacer compra en supermercado. Los **Museos en NYC** son escandalosamente caros, pero tienen días u horas gratis.
 
 En cuanto a **alojamientos** no fuimos a ningún hotel caro, aunque nuestro "umbral mínimo" era habitación doble con baño privado; así que este presupuesto también se puede recortar yendo a hostales. En Yellowstone se puede ir de camping (¡en verano!), pero (como ya comenté) hay que planificar pues las plazas son limitadas y en verano muy codiciadas.
 

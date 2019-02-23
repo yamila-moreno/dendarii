@@ -43,7 +43,7 @@ Por fin llegamos al _caldeirao_ con piscina natural en la base, y pudimos tomar 
 
 {{< image classes="center margin-top" src="https://farm8.staticflickr.com/7915/33303751058_b7eb797291_b.jpg" title="" alt="" >}}
 
-Yo decidí descalzarme para atravesar esta zona así que me coloqué las botas sobre los hombros y me dirigí a la salida del túnel. Cruzarnos con este grupo requería una precisión quirúrjica de la que hago gala; sin embargo, Madeira aún me la tenía jurada y en un visto-y-no-visto, me caí dentro de la levada. En realidad fue visto-y-super-visto, pues aquello estaba en ese momento _muy concurrido_. Decir que me mojé no hace honor a la tremenda calada (con humillación) que supuso el momento. Hasta que no me recompuse un poco, no me di cuenta de que Alex también se había caído detrás de mí, dejando un maravilloso cuadro tontako :D
+Yo decidí descalzarme para atravesar esta zona así que me coloqué las botas sobre los hombros y me dirigí a la salida del túnel. Cruzarnos con este grupo requería una precisión quirúrgica de la que hago gala; sin embargo, Madeira aún me la tenía jurada y en un visto-y-no-visto, me caí dentro de la levada. En realidad fue visto-y-super-visto, pues aquello estaba en ese momento _muy concurrido_. Decir que me mojé no hace honor a la tremenda calada (con humillación) que supuso el momento. Hasta que no me recompuse un poco, no me di cuenta de que Alex también se había caído detrás de mí, dejando un maravilloso cuadro tontako :D
 
 {{< image classes="center margin-top" src="https://farm8.staticflickr.com/7853/46264867725_e06298fd6a_b.jpg" title="" alt="" >}}
 

@@ -5,11 +5,10 @@ slug: lake-district-iii-legado-historico
 title: Lake District III - Legado histórico
 thumbnailImage: https://farm2.staticflickr.com/1751/42665379212_e6081a0b8a_c.jpg
 coverImage: https://farm2.staticflickr.com/1751/42665379212_e6081a0b8a_c.jpg
+trip: Lake District 2018
 tags:
 - Lake District
 - Inglaterra
-trips:
-- Lake District 2018
 ---
 
 El último día del viaje por el Distrito de los Lagos lo dedicamos a visitar el legado histórico que hay en la zona, que va desde restos de asentamientos romanos hasta enormes abadías.

@@ -4,11 +4,10 @@ date: 2012-08-23T23:15:41.000Z
 slug: portugal-vi-lisboa
 title: Portugal VI- Lisboa
 thumbnailImage: /images/2012/08/p1030758.jpg
+trip: Portugal 2012
 tags:
 - Lisboa
 - Portugal
-trips:
-- Portugal 2012
 ---
 
 

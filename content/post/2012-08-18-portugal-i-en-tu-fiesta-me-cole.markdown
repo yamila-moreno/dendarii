@@ -5,11 +5,10 @@ slug: portugal-i-en-tu-fiesta-me-cole
 title: Portugal I- En tu fiesta me colé
 thumbnailImage: /images/2012/08/p10305311.jpg
 coverImage: /images/2012/08/p10305311.jpg
+trip: Portugal 2012
 tags:
 - Oporto
 - Portugal
-trips:
-- Portugal 2012
 ---
 
 

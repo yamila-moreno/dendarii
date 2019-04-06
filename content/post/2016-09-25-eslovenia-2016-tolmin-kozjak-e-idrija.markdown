@@ -4,10 +4,9 @@ date: 2016-09-25T11:25:59.995Z
 slug: eslovenia-2016-tolmin-kozjak-e-idrija
 title: Eslovenia 2016 - Tolmin, Kozjak e Idrija
 thumbnailImage: https://c1.staticflickr.com/9/8060/29287780704_a30cc1e213_c.jpg
+trip: Eslovenia 2016
 tags:
 - Eslovenia
-trips:
-- Eslovenia 2016
 ---
 
 Ayer tuvimos un día muy misceláneo. Comenzamos la jornada  tomando el coche-tren hasta el valle de Tolmin para visitar el desfiladero que nos habíamos dejado pendiente la vez anterior. Mereció totalmente la pena, es una garganta muy angosta, y el agua corre muy clara y verde. Un rinconcito natural precioso.

@@ -4,11 +4,10 @@ date: 2017-10-11T19:00:00.000Z
 slug: vietnam-2017-angkor-camboya
 title: Vietnam 2017 - Angkor (Camboya)
 thumbnailImage: https://farm5.staticflickr.com/4500/37436814250_c93f1ee599_o.jpg
+trip: Vietnam 2017
 tags:
 - Vietnam
 - Camboya
-trips:
-- Vietnam 2017
 ---
 
 Saltamos a Siem Reap (Camboya) para visitar Angkor, la ciudad religiosa más grande del mundo (chúpate esa, Vaticano). Ha sido una visita alucinante que recomiendo a cualquiera que se acerque por aquella parte del globo.

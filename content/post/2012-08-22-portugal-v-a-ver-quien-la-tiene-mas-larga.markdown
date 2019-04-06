@@ -4,12 +4,11 @@ date: 2012-08-22T14:40:46.000Z
 slug: portugal-v-a-ver-quien-la-tiene-mas-larga
 title: Portugal V- A ver quién la tiene más larga
 thumbnailImage: /images/2012/08/biblioteca-joanina-da-universidade-de-coimbra2.jpg
+trip: Portugal 2012
 tags:
 - Coimbra
 - Lisboa
 - Portugal
-trips:
-- Portugal 2012
 ---
 
 

@@ -4,12 +4,11 @@ date: 2016-04-30T21:11:14.469Z
 slug: comarca-de-liebana-y-picos-de-europa-nos-vamos-de-potes
 title: Comarca de Liébana y Picos de Europa - Nos vamos de Potes
 thumbnailImage: http://c4.staticflickr.com/2/1527/26736104555_110c005d90_c.jpg
+trip: Comarca lebaniega 2016
 tags:
 - Liébana
 - Picos de Europa
 - Senderismo
-trips:
-- Comarca lebaniega 2016
 ---
 
 ¡Puente tontako! Se venía un puente y teníamos ya ganas de salir unos días; aprovechando que teníamos noches de alojamiento regaladas, nos buscamos un hotel rural en Cantabria. Es un sitio que me gusta mucho y que quería visitar con Alex.

@@ -15,15 +15,15 @@ Este año está ya terminando y me ha parecido una buena ocasión para hacer un 
 
 ## Destinos
 
-En 2017 hemos hecho dos viajes <em>grandes</em> y otros más pequeños. En enero Alex y yo nos fuimos a <a href="/trips/marruecos-2017" target="_new">Marruecos</a> para huir del frío en la península y supuso mi primer viaje al continente africano. Me gustó mucho el viaje y pronto encontraré oportunidades para seguir explorando. El viaje más importante de 2017 fue en octubre a <a href="/trips/vietnam-2017" target="_new">Vietnam y Camboya</a>. Tanto para Álex como para mí fue la primera vez que visitábamos un país de Asia y nos dejamos sorprender por los colores y sabores, por el ritmo que llevan los vietnamitas y por las demenciales carreteras. Resultó una experiencia maravillosa, intensa, asombrosa y agotadora, ¡nos encantó!
+En 2017 hemos hecho dos viajes <em>grandes</em> y otros más pequeños. En enero Alex y yo nos fuimos a <a href="/trip/marruecos-2017" target="_new">Marruecos</a> para huir del frío en la península y supuso mi primer viaje al continente africano. Me gustó mucho el viaje y pronto encontraré oportunidades para seguir explorando. El viaje más importante de 2017 fue en octubre a <a href="/trip/vietnam-2017" target="_new">Vietnam y Camboya</a>. Tanto para Álex como para mí fue la primera vez que visitábamos un país de Asia y nos dejamos sorprender por los colores y sabores, por el ritmo que llevan los vietnamitas y por las demenciales carreteras. Resultó una experiencia maravillosa, intensa, asombrosa y agotadora, ¡nos encantó!
 
 {{< image src="https://farm5.staticflickr.com/4461/36865268493_fde6c733bd_c.jpg" alt="Tontakos en Hue" title="Presentadores del programa <em>Tu palacete Nguyen a juicio</em>" >}}
 
-Además, en 2017 he tenido la oportunidad de visitar <a href="/trips/portugal-2017" target="_new">Portugal</a> de nuevo, un país al que tengo mucho aprecio e hicimos una breve incursión en <a href="{{< ref "2017-04-24-bearne.markdown" >}}" target="_new">Bearne</a> al sur de Francia, otro país que voy conociendo poco a poco y cada vez me gusta más.
+Además, en 2017 he tenido la oportunidad de visitar <a href="/trip/portugal-2017" target="_new">Portugal</a> de nuevo, un país al que tengo mucho aprecio e hicimos una breve incursión en <a href="{{< ref "2017-04-24-bearne.markdown" >}}" target="_new">Bearne</a> al sur de Francia, otro país que voy conociendo poco a poco y cada vez me gusta más.
 
 {{< image src="https://farm5.staticflickr.com/4187/34409242216_e879f4d408_c.jpg" alt="Vistas desde el Palacio da Pena" title="Vistas desde el Palacio da Pena" >}}
 
-En la sección de viajes nacionales, descubrí <a href="/trips/león-2017" target="_new">las cuevas de Valporquero</a> en León, y nos fuimos al corazón del <a href="{{< ref "2017-12-otono-gredos.markdown" >}}" target="_new">otoño en Gredos</a>; ambas escapadas con muchas dosis de naturaleza y senderismo.
+En la sección de viajes nacionales, descubrí <a href="/trip/león-2017" target="_new">las cuevas de Valporquero</a> en León, y nos fuimos al corazón del <a href="{{< ref "2017-12-otono-gredos.markdown" >}}" target="_new">otoño en Gredos</a>; ambas escapadas con muchas dosis de naturaleza y senderismo.
 
 {{< image src="https://farm4.staticflickr.com/3736/33446505331_964ba6780d_c.jpg" alt="Ruta por Los Argüellos" title="Ruta por los Argüellos" >}}
 

@@ -5,11 +5,10 @@ slug: madeira-2019-ponta-sao-lourenco-y-vereda-dos-balcoes
 title: Madeira 2019 - Ponta de São Lourenço y Vereda dos Balcoes
 thumbnailImage: https://farm8.staticflickr.com/7923/47178718361_7ed317e718_z.jpg
 coverImage: https://farm8.staticflickr.com/7923/47178718361_7ed317e718_b.jpg
+trip: Madeira 2019
 tags:
 - Madeira
 - Senderismo
-trips:
-- Madeira 2019
 ---
 
 Cuando de pronto Alex y yo nos vimos con 3 días de vacaciones de 2018, decidimos hacer un pequeño viaje para escapar de los rigores del invierno; buscamos un destino que pudiéramos visitar en poco tiempo y que no estuviera demasiado lejos; y _voilá_ las luces de Madeira aparecían bajo nuestro avión.

@@ -4,10 +4,9 @@ date: 2017-01-25T18:55:22.775Z
 slug: marruecos-2017-valle-del-draa
 title: Marruecos 2017 - Valle del Dráa
 thumbnailImage: https://c1.staticflickr.com/1/330/32515164155_e2c923aa98_c.jpg
+trip: Marruecos 2017
 tags:
 - Marruecos
-trips:
-- Marruecos 2017
 ---
 
 Sobre las 10, ya con el sol bastante alto, cogíamos el coche para recorrer parte del valle del Draá, el río más largo de Marruecos. No siempre se divisa el río, pero es fácil ubicarlo por los palmerales que crecen a lo largo de todo su recorrido.

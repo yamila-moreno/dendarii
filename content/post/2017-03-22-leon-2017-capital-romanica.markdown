@@ -4,10 +4,9 @@ date: 2017-03-22T21:23:33.442Z
 slug: leon-2017-capital-romanica
 title: León 2017 - capital románica
 thumbnailImage: https://c1.staticflickr.com/4/3827/33465317191_ed8099267d_c.jpg
+trip: León 2017
 tags:
 - León
-trips:
-- León 2017
 ---
 
 Dejamos atrás los montes leoneses, a los que tenemos que volver, y nos fuimos a León. Aunque recuerdo haber visitado León anteriormente, apenas me acordaba de la ciudad, así que fue un re-descubrimiento fantástico.

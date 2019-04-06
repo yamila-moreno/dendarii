@@ -5,12 +5,11 @@ slug: usa-2018-lone-star-geyser
 title: USA 2018 - (Ruta) Lone Star Geyser
 thumbnailImage: https://farm2.staticflickr.com/1935/43312490270_f1b068bd5e_c.jpg
 coverImage: https://farm2.staticflickr.com/1935/43312490270_f1b068bd5e_b.jpg
+trip: USA 2018
 tags:
 - USA
 - Yellowstone
 - Senderismo
-trips:
-- USA 2018
 ---
 
 Tras una <a href="{{< ref "2018-10-04-usa-2018-fairy-falls.markdown" >}}" target="_blank">ruta fantástica</a> por las **Fairy Falls**, nos habíamos programado una sencilla hasta el **Lone Star Geyser**; aunque nadie nos avisó que anoche llegaría el invierno de sopetón...

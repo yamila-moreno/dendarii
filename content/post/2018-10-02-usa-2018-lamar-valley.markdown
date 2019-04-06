@@ -5,12 +5,11 @@ slug: usa-2018-lamar-valley
 title: USA 2018 - Lamar Valley, a la caza del lobo
 thumbnailImage: https://farm2.staticflickr.com/1967/45016112442_a852bf5aca_c.jpg
 coverImage: https://farm2.staticflickr.com/1967/45016112442_a852bf5aca_b.jpg
+trip: USA 2018
 tags:
 - USA
 - Yellowstone
 - Senderismo
-trips:
-- USA 2018
 ---
 
 Esta mañana a las 5am sonaba el despertador y comenzábamos la jornada, porque estar de vacaciones no está reñido con ser unos pringados. El objetivo era llegar justo al amanecer a Lamar Valley porque era nuestra mejor oportunidad para ver lobos en Yellowstone.

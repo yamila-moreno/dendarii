@@ -4,10 +4,9 @@ date: 2017-01-25T19:37:04.217Z
 slug: marruecos-2017-marrakech
 title: Marruecos 2017 - Marrakech
 thumbnailImage: https://c1.staticflickr.com/1/344/32481162826_5567bf55f8_c.jpg
+trip: Marruecos 2017
 tags:
 - Marruecos
-trips:
-- Marruecos 2017
 ---
 
 Desde hacía dos días había nevado tanto que el paso del Atlas estaba a ratos cerrado, así que no teníamos muy claro qué tal discurriría nuestro trayecto hasta Marrakech. En la carretera había más caos del habitual, nieve a los lados y mucho barro, pero con calma y paciencia logramos llegar a Marrakech. Allí devolvimos el coche y nos fuimos a dejar nuestro equipaje al riad de la primera noche, que nos gustó tanto como para repetir.

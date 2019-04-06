@@ -4,12 +4,11 @@ date: 2012-08-20T21:54:59.000Z
 slug: portugal-iv-2-erase-una-vez-version-marta
 title: Portugal IV-2- Érase una vez (versión Marta)
 thumbnailImage: None
+trip: Portugal 2012
 tags:
 - Peneda Gerés
 - Portugal
 - Viana do Castelo
-trips:
-- Portugal 2012
 ---
 
 

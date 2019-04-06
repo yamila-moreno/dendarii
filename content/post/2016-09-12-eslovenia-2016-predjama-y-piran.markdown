@@ -4,11 +4,10 @@ date: 2016-09-12T21:14:54.436Z
 slug: eslovenia-2016-predjama-y-piran
 title: Eslovenia 2016 - Postojna, Predjama y Piran
 thumbnailImage: https://c1.staticflickr.com/9/8087/29015632893_76b2e81900_c.jpg
+trip: Eslovenia 2016
 tags:
 - Eslovenia
 - Cuevas
-trips:
-- Eslovenia 2016
 ---
 
 Para hoy el plan era resolver el turisteo. Consiste en ir a los sitios que "no te puedes perder", si no quieres volver de vacaciones y que todo el mundo te pregunte que cómo te los pudiste perder. Hablo de tres sitios muy emblemáticos, Postojna, Predjama y Piran, con famosas y concurridas atracciones turísticas. Y todas empiezan por 'P', ¿casualidad? No lo creo.

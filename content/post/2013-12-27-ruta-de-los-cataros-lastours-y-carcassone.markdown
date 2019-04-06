@@ -4,12 +4,11 @@ date: 2013-12-27T00:53:26.000Z
 slug: ruta-de-los-cataros-lastours-y-carcassone
 title: Ruta de los Cátaros- Lastours y Carcassone
 thumbnailImage: /images/2013/12/templo.jpg
+trip: Ruta de los Cátaros 2013
 tags:
 - Carcassonne
 - Cátaros
 - Lastours
-trips:
-- Ruta de los Cátaros 2013
 ---
 
 

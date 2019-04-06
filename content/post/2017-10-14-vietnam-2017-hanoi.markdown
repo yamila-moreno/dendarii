@@ -4,10 +4,9 @@ date: 2017-10-14T19:00:00.000Z
 slug: vietnam-2017-hanoi
 title: Vietnam 2017 - Hanoi
 thumbnailImage: https://farm5.staticflickr.com/4452/37688900171_2a7e11e908_c.jpg
+trip: Vietnam 2017
 tags:
 - Vietnam
-trips:
-- Vietnam 2017
 ---
 
 La capital nos recibe lloviendo a mares. Se nota rápidamente que estamos entrando en una gran urbe, con anchas avenidas y denso tráfico. Una ciudad marcada por la influencia francesa de la que intentan desprenderse los vietnamitas de Hanoi incorporando su típico caos de tiendas y motos.

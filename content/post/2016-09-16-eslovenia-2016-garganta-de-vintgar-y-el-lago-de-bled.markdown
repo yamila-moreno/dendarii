@@ -4,11 +4,10 @@ date: 2016-09-16T20:27:47.573Z
 slug: eslovenia-2016-garganta-de-vintgar-y-el-lago-de-bled
 title: Eslovenia 2016 - Garganta de Vintgar y el lago de Bled
 thumbnailImage: https://c1.staticflickr.com/9/8883/29613643312_67d2b6744d_c.jpg
+trip: Eslovenia 2016
 tags:
 - Eslovenia
 - Senderismo
-trips:
-- Eslovenia 2016
 ---
 
 Hoy tocaba empezar con las rutas. Como vimos que daban lluvias a partir de las 14, comenzamos pronto la jornada y así evitar en lo posible las lluvias.

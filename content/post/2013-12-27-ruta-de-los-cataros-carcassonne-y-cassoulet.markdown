@@ -4,11 +4,10 @@ date: 2013-12-27T23:34:14.000Z
 slug: ruta-de-los-cataros-carcassonne-y-cassoulet
 title: Ruta de los Cátaros- Carcassonne y cassoulet
 thumbnailImage: http:/norvig.com/carcassonne.jpg
+trip: Ruta de los Cátaros 2013
 tags:
 - Carcassonne
 - Cátaros
-trips:
-- Ruta de los Cátaros 2013
 ---
 
 

@@ -4,10 +4,9 @@ date: 2016-09-22T18:44:11.757Z
 slug: eslovenia-2016-paso-de-vrsic-y
 title: Eslovenia 2016 - Paso de Vrsič y Valle del Río Soča
 thumbnailImage: https://c1.staticflickr.com/9/8547/29214318183_dfc6db79eb_c.jpg
+trip: Eslovenia 2016
 tags:
 - Eslovenia
-trips:
-- Eslovenia 2016
 ---
 
 Ayer fue el día de paliza total. Nos levantamos a las 6am para una travesía de carretera con paradas cortas en ciertos sitios emblemáticos. Tocó conducir por la carretera de montaña que cruza el Parque Nacional Triglav.

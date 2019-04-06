@@ -3,11 +3,10 @@ author: yamila
 date: 2015-09-13T08:36:47.854Z
 slug: suiza-2015-itinerario-y-pecunia
 title: Suiza 2015 - Itinerario y pecunia
+trip: Suiza 2015
 tags:
 - Suiza
 - Senderismo
-trips:
-- Suiza 2015
 ---
 
 Y como ya hice el <a href="http://dendarii.es/usa-2014-itinerario-y-pecunia/" target="_new">año pasado</a> al terminar el viaje de USA, pongo aquí el desglose de gastos por si os resulta útil y el itinerario por si os da alguna idea.

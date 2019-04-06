@@ -4,10 +4,9 @@ date: 2015-09-08T20:50:18.969Z
 slug: suiza-2015-en-escafusa-me-cole
 title: Suiza 2015 - En Escafusa me colé
 thumbnailImage: http://c1.staticflickr.com/1/563/21253668695_fb8b72ce05.jpg
+trip: Suiza 2015
 tags:
 - Suiza
-trips:
-- Suiza 2015
 ---
 
 Terminó nuestra visita al Swiss National Park, y nos tocó volver a la Suiza profunda. Escafusa (Schaffhausen si no habláis español antiguo; y si no lo habláis, no sé qué estáis haciendo con vuestras vidas) ha sido nuestro centro de operaciones los dos últimos días.

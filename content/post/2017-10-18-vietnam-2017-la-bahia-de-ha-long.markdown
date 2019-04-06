@@ -4,10 +4,9 @@ date: 2017-10-18T19:00:00.000Z
 slug: vietnam-2017-la-bahia-de-ha-long
 title: Vietnam 2017 - La Bahía de Ha Long
 thumbnailImage: https://c1.staticflickr.com/5/4495/37793500311_5cb14e4482_b.jpg
+trip: Vietnam 2017
 tags:
 - Vietnam
-trips:
-- Vietnam 2017
 ---
 
 Y otro plato fuerte del viaje. (Mini) Crucero por la Bahía de Ha Long, en la costa norte de Vietnam. Es un lugar muy típico y concurrido por turistas de todo el mundo y hemos podido comprobar por qué.

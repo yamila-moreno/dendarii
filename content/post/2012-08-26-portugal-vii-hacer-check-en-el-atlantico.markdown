@@ -4,12 +4,11 @@ date: 2012-08-26T21:22:12.000Z
 slug: portugal-vii-hacer-check-en-el-atlantico
 title: Portugal VII- Hacer check en el Atlántico
 thumbnailImage: /images/2012/08/p1030847.jpg
+trip: Portugal 2012
 tags:
 - Évora
 - Lisboa
 - Portugal
-trips:
-- Portugal 2012
 ---
 
 

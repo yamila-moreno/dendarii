@@ -5,16 +5,15 @@ slug: usa-2018-goodnow-mountain
 title: USA 2018 - Goodnow Mountain
 thumbnailImage: https://c2.staticflickr.com/2/1859/43003344630_db3632ab92_c.jpg
 coverImage: https://c2.staticflickr.com/2/1859/43003344630_db3632ab92_b.jpg
+trip: USA 2018
 tags:
 - USA
 - Adirondack
 - Senderismo
-trips:
-- USA 2018
 ---
 
 Una de las formas que más nos gusta a Alex y a mí para *conocer campo* es caminar por él; así que hoy dimos una tregua a nuestros anfitriones y nos fuimos a hacer una pequeña ruta senderista: subir la *Goodnow Mountain*.
- 
+
 <!--more-->
 
 Antes de lanzarme a describir esta proeza, os contaré que el Parque Estatal Adirondack tiene un montón de picos y que ninguno llega a los 2000 mt. Esto ofrece una nueva y más épica dimensión a nuestra ruta.

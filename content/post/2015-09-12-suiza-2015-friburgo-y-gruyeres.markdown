@@ -4,10 +4,9 @@ date: 2015-09-12T20:03:21.068Z
 slug: suiza-2015-friburgo-y-gruyeres
 title: Suiza 2015 - Friburgo y Gruyeres
 thumbnailImage: http://c2.staticflickr.com/6/5796/21336969576_3761c97c9e_z.jpg
+trip: Suiza 2015
 tags:
 - Suiza
-trips:
-- Suiza 2015
 ---
 
 Y así llegamos a la última etapa de estas vacaciones. Esta mañana nos levantamos pronto y salimos de Berna hacia Friburgo.

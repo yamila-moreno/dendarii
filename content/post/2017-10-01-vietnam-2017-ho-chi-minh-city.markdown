@@ -4,10 +4,9 @@ date: 2017-10-01T19:00:00.000Z
 slug: vietnam-2017-ho-chi-minh-city
 title: Vietnam 2017 - Ho Chi Minh City
 thumbnailImage: https://farm5.staticflickr.com/4369/37385038036_63fa2df5e5_c.jpg
+trip: Vietnam 2017
 tags:
 - Vietnam
-trips:
-- Vietnam 2017
 ---
 
 El jetlag no pudo con nosotros y a media noche caímos rendidos. Por eso esta mañana pudimos levantarnos pronto, hacia las 7, para descubrir que aquí mucha gente se levanta a las 5:30. ¡Que estamos de vacaciones! Poco a poco nos iremos acostumbrando a los horarios vietnamitas.

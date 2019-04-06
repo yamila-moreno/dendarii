@@ -32,7 +32,7 @@ En abril, coincidiendo con la festividad de <em>San Jorge</em>, desde el <a href
 
 ### Mayo en Lake District: senderismo y lagos
 
-Otro sitio que teníamos Alex y yo en nuestra lista de visitas muy recomendadas era el <a href="/trips/lake-district-2018" target="_new">Distrito de los Lagos</a>, en el norte de Inglaterra. Es una zona de <strong>lagos y montañas</strong> famosa por ser la cuna del senderismo en Inglaterra y porque <strong>Beatrix Potter</strong> inspiró su obra en estos paisajes. Entre lago y lago también hay <strong>observatorios astronómicos</strong> pues el cielo es especialmente puro, aunque a la vez el tiempo es imprevisible (entre malo y super malo) y esta vez nos quedamos sin poder hacer una observación. Lo que sí nos llevamos fueron unos paseos maravillosos, y coronar el pico más alto de Inglaterra, el <strong>Skafell Pike</strong> de 3000 <del>metros</del> <em>pies</em> de altura.
+Otro sitio que teníamos Alex y yo en nuestra lista de visitas muy recomendadas era el <a href="/trip/lake-district-2018" target="_new">Distrito de los Lagos</a>, en el norte de Inglaterra. Es una zona de <strong>lagos y montañas</strong> famosa por ser la cuna del senderismo en Inglaterra y porque <strong>Beatrix Potter</strong> inspiró su obra en estos paisajes. Entre lago y lago también hay <strong>observatorios astronómicos</strong> pues el cielo es especialmente puro, aunque a la vez el tiempo es imprevisible (entre malo y super malo) y esta vez nos quedamos sin poder hacer una observación. Lo que sí nos llevamos fueron unos paseos maravillosos, y coronar el pico más alto de Inglaterra, el <strong>Skafell Pike</strong> de 3000 <del>metros</del> <em>pies</em> de altura.
 
 {{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1723/27845181687_c4b69f2ee8_b.jpg" title="" alt="" >}}
 {{< image classes="left fancybox fig-50" src="https://farm2.staticflickr.com/1730/28840132208_879674c2ce_b.jpg" title="" alt="" >}}
@@ -43,7 +43,7 @@ Aprovechamos también el viaje para conocer brevemente Manchester, donde descubr
 
 ### Septiembre en USA: lagos, osos, alces y géiseres
 
-Después de visitar los lagos, nos tocaba guardar todos los días posibles para el gran, <em>enorme</em> destino de este año: <a href="/trips/usa-2018" target="_new">USA 2018</a> se llevó todas nuestras vacaciones y muchas energías, y de vuelta nos dejó tantísimos recuerdos en la retina, y experiencias que difícilmente podremos olvidar.
+Después de visitar los lagos, nos tocaba guardar todos los días posibles para el gran, <em>enorme</em> destino de este año: <a href="/trip/usa-2018" target="_new">USA 2018</a> se llevó todas nuestras vacaciones y muchas energías, y de vuelta nos dejó tantísimos recuerdos en la retina, y experiencias que difícilmente podremos olvidar.
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1965/43209943650_78daaf160f_b.jpg" alt="Las ardillas nos acompañaron todo el viaje" title="Las ardillas nos acompañaron todo el viaje" >}}
 

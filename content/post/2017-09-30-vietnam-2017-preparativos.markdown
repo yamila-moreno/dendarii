@@ -4,10 +4,9 @@ date: 2017-09-30T19:00:00.000Z
 slug: vietnam-2017-preparativos
 title: Vietnam 2017 - Preparativos
 thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg
+trip: Vietnam 2017
 tags:
 - Vietnam
-trips:
-- Vietnam 2017
 ---
 
 ¡Nueva aventura tontaka! Esta vez nos vamos más lejos de lo habitual, a Vietnam, y a un tipo de viaje al que estamos poco acostumbrados: es nuestra primera visita al Sudeste asiático y venimos 3 semanas que no están tan preparadas como es nuestra costumbre. Tenemos un itinerario general y algunas decisiones que tomaremos sobre la marcha.

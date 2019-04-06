@@ -4,11 +4,10 @@ date: 2015-02-06T21:50:35.000Z
 slug: paises-bajos-amsterdam-dia-3
 title: Países Bajos - Amsterdam (día 3)
 thumbnailImage: /images/2015/02/lombardos.jpg
+trip: Países Bajos 2015
 tags:
 - Amsterdam
 - Países Bajos
-trips:
-- Países Bajos 2015
 ---
 
 

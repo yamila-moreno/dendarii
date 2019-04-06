@@ -4,10 +4,9 @@ date: 2017-01-25T19:05:19.967Z
 slug: marruecos-2017-mhamid-erg-chegaga
 title: Marruecos 2017 - Mhamid, Erg Chegaga
 thumbnailImage: https://c1.staticflickr.com/1/701/31671763184_fdffda7cc9_c.jpg
+trip: Marruecos 2017
 tags:
 - Marruecos
-trips:
-- Marruecos 2017
 ---
 
 En nuestro riad en Zagora organizan viajes al desierto desde Mhamid y decidimos dejar nuestro coche por un día y hacer el plan turista total. Más sencillo y nos resolvía algunas incógnitas sobre la ruta.

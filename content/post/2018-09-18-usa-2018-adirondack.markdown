@@ -4,12 +4,11 @@ date: 2018-09-18T08:00:00.000Z
 slug: usa-2018-adirondack
 title: USA 2018 - Camp Alexander, en el corazón de Adirondack
 thumbnailImage: https://c2.staticflickr.com/2/1961/29877686757_25087928ed_c.jpg
-coverImage: https://c2.staticflickr.com/2/1961/29877686757_f009e4c232_k.jpg 
+coverImage: https://c2.staticflickr.com/2/1961/29877686757_f009e4c232_k.jpg
+trip: USA 2018
 tags:
 - USA
 - Adirondack
-trips:
-- USA 2018
 ---
 
 La primera etapa de este viaje ha sido el Parque Estatal Adirondack, un parque del que apenas sabía nada, pero que queríamos conocer puesto que los tíos de Alex nos habían invitado. Tras cuatro días se ha convertido en un sitio muy especial y que ha supuesto una enorme sorpresa.
@@ -47,7 +46,7 @@ Volvimos tranquilamente y descansamos el resto del día. Para esa noche, teníam
 
 {{< alert info >}}El Parque Estatal de Adirondack no requiere una entrada como tal; se puede visitar por libre en las (muchas) zonas habilitadas para visitantes; es un parque que recibe muchos visitantes, planifica con antelación porque la oferta hotelera no es enorme en según qué zonas del parque.{{< /alert >}}
 
-El segundo día fuimos a visitar el Museo del Parque: es muy completo y está muy bien montado, con una exposición interesante y muchas zonas de visita al aire libre. Como nos hizo muy buen tiempo, pudimos visitarlo entero y conseguir una visión más general de las Adirondacks. 
+El segundo día fuimos a visitar el Museo del Parque: es muy completo y está muy bien montado, con una exposición interesante y muchas zonas de visita al aire libre. Como nos hizo muy buen tiempo, pudimos visitarlo entero y conseguir una visión más general de las Adirondacks.
 
 {{< image classes="center margin-top" src="https://c2.staticflickr.com/2/1878/44094430764_cb9bb3c878_b.jpg" title="" alt="" >}}
 

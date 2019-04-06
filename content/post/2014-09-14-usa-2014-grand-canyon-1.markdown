@@ -4,10 +4,9 @@ date: 2014-09-14T06:40:10.000Z
 slug: usa-2014-grand-canyon-1
 title: USA 2014 - Grand Canyon (1)
 thumbnailImage: /images/2014/09/blog-jugandome-la-vida.jpg
+trip: USA 2014
 tags:
 - USA
-trips:
-- USA 2014
 ---
 
 

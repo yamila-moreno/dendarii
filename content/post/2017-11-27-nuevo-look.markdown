@@ -14,7 +14,7 @@ Como veis, la página principal abarrotada de posts se ha convertido en un lista
 
 - <a href="https://dendarii.es/cv-viajero/" target="_new">currículum viajero</a>: donde podéis ver un mapa de países visitados (aunque no todos tienen crónica en el blog).
 - También podéis ver un listado en orden cronológico de los viajes que he ido haciendo en estos años
-- He creado el concepto de <a href="https://dendarii.es/trips/" target="_new">"viaje"</a>, en un viaje se agrupan en orden cronológico todas las crónicas de un viaje. De esta forma, leyendo desde el principio hacia el final, seguirás nuestro viaje en el orden en que lo hicimos.
+- He creado el concepto de <a href="https://dendarii.es/trip/" target="_new">"viaje"</a>, en un viaje se agrupan en orden cronológico todas las crónicas de un viaje. De esta forma, leyendo desde el principio hacia el final, seguirás nuestro viaje en el orden en que lo hicimos.
 - Además, hay una sección con las <a href="https://dendarii.es/tags/" target="_new">"etiquetas"</a>, para encontrar las crónicas agrupadas por "senderismo" o "cuevas".
 
 Los posts van a seguir teniendo un estilo limpio sin columnas, para que toda la atención esté en la crónica, y además, he podido añadir:

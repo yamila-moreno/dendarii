@@ -4,10 +4,9 @@ date: 2012-12-23T15:49:48.000Z
 slug: tenerife-iii-anaga
 title: Tenerife III- Anaga
 thumbnailImage: /images/2012/12/anaga1.jpg
+trip: Tenerife 2012
 tags:
 - Tenerife
-trips:
-- Tenerife 2012
 ---
 
 

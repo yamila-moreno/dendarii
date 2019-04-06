@@ -4,12 +4,11 @@ date: 2012-08-20T21:52:21.000Z
 slug: portugal-iv-erase-una-vez
 title: Portugal IV- Érase una vez
 thumbnailImage: /images/2012/08/p1030666.jpg
+trip: Portugal 2012
 tags:
 - Peneda Gerés
 - Portugal
 - Viana do Castelo
-trips:
-- Portugal 2012
 ---
 
 

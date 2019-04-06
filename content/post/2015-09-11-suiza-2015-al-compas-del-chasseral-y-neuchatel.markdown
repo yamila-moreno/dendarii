@@ -4,10 +4,9 @@ date: 2015-09-11T21:55:44.744Z
 slug: suiza-2015-al-compas-del-chasseral-y-neuchatel
 title: Suiza 2015 - Al compás del Chasseral y Neuchatel
 thumbnailImage: http://c1.staticflickr.com/1/716/21320922232_5cd7eb26bf_z.jpg
+trip: Suiza 2015
 tags:
 - Suiza
-trips:
-- Suiza 2015
 ---
 
 La siguiente etapa del viaje nos llevó hasta Neuchatel, ciudad universitaria y coqueta a orillas de un lago, en la zona de <em>Los tres lagos</em>. Es cierto que hay 3 lagos en la zona: a los suizos no les gusta la ironía como comprobé más adelante en Berna.
@@ -31,4 +30,3 @@ Las foticos de estos dias...
 {{< flickr album="72157658070911799" >}}
 
 ¡Y seguiremos informando!
-

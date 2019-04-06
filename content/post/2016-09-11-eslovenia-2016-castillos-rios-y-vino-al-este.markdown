@@ -4,10 +4,9 @@ date: 2016-09-11T21:30:28.316Z
 slug: eslovenia-2016-castillos-rios-y-vino-al-este
 title: Eslovenia 2016 - castillos, ríos y vino al este
 thumbnailImage: https://c1.staticflickr.com/9/8414/29533900931_26b14b4f10_c.jpg
+trip: Eslovenia 2016
 tags:
 - Eslovenia
-trips:
-- Eslovenia 2016
 ---
 
 ¡¡Nuevo viaje tontako!! Tras barajar varios destinos, elegimos Eslovenia cuando descubrimos que es un destino perfecto para senderistas. Septiembre es muy buena época para venir a visitar este <em>realmente pequeño</em> país (tiene la misma superficie que Cáceres).

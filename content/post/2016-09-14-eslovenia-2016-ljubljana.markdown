@@ -4,10 +4,9 @@ date: 2016-09-14T20:42:46.463Z
 slug: eslovenia-2016-ljubljana
 title: Eslovenia 2016 - Ljubljana
 thumbnailImage: https://c1.staticflickr.com/9/8157/29601901901_d9229c621b_c.jpg
+trip: Eslovenia 2016
 tags:
 - Eslovenia
-trips:
-- Eslovenia 2016
 ---
 
 Último día de esta primera parte del viaje con base de operaciones en Ljubljana. Hoy ha tocado visitar la capi. Si tenemos tiempo nos gusta hacer alguna visita guiada y habíamos buscado con antelación opciones.

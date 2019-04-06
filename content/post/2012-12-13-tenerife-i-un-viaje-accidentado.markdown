@@ -4,10 +4,9 @@ date: 2012-12-13T00:08:24.000Z
 slug: tenerife-i-un-viaje-accidentado
 title: Tenerife I- Un viaje accidentado
 thumbnailImage: /images/2012/12/p10408331.jpg
+trip: Tenerife 2012
 tags:
 - Tenerife
-trips:
-- Tenerife 2012
 ---
 
 

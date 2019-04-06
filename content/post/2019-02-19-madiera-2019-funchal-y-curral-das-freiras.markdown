@@ -5,11 +5,9 @@ slug: madeira-2019-funchal-y-curral-das-freiras
 title: Madeira 2019 - Funchal y Curral das Freiras
 thumbnailImage: https://farm8.staticflickr.com/7849/46264969955_ce3ed8795b_z.jpg
 coverImage: https://farm8.staticflickr.com/7849/46264969955_ce3ed8795b_b.jpg
-
+trip: Madeira 2019
 tags:
 - Madeira
-trips:
-- Madeira 2019
 ---
 
 El martes 19 aprovechamos para conocer Funchal, la capital de la isla. Es una ciudad a pie de mar en la parte sur de la isla. Y está en cuesta.

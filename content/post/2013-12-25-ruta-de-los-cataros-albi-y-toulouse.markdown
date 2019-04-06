@@ -4,12 +4,11 @@ date: 2013-12-25T23:15:14.000Z
 slug: ruta-de-los-cataros-albi-y-toulouse
 title: Ruta de los Cátaros- Albi y Toulouse
 thumbnailImage: /images/2013/12/albi.jpg
+trip: Ruta de los Cátaros 2013
 tags:
 - Albi
 - Cátaros
 - Toulouse
-trips:
-- Ruta de los Cátaros 2013
 ---
 
 

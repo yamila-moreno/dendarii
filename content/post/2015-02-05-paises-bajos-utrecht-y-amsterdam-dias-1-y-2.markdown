@@ -4,12 +4,11 @@ date: 2015-02-05T22:16:44.000Z
 slug: paises-bajos-utrecht-y-amsterdam-dias-1-y-2
 title: Países Bajos - Utrecht y Amsterdam (días 1 y 2)
 thumbnailImage: /images/2015/02/utretch-blog.jpg
+trip: Países Bajos 2015
 tags:
 - Amsterdam
 - Países Bajos
 - Utrecht
-trips:
-- Países Bajos 2015
 ---
 
 

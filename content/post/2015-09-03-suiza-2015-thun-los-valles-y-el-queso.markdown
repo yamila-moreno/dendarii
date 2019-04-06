@@ -4,11 +4,10 @@ date: 2015-09-03T21:30:07.139Z
 slug: suiza-2015-thun-los-valles-y-el-queso
 title: Suiza 2015 - Thun, los valles y el queso
 thumbnailImage: http://c2.staticflickr.com/6/5623/20933322510_587a7cbec3_z.jpg
+trip: Suiza 2015
 tags:
 - Suiza
 - Senderismo
-trips:
-- Suiza 2015
 ---
 
 Al mal tiempo, buena cara, y un poco de replanificación. Salimos de Ayent hacia Thun, donde teníamos previstas algunas visitas de altura: Faulhorn y Jungfraujoch. Resultó que la previsión del tiempo cambió radicalmente para estos días pasados y daban lluvia y niebla en las zonas altas, así que le vimos poco interés al plan original.

@@ -4,11 +4,10 @@ date: 2017-05-11T20:55:00.294Z
 slug: portugal-2017-evora-y-fin
 title: Portugal 2017 - Évora y fin
 thumbnailImage: https://c1.staticflickr.com/3/2866/34320305561_51eaf6a493_c.jpg
+trip: Portugal 2017
 tags:
 - Évora
 - Portugal
-trips:
-- Portugal 2017
 ---
 
 El día de vuelta nos lo tomamos con calma y haciendo una parada en Évora, ciudad del interior y cuyo casco histórico fue declarado Patrimonio de la Humanidad. Así que decidimos ir a por nuestro trocito de patrimonio.

@@ -4,11 +4,10 @@ date: 2015-02-02T22:33:35.000Z
 slug: paises-bajos-fosdem-luven-aachen-nijmegen
 title: Países Bajos - FOSDEM, Luven, Aachen, Nijmegen
 thumbnailImage: /images/2015/02/FOSDEM-blog.jpg
+trip: Países Bajos 2015
 tags:
 - Bruselas
 - Países Bajos
-trips:
-- Países Bajos 2015
 ---
 
 

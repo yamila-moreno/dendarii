@@ -4,11 +4,10 @@ date: 2016-09-19T19:23:41.623Z
 slug: eslovenia-2016-pokljuka-y-castillo-de-bled
 title: Eslovenia 2016 - Pokljuka y Castillo de Bled
 thumbnailImage: https://c1.staticflickr.com/9/8506/29713029711_1f600cc2a0_c.jpg
+trip: Eslovenia 2016
 tags:
 - Eslovenia
 - Senderismo
-trips:
-- Eslovenia 2016
 ---
 
 Hoy hemos tenido un día de ruta sencilla en la <a href="https://www.google.si/search?q=pokljuka&client=ms-android-oneplus&prmd=imnv&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjc_dnRjpzPAhVFPxQKHZ1hCD8Q_AUIBygB&biw=360&bih=560&dpr=3#tbm=isch&q=pokljuka" target="_new">meseta Pokljuka</a>, en el interior del Parque Nacional Triglav. Poco a poco, vamos conociendo mejor este enorme parque.

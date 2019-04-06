@@ -4,10 +4,9 @@ date: 2014-09-17T06:44:22.000Z
 slug: usa-2014-fin
 title: USA 2014 - Fin
 thumbnailImage: /images/2014/09/blog-ruta66.jpg
+trip: USA 2014
 tags:
 - USA
-trips:
-- USA 2014
 ---
 
 

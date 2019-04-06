@@ -4,10 +4,9 @@ date: 2017-10-05T19:00:00.000Z
 slug: vietnam-2017-hue
 title: Vietnam 2017 - Hue
 thumbnailImage: https://farm5.staticflickr.com/4514/36824795814_c4cc7644d5.jpg
+trip: Vietnam 2017
 tags:
 - Vietnam
-trips:
-- Vietnam 2017
 ---
 
 La etapa en Hue nos ha dado un enorme subidón general. La ciudad y las excursiones superaron nuestras expectativas así que terminamos el primer tercio del viaje (¡llevamos ya una semana por aquí!) con la motivación alta.

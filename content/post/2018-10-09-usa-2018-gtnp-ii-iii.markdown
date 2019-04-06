@@ -5,11 +5,10 @@ slug: usa-2018-gtnp-ii-iii
 title: USA 2018 - Grand Teton National Park (II y III)
 thumbnailImage: https://farm2.staticflickr.com/1913/45210241791_dde780ca79_c.jpg
 coverImage: https://farm2.staticflickr.com/1913/45210241791_dde780ca79_b.jpg
+trip: USA 2018
 tags:
 - USA
 - Grand Teton
-trips:
-- USA 2018
 ---
 
 Los dos últimos días de *Grand Teton* y de este viaje a USA 2018 los dedicamos a hacer rutas y más visitas breves.

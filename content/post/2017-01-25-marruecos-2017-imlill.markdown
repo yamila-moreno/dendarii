@@ -4,10 +4,9 @@ date: 2017-01-25T18:17:13.281Z
 slug: marruecos-2017-imlill
 title: Marruecos 2017 - Imlill
 thumbnailImage: https://c1.staticflickr.com/1/603/32392848021_aef502ab8e_c.jpg
+trip: Marruecos 2017
 tags:
 - Marruecos
-trips:
-- Marruecos 2017
 ---
 
 ¡Nueva aventura tontaka! Este año decidimos cambiar el tradicional viaje de invierno por el norte de Europa por una visita al sur de Marruecos, por aquello de no ir siempre a zonas gélidas. La previsión en Imlill era de -10. Porque lo viajero no quita lo super tontako.

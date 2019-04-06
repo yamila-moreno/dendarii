@@ -4,11 +4,10 @@ date: 2017-05-09T20:56:38.180Z
 slug: portugal-2017-lisboa
 title: Portugal 2017 - Lisboa
 thumbnailImage: https://c1.staticflickr.com/5/4176/33640561833_f8d1400221_c.jpg
+trip: Portugal 2017
 tags:
 - Lisboa
 - Portugal
-trips:
-- Portugal 2017
 ---
 
 - ¿Qué sabemos de Lisboa en España? - nos preguntó el guía. Y ante el silencio del grupo, él mismo respondió - Nada.

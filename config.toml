@@ -28,7 +28,7 @@ canonifyurls = true
 [taxonomies]
   tag = "tags"
   archive = "archives"
-  trip = "trips"
+  trip = "trip"
 
 [author]
   name = "Viajes dendarii"

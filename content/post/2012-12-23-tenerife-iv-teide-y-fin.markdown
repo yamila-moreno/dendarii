@@ -4,10 +4,9 @@ date: 2012-12-23T20:08:15.000Z
 slug: tenerife-iv-teide-y-fin
 title: Tenerife IV- Teide y fin
 thumbnailImage: /images/2012/12/teide1.jpg
+trip: Tenerife 2012
 tags:
 - Tenerife
-trips:
-- Tenerife 2012
 ---
 
 

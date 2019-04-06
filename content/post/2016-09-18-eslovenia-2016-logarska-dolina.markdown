@@ -4,11 +4,10 @@ date: 2016-09-18T20:15:57.384Z
 slug: eslovenia-2016-logarska-dolina
 title: Eslovenia 2016 - Logarska Dolina
 thumbnailImage: https://c1.staticflickr.com/9/8301/29658762132_c58114d0e3_c.jpg
+trip: Eslovenia 2016
 tags:
 - Eslovenia
 - Senderismo
-trips:
-- Eslovenia 2016
 ---
 
 Ya hemos superado el ecuador de estas vacaciones; ya hemos visitado unos cuantos sitios chulísimos y aún nos queda mucho por ver. ¡Qué difícil es elegir!

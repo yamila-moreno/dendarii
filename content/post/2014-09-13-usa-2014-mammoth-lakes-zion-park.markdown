@@ -4,10 +4,9 @@ date: 2014-09-13T04:34:46.000Z
 slug: usa-2014-mammoth-lakes-zion-park
 title: USA 2014 - Mammoth Lakes - Zion Park
 thumbnailImage: /images/2014/09/blog-entramos.jpg
+trip: USA 2014
 tags:
 - USA
-trips:
-- USA 2014
 ---
 
 

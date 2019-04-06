@@ -4,10 +4,9 @@ date: 2014-09-20T23:45:07.000Z
 slug: usa-2014-fotos
 title: USA 2014 - Fotos
 thumbnailImage: http://c2.staticflickr.com/6/5574/15117684910_d5d9aa9e43_n.jpg
+trip: USA 2014
 tags:
 - USA
-trips:
-- USA 2014
 ---
 
 

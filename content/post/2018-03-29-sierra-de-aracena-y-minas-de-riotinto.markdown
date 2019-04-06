@@ -16,7 +16,7 @@ Damos comienzo oficial a la temporada 2018 de Viajes Tontakos; una visita que me
 
 <!--more-->
 
-Tras el apoteósico fin de 2017 con el viaje a <a href="/trips/vietnam-2017" target="_blank">Vietnam</a> y la visita al <a href="{{< ref "2017-12-otono-gredos.markdown" >}}" target="_new">otoño en Gredos</a>, nos hemos pasado unos meses hibernando. En febrero hicimos el clásico viaje anual a Bruselas, pero apenas hemos viajado durante el invierno.  Así que aprovechamos que queríamos irnos de finde con <a href="https://www.geocaching.com/profile/?guid=f42461b6-7b9a-4f07-abc1-f4d511c84993" target="_blank">Zarangollo</a> (los padres de Álex), para salir de nuestro letargo.
+Tras el apoteósico fin de 2017 con el viaje a <a href="/trip/vietnam-2017" target="_blank">Vietnam</a> y la visita al <a href="{{< ref "2017-12-otono-gredos.markdown" >}}" target="_new">otoño en Gredos</a>, nos hemos pasado unos meses hibernando. En febrero hicimos el clásico viaje anual a Bruselas, pero apenas hemos viajado durante el invierno.  Así que aprovechamos que queríamos irnos de finde con <a href="https://www.geocaching.com/profile/?guid=f42461b6-7b9a-4f07-abc1-f4d511c84993" target="_blank">Zarangollo</a> (los padres de Álex), para salir de nuestro letargo.
 
 Elegimos ir a la serranía de Huelva porque me lo habían recomendado como un sitio que me iba a encantar y porque en Madrid no terminaba de despuntar la primavera y confiábamos en tener algo más de suerte hacia el Sur. Ambos propósitos se cumplieron con creces: disfrutamos casi todos los días de buen tiempo y descubrí una zona de montes maravillosa.
 

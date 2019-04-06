@@ -4,12 +4,11 @@ date: 2018-04-30T10:00:00.000Z
 slug: lake-district-ii-skafell-pike
 title: Lake District II - Skafell Pike
 thumbnailImage: https://farm2.staticflickr.com/1739/42714109641_75c8477345_c.jpg
+trip: Lake District 2018
 tags:
 - Lake District
 - Inglaterra
 - Senderismo
-trips:
-- Lake District 2018
 ---
 
 ¡Hemos coronado un tresmil! El Scafell Pike, épico, mítico, uno de los pocos tresmiles que hay en Reino Unido y sin duda la montaña más alta de Inglaterra, coronada por el Team Tontako. No os perdáis nuestra heróica gesta.

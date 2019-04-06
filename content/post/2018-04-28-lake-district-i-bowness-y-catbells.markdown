@@ -5,13 +5,12 @@ slug: lake-district-i-bowness-y-catbells
 title: Lake District I - Bowness-on-Windermere y Catbells
 thumbnailImage: https://farm2.staticflickr.com/1755/27845194757_83e5dc7428_c.jpg
 coverImage: https://farm2.staticflickr.com/1755/27845194757_83e5dc7428_c.jpg
+trip: Lake District 2018
 tags:
 - Lake District
 - Cuevas
 - Inglaterra
 - Senderismo
-trips:
-- Lake District 2018
 ---
 
 Cualquier excusa es buena para conocer nuevas montañas y otros verdes. El <em>Distrito de los Lagos</em>, en el norte de Inglaterra llevaba un tiempo en nuestra lista de sitios por visitar, y por fin encontramos el momento perfecto.

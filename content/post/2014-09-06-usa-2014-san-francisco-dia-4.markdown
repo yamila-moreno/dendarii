@@ -4,10 +4,9 @@ date: 2014-09-06T15:18:39.000Z
 slug: usa-2014-san-francisco-dia-4
 title: USA 2014- San Francisco (día 4)
 thumbnailImage: /images/2014/09/full-house.jpg
+trip: USA 2014
 tags:
 - USA
-trips:
-- USA 2014
 ---
 
 

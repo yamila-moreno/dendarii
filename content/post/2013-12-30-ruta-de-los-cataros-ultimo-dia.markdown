@@ -4,10 +4,9 @@ date: 2013-12-30T00:33:55.000Z
 slug: ruta-de-los-cataros-ultimo-dia
 title: Ruta de los Cátaros - Último día
 thumbnailImage: /images/2013/12/sissac.jpg
+trip: Ruta de los Cátaros 2013
 tags:
 - Cátaros
-trips:
-- Ruta de los Cátaros 2013
 ---
 
 Último día de estas vacaciones cátaras. Tanto va el cátaro a la fuente… (es que si no lo digo, reviento). Pues bien, ayer os comentaba que nos tocaba el sur-oeste. No hay caso. Hoy cogió Alex el mapa y se inspiró, “¡mejor vamos al norte!”. Y al norte que fuimos.

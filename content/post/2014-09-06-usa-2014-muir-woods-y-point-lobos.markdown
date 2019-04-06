@@ -4,10 +4,9 @@ date: 2014-09-06T15:46:07.000Z
 slug: usa-2014-muir-woods-y-point-lobos
 title: USA 2014- Muir Woods y Point Lobos
 thumbnailImage: /images/2014/09/totx.jpg
+trip: USA 2014
 tags:
 - USA
-trips:
-- USA 2014
 ---
 
 

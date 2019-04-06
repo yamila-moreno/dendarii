@@ -4,10 +4,9 @@ date: 2017-10-02T19:00:00.000Z
 slug: vietnam-2017-delta-del-mekong
 title: Vietnam 2017 - Delta del Mekong
 thumbnailImage: https://farm5.staticflickr.com/4422/36783165223_343b2ffda4_c.jpg
+trip: Vietnam 2017
 tags:
 - Vietnam
-trips:
-- Vietnam 2017
 ---
 
 A las 5:15am ha sonado el despertador. Porque las vacaciones no están reñidas con ser tontakos del todo. Madrugón y a la barca para ver el mercado flotante, uno de los puntos fuertes del delta del Mekong.

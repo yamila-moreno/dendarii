@@ -4,10 +4,9 @@ date: 2012-12-14T11:04:38.000Z
 slug: tenerife-ii-una-trampa-mortal
 title: Tenerife II- una trampa mortal
 thumbnailImage: /images/2012/12/p1040888.jpg
+trip: Tenerife 2012
 tags:
 - Tenerife
-trips:
-- Tenerife 2012
 ---
 
 

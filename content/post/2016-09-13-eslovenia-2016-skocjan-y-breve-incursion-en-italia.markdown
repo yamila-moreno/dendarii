@@ -4,11 +4,10 @@ date: 2016-09-13T20:38:31.173Z
 slug: eslovenia-2016-skocjan-y-breve-incursion-en-italia
 title: Eslovenia 2016 - Skocjan y breve incursión en Italia
 thumbnailImage: https://c1.staticflickr.com/9/8805/29035681033_8036b7dff1_c.jpg
+trip: Eslovenia 2016
 tags:
 - Eslovenia
 - Cuevas
-trips:
-- Eslovenia 2016
 ---
 
 ¡¡Más cuevas!! Para hoy nos habíamos progrado la visita a las cuevas de Skocjan. Teníamos la idea de que eran unas cuevas menos visitadas pero con mucho interés. Y no ha defraudado.

@@ -5,12 +5,11 @@ slug: usa-2018-fairy-falls
 title: USA 2018 - (Ruta) Fairy Falls
 thumbnailImage: https://farm2.staticflickr.com/1916/30168937747_19e2257004_c.jpg
 coverImage: https://farm2.staticflickr.com/1916/30168937747_19e2257004_b.jpg
+trip: USA 2018
 tags:
 - USA
 - Yellowstone
 - Senderismo
-trips:
-- USA 2018
 ---
 
 El paseo a **Fairy Falls** es una ruta bastante popular, especialmente en verano. Nosotros nos despertamos con lluvia y una previsión de más lluvia. ¿Qué debíamos hacer?
@@ -31,7 +30,7 @@ La ruta de las **Fairy Falls** sale por la antigua carretera, así que es un cam
 
 Como la previsión era de lluvia y como al asomarnos a la ventana veíamos lluvia con un cielo encapotado hasta el infinito, sospechamos que si hacíamos la ruta, sería bajo la lluvia, y deberíamos ir con un equipamiento acorde.
 
-Botas de montaña, con goretex y suela que agarre bien; como Alex lleva un giputxi en su interior, también íbamos con polainas (nos salvaron los pies y por ende nos salvaron la ruta); varias capas para el frío y un chubasquero bueno; funda para la mochila; funda estanca para el móvil (nuestro GPS durante el viaje); aunque hacía frescor, nos fuimos con los pantalones finos-que-se-secan-super-rápido. 
+Botas de montaña, con goretex y suela que agarre bien; como Alex lleva un giputxi en su interior, también íbamos con polainas (nos salvaron los pies y por ende nos salvaron la ruta); varias capas para el frío y un chubasquero bueno; funda para la mochila; funda estanca para el móvil (nuestro GPS durante el viaje); aunque hacía frescor, nos fuimos con los pantalones finos-que-se-secan-super-rápido.
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1942/44195691185_b2a46a2e7b_b.jpg" title="" alt="" >}}
 
@@ -93,7 +92,7 @@ Entonces algo llamó nuestra atención: primero, algún bisonte andaba especialm
 
 Llegamos al géiser y ese sí, era el punto más alejado que íbamos a recorrer. Tocaba volver por la misma carretera hasta encontrarnos con el tramo que habíamos hecho al principio de la mañana y que nos dejaría en el coche al cabo de un rato.
 
-Y entonces, Yellowstone decidió responder a mis plegarias: se puso a llover fuerte, se levantó bastante viento y bajó la temperatura rápidamente. Porque este parque es así. Después del río caudaloso, las marismas, cruzar por donde los géiseres, los bisontes bramando y los lobos aullando, se nos ponía a llover del carajo. Nos lo tomamos con humor y marcamos un buen paso (para avanzar rápido y para no perder calor); por supuesto, en 30 segundos estábamos calados hasta las orejas. 
+Y entonces, Yellowstone decidió responder a mis plegarias: se puso a llover fuerte, se levantó bastante viento y bajó la temperatura rápidamente. Porque este parque es así. Después del río caudaloso, las marismas, cruzar por donde los géiseres, los bisontes bramando y los lobos aullando, se nos ponía a llover del carajo. Nos lo tomamos con humor y marcamos un buen paso (para avanzar rápido y para no perder calor); por supuesto, en 30 segundos estábamos calados hasta las orejas.
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1945/45106802341_0a0f1cdf50_b.jpg" title="" alt="" >}}
 

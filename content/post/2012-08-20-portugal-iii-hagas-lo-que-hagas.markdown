@@ -4,13 +4,12 @@ date: 2012-08-20T08:37:48.000Z
 slug: portugal-iii-hagas-lo-que-hagas
 title: Portugal III- Hagas lo que hagas...
 thumbnailImage: /images/2012/08/p1030627.jpg
+trip: Portugal 2012
 tags:
 - Braga
 - Guimaraes
 - Portugal
 - Viila do Conde
-trips:
-- Portugal 2012
 ---
 
 

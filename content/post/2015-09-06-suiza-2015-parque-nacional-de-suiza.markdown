@@ -4,11 +4,10 @@ date: 2015-09-06T21:24:18.196Z
 slug: suiza-2015-parque-nacional-de-suiza
 title: Suiza 2015 - Parque Nacional de Suiza
 thumbnailImage: http://c2.staticflickr.com/6/5754/21172464576_72d66dd5e6_z.jpg
+trip: Suiza 2015
 tags:
 - Suiza
 - Senderismo
-trips:
-- Suiza 2015
 ---
 
 El Parque Nacional de Suiza no suele estar en el top de visitas a la Confederación Helvética, sin embargo, nosotros queríamos pasar allí un par de días, aunque se desviara bastante de la zona oeste que estábamos recorriendo.

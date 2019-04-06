@@ -4,10 +4,9 @@ date: 2015-08-29T18:40:20.278Z
 slug: suiza-2015-ginebra-lausana-y-castillo-de-chillon
 title: Suiza 2015 - Ginebra, Lausana y Castillo de Chillon
 thumbnailImage: http://c1.staticflickr.com/1/577/20794499218_bf9b67d4af_z.jpg
+trip: Suiza 2015
 tags:
 - Suiza
-trips:
-- Suiza 2015
 ---
 
 ¡¡Suiza!! El Team Tontako este año nos hemos ido a Suiza. Tras un agosto desesperante de calor en Madrid, teníamos muchas esperanzas en que en Suiza haría fresquete. 35º al aterrizar. Así como comienzo, no está mal, ¡pero buscamos más fresquete!

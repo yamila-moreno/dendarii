@@ -4,11 +4,10 @@ date: 2017-10-20T19:00:00.000Z
 slug: vietnam-2017-tam-coc-y-fin
 title: Vietnam 2017 - Tam Coc y fin
 thumbnailImage: https://farm5.staticflickr.com/4486/37763824776_a5e3af832b_c.jpg
+trip: Vietnam 2017
 tags:
 - Vietnam
 - Cuevas
-trips:
-- Vietnam 2017
 ---
 
 Último día de este viaje y última excursión. Esta vez fuimos a Tam Coc, que llaman los foros viajeros <em>Ha Long en tierra</em>.

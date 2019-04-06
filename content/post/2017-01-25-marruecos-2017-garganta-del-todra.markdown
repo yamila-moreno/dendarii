@@ -4,10 +4,9 @@ date: 2017-01-25T19:13:24.350Z
 slug: marruecos-2017-garganta-del-todra
 title: Marruecos 2017 - Garganta del Todra
 thumbnailImage: https://c1.staticflickr.com/1/508/32362933482_ee38f1993c_c.jpg
+trip: Marruecos 2017
 tags:
 - Marruecos
-trips:
-- Marruecos 2017
 ---
 
 Dejamos el desierto tras nosotros y nos fuimos un poco al norte. Desde Mhamid recorrimos una carretera que discurre por valles y mesetas hasta Tinhgir, el pueblo que se halla al comienzo de la Garganta del Todra, nuestra siguiente parada.

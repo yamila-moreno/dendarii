@@ -4,10 +4,9 @@ date: 2012-08-26T21:48:09.000Z
 slug: portugal-viii-generalidades-y-consejos-utiles
 title: Portugal VIII- Generalidades y consejos útiles
 thumbnailImage: None
+trip: Portugal 2012
 tags:
 - Portugal
-trips:
-- Portugal 2012
 ---
 
 

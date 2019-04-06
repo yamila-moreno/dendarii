@@ -4,10 +4,9 @@ date: 2015-02-03T21:26:24.000Z
 slug: paises-bajos-hoge-veluwe-y-nijmegen
 title: Países Bajos - Hoge Veluwe y Nijmegen
 thumbnailImage: /images/2015/02/entrance-blog.jpg
+trip: Países Bajos 2015
 tags:
 - Países Bajos
-trips:
-- Países Bajos 2015
 ---
 
 

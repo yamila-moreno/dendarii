@@ -4,10 +4,9 @@ date: 2016-09-25T19:57:45.375Z
 slug: eslovenia-2016-kropa-itinerario-y-pecunia
 title: Eslovenia 2016 - Kropa, itinerario y pecunia
 thumbnailImage: https://c1.staticflickr.com/9/8464/29546902190_7c1e059a01_c.jpg
+trip: Eslovenia 2016
 tags:
 - Eslovenia
-trips:
-- Eslovenia 2016
 ---
 
 El último día en Eslovenia nos lo hemos tomado con calma. Por la mañana nos acercamos a Kropa, a visitar su museo sobre forja. Muy interesante, con un montón de piezas de forja preciosas.

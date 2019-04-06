@@ -4,10 +4,9 @@ date: 2014-09-15T07:30:49.000Z
 slug: usa-2014-grand-canyon-2
 title: USA 2014 - Grand Canyon (2)
 thumbnailImage: /images/2014/09/blog2-grand-canyon.jpg
+trip: USA 2014
 tags:
 - USA
-trips:
-- USA 2014
 ---
 
 

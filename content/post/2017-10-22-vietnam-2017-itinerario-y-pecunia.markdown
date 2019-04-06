@@ -5,10 +5,9 @@ slug: vietnam-2017-itinerario-y-pecunia
 title: Vietnam 2017 - Itinerario y pecunia
 thumbnailImage: https://c1.staticflickr.com/5/4493/37495802561_ddd9500e06_h.jpg
 coverImage: https://c1.staticflickr.com/5/4493/37495802561_ddd9500e06_h.jpg
+trip: Vietnam 2017
 tags:
 - Vietnam
-trips:
-- Vietnam 2017
 ---
 
 Como es habitual en los viajes dendarii, os pongo un repaso por el itinerario y un desglose de gastos, con algún comentario que puede resultar útil.

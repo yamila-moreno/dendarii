@@ -4,11 +4,10 @@ date: 2017-10-07T19:00:00.000Z
 slug: vietnam-2017-parque-nacional-phong-nha-ke-bang
 title: Vietnam 2017 - Parque Nacional Phong Nha Ke Bang
 thumbnailImage: https://farm5.staticflickr.com/4513/36878492513_76a7e091c5_c.jpg
+trip: Vietnam 2017
 tags:
 - Vietnam
 - Cuevas
-trips:
-- Vietnam 2017
 ---
 
 La siguiente etapa en el viaje de Vietnam ha sido el parque nacional Phong Nha Ke Bang, un destino menos conocido por ahora pero que poco a poco va a ir siendo uno de los puntos fuertes para el turismo activo en Vietnam.

@@ -4,11 +4,10 @@ date: 2016-09-17T20:47:06.120Z
 slug: eslovenia-2016-garganta-del-voje-y-lago-bohinj
 title: Eslovenia 2016 - Garganta del Voje y lago Bohinj
 thumbnailImage: https://c1.staticflickr.com/9/8357/29745359465_8b99e849a4_c.jpg
+trip: Eslovenia 2016
 tags:
 - Eslovenia
 - Senderismo
-trips:
-- Eslovenia 2016
 ---
 
 Esta mañana vimos que el 99% de probilidades de lluvia en Eslovenia significa que va a llover sí o sí y que además va a llover un puñado. Aun así, ya íbamos mentalizados para hacer alguna ruta, así que nos enfundamos las chamarras y nos fuimos a por la primera ruta: la que discurre por una garganta en el el valle del Voje. A diferencia de la garganta de ayer, esta es mucho más abrupta y estrecha, y la mayor parte de los tramos hay que transitarla por arriba.

@@ -4,11 +4,10 @@ date: 2017-03-21T22:09:18.525Z
 slug: leon-2017-por-los-montes-leoneses
 title: León 2017 - Por los montes leoneses
 thumbnailImage: https://c1.staticflickr.com/4/3755/32732544104_7e13187355_c.jpg
+trip: León 2017
 tags:
 - León
 - Cuevas
-trips:
-- León 2017
 ---
 
 Hacía tiempo que un compi me había recomendado visitar la <a href="https://www.google.es/search?q=cueva+de+valporquero&client=firefox-b-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXztXWvujSAhUkDMAKHaObCk0Q_AUICSgC&biw=1918&bih=992" target="_new">Cueva de Valporquero</a> así que aprovechamos el finde largo que teníamos en Marzo para ir a conocer la zona. Cogimos una casita rural en Villanueva de Pontedo, en la zona de Los Argüellos, como base de operaciones montañeras. Las vistas desde la casita solo auguraban cosas buenas:

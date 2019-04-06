@@ -5,12 +5,11 @@ slug: madeira-2019-levada-do-caldeirao-verde
 title: Madeira 2019 - Levada do Caldeirão Verde
 thumbnailImage: https://farm8.staticflickr.com/7818/33303763208_a671887002_z.jpg
 coverImage: https://farm8.staticflickr.com/7818/33303763208_a671887002_b.jpg
+trip: Madeira 2019
 tags:
 - Madeira
 - Senderismo
 - Cuevas
-trips:
-- Madeira 2019
 ---
 
 El domingo teníamos previsto realizar la **Levada do Caldeirão Verde**, sin embargo, tocó poner a prueba nuestra capacidad de adaptación ante la adversidad.

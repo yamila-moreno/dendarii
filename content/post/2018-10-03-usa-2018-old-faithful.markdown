@@ -5,11 +5,10 @@ slug: usa-2018-old-faithful
 title: USA 2018 - Old Faithful, de supervolcanes y géiseres
 thumbnailImage: https://farm2.staticflickr.com/1915/43292953610_7b86983df3_c.jpg
 coverImage: https://farm2.staticflickr.com/1915/43292953610_7b86983df3_b.jpg
+trip: USA 2018
 tags:
 - USA
 - Yellowstone
-trips:
-- USA 2018
 ---
 
 Los géiseres son, sin duda, uno de los grandes atractivos que reúne a unos 4 millones de visitantes anuales en Yellowstone. La realidad es mucho más rica e interesante que "chorros de agua caliente", y estos días en Yellowstone hemos podido aprender un poquito de por qué esta zona es tan peculiar y maravillosa.
@@ -48,7 +47,7 @@ De los **mud pots** hablé en la entrada sobre <a href="{{< ref "2018-09-26-usa-
 
 ## Las termófilas
 
-En los primeros años del Parque Nacional, las aguas calentitas eran usadas como fuentes termales, para cocinar, como tratamientos varios, etc. Se entendía que a esas temperaturas nada podía vivir. Hasta que descubrieron que esos colores tan vivos los producían unos organismos a los que les encantaba el agua calentita y que llamaron (¡con acierto!) **termófilas**. Poco a poco fueron descubriendo que podían ser entre ligeramente tóxicas hasta altamente letales, y que en combinación con el ácido sulfúrico que desprende todo el asunto, mejor aplicar lo de *agua que no has de beber...*. 
+En los primeros años del Parque Nacional, las aguas calentitas eran usadas como fuentes termales, para cocinar, como tratamientos varios, etc. Se entendía que a esas temperaturas nada podía vivir. Hasta que descubrieron que esos colores tan vivos los producían unos organismos a los que les encantaba el agua calentita y que llamaron (¡con acierto!) **termófilas**. Poco a poco fueron descubriendo que podían ser entre ligeramente tóxicas hasta altamente letales, y que en combinación con el ácido sulfúrico que desprende todo el asunto, mejor aplicar lo de *agua que no has de beber...*.
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1926/44386307444_622430b9d4_b.jpg" title="Tontakos termófilos" alt="" >}}
 

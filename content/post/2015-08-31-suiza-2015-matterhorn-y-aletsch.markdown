@@ -4,11 +4,10 @@ date: 2015-08-31T20:45:04.233Z
 slug: suiza-2015-matterhorn-y-aletsch
 title: Suiza 2015 - Matterhorn y Aletsch
 thumbnailImage: http://c1.staticflickr.com/1/710/20853291870_f8fee91a75_b.jpg
+trip: Suiza 2015
 tags:
 - Suiza
 - Senderismo
-trips:
-- Suiza 2015
 ---
 
 Ayer domingo tocaron diana muy pronto y a las 6 estábamos en marcha. El plan era llegar pronto a Randa en coche, donde cogeríamos un taxi colectivo hasta Zermatt (<em>ciudad sin coches</em>), donde cogeríamos un teleférico para llegar a una estación intermedia, donde cogeríamos la góndola que nos llevaría hasta la estación Klein Matterhorn. ¡Había que madrugar!

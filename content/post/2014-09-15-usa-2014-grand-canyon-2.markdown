@@ -35,3 +35,5 @@ Y el selfie del día… (que sé que lo estábais esperando, que mis fans imagin
 {{< image classes="center" title="¡Nosotros en el cañón! Seguro que no os lo esperabais, SEGURO." src="/images/2014/09/blog2-selfie.jpg" >}}
 
 Mañana cogemos la ruta 66 y nos vamos hacia la última parada del viaje: ¡Las Vegas!
+
+{{< tripindex trip="USA 2014" >}}

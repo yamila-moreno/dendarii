@@ -55,3 +55,5 @@ La cuestión ha sido que no teníamos muchas más opciones que probar todas las 
 Pues no era el patio de los contenedores sino el patio donde había un gato y una casa. ¡La nuestra! yuhu! ¡Albricias! Después, paseíto por [Toulouse](https://fr.wikipedia.org/wiki/Toulouse): al igual que en Albi, había apenas gente por la calle, solo las tiendas para quienes el 25 de diciembre es tanto como el 25 de octubre. También había un supermercadillo navideño para quienes el 25 de diciembre es un día señalado. Unos crepes y a dormir. Para mañana tenemos previsto otro paseo por la ciudad y encaminarnos hacia la ciudad donde hay [meeples](https:/www.google.com/search?q=meeple&safe=off&tbm=isch&tbo=u&source=univ&sa=X&ei=Tle7UrLeLIqV0QWJh4GoDg&ved=0CDAQsAQ&biw=1364&bih=642) que te roban los pastos: [Carcassone](http:/boardgamegeek.com/boardgame/822/carcassonne)
 
 Ps: acabo de descubrir que aquí os ponen anuncios, ¡a vosotros mis (2) fieles lectores! (y uno es un bot, lo sé). El caso es que migraré el blog a mi servidor y nos ahorraré a todos la publi.
+
+{{< tripindex trip="Ruta de los Cátaros 2013" >}}

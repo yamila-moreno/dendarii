@@ -46,3 +46,5 @@ Y después de la visita, partimos hacia el siguiente destino, el Valle del Draa.
 y si aún no os habéis muerto de latxa, las foticos:
 
 {{< flickr album="72157679463601376" >}}
+
+{{< tripindex trip="Marruecos 2017" >}}

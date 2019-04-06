@@ -178,3 +178,17 @@
   }
 }
 /* end grid */
+
+.tripindex {
+  border-style: solid;
+  border-width: medium;
+  border-color: #DDD;
+  margin-top: 20px;
+}
+
+.tripindex h3 {
+  background-color: #DDD;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 10px;
+}

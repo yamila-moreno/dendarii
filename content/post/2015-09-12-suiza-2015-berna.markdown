@@ -86,3 +86,5 @@ Se nota que estas vacaciones van llegando a su fin, aunque aún queda una peque�
 {{< flickr album="72157658495953365" >}}
 
 <strong>pd</strong> como cada año más o menos por estas fechas, ha sido el cumple de Juan, zorionak majete, esperamos que tuvieras un día fetén :)
+
+{{< tripindex trip="Suiza 2015" >}}

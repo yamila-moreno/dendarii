@@ -71,3 +71,5 @@ Y las fotitos del día:
 {{< flickr album="72157672089079507" >}}
 
 Queda ya poquito de viaje, pero aún tenemos ganas y tiempo para recorrer un poco más este fantástico parque. ¡Seguid atentas!
+
+{{< tripindex trip="USA 2018" >}}

@@ -64,3 +64,5 @@ Y para terminar, selfie tontako ¡que no falte!
 Y las foticos de Ho Chi Minh City...
 
 {{< flickr album="72157686792725710" >}}
+
+{{< tripindex trip="Vietnam 2017" >}}

@@ -46,3 +46,5 @@ Y como es costumbre por estos viajes, ¡el selfie! No sea que se os olviden nues
 Actualización: y aquí van las fotos de estos días...
 
 {{< flickr album="72157657503237889" >}}
+
+{{< tripindex trip="Suiza 2015" >}}

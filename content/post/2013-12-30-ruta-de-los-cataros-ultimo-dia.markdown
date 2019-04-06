@@ -28,3 +28,5 @@ Cierre: viaje genial. Traíamos poca cosa preparada, pero la zona es muy fácil 
 Lo muy poco que conozco de Francia me parece maravilloso, y me quedo con ganas de conocer más zonas y a más gente.
 
 Mañana toca volver a la cruda realidad en la que… ¡¡sigo de vacaciones!! Así se sobrelleva mejor
+
+{{< tripindex trip="Ruta de los Cátaros 2013" >}}

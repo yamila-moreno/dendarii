@@ -80,3 +80,5 @@ Otro premio dieron a estos dos por este super selfie:
 Y aquí las foticos de Phong Nha:
 
 {{< flickr album="72157687020120180" >}}
+
+{{< tripindex trip="Vietnam 2017" >}}

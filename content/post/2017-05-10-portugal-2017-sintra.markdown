@@ -41,3 +41,5 @@ Y con un buen vinho terminamos el día; ya nos quedaba únicamente cerrar el via
 Ni os quedáis sin las foticos:
 
 {{< flickr album="72157681295672051" >}}
+
+{{< tripindex trip="Portugal 2017" >}}

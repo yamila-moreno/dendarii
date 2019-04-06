@@ -30,3 +30,5 @@ Idrija además es un centro importantísimo de encaje de bolillos. Tienen una la
 Y tras todo el día tocaba una travesía montañosa de hora  y media, entre valles y carreteras con muchas curvas, para ir a descansar. Mientras, ¡aquí las foticos!
 
 {{< flickr album="72157674354357165" >}}
+
+{{< tripindex trip="Eslovenia 2016" >}}

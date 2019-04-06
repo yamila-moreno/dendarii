@@ -36,3 +36,5 @@ Viajar con Alex, como siempre, es un lujo: es un compa excepcional. ¡Hasta el p
 Edito: dejo aquí una galería de fotos de Países Bajos sin orden ni concierto :)
 
 {{< flickr album="72157653164487163" >}}
+
+{{< tripindex trip="Países Bajos 2015" >}}

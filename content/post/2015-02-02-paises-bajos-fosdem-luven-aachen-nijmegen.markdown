@@ -30,4 +30,4 @@ La hemos visto de noche, muy muy agradable; mucho carril bici (con muchas bicis 
 
 Mañana tenemos previsto ir a [Hoge Veluwe](https://www.google.com/search?q=hoge+veluwe&espv=2&biw=1083&bih=535&source=lnms&tbm=isch&sa=X&ei=ivrPVK-jG4b_UKvMgMAG&ved=0CAYQ_AUoAQ), un parque natural enorme, donde además está el museo con la colección privada de Van Goghs más grande del mundo. ¡¡Seguiremos informando!!
 
-
+{{< tripindex trip="Países Bajos 2015" >}}

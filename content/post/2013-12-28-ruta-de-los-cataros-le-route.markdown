@@ -38,3 +38,5 @@ Desde Quéribus, solo podíamos volver sobre nuestros pasos o llegar haciendo la
 Después era ya tardísimo (como las 17:30), así que hemos cogido el coche de vuelta, pasando por más pueblos y tomando algún que otro café. Después hemos ido a cenar a un sitio donde había una señora con gafas de sol, sombrero, abrigo y bolso colgado atendiendo. Ha sido muy random y no me creeriáis, como la mitad de las cosas que cuento.
 
 Mañana toca la zona oeste del país cátaro. Y en algún momento volveremos a casa, pero con suerte no
+
+{{< tripindex trip="Ruta de los Cátaros 2013" >}}

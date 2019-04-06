@@ -42,3 +42,5 @@ Por la tarde hemos aprovechado una ruta geocacher para visitar la zona sur de lo
 {{< image title="Un canal del todo inesperado en 'La (otra) Venecia del Norte'..." src="/images/2015/02/canals.jpg" >}}
 
 Rendidos de estar todo el día de pie, hemos vuelto a casa y a descansar. Mañana último día: Rijksmuseum y si se da bien, comida surinamesa. ¡Estad atentos!
+
+{{< tripindex trip="Países Bajos 2015" >}}

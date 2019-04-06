@@ -26,3 +26,5 @@ Es un potaje típico con alubias, pato y butifarra (ellos lo llaman salchicha ca
 {{< image classes="center" src="http://maisonducassoulet.pagesperso-orange.fr/images/cassoulet-confit-oie.jpg" title="Lo gratinan con pan rallado para que quede más suave y digestivo..." >}}
 
 Después más paseo por la ciudad intentando bajar la comida, cachés, más paseo y a cenar con nuestro amigo de Lorena que ya nos ha recomendado “la ciudad más bonita de Francia”, a la que mañana tocará ir
+
+{{< tripindex trip="Ruta de los Cátaros 2013" >}}

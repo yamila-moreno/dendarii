@@ -62,3 +62,5 @@ Después hemos paseado por Carcassonne y hemos localizado los sitios importantes
 Así que nos hemos terminado nuestras crepes y a dormir. Mañana, la ciudad antigua de Carcassonne y algún pueblo alrededor.
 
 (1) Puntualizo que este superpoder mutante no aplica si yo conduzco.
+
+{{< tripindex trip="Ruta de los Cátaros 2013" >}}

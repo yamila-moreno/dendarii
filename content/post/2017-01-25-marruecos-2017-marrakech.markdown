@@ -38,3 +38,5 @@ y las foticos del día...
 {{< flickr album="72157675949251633" >}}
 
 Y después nos fuimos ya al aeropuerto, para retomar la rutina. Fue mi primer viaje a Marruecos y al continente africano. Hicimos un viaje bastante distinto a otros anteriores, con más incógnitas y menos comodidades. Fue un viaje fantástico, en el que encontré bastante choque cultural (que andaba buscando) y pude disfrutar muchísimo de viajar a ritmo muy pausado. Aparte de lo genial que es viajar con Alex, esta vez nos vino de perlas que hablara francés. En breve tendréis el post del itinerario, pecunia y algunas cuestiones que os puedan ser útiles. ¡Seguid atentas!
+
+{{< tripindex trip="Marruecos 2017" >}}

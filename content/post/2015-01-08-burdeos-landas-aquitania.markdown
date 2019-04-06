@@ -21,3 +21,5 @@ Pusimos nuestra base de operaciones en Pessac y desde ahí nos fuimos moviendo. 
 Aquí os dejo unas fotos del viaje.
 
 {{< flickr album="72157650129848301" >}}
+
+{{< tripindex trip="Landas 2015" >}}

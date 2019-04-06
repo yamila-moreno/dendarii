@@ -55,3 +55,5 @@ Y las foticos del día.
 {{< flickr album="72157673645024788" >}}
 
 Doy por cerrada esta parte del viaje y la siguiente será NYC, ¡seguid atentas!
+
+{{< tripindex trip="USA 2018" >}}

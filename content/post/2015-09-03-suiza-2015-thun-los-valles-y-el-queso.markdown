@@ -59,3 +59,5 @@ Y para rematar el día, por la tarde hemos visitado Spiez, otro pueblo pequeño 
 ¡Y las foticos de estos días!
 
 {{< flickr album="72157657736244560" >}}
+
+{{< tripindex trip="Suiza 2015" >}}

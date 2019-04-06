@@ -114,3 +114,5 @@ Y tras esta entrada, toca pensar en la rutina que está a la vuelta de la esquin
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1968/45063700401_c1218a6378_b.jpg" title="" alt="" >}}
 
 ¡Hasta la próxima aventura dendarii!
+
+{{< tripindex trip="USA 2018" >}}

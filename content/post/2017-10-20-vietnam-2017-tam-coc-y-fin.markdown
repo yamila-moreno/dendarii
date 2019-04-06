@@ -41,3 +41,5 @@ Y las foticos de Tam Coc.
 {{< flickr album="72157687556154930" >}}
 
 ¡Hasta la próxima misión dendarii!
+
+{{< tripindex trip="Vietnam 2017" >}}

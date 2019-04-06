@@ -77,3 +77,5 @@ Y las fotitos de estos dos días:
 Y así terminamos el viaje; mañana nos acercaremos a un centro de visitantes a entregar el spray anti-osos para que lo puedan usar en formaciones ya que, afortunadamente, no lo hemos necesitado. Después llevaremos el coche hasta Salt Lake City, donde nos entregaremos en cuerpo y alma a un periplo aéreo que nos hará apareceren Madrid en algún momento del día 12. Aunque el viaje termina, aún compartiré algunas cuestiones en el blog: un resumen y generalidades y por supuesto, el ya tradicional post con el itinerario y los dineros.
 
 ¡No os los perdáis!
+
+{{< tripindex trip="USA 2018" >}}

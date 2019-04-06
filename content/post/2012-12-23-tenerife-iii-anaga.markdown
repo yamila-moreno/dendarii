@@ -52,3 +52,5 @@ Esta anécdota absolutamente irrelevante está diseñada para dar envidia insana
 Por la noche habíamos quedado con una amiga de la carrera de Marta que nos llevó a comer pescado a un sitio típico donde tenían un vino estupendo. Creo que también había pescado. ¿He dicho ya que había vino? Tras la cena fuimos a un pub donde de entrada nos hicierno mojitos con ron tostado; luego Marta desaparece y cuando vuelve resulta que hay música en directo en el pub; y va y es un grupo que hace versiones de grupos míticos españoles: Héroes, Celtas y toda la recua que ya conocéis.
 
 Marta, ya sabéis cómo se pone con esto, entró en modo euforia y en algún lugar los bomberos tuvieron una alerta. En cierto momento la engañé y la saqué del pub a rastras para intentar descansar algo que al día siguiente tocaba el Teide, y no teníamos muy claro si habría o no zombies...
+
+{{< tripindex trip="Tenerife 2012" >}}

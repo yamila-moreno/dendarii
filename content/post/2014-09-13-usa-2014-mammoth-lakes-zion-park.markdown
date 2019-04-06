@@ -49,3 +49,5 @@ En la zona de Nevada hemos visto apenas dos cosas: desierto y campos de golf. Y 
 Ha sido un día bastante cansado, muchos kilómetros y muchos paisajes. Ya estamos en la posada para descansar. Otro pueblo típico (es decir, a las 21 lo único abierto está a 6 millas), así que a la cama sin cenar XD. Y mañana otro parque natural con muy buena pinta: Zion park. ¡Seguid sintonizados!
 
 pd. Hoy ha sido para nosotros 11 de septiembre, el cumple de Juan. ¡Zorionak, majete!
+
+{{< tripindex trip="USA 2014" >}}

@@ -55,3 +55,5 @@ Aquí os voy dejando foticos del viaje.
 ## Las Vegas
 
 {{< flickr album="72157647429663107" >}}
+
+{{< tripindex trip="USA 2014" >}}

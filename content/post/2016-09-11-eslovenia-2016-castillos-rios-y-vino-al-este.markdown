@@ -48,3 +48,5 @@ Aquí están las fotos de la jornada. ¡Seguimos informando!
 {{< flickr album="72157670466019873" >}}
 
 pd. Hoy es el cumple de Juan, que ya es el tercer año que nos pilla fuera. Zorionak! espero que hayas tenido un día fetén :D
+
+{{< tripindex trip="Eslovenia 2016" >}}

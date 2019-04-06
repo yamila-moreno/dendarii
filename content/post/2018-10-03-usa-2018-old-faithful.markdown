@@ -106,3 +106,5 @@ Y las fotos que saqué en nuestras visitas al áerea de Old Faithful:
 En esta entrada he aprovechado para meter algunas explicaciones además de nuestro diario de viaje; animaos a contarme si os gusta la idea o preferís que me centre en el relato de nuestras aventuras.
 
 ¡Hasta la próxima!
+
+{{< tripindex trip="USA 2018" >}}

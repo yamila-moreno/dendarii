@@ -35,3 +35,5 @@ Fue una cena de despedida inmejorable. Además, al salir del restaurante comenz�
 El sábado por la mañana salíamos de Portugal e hicimos una última parada en Évora: es un pueblecito pintoresco y gore a partes iguales. Aquí se encuentra la Capela dos Ossos (huesos, no osos, para los que no tengáis un máster en latín o un tío peluquero como yo): consiste, ¿lo adivináis?, en una capilla hecha de huesos, “nosotros los huesos, los vuestros esperamos” reza la leyenda que da la bienvenida a la capilla. La hicieron los franciscanos para pensar en la transitoriedad de la vida. Que yo habría hecho un coloquio o un concilio, pero ellos tenían sobreoferta de huesos y ya sabéis el dicho: “Para el que tiene un martillo todo son clavos”.
 
 Después cruzamos la frontera y entramos de vuelta en España. Hicimos una parada en Mérida y sucedieron muchas aventuras, pero éste es otro viaje y tal vez otros lo cuenten
+
+{{< tripindex trip="Portugal 2012" >}}

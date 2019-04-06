@@ -40,3 +40,5 @@ Y con buen sabor de boca dejamos el Valle del Todra, una parada imprescindible p
 y fotazas:
 
 {{< flickr album="72157679463884046" >}}
+
+{{< tripindex trip="Marruecos 2017" >}}

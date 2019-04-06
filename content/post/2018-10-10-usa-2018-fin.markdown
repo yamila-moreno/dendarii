@@ -71,3 +71,5 @@ Apenas recuerdo de qué iba este viaje cuando empezamos a planificarlo. Sé que 
 ¡Y por muchos selfies tontakos!
 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1906/29877691057_00712b9f38_b.jpg" title="" alt="" >}}
+
+{{< tripindex trip="USA 2018" >}}

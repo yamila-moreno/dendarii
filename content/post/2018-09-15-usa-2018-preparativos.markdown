@@ -99,3 +99,5 @@ Finalmente, compramos una guía sobre <a href="https://www.goodreads.com/book/sh
 {{< image classes="left fancybox fig-50 clear" src="https://c2.staticflickr.com/2/1806/43105017692_51dbbb4bcc_c.jpg" title="" alt="" >}}
 
 Con todo esto,  ya estaba todo listo para el viaje y tan solo quedaba coger el vuelo hacia NYC para dar comienzo a la aventura. ¡Seguid atentas!
+
+{{< tripindex trip="USA 2018" >}}

@@ -34,3 +34,5 @@ En este riad en Setti Fadma además nos cobraron unos cuantos euros de más. Éx
 y de las foticos...
 
 {{< flickr album="72157678052621090" >}}
+
+{{< tripindex trip="Marruecos 2017" >}}

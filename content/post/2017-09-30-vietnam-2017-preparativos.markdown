@@ -57,3 +57,5 @@ En el Aeropuerto de HoChiMin City, antes incluso de pasar el control de pasaport
 Así que tras un largo vuelo y un par de gestiones, ya estamos preparados para el viaje que empieza mañana. Aunque el viaje en sí mismo no ha empezado, no puedo dejaros sin selfie tontako...
 
 {{< image src="https://farm5.staticflickr.com/4505/36722752824_38fba3de4e_c.jpg" alt="Selfie tontako en el avión de ida" title="Qué felices y qué poco sabíamos del viaje que nos esperaba..." >}}
+
+{{< tripindex trip="Vietnam 2017" >}}

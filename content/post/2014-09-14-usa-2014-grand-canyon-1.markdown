@@ -39,3 +39,5 @@ Cuesta mucho describir un sitio que genera tantas sensaciones; el cañón es eno
 {{< image classes="center" title="Tanta belleza junta en una foto: monumento de la naturaleza, y el Gran Cañón detrás XD" src="/images/2014/09/blog-selfie1.jpg" >}}
 
 Mañana, super panorámica del cañón desde el aire y ya vamos a por el final del viaje…
+
+{{< tripindex trip="USA 2014" >}}

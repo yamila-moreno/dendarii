@@ -32,3 +32,5 @@ Compartimos la cena con otro par de huéspedes, de Köln, el anfitrión, un amig
 y las habituales foticos:
 
 {{< flickr album="72157679463929946" >}}
+
+{{< tripindex trip="Marruecos 2017" >}}

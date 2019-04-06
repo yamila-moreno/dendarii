@@ -66,3 +66,5 @@ Y las fotos del día:
 {{< flickr album="72157694680173682" >}}
 
 ¡Mañana más!
+
+{{< tripindex trip="Lake District 2018" >}}

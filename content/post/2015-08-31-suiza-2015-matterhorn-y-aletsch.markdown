@@ -51,3 +51,5 @@ Urgente, últimas noticias. Me dicen por el pinganillo que me acabo de inventar 
 Y también os dejo por aquí las foticos de estas dos jornadas, ¡incluye un vídeo!
 
 {{< flickr album="72157658019692701" >}}
+
+{{< tripindex trip="Suiza 2015" >}}

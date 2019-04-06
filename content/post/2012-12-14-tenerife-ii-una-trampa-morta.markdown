@@ -41,3 +41,5 @@ Mientras esperábamos al barco yo aproveché para hacer check en el Atlántico. 
 Después pasamos por Icod de los vinos donde vimos el Drago Milenario (se conserva muy bien para su edad) de camino a Garachico donde íbamos a cenar por recomendación de… ¿lo adivináis? Sí! de Clara. Fuimos con miedo, ¿será un restaurante caníbal? ¿tal vez seamos nosotras el plato principal? Nada más lejos, en El lagar de Julio nos dieron de cenar estupendamente y perdonamos a Clara todos sus pecadillos anteriores.
 
 Hoy toca la zona Noreste, el faro de Anaga... ¿Sobreviviremos? ¡Quién sabe!
+
+{{< tripindex trip="Tenerife 2012" >}}

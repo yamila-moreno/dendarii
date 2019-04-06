@@ -51,3 +51,5 @@ Algunas notas de interés sobre Tenerife:
 Tenerife me ha sorprendido un montón, es un destino muy muy recomendable para quienes disfrutamos de la naturaleza y tiene muchas opciones de ocio. Además, Marta es una marraja e ir con ella de viaje es siempre una gozada. ¡Hasta el próximo viaje!
 
 {{< image title="Teidefin" src="/images/2012/12/teidefin.jpg" >}}
+
+{{< tripindex trip="Tenerife 2012" >}}

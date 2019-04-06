@@ -50,3 +50,5 @@ Mientras tanto, calidad la de este selfie, y las foticos del día...
 {{< flickr album="72157670617929423" >}}
 
 ¡Seguiremos!
+
+{{< tripindex trip="Eslovenia 2016" >}}

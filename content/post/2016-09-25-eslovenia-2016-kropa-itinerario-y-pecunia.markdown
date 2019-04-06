@@ -75,3 +75,5 @@ Y ya mañana tenemos el día entero de tránsito y la vuelta al trabajo y a la r
 Ha sido una gozada viajar con Alex, un compi excepcional, con quien ya estoy organizando el próximo viaje. ¡Hasta pronto!
 
 {{< image src="https://c1.staticflickr.com/9/8094/29058562763_6d4a38ab0d_c.jpg" >}}
+
+{{< tripindex trip="Eslovenia 2016" >}}

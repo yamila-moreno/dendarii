@@ -77,3 +77,5 @@ Todas las partidas se pueden abaratar en mayor o menor medida. La parte del aloj
 - DragonCon (bastante fuera del viaje en sí): 87$ / persona
 
 **Otros gastos**: comida (generalmente muy cara, más impuestos, más propinas), algún otro transporte público y dos coladas (4$ / cada una).
+
+{{< tripindex trip="USA 2014" >}}

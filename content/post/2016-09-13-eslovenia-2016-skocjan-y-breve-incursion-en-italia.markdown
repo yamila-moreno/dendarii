@@ -68,3 +68,5 @@ Mañana toca día tranquilo de visita turística por Ljubjlana. Y mientras tanto
 {{< flickr album="72157673732507006" >}}
 
 ¡Seguiremos!
+
+{{< tripindex trip="Eslovenia 2016" >}}

@@ -37,3 +37,5 @@ En la parte alta tuvimos unas vistas fantásticas que podéis ver en las foticos
 {{< image src="https://c1.staticflickr.com/9/8402/29254552094_b638baf832_c.jpg" >}}
 
 {{< flickr album="72157674283011695" >}}
+
+{{< tripindex trip="Eslovenia 2016" >}}

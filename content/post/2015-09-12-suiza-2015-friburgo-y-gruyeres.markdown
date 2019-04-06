@@ -33,3 +33,5 @@ Y nos hemos venido ya a Ginebra a descansar y a preparar nuestras mochilas para 
 Vuelta a la realidad, al trabajo y a la rutina. Como siempre, y no me canso de darme cuenta, viajar con Alex es un lujazo. ¡Larga vida a los viajes del Tontako Team! :D
 
 {{< flickr album="72157658117516889" >}}
+
+{{< tripindex trip="Suiza 2015" >}}

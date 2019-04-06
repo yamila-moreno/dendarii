@@ -27,3 +27,5 @@ Después de tomar unos sandwiches orgánicos en el bar del parque, hemos puesto 
 {{< image title="Se nota a los leones marinos aullando cual lobos por el sol que fenece... ¡y por la rasca!" src="/images/2014/09/point-lobos.jpg" >}}
 
 Tras la puesta de sol… era de noche. Así que hemos replanificado y nos hemos ido a Monterey (que no es la famosa ciudad de México) en lugar de a San Simeón. Hemos cogido una habitación (sorprendentemente buena) en una posada, y a dormir… Hoy nos dirigimos hacia Three Rivers, para empezar mañana con las visitas más montañeras en Sequoia… ¡seguiremos informando!
+
+{{< tripindex trip="USA 2014" >}}

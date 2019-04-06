@@ -46,3 +46,5 @@ Y las foticos de León...
 {{< flickr album="72157681625486846" >}}
 
 ¡Hasta la próxima!
+
+{{< tripindex trip="León 2017" >}}

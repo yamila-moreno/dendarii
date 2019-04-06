@@ -54,3 +54,5 @@ Y ya en casita. Tenía muchas ganas de visitar Cantabria con Alex y ha sido un v
 {{< image src="http://c5.staticflickr.com/2/1493/26171144284_14680f3e9f_c.jpg">}}
 
 {{< flickr album="72157667873993395" >}}
+
+{{< tripindex trip="Comarca lebaniega 2016" >}}

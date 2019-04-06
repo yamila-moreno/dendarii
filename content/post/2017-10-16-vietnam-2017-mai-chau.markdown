@@ -60,3 +60,5 @@ Y aunque el viaje se está ya terminando, ni un post se queda sin su selfie tont
 O sin sus foticos...
 
 {{< flickr album="72157687399586690" >}}
+
+{{< tripindex trip="Vietnam 2017" >}}

@@ -101,3 +101,5 @@ Sin embargo, no termino el post sin antes mostraros esta fotaza, que es como el 
 Y aquí os dejo también el resto de fotos del día:
 
 {{< flickr album="72157674070101318" >}}
+
+{{< tripindex trip="USA 2018" >}}

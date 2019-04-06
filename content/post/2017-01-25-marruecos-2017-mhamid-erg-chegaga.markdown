@@ -48,3 +48,5 @@ y foticos...
 {{< flickr album="72157677814285511" >}}
 
 ¡Seguid atentas!
+
+{{< tripindex trip="Marruecos 2017" >}}

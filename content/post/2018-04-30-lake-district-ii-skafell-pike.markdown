@@ -60,3 +60,5 @@ Y el resto de fotos del día:
 {{< flickr album="72157692051485020" >}}
 
 El día siguiente cambiamos de tercio y fuimos a descubrir el legado histórico del Distrito de los Lagos. ¡Seguid atentas!
+
+{{< tripindex trip="Lake District 2018" >}}

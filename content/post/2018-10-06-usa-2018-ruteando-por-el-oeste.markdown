@@ -82,3 +82,5 @@ Y el resto de foticos de todas estas visitas:
 Y con esto termina nuestra etapa en Yellowstone (¡un **águila calva** nos despidió en la salida del parque!); han sido 10 días magníficos, de ver fauna, disfrutar de rutas chulas, aprender de geología y dejarnos maravillar por un parque muy especial. Nos vamos con la sensación de que hemos podido rascar algo más que la mera superficie en algunos aspectos. Hemos recorrido todas las carreteras, siempre sin prisa y disfrutando de tener mucho tiempo para ver las cosas con tranquilidad. La siguiente etapa del viaje es **Grand Teton**, y es también la etapa final, así que intentaremos sacar mucho partido a los (ya pocos) días que nos quedan de estas vacaciones.
 
 ¡Sed felices...! y no os vayáis muy lejos del blog, que queda la traca final ;-)
+
+{{< tripindex trip="USA 2018" >}}

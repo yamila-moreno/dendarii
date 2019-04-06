@@ -40,3 +40,5 @@ Mañana comienza la recta final de nuestro viaje, salvo que convenza a Alex para
 Y las foticos de estos días. ¡Seguiremos informando!
 
 {{< flickr album="72157656040226143" >}}
+
+{{< tripindex trip="Suiza 2015" >}}

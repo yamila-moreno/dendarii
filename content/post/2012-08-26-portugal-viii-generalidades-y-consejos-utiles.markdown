@@ -43,3 +43,5 @@ En la radio portuguesa SOLO tienen dos canciones, que hemos escuchado muchas vec
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8UVNT4wvIGY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 En definitiva, un viaje muy recomendable y adaptable a gustos y presupuestos. Si tenéis dudas concretas, podéis ponerlas como comentarios y las responderé poco a poco. Ojo, veis que tengo una media de comentarios muy muy alta (como uno o ninguno o menos, vaya), así que no os impacientéis si tardo en contestar
+
+{{< tripindex trip="Portugal 2012" >}}

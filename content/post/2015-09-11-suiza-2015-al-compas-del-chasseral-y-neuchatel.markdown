@@ -30,3 +30,5 @@ Las foticos de estos dias...
 {{< flickr album="72157658070911799" >}}
 
 ¡Y seguiremos informando!
+
+{{< tripindex trip="Suiza 2015" >}}

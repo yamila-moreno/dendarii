@@ -68,5 +68,6 @@ o de las foticos de estos días...
 
 {{< flickr album="72157699980294921" >}}
 
-
 ¡Seguid atentas!
+
+{{< tripindex trip="USA 2018" >}}

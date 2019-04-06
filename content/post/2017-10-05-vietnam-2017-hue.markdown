@@ -96,3 +96,5 @@ Y otra recomendación: ¡el selfie tontako!
 Y las foticos de estos días...
 
 {{< flickr album="72157661213676068" >}}
+
+{{< tripindex trip="Vietnam 2017" >}}

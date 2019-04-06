@@ -43,3 +43,5 @@ Hemos visitado un par de sitios emblemáticos, y nos hemos ido a cenar. Había c
 
 Y mañana, Sintra, parque natural genérico, playa y descanso. Ahá, yo también veo el contrasentido. Hablad con Marta vosotros que yo ya me rindo
 pd. No, no pienso hacer el Chiquitorl que os veo venir ~~’
+
+{{< tripindex trip="Portugal 2012" >}}

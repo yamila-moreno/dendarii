@@ -36,3 +36,5 @@ Y el resto de foticos...
 {{< flickr album="72157673875198885" >}}
 
 ¡Nos vemos en Bled!
+
+{{< tripindex trip="Eslovenia 2016" >}}

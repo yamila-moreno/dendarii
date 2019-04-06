@@ -35,3 +35,5 @@ En el restaurante nos hicimos fuertes con unas sopas, pudimos leer un rato junto
 Mañana llegamos a Amsterdam, y por el camino pasaremos por Utrecht seguramente a revisar el tratado… ¡¡Mañana más!!
 
 {{< image title="Con un poquito de frío, pero lo hemos pasado fenomenal..." src="/images/2015/02/selfie-blog.jpg" >}}
+
+{{< tripindex trip="Países Bajos 2015" >}}

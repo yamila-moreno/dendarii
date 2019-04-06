@@ -43,3 +43,5 @@ Seguimos de paseo hasta el puerto donde terminamos de descubrir la verdadera nat
 Después de comer, nos acercamos al submarino USS Pampanito, a un museo de arte mecánico con muchos juegos de parque de atracciones antiguos, ¡nos hicimos un fotomatón! y nos acercamos a ver los [leones marinos](https://www.google.com/search?q=pier+39&source=lnms&tbm=isch&sa=X&ei=GqUGVJTkKqjGiwLLhYGwDA&ved=0CAYQ_AUoAQ&biw=1024&bih=705) en el Pier 39.
 
 Y ahora estamos a punto de salir a cenar en el Nopa, el restaurante favorito de nuestra anfitriona y, según prestigiosos científicos rusos, “el mejor restaurante de San Francisco”. ¡Mañana más!
+
+{{< tripindex trip="USA 2014" >}}

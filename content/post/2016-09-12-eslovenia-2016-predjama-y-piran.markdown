@@ -39,3 +39,5 @@ Y el resto de foticos
 {{< flickr album="72157673786530305" >}}
 
 ¡Seguiremos!
+
+{{< tripindex trip="Eslovenia 2016" >}}

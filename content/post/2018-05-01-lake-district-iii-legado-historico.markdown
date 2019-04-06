@@ -46,3 +46,5 @@ Y para que vosotras también tengáis un precioso recuerdo, aquí un selfie:
 {{< image src="https://farm2.staticflickr.com/1730/42714477581_14a2a37ce7_c.jpg" title="Preciosérrimos" alt="Selfie tontako" >}}
 
 ¡Hasta la próxima aventura dendarii!
+
+{{< tripindex trip="Lake District 2018" >}}

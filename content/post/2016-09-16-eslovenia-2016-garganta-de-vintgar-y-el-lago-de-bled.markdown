@@ -40,3 +40,5 @@ Para mañana, tenemos prevista otra ruta toda bajo lluvia, por senderos que no r
 y foticos...
 
 {{< flickr album="72157673953176835" >}}
+
+{{< tripindex trip="Eslovenia 2016" >}}

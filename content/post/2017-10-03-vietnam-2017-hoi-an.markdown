@@ -79,3 +79,5 @@ Igual que los selfies tontakos, que aparecen súbitamente:
 Y las foticos de estos días...
 
 {{< flickr album="72157687417762064" >}}
+
+{{< tripindex trip="Vietnam 2017" >}}

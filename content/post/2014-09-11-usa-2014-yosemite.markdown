@@ -37,3 +37,5 @@ Ha sido una visita increíble; los bosques altísimos seguían impresionando, in
 {{< image title="Esta noche hablaremos de lo mucho que nos gusta el fuego a los rangers..." src="/images/2014/09/blog-glacier-point.jpg" >}}
 
 Y esta mañana hemos salido rumbo a Mammoth Lakes, nuestra última parada antes de entrar en el desierto… Pero esto es otra historia y la contaré en otro post
+
+{{< tripindex trip="USA 2014" >}}

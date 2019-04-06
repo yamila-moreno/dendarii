@@ -42,3 +42,5 @@ Tras la ruta hemos vuelto al hotel a reponer fuerzas para la ruta con raquetas d
 {{< image src="http://c5.staticflickr.com/2/1547/26710398276_8186497f63_b.jpg">}}
 
 {{< flickr album="72157667719619826" >}}
+
+{{< tripindex trip="Comarca lebaniega 2016" >}}

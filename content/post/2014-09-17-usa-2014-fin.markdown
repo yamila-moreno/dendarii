@@ -37,3 +37,5 @@ Pronto publicaré un resumen con el itinerario y costes generales, por si os res
 {{< image classes="center" title="Esta es la verdadera razón de tanto selfie: ver si se nos ha quedado algo entre los dientes." src="/images/2014/09/blog-adios.jpg" >}}
 
 Nos vemos en el próximo viaje
+
+{{< tripindex trip="USA 2014" >}}

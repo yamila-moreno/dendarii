@@ -87,3 +87,5 @@ Aquí podéis ver <a href="https://docs.google.com/spreadsheets/d/1AXPJcHpNjYKPO
 - si encontráis una ganga en los vuelos podéis también abaratar mucho de un plumazo
 
 Y ahora, a descansar un poco y a recuperar la rutina. ¡Ya estoy pensando en el próximo viaje!
+
+{{< tripindex trip="Vietnam 2017" >}}

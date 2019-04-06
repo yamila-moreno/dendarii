@@ -45,3 +45,5 @@ Al terminar, aún era pronto, así que Alex ha propuesto acercanos al Paso del S
 Ha sido un día genial, y el tiempo acompañó (las previsiones nos daban malas ayer mismo). Mañana salimos para Shaffhausen, al norte de Zurich, de nuevo cambio de tercio y encaramos la segunda semana de estas vacaciones. ¡Seguiremos informando!
 
 {{< flickr album="72157655950944463" >}}
+
+{{< tripindex trip="Suiza 2015" >}}

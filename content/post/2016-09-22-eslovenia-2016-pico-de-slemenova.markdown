@@ -45,3 +45,5 @@ Pero tranquilidad, que hay selfie:
 Y foticos:
 
 {{< flickr album="72157673035802822" >}}
+
+{{< tripindex trip="Eslovenia 2016" >}}

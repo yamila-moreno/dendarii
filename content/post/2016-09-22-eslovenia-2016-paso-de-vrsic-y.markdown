@@ -44,3 +44,5 @@ Nos dio tiempo, eso sí, a hacernos... no os lo vais a creer, ¡un selfie!
 Y aquí las foticos...
 
 {{< flickr album="72157673040521551" >}}
+
+{{< tripindex trip="Eslovenia 2016" >}}

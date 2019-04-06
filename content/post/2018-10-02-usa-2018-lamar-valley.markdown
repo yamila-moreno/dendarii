@@ -77,3 +77,5 @@ Y para especial, este selfie, que (casi) no os lo esperábais:
 Y el resto de las fotos del día:
 
 {{< flickr album="72157700428340321" >}}
+
+{{< tripindex trip="USA 2018" >}}

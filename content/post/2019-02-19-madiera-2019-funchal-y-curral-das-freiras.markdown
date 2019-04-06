@@ -65,3 +65,5 @@ Y por si os queda hueco tras esta maravilla, las fotos de los dos últimos días
 {{< flickr album="72157705488902271" >}}
 
 ¡Hasta la próxima escapada!
+
+{{< tripindex trip="Madeira 2019" >}}

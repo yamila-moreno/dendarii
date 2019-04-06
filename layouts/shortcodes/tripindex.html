@@ -1,0 +1,12 @@
+{{ $trip := .Get "trip" }}
+<section class="tripindex">
+  <h3>Índice de posts de  {{ $trip }}</h3>
+  <ol>
+    {{ $pages := where .Site.Pages "Params.trip" $trip }}
+    {{ range $pages.ByDate }}
+    <li><a href="{{ .URL }}" target="_blank">{{ .Title }} </a> </li>
+    {{ end }}
+  </ol>
+</section>
+
+

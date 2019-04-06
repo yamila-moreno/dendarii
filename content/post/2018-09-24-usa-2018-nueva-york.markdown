@@ -75,3 +75,5 @@ Y para mil amores, los que se ven en este selfie tontako:
 Y el resto de fotos de la visita a NYC:
 
 {{< flickr album="72157701334893354" >}}
+
+{{< tripindex trip="USA 2018" >}}

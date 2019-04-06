@@ -56,3 +56,5 @@ En total en 11 días de viaje nos hemos gastado unos 1400€, con una media de 1
 * aunque no hemos hecho gasto excesivo en comida, sí que hemos huido de sitios muy baratos, así que por aquí tampoco sería difícil recortar presupuesto
 
 En todo caso, es una zona que merece mucho la pena conocer. ¡Animaos!
+
+{{< tripindex trip="Marruecos 2017" >}}

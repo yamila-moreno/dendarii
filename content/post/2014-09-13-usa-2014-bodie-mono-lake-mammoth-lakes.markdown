@@ -45,3 +45,5 @@ Y finalmente llegamos a Mammoth Lakes, un pueblo bonito y coqueto (es decir, que
 Es una zona de deportes de invierno, totalmente orientada a esquí; y para perder la estacionalidad, cierran todo en septiembre, y así la gente se anima a ir. Por eso mismo, el único sitio que encontramos para cenar a las… ¡¡21:30!! fue la taberna, donde nos dieron una carta que tenía un apartado específico “si llegas super tarde”, donde solo tenían algunos de los platos. Repito, “super tarde” son las 21:30. Este país está condenado.
 
 Al día siguiente tocó paliza de coche: desde Mammoth Lakes hasta Zion. ¡En el próximo post!
+
+{{< tripindex trip="USA 2014" >}}

@@ -47,3 +47,5 @@ Aquí las foticos de estos dos días
 {{< flickr album="72157680201547774" >}}
 
 Y después, ¡nos vamos a Sintra! Estad atentas...
+
+{{< tripindex trip="Portugal 2017" >}}

@@ -46,3 +46,5 @@ Tras llegar a Oporto y ocultar el coche del delito (lo que viene siendo aparcarl
 {{< image classes="center" title="Londres y la Sé de Oporto" src="/images/2012/08/p10305311.jpg" alt="Cabina de teléfono estilo londinense" >}}
 
 Y con esto, os dejo y nos vamos a patear Oporto...
+
+{{< tripindex trip="Portugal 2012" >}}

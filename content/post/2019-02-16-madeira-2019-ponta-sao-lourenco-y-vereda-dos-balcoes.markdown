@@ -80,3 +80,5 @@ Después de estos dos geniales paseos del día, aún nos dio tiempo a acercarnos
 Fue un día genial, perfecto para desconectar y para empezar a conocer Madeira. Al día siguiente teníamos planeada una ruta por otra levada pero nos tocó poner a prueba nuestra capacidad viajera... Mientras llega esa historia, os dejo las foticos del día:
 
 {{< flickr album="72157689908782683" >}}
+
+{{< tripindex trip="Madeira 2019" >}}

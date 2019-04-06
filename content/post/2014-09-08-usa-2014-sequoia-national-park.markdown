@@ -35,3 +35,5 @@ En realidad no hay una única zona que visitar, sino muchas rutas en torno a var
 Al caer la tarde, vistas espectaculares de la puesta de sol tras las montañas, y cena romántica en Pizza Factory XD ¡Y mañana nos vamos a Yosemite, que también promete!
 
 {{< image title="- Oye, ¿crees que la piña caerá en tu lado o en el mío? - ¿Piña? Pensé que eran obuses perforantes..." src="/images/2014/09/blog-pina.jpg" >}}
+
+{{< tripindex trip="USA 2014" >}}

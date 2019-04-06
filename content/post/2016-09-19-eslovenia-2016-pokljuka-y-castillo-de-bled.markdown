@@ -41,3 +41,5 @@ Y las foticos...
 {{< flickr album="72157670779195283" >}}
 
 El tiempo parece que está mejorando de nuevo; hoy no ha llovido nada,y ha hecho calorcete. Así que seguramente dejemos atrás la planificación defensiva de estos días anteriores, e intentemos alguna ruta más exigente. Salvo que convenza a Alex de que nos vayamos a tomar el sol a alguna playa cercana... ;-)
+
+{{< tripindex trip="Eslovenia 2016" >}}

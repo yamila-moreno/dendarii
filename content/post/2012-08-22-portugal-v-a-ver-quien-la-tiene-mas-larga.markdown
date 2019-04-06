@@ -44,3 +44,5 @@ Esta mañana hemos salido Para Lisboa; conducía yo y Marta ha tenido a bien ser
 Por cierto, donde dije ‘digo’ digo ‘Diego’. Sin lugar a dudas, Lisboa la tiene más larga. Menudas cuestas, estoy por ponerme el spider-traje e ir de aquí para allá a salto de farola, porque no hay quien suba hasta la Alfama con este calor. Nos vamos a ver si cogemos el tranvía sin que nos roben
 
 Para mañana: Marta no quiere ir en bici, pero a mí me da igual y nos vamos a Belén, con los pastores a comer pasteis.
+
+{{< tripindex trip="Portugal 2012" >}}

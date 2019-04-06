@@ -59,3 +59,5 @@ Y para terminar, que no falte el selfie:
 Y las foticos...
 
 {{< flickr album="72157689033101056" >}}
+
+{{< tripindex trip="Vietnam 2017" >}}

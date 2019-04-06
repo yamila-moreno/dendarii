@@ -35,3 +35,5 @@ Entre uno y otro tour hemos ido a comer a [La Place](https://www.laplace.com/en/
 {{< image title="Los amsterdamers se llegan a tomar muy en serio los impuestos por fachada..." src="/images/2015/02/ams-blog.jpg" >}}
 
 Ha sido un día de mucho trote y mucho frío; mañana nos vamos al museo Van Gogh a que me de un [Stendhal](http://es.wikipedia.org/wiki/S%C3%ADndrome_de_Stendhal) y lo mismo me tengo que ir a una cafetería con mi libro electrónico hasta que se me pase…
+
+{{< tripindex trip="Países Bajos 2015" >}}

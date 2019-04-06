@@ -42,3 +42,5 @@ Y con estas buenas sensaciones, y con otra comilona a la altura de la ruta, nos 
 Y el resto de foticos...
 
 {{< flickr album="72157679695633751" >}}
+
+{{< tripindex trip="León 2017" >}}

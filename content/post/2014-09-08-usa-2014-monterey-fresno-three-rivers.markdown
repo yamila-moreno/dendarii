@@ -30,3 +30,5 @@ Nos hemos alojado en una acogedora cabaña al pie de la carretera donde seguro q
 {{< image title="Hay un libro de Stephen King que me viene a la cabeza..." src="/images/2014/09/blog-cabin.jpg" >}}
 
 Mañana, visita al Sequoia National Park. ¡seguiremos informando!
+
+{{< tripindex trip="USA 2014" >}}

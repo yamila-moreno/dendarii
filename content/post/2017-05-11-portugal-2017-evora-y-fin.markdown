@@ -57,3 +57,5 @@ Y las foticos de despedida:
 {{< flickr album="72157681295812741" >}}
 
 Una vez más, viajar con Alex es un planazo; y ya estamos preparando nuestro próximo periplo. ¡Hasta la próxima!
+
+{{< tripindex trip="Portugal 2017" >}}

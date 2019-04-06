@@ -30,3 +30,5 @@ Tras llegar a casa, hemos aprovechado para hacer una colada (4$ completa), y a d
 Después del gran paseo que nos hemos dado hoy, me ha quedado una sensación terrible de San Francisco. Es una ciudad muy miserable con unos contrastes horribles. La pasaría por napalm de norte a sur. No comprendo todas esas historias de ciudad txatxi, trendy, luminosa, deportista, que no incluyen la horripilante panorámica de gente ignorando deliberadamente a los (muchísimos) indigentes que se caen muertos en medio de las calles. (por eso hoy no pongo foticos… :-/)
 
 Mañana tenemos previsto visitar Presidio (que es un parque, ojo), Japan Town y veremos a dónde más nos lleva el paseo. ¡Seguimos informando!
+
+{{< tripindex trip="USA 2014" >}}

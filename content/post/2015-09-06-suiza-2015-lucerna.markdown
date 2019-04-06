@@ -30,3 +30,5 @@ Y para rematar nuestra visita, ¡¡primer transporte público que cogimos!! Fue 
 En definitiva, ciudad coqueta como tantas otras por la zona :D No deja de ser una buena excusa para un genial paseo. ¡Y os dejo las foticos de Lucerna!
 
 {{< flickr album="72157658251193032" >}}
+
+{{< tripindex trip="Suiza 2015" >}}

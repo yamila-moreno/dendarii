@@ -85,3 +85,5 @@ Paseíto por Puerto de la Cruz, siestaka y cena en Santa Cruz. Estoy tan molida 
 {{< image title="Lo malo de irse a Tenerife de resaca es el destemple que llevaba encima..." src="/images/2012/12/p10408331.jpg" >}}
 
 Mañana iremos a Masca y Los Gigantes (noroeste-oeste) a hacer senderismo tranquilo. Seguiremos informando.
+
+{{< tripindex trip="Tenerife 2012" >}}

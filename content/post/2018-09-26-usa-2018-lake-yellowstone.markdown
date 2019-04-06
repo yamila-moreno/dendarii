@@ -58,3 +58,5 @@ Y el resto de fotos de nuestro paso por el Lake Yellowstone:
 {{< flickr album="72157673999121008" >}}
 
 También hicimos rutillas pero eso os lo contaré en la siguiente entrega dendarii, ¡en vuestro blog favorito de viajes! (no, a ver, me refiero a este blog)
+
+{{< tripindex trip="USA 2018" >}}

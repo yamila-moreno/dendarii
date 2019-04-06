@@ -74,3 +74,5 @@ Y hablando de maravillas, contemplad... ¡el selfie tontako!
 Y otras fotos de Angkor, muy bonitas pero no tanto como los tontakos claro:
 
 {{< flickr album="72157687065599621" >}}
+
+{{< tripindex trip="Vietnam 2017" >}}

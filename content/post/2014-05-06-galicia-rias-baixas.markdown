@@ -35,3 +35,5 @@ Al llegar a Rías Baixas, además, nos encontramos con coches y casas decorados 
 {{< image title="Contigo no, bicho..." src="/images/2014/05/IMG_20140506_202124.jpg" >}}
 
 Comimos bien, bebimos buen albariño y paseamos mucho. El primer viaje a Galicia fue una experiencia genial, ¡hay que repetir pronto!
+
+{{< tripindex trip="Rías Baixas 2014" >}}

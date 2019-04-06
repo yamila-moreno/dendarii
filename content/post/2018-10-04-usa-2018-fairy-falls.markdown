@@ -111,3 +111,5 @@ Esta fue la ruta que hicimos finalmente:
 {{< route center="#13/44.5342/-110.8494" >}}
 
 ¡Espero que os haya gustado la aventurilla!
+
+{{< tripindex trip="USA 2018" >}}

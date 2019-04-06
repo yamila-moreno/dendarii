@@ -40,3 +40,5 @@ Marta y yo nos hemos colado en una misa en la Catedral: es igual que en español
 
 Hoy toca el parque natural Peneda Gerés y playita en algún lugar del Atlántico. Qué dura es la vida.
 pd. Zorionak Martxe
+
+{{< tripindex trip="Portugal 2012" >}}

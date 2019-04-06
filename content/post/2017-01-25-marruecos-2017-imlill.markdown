@@ -36,3 +36,5 @@ Nos hizo un día genial. La subida con fuerte sol y brisa, en manga corta, y la 
 ;-) Y las foticos de ese día:
 
 {{< flickr album="72157679562423015" >}}
+
+{{< tripindex trip="Marruecos 2017" >}}

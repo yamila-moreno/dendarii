@@ -53,3 +53,5 @@ Y el resto de foticos...
 {{< flickr album="72157672015980167" >}}
 
 ¡Espero que os hayan gustado las fotos!
+
+{{< tripindex trip="USA 2018" >}}

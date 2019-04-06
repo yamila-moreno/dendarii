@@ -74,3 +74,5 @@ Estos dos días centrales del viaje fueron bastante moviditos y nos obligaron a 
 
 (\*) Al llegar a casa tras el viaje descubrimos que había una gotera en nuestro baño... pero es otra historia que contarán (tal vez) otras personas.
 (\*\*) Por supuesto, al término de estas líneas estoy totalmente recuperada :)
+
+{{< tripindex trip="Madeira 2019" >}}

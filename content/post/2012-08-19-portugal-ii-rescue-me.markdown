@@ -32,3 +32,5 @@ Entre bar y bar, nos encontramos con esta señal divino-portuguesa:
 e hicimos lo posible por honrar las señales. Menos mal que no teníamos 3G para tuitear lo que sucedió después...
 
 Hoy toca Guimaraes, Braga y Vila do Conde, donde espero encontrar un conde con una villa. Y lo que surja.
+
+{{< tripindex trip="Portugal 2012" >}}

@@ -43,3 +43,5 @@ El metro en Atlanta se llama MARTA, y [Mari](https://twitter.com/marta_serrano) 
 {{< image classes="center" title="En Atlanta te han erigido un monumento por tu dedicación al transporte público." src="/images/2014/09/marta1.jpg" >}}
 
 Y recién llegamos a San Francisco, una ciudad completamente distinta, donde empezamos una etapa nueva de este viaje. ¡Estad atentos!
+
+{{< tripindex trip="USA 2014" >}}

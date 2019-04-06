@@ -72,3 +72,5 @@ Y para que vosotras también veáis algo impresionante, el selfie de los Ranger 
 {{< image classes="center margin-top" src="https://farm2.staticflickr.com/1902/44302452174_93820d9832_b.jpg" title="Rangers Junior al servicio del parque" alt="Selfie tontako" >}}
 
 ¡Seguid antentas a las aventuras dendarii!
+
+{{< tripindex trip="USA 2018" >}}

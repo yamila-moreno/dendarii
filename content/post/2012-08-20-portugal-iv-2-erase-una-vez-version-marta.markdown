@@ -41,3 +41,5 @@ Marta
 PS: Ayer mandé el email poniendo las direcciones en abierto y no en copia oculta. Mis disculpas :S
 
 PS2: yami va contando su visión del viaje en su blog: https://dendarii.es/ Y ella sube alguna foto. Eso sí, sólo cuenta mentiras.
+
+{{< tripindex trip="Portugal 2012" >}}

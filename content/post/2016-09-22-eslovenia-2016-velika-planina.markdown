@@ -35,3 +35,5 @@ A pesar de la niebla, hubo foticos y que no falte el selfie!
 {{< image src="https://c1.staticflickr.com/9/8066/29232134583_9dfa4aa9ff_c.jpg" >}}
 
 {{< flickr album="72157670858106843" >}}
+
+{{< tripindex trip="Eslovenia 2016" >}}

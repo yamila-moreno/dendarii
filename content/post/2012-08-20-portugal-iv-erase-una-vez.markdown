@@ -67,3 +67,5 @@ Para reponer fuerzas hemos ido a Viana do Castelo, que justo estaba en su día g
 {{< image classes="center" src="/images/2012/08/p1030687.jpg" alt="Imagen de Cristo colgando de la cruz en lugar de clavado en la cruz" title="Dadas las circunstancias nos pareció impropio comentar que este Cristo está claramente colgado y no crucificado. Haciendo unas trampas que para qué." >}}
 
 Así que ya estamos en Oporto, preparando las cositas para irnos mañana a Coimbra, que con suerte será menos random que lo de hoy.
+
+{{< tripindex trip="Portugal 2012" >}}

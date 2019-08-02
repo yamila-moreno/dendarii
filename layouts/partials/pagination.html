@@ -22,10 +22,10 @@
           if (loadPage > totalPages) { return; }
 
           var url = '';
-          if ({{ .URL }} == '/') {
+          if ({{ .Permalink }} == '/') {
               url = '/page/' + loadPage;
           } else {
-              url =  '{{ .URL }}/page/' + loadPage;
+              url =  '{{ .Permalink }}/page/' + loadPage;
           }
           $.get(url, function (result) {
             $('.scroll-bar').before($(result).find('article'));
@@ -44,7 +44,7 @@
         {{ if .Site.Params.swapPaginator }}
           {{ if .Paginator.HasPrev }}
             <li class="pagination-prev">
-              <a class="btn btn--default btn--small" href="{{ .Paginator.Prev.URL }}">
+              <a class="btn btn--default btn--small" href="{{ .Paginator.Prev.Permalink }}">
                 <i class="fa fa-angle-left text-base icon-mr"></i>
                 <span>{{ i18n "pagination.older_posts" }}</span>
               </a>
@@ -52,7 +52,7 @@
           {{ end }}
           {{ if .Paginator.HasNext }}
             <li class="pagination-next">
-              <a class="btn btn--default btn--small" href="{{ .Paginator.Next.URL }}">
+              <a class="btn btn--default btn--small" href="{{ .Paginator.Next.Permalink }}">
                 <span>{{ i18n "pagination.newer_posts" }}</span>
                 <i class="fa fa-angle-right text-base icon-ml"></i>
               </a>
@@ -61,7 +61,7 @@
         {{ else }}
           {{ if .Paginator.HasPrev }}
             <li class="pagination-prev">
-              <a class="btn btn--default btn--small" href="{{ .Paginator.Prev.URL }}">
+              <a class="btn btn--default btn--small" href="{{ .Paginator.Prev.Permalink }}">
                 <i class="fa fa-angle-left text-base icon-mr"></i>
                 <span>{{ i18n "pagination.newer_posts" }}</span>
               </a>
@@ -69,7 +69,7 @@
           {{ end }}
           {{ if .Paginator.HasNext }}
             <li class="pagination-next">
-              <a class="btn btn--default btn--small" href="{{ .Paginator.Next.URL }}">
+              <a class="btn btn--default btn--small" href="{{ .Paginator.Next.Permalink }}">
                 <span>{{ i18n "pagination.older_posts" }}</span>
                 <i class="fa fa-angle-right text-base icon-ml"></i>
               </a>

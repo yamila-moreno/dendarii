@@ -4,7 +4,7 @@
   <ol>
     {{ $pages := where .Site.Pages "Params.trip" $trip }}
     {{ range $pages.ByDate }}
-    <li><a href="{{ .URL }}" target="_blank">{{ .Title }} </a> </li>
+    <li><a href="{{ .Permalink }}" target="_blank">{{ .Title }} </a> </li>
     {{ end }}
   </ol>
 </section>

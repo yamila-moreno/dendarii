@@ -21,7 +21,7 @@ install:
 - chmod 600 travis_access && ssh-add travis_access
 - mkdir -p ~/.ssh
 - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
-- curl -sL "https://github.com/gohugoio/hugo/releases/download/v0.55.1/hugo_0.55.1_Linux-64bit.tar.gz" -o hugo.tar.gz
+- curl -sL "https://github.com/gohugoio/hugo/releases/download/v0.56.3/hugo_0.56.3_Linux-64bit.tar.gz" -o hugo.tar.gz
 - tar -zxvf hugo.tar.gz
 
 script:

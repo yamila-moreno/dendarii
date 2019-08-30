@@ -22,7 +22,7 @@ Encontramos dos formas de movernos desde el aeropuerto hasta el centro de Calgar
 
 * la cómoda: línea 300 con varias paradas en el *donwtown*; 10.4CAD desde el aeropuerto y 3.4CAD desde Calgary.
 * la barata: coger la línea 100 hasta la estación de tren McKnight Westwinds Station, desde ahí la línea B de tren que te deja en City Hall. 3.4CAD (el mismo billete sirve para el bus y el tren)
-{{< /alert>}}
+{{< /alert >}}
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48613979956_2ee3246828_b.jpg" title="" alt="" >}}
 
@@ -69,3 +69,11 @@ Por la mañana, cogimos la autocaravana y nos dirigimos hacia la siguiente etapa
 No tengo selfie del día de Calgary, pero tengo esta fotaza mía con **Henrietta Muir**, que consiguió, atención, que las mujeres fueran consideradas *personas*. Hubiera quemado un sostén en su honor, pero he venido con el equipaje muy justo.
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48614088982_04f960aea3_b.jpg" title="" alt="" >}}
+
+¡Y las foticos de Calgary!
+
+{{< flickr album="72157710527443823" >}}
+
+¡Seguid atentas!
+
+{{< tripindex trip="Canadá 2019" >}}

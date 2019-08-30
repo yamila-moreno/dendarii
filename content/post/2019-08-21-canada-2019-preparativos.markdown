@@ -45,5 +45,6 @@ Cobertura mediática es lo que se merece este cuarteto:
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48614041987_3b980a71a6_b.jpg" title="" alt="" >}}
 
-
 ¡Estad atentas!
+
+{{< tripindex trip="Canadá 2019" >}}

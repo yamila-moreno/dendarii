@@ -1,6 +1,6 @@
 ---
 author: yamila
-date: 2019-08-25T08:00:00.000Z
+date: 2019-08-26T08:00:00.000Z
 slug: canada-2019-first-nations
 title: Canadá 2019 - First Nations
 thumbnailImage: https://live.staticflickr.com/65535/48653930057_f67e395d2c_z.jpg

@@ -70,6 +70,10 @@ Fuimos por la mañana al centro de Banff a desayunar y a tomarnos la mañana con
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48662569952_22becfa493_b.jpg" title="" alt="" >}}
 
+Antes de juntarnos con Pablo y Angela, tuvimos tiempo para hacernos una de las fotos de rigor (porque tiene un caché, vaya :P)
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48673808233_b294d7cd82_b.jpg" title="" alt="" >}}
+
 Por la tarde habíamos contratado una actividad de observación de fauna salvaje. Estamos teniendo mala suerte a la hora de ver animales, aunque tiene todo el sentido, pues es una zona muy concurrida por turistas (como yo misma, ojo), hay una autopista que atraviesa el parque y además hay vallas en muchas zonas para evitar que los animales se aproximen a la carretera. Así que no es de extrañar que estemos encontrando pocos de los *grandes mamíferos* de la zona.
 
 Por eso parecía el tour parecía una buena oportunidad para ir a zonas donde los locales supieran que hay más opciones de ver fauna salvaje. La actividad consistía en ir en un autobús, donde el conductor/guía nos iba contando sobre el propio parque, los animales que lo pueblan y las medidas que se toman para la protección del medio ambiente, tanto fauna como flora.

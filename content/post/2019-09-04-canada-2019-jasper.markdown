@@ -1,0 +1,74 @@
+---
+author: yamila
+date: 2019-09-04T08:00:00.000Z
+slug: canada-2019-jasper
+title: Canadá 2019 - Jasper
+thumbnailImage: https://live.staticflickr.com/65535/48691338621_6fd7ef4bc0_z.jpg
+coverImage: https://live.staticflickr.com/65535/48691338621_6fd7ef4bc0_b.jpg
+
+trip: Canadá 2019
+tags:
+- Canadá
+- Senderismo
+---
+
+El siguiente parque natural que visitamos es **Jasper** a unos 250km al norte de Banff, mucho menos concurrido según pudimos comprobar.
+
+<!--more-->
+
+El primer día que llegamos a **Jasper** coincidía con el aniversario de Pablo y Angela, así que organizamos planes por separado.
+
+A primera hora yo necesitaba un rato de wifi y el único sitio que encontramos fue un pub en el que nos pedimos un par de sidras. A las 11:00. Yo no pude terminar mi ¡medio litro! de sidra, pero Alex no se dejó ni los hielos. Así, eran las 12 cuando, un poco piripis, salimos de ruta periurbana.
+
+{{< alert info >}}
+En Jasper no hay autobuses con los que ir a todas partes, así que hay que moverse en vehículo propio.
+{{< /alert >}}
+
+Fue una ruta sencilla en la que pudimos disfrutar de unas preciosas vistas del **Beauvert Lake**. Hizo mucho calor ese día así que nos mantuvimos a las sombras boscosas que transitábamos.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48691338621_6fd7ef4bc0_b.jpg" title="" alt="" >}}
+
+
+Después de la cena nos juntamos de nuevo con Pablo y Angela en el **Planetarium de Jasper**, también junto al Lago Beauvert que habíamos visitado por la mañana; habíamos contratado una actividad de observación astronómica ya que se daban algunas condiciones de excepción:
+
+* Jasper está en una reserva de "cielo oscuro" que es la segunda más grande del mundo, según nos contaron, así que hay poquísima contaminación lumínica
+* La luna estaba en fase nueva, con lo que no iluminaba el cielo
+* Un cielo que estaba excepcionalmente despejado
+
+Ya habíamos visto que la previsión era favorable así que allí nos juntamos con el resto del grupo. Primero nos metieron en una *half dome* donde proyectaron un vídeo sin mucho interés. Si a esto le sumas que estábamos en tumbonas, pues no os sorprenderá saber que alguien se quedó dormida. Alguien.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48690994218_1bcd4992da_b.jpg" title="" alt="" >}}
+
+Tras la proyección venía lo realmente interesante; salimos a una pequeña explanada donde había dispuestos unos cuantos telescopios apuntando a distintos objetos celestes, manejados por miembros del planetario muy entusiasmados en contarnos qué estábamos viendo. Además había prismáticos que podíamos usar para escanear el cielo por nuestra cuenta.
+
+Fue una actividad genial; pronto se fue mucha gente y nos quedamos un grupo reducido mirando por los telescopios y pidiendo a un amable voluntario que nos buscara tal o cual cúmulo.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48691482922_d0422ff713_b.jpg" title="" alt="" >}}
+
+El siguiente día fuimos los cuatro a recorrer los senderos que rodean el **Maligne Lake** y las verticales paredes del **Maligne Canyon**.
+
+La zona de Maligne Lake es la equivalente al Lake Louise en Banff, en cuanto a que es centro turístico importante, desde donde salen muchas rutas. Sin embargo, dado que Jasper es una zona mucho menos visitada, sentíamos que estábamos casi solos, sobre todo comparando la experiencia con el (recién bautizado) bullicio de Banff.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48690971028_e699d42a08_b.jpg" title="" alt="" >}}
+
+Hicimos un par de rutas sencillas; una fue **El camino del alce**, que llega hasta un lago donde típicamente bajan a beber. Vimos 0 alces. Cero. Nein. Nietz. No. ¿Que es normal ver pocos animales porque esto está lleno de turistas como yo? Pues sí. ¿Que igualmente me quejo porque en el camino del alce no haya ni un mísero alce, ya no te digo un grizzly? Ya puedes apostar todo tu dinero.
+
+Otra ruta fue seguir un sencillo camino cerca del lago llamado **Schäffer loop**, en honor aMary Schäffer, una excepcional montañista que pasó muchas temporadas en Jasper y ayudó al descubrimiento de la zona.
+
+Volvíamos apacibles en nuestra caravana cuando de pronto vimos "atasquito" en la carretera, lo que significa que "hay bicho"; así que redujimos la velocidad, miramos hacia donde apuntaban todas las cámaras, ¡y ahí estaba! un imponente reno macho en medio de la pradera.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48691496847_a86170f23d_b.jpg" title="" alt="" >}}
+
+Y si queréis algo realmente imponente, no os perdáis este selfie:
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48691317001_486c2c94f7_b.jpg" title="" alt="" >}}
+
+y el resto de fotos de Jasper:
+
+{{< flickr album="72157710730206913" >}}
+
+Jasper me ha gustado mucho aunque tengo la sensación de que habría necesitado más días para sacarle mucho más partido. No se puede porque viajamos con fechas fijas, pero lo cierto es que me habría encantado tener más días para Jasper. ¡Otra vez será!
+
+Nuestro viaje entra en su recta final, quedanp ocos días y pocas visitas pendientes, y ya se atisba el largo viaje de vuelta...
+
+{{< tripindex trip="Canadá 2019" >}}

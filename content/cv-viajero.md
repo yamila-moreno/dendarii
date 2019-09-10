@@ -36,6 +36,7 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 ### 2019
 <DIV class="cv-list">
 
+* 08 - <a href="/trip/canada-2019" target="_blank">Canadá</a>
 * 02 - <a href="/trip/madeira-2019" target="_blank">Madeira</a>
 
 </DIV>

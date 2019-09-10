@@ -6,7 +6,7 @@ title: Canadá 2019 - Waterton
 thumbnailImage: https://live.staticflickr.com/65535/48633377998_f81b4ac5f3_z.jpg
 coverImage: https://live.staticflickr.com/65535/48633377998_f81b4ac5f3_b.jpg
 
-trip: Canadá 2019
+trip: Canada 2019
 tags:
 - Canadá
 - Senderismo

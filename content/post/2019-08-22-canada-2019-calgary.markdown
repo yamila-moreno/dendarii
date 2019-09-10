@@ -6,7 +6,7 @@ title: Canadá 2019 - Calgary
 thumbnailImage: https://live.staticflickr.com/65535/48614122192_81c16d4527_z.jpg
 coverImage: https://live.staticflickr.com/65535/48614122192_81c16d4527_b.jpg
 
-trip: Canadá 2019
+trip: Canada 2019
 tags:
 - Canadá
 ---

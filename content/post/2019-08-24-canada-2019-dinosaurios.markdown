@@ -6,7 +6,7 @@ title: Canadá 2019 - Dinosaurios
 thumbnailImage: https://live.staticflickr.com/65535/48632970106_57a6d488e1_z.jpg
 coverImage: https://live.staticflickr.com/65535/48632970106_57a6d488e1_b.jpg
 
-trip: Canadá 2019
+trip: Canada 2019
 tags:
 - Canadá
 - Dinosaurios

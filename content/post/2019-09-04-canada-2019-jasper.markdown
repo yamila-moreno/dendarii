@@ -6,7 +6,7 @@ title: Canadá 2019 - Jasper
 thumbnailImage: https://live.staticflickr.com/65535/48691338621_6fd7ef4bc0_z.jpg
 coverImage: https://live.staticflickr.com/65535/48691338621_6fd7ef4bc0_b.jpg
 
-trip: Canada 2019
+trip: Canadá 2019
 tags:
 - Canadá
 - Senderismo

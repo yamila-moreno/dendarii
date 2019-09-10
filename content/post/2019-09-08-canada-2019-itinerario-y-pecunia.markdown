@@ -6,7 +6,7 @@ title: Canadá 2019 - Itinerario y pecunia
 thumbnailImage: https://live.staticflickr.com/65535/48662057868_f91da13bbc_z.jpg
 coverImage: https://live.staticflickr.com/65535/48662057868_f91da13bbc_b.jpg
 
-trip: Canada 2019
+trip: Canadá 2019
 tags:
 - Canadá
 - Itinerario y pecunia

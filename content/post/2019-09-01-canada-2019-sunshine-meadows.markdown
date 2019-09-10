@@ -6,7 +6,7 @@ title: Canadá 2019 - Sunshine Meadows
 thumbnailImage: https://live.staticflickr.com/65535/48662112338_dce029a7a9_z.jpg
 coverImage: https://live.staticflickr.com/65535/48662112338_dce029a7a9_b.jpg
 
-trip: Canada 2019
+trip: Canadá 2019
 tags:
 - Canadá
 - Senderismo

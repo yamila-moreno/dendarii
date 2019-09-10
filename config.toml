@@ -21,6 +21,7 @@ disqusShortname = "https-dendarii-es"
 # googleAnalytics = "UA-109832381-1"
 paginate = 12
 canonifyurls = true
+removePathAccents = true
 
 [permalinks]
   post = "/:year/:month/:slug/"

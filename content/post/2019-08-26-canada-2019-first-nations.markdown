@@ -6,7 +6,7 @@ title: Canadá 2019 - First Nations
 thumbnailImage: https://live.staticflickr.com/65535/48653930057_f67e395d2c_z.jpg
 coverImage: https://live.staticflickr.com/65535/48653930057_f67e395d2c_b.jpg
 
-trip: Canada 2019
+trip: Canadá 2019
 tags:
 - Canadá
 - First Nations

@@ -6,7 +6,7 @@ title: Canadá 2019 - Lake Louise y Banff
 thumbnailImage: https://live.staticflickr.com/65535/48662042118_6396443b3c_z.jpg
 coverImage: https://live.staticflickr.com/65535/48662042118_6396443b3c_b.jpg
 
-trip: Canada 2019
+trip: Canadá 2019
 tags:
 - Canadá
 - Senderismo

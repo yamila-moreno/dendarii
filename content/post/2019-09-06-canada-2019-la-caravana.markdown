@@ -6,7 +6,7 @@ title: Canadá 2019 - La caravana
 thumbnailImage: https://live.staticflickr.com/65535/48701094126_01700bcb64_z.jpg
 coverImage: https://live.staticflickr.com/65535/48701094126_01700bcb64_b.jpg
 
-trip: Canada 2019
+trip: Canadá 2019
 tags:
 - Canadá
 ---

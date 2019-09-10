@@ -6,7 +6,7 @@ title: Canadá 2019 - Icefields Parkway
 thumbnailImage: https://live.staticflickr.com/65535/48672452383_f7c51e6994_z.jpg
 coverImage: https://live.staticflickr.com/65535/48672452383_f7c51e6994_b.jpg
 
-trip: Canada 2019
+trip: Canadá 2019
 tags:
 - Canadá
 ---

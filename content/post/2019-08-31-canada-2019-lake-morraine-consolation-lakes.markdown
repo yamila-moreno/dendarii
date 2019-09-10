@@ -6,7 +6,7 @@ title: Canadá 2019 - Lake Moraine y Consolation Lakes
 thumbnailImage: https://live.staticflickr.com/65535/48662577997_e7d7ac36c4_z.jpg
 coverImage: https://live.staticflickr.com/65535/48662577997_e7d7ac36c4_b.jpg
 
-trip: Canada 2019
+trip: Canadá 2019
 tags:
 - Canadá
 - Senderismo

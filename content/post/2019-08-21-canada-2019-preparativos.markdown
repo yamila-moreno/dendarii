@@ -6,7 +6,7 @@ title: Canadá 2019 - Preparativos
 thumbnailImage: https://live.staticflickr.com/65535/48613979956_2ee3246828_z.jpg
 coverImage: https://live.staticflickr.com/65535/48613979956_2ee3246828_b.jpg
 
-trip: Canada 2019
+trip: Canadá 2019
 tags:
 - Canadá
 ---

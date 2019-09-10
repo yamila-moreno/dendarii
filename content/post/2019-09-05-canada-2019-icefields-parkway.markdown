@@ -49,7 +49,7 @@ El glaciar impresiona muchísimo, una enorme mole de blanco y blanco sucio, con 
 
 Nos contaron que existen solo 24 de esos mega-camiones, 22 de los cuales están ahí en ese glaciar. Los otros dos pertenecen a grupos de investigación que están en la Antártida. Cuestan un dineral y son la mejor forma que han encontrado (hasta la fecha) de visitar el glaciar sin dañarlo.
 
-{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48672746231_9c62630c2b_b.jpg" title="" alt="" >}}
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48672746231_9c62630c2b_b.jpg" title="Autor: Pablo Ruiz Múzquiz" alt="" >}}
 
 Después nos montaron en un autobús normal, que a estas alturas ya sabía a poco, y nos llevaron al **SkyWalk** un bonito mirador con suelo de cristal suspendido sobre el cañón.
 

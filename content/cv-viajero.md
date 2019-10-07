@@ -28,8 +28,6 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 * [Descubre mis viajes en orden cronológico](#en-orden-cronológico)
 * [Inspírate con los países que he visitado](#países-visitados)
 
-He visitado 18 países distintos que corresponden a un 8% del mundo:
-
 <div id="map" style="height: 400px; width: 100%"></div>
 
 ## En orden cronológico
@@ -169,6 +167,7 @@ He visitado 18 países distintos que corresponden a un 8% del mundo:
 * Argentina
 * Bélgica
 * <a href="/tags/camboya" target="blank">Camboya</a>
+* <a href="/tags/canada" target="blank">Canadá</a>
 * Croacia
 * Escocia
 * <a href="/tags/eslovenia" target="blank">Eslovenia</a>

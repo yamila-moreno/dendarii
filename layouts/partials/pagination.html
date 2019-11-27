@@ -1,39 +1,48 @@
 {{ if .Site.Params.scrollPagination }}
   {{ if .Paginator.HasNext }}
-    <div class="scroll-bar">
+    <div class="scroll-bar" id="show-more-button">
         <span class="btn btn--default btn--big pagination-next">
           Ver más...
         </span>
     </div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"
-            integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
-            crossorigin="anonymous">
-    </script>
 
     <script>
-      $(document).ready(function () {
-        var loadPage = {{ .Paginator.PageNumber }};
+      document.addEventListener('DOMContentLoaded', (event) => {
+        var lastPageLoaded = {{ .Paginator.PageNumber }};
         var totalPages = {{ .Paginator.TotalPages }};
 
-        $('.pagination-next').on('click', function () {
-          loadPage = loadPage + 1;
+        // Remove button if there is no more pages
+        if (lastPageLoaded === totalPages) {
+          document.getElementById('show-more-button').remove();
+        }
 
-          if (loadPage > totalPages) { return; }
+        document.getElementById('show-more-button').onclick = async () => {
+          lastPageLoaded = lastPageLoaded + 1;
 
-          var url = '';
-          if ({{ .Permalink }} == '/') {
-              url = '/page/' + loadPage;
-          } else {
-              url =  '{{ .Permalink }}/page/' + loadPage;
+          // Get next page
+          var url = '{{ .Permalink }}' + 'page/' + lastPageLoaded + "/";
+          var results = await fetch(url);
+          var htmlText = await results.text();
+
+          // Parse next page and get posts
+          var parser = new DOMParser();
+          var doc = parser.parseFromString(htmlText, 'text/html');
+          var posts = doc.querySelectorAll('article');
+
+
+          // Append new posts
+          var postList = document.getElementsByClassName('postShorten-group main-content-wrap')[0];
+          var button = document.getElementById('show-more-button');
+          for (var post of posts) {
+            postList.insertBefore(post, button);
           }
-          $.get(url, function (result) {
-            $('.scroll-bar').before($(result).find('article'));
-            if (loadPage === totalPages) {
-              $('.scroll-bar').remove()
-            }
-          });
-        });
+
+          // Remove button if there is no more pages
+          if (lastPageLoaded === totalPages) {
+            button.remove();
+          }
+        };
       });
     </script>
   {{ end }}

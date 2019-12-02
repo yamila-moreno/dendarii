@@ -1,0 +1,104 @@
+---
+author: yamila
+date: 2019-11-30T08:00:00.000Z
+slug: roma-2019-dia-1
+title: Roma 2019 - Día 1
+thumbnailImage: https://live.staticflickr.com/65535/49153270422_9498dc0cab_z.jpg
+coverImage: https://live.staticflickr.com/65535/49153270422_9498dc0cab_b.jpg
+
+trip: Roma 2019
+tags:
+- Roma
+---
+
+Tras "descansar" de las vacaciones de montaña en <a href="/trip/canada-2019" target="_blank">Canadá</a>, el Team Tontako sacamos una semana y nos decidimos por un plan urbano y cosmopolita: **Roma, la ciudad eterna**. Sólo disponíamos de 7 días, pero tendría que valer.
+
+<!--more-->
+
+## Por qué Roma
+
+El patrimonio histórico de Roma siempre había  estado en mi lista de <em>pendientes</em>, sin embargo, la idea de recorrer deprisa y corriendo una ciudad que sólo tiene temporada alta o temporada alta-que-te-cagas, me tiraba para atrás. Inicialmente, habíamos pensado en un <em>road trip</em> por Sicilia, pero solo llega Ryanair y esta compañía está vetada, así que Roma se postuló como candidata. Cándida de mí pensé que sería una de las semanas con menos turismo (relativo) de la ciudad, que a lo mejor con suerte llovía y todos se quedaban en casa. Qué rápido se me pasó la candidez...
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49153304762_b0c0fee203_b.jpg" title="" alt="" >}}
+
+## Comienza el viaje
+
+El vuelo salía muy pronto así que tocó madrugar bastante <em>el primer día de vacaciones</em>, lo que representa claramente un mal augurio, así que yo me temía lo peor. A pesar de tentar a la suerte, llegamos a nuestro hotelito en Trastevere sin problemas un poco antes de mediodía. Elegimos un hotel recoleto y bien ubicado donde además poder descansar y con zonas comunes bonicas.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49152555678_cdd5353310_b.jpg" title="" alt="" >}}
+
+{{< alert info no-icon >}}
+Para llegar desde Fiumicino hasta Trastevere, cogimos el tren FL1 (8€/persona) dirección Orte hasta Trastevere, y ahí cogimos un tranvía (1.5€/persona) que nos dejó cerca de nuestro alojamiento. Los billetes de tranvía se compran en los estancos y en <em>tabaccherias</em>
+{{< /alert >}}
+
+Tras el <em>checkin</em> y comer nos acercamos dando un paseo a la **Piazza di Spagna** donde habíamos reservado un <em>free tour</em>, que nos serviría fundamentalmente para situarnos en la ciudad y anotar algunas visitas que podríamos hacer en los días siguientes.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49152577698_da473e1edb_b.jpg" title="Un río muy tibertido (Alex)" alt="" >}}
+
+## Paseo por Roma
+
+Roma es una ciudad que tiene nada y más y nada menos que 28 siglos; la fundación de la ciudad data del S.VIII aC y está envuelta en leyenda y épica, ya que los Romanos quisieron para sí mismos un origen a la altura de sus predecesores griegos.
+
+De la guerra de Troya, Eneas huye como perdedor y acaba desembarcando en lo que tiempo después sería Italia. Eneas llega al Lacio, se desposa con Lavinia y une los pueblos troyano y latino. El hijo de ambos, Ascanio, fundará Alba Lunga, donde tiempo después, y de su misma estirpe, nacerían Rómulo y Remo, destinados a morir a manos de un soldado. La leyenda cuenta que el soldado se apiadó y en lugar de matarlos los dejó en una cesta en el río, que es un destino con muchas más opciones (viene a ser como elegir Filología Clásica o Filología Hispánica, tus opciones se disparan).
+
+En paralelo, una loba andaba en su gruta de siempre, lobeando como siempre y cantando para sus adentros, cuando un cesto con dos bebés menos peludos de lo que ella consideraba adecuado se quedaron varados en sus dominios. Consideró que se los podría comer, consideró empujar el cesto y dejar que fueran problema de Willow o de la hija del faraón, consideró muchas cosas pero finalmente consideró que se los quedaba, que no sería para tanto...
+
+
+{{< image classes="left fancybox fig-50" src="https://live.staticflickr.com/65535/49159965998_2105133a4f_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50 clear" src="https://live.staticflickr.com/65535/49159969638_4f1912a50a_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-100 clear" src="https://live.staticflickr.com/65535/49160763387_15bb612551_b.jpg" title="No será para tanto, decían..." alt="" >}}
+
+
+
+Tiempo después, en un arranque de originalidad cosmogónica, un hermano mató al otro, fundó Roma en la colina de la loba y el resto ya sí, es historia.
+
+Y así llegamos a las 17 de aquel sábado, donde nuestra guía nos congregó a los 1200 hispano-parlantes que habíamos reservado la visita.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49153118681_36d96a5b92_b.jpg" title="" alt="" >}}
+
+Ésta comenzaba ahí mismo, en la **Piazza di Spagna** junto al mercado de los pintores. En esta plaza nos paramos a admirar la escalinata del S.XVIII coronada por uno de los muchos obeliscos que hay en la ciudad. También comenzamos el conteo de las **fuentes** pues Roma se precia de ser una ciudad de fuentes y agua.
+
+{{< alert info no-icon >}}
+En Roma hay un montón de fuentes con agua potable por todas partes. Y contrariamente a lo esperado, te cobran por el agua de grifo. Al menos a **mí** me cobran por el agua grifo.
+{{< /alert >}}
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49152651653_383f005f4b_b.jpg" title="" alt="" >}}
+
+De camino hacia la **Estatua de la Inmaculada** pudimos ver varias fachadas con abejas, símbolo de la **familia Barberini**, una de las más importantes y poderosas del Barroco romano. Nos asomamos a la rivalidad entre dos de los principales protagonistas de este barroco: Bernini, <em>el favorito de los papas</em> y Borromini, <em>el otro</em>.
+
+Junto a la estatua encontramos otro de los motivos más importantes que conforman Roma: la casa de Propaganda de la fe, donde se instruía a los misioneros, y varias embajadas ante la Santa Sede, pues las dos llaves vaticanas van a ser visibles más allá de los muros de la ciudad papal.
+
+Nuestro paseo continuó hasta la **Fontana de Trevi**, la fuente del barrio de Trevi, que parecía la Plaza del Ayuntamiento de Iruña un 6 de julio. La guía nos contó la leyenda, nos habló del titán y con algún que otro empellón pudimos acercanos a ver la enorme fuente.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49152667808_168f85d021_b.jpg" title="" alt="" >}}
+
+Es realmente impresionante aunque un sábado por la tarde no es el mejor momento para disfrutarla y apunté el volver en otro momento.
+
+La siguiente parada del tour fue la **Piazza Colonna**, dominada por la **Columna de Marco Aurelio**. En esta plaza además está la sede del primer ministro italiano no salió a saludar. Yo también creo que qué menos que asomarse y saludar, pero el ministro debía tener "cosas más importantes".
+
+Con el rencor en mi corazón por el desplante llegamos al **Panteón de Agripa**, reconvertido en iglesia actualmente y muy muy impresionante. Finalmente, nuestros caminos dieron con la **Piazza Navona**, otro de los centros más importantes para turistas y locales, donde nos despedimos de nuestra guía junto a la **Fontana dei Fiumi**, la fuente de los cuatro ríos.
+
+La visita tuvo cosas muy buenas: una pequeña radio nos permitió oír en todo momento a nuestra guía sin tener que pelear por la primera fila ni leer los labios; ella además fue muy maja en todo momento y era agradable seguir sus explicaciones. La visita también tuvo sus cosas malas: las explicaciones fueron someras y de poco interés, sin apenas contenido histórico, ni tampoco los chascarrillos típicos. Además, como fuimos en hora puntísima había bastante gente y caminábamos con dificultad. La recomiendo solo si la vas a hacer el primer día de tu viaje a Roma.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49153143576_38e9f94bf6_b.jpg" title="" alt="" >}}
+
+Tras la visita, descansamos en una terraza 100% guiri, donde un café calentito nos devolvió el calor y fuimos a cenar a un sitio que Álex conocía de su (cómo no) visita anterior. Fue un primer día muy bien aprovechado, pero ya tocaba ir a descansar.
+
+## Hoy comí...
+
+En este viaje inauguro una sección nueva: ¡Hoy comí! Mientras preparaba el viaje, todo el mundo me decía que en sus respectivos viajes a Italia habían comido fundamentalmente pasta y pizza. Aunque desconozco la gastronomía romana, sospeché que debía haber más variedad así que me he propuesto buscar esta variedad y traerla en forma de reportaje gráfico. Y daros algo de envidia ;-) A ver qué tal funciona esta sección.
+
+El primer día fuimos a por los imprescindibles: pasta, pizza y tabla de embutidos y quesos. Sabía que el punto <em>al dente</em> italiano era un poco más duro que en España, pero me sorprendió notar la pasta <em>demasiado</em> dura para mi gusto. Tendré que darle otra oportunidad. De mi viaje anterior a Italia me había quedado una sensación de que la pizza estaba muy sobrevalorada, sin embargo la que tomé el primer día para cenar me encantó.
+
+{{< image classes="left fancybox fig-50" src="https://live.staticflickr.com/65535/49153363107_7d0432f368_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50 clear" src="https://live.staticflickr.com/65535/49153359002_a33a7d0845_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50" src="https://live.staticflickr.com/65535/49153356682_104f5dc64d_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-50 clear" src="https://live.staticflickr.com/65535/49152673408_e424746f58_b.jpg" title="" alt="" >}}
+
+Pero si queréis ver algo que sí que está bueno, aquí os dejo un selfie tontako:
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49153159326_18fd1098b0_b.jpg" title="" alt="" >}}
+
+Procuraré no hacer este txistako a lo largo del resto del viaje, pero es un gran txistako y no prometo nada. Lo que sí puedo prometer es que ¡seguiré informando!
+
+{{< tripindex trip="Roma 2019" >}}

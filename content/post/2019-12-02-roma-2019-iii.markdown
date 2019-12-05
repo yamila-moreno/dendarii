@@ -23,7 +23,7 @@ Antes de localizar el **Circo Máximo** nos desubicamos un poco y de pronto no t
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49159743123_f20dd92017_b.jpg" title="" alt="" >}}
 
-Y así, tras despotricar un ratico, llegamos al Coliseo, donde nos esperaba una visita guiada en español; el grupo era de 24 personas, y también pudios contar con la radio para escuchar a la guía.
+Y así, tras despotricar un ratico, llegamos al Coliseo, donde nos esperaba una visita guiada en español; el grupo era de 24 personas, y también pudimos contar con la radio para escuchar a la guía.
 
 {{< alert info no-icon >}}
 La visita que hicimos nosotros y que nos gustó mucho, la contratamos <a href="https://ecm.coopculture.it/index.php?option=com_snapp&view=event&id=9F19ACB3-CF03-8C99-0CC8-016CFBACCF50&catalogid=90BF8E11-9EFA-9B99-6E81-016CFC0DD757&lang=en" target="_blank">aquí</a>. Esta web es lo más oficial que he encontrado.
@@ -61,13 +61,13 @@ Durante la época de la República, fue un barrio residencial y también dio esp
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49160055442_0aa6be75e5_b.jpg" title="" alt="" >}}
 
-Requiere de bastante imaginación hacerse una idea de cómo era pues no quedan más que ruinas, pero nuestra hábil guía nos señalaba las estancias, los límites y algunos detalles que facilitaban la labor de suponer cómo debían vivir.
+Requiere de bastante imaginación hacerse una idea de cómo era pues no quedan más que ruinas, pero nuestra hábil guía nos señalaba las estancias, los límites de las habitaciones y algunos detalles que facilitaban la labor de suponer cómo debían vivir.
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49160468992_8aa7a81a03_b.jpg" title="" alt="" >}}
 
 ## Foro
 
-Dejamos atrás el Palatino y entrábamos en el tercio final de la visita, el **Foro romano**. Más o menos en medio de las siete colinas había un cenagal. Había malechores y también gente hornada comprando y vendiendo. Durane la época de la República vieron que lo que realmente había era una oportunidad para crear un *centro de negocios*, ¿es muy atrevido llamarlo co-working? ¿co-laboring tal vez?
+Dejamos atrás el Palatino y entramos en el tercio final de la visita, el **Foro romano**. Más o menos en medio de las siete colinas había un cenagal. Había malechores y también gente honrada comprando y vendiendo. Durante la época de la República vieron que lo que realmente había era una oportunidad para crear un *centro de negocios*, ¿es muy atrevido llamarlo co-working? ¿co-laboring tal vez?
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49159857653_abbd2103fd_b.jpg" title="" alt="" >}}
 
@@ -90,7 +90,7 @@ Los museos son dos edificios unidos por un pasadizo bajo tierra. En el **Palacio
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49160420756_4c002fe42f_b.jpg" title="" alt="" >}}
 
 {{< alert info no-icon >}}
-La cafetería terraza del museo se pueden visitar sin necesidad de pagar la entrada al museo.
+La cafetería y la terraza del museo se pueden visitar sin necesidad de pagar la entrada al museo.
 {{< /alert >}}
 
 La mayoría de las salas contienen las obras de arte bien organizadas, aunque diría que están ahí todas, sin una selección clara.

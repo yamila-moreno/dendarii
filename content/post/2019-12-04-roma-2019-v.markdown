@@ -2,7 +2,7 @@
 author: yamila
 date: 2019-12-04T08:00:00.000Z
 slug: roma-2019-dia-5
-title: Roma 2019 - Día 5
+title: Roma MMXIX - Dies V
 thumbnailImage: https://live.staticflickr.com/65535/49169195433_27d12b10de_z.jpg
 coverImage: https://live.staticflickr.com/65535/49169195433_27d12b10de_b.jpg
 

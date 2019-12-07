@@ -2,7 +2,7 @@
 author: yamila
 date: 2019-12-03T08:00:00.000Z
 slug: roma-2019-dia-4
-title: Roma 2019 - Día 4
+title: Roma MMXIX - Dies IV
 thumbnailImage: https://live.staticflickr.com/65535/49165121353_84c51fb64b_z.jpg
 coverImage: https://live.staticflickr.com/65535/49165121353_84c51fb64b_b.jpg
 

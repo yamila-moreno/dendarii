@@ -2,7 +2,7 @@
 author: yamila
 date: 2019-11-30T08:00:00.000Z
 slug: roma-2019-dia-1
-title: Roma 2019 - Día 1
+title: Roma MMXIX - Dies I
 thumbnailImage: https://live.staticflickr.com/65535/49153270422_9498dc0cab_z.jpg
 coverImage: https://live.staticflickr.com/65535/49153270422_9498dc0cab_b.jpg
 

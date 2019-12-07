@@ -2,7 +2,7 @@
 author: yamila
 date: 2019-12-05T08:00:00.000Z
 slug: roma-2019-dia-6
-title: Roma 2019 - Día 6
+title: Roma MMXIX - Dies VI
 thumbnailImage: https://live.staticflickr.com/65535/49174254566_faa2e5e5f6_z.jpg
 coverImage: https://live.staticflickr.com/65535/49174254566_faa2e5e5f6_b.jpg
 

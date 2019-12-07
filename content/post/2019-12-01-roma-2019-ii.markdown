@@ -2,7 +2,7 @@
 author: yamila
 date: 2019-12-01T08:00:00.000Z
 slug: roma-2019-dia-2
-title: Roma 2019 - Día 2
+title: Roma MMXIX - Dies II
 thumbnailImage: https://live.staticflickr.com/65535/49153588767_4cd609d5de_z.jpg
 coverImage: https://live.staticflickr.com/65535/49153588767_4cd609d5de_z.jpg
 

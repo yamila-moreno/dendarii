@@ -52,6 +52,8 @@ Mis viajes típicamente cubren un itinerario, así que cada día tiene sentido m
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1LI4beo3DFErD2CVSSahKOthaPtJhLnZx" width="800" height="600"></iframe>
 
+Y como además no iba a poder hacer galerías temáticas, todas las fotos las he dejado en un único álbum que dejo <a href="https://www.flickr.com/photos/yamila_moreno/albums/72157712017457927" target="_blank">aquí</a> por si queréis echar un vistazo.
+
 ## El presupuesto
 
 Como ya comenté al principio del viaje, evitamos la *low-cost* Ryanair, así que los billetes nos salieron un poco más caros; en lugar de ir a un apartamento, fuimos a un hotel; además cogimos cuantas visitas guiadas pudimos. Y por encima de todo, los restaurantes "de sentarse" en Roma son caros. Así que este viaje ha supuesto un gasto proporcional mayor que otros, pero sería muy fácil recortar gastos si estás pensando en hacer algo parecido.

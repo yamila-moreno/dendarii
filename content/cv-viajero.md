@@ -34,6 +34,7 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 ### 2019
 <DIV class="cv-list">
 
+* 12 - <a href="/trip/roma-2019" target="_blank">Roma</a>
 * 08 - <a href="/trip/canada-2019" target="_blank">Canadá</a>
 * 02 - <a href="/trip/madeira-2019" target="_blank">Madeira</a>
 

@@ -1,3 +1,27 @@
+<!--
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+<script src="/js/galleria/galleria.min.js"></script>
+<script src="/js/galleria/plugins/flickr/galleria.flickr.min.js"></script>
+<style>
+    .galleria{ width: 1024px; height: 600px; background: #000 }
+</style>
+
+<div class="embed-container">
+</div>
+
+<script>
+    Galleria.loadTheme('/js/galleria/themes/twelve/galleria.twelve.min.js');
+    Galleria.run('.embed-container', {
+        flickr: 'set:{{ .Get "album" }}',
+    flickrOptions: {
+        sort: 'date-posted-asc'
+    }
+});
+</script>
+-->
+
+
+<!-- GALERÍA ANTIGUA -->
 <div class='embed-container'>
     <iframe src='https://www.flickr.com/photos/125687915@N08/albums/{{ .Get "album" }}/player' frameborder='0'
             allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>

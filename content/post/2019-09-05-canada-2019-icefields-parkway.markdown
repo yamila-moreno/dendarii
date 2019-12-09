@@ -75,7 +75,7 @@ Y el resto de foticos de la IceFields parkway...
 
 Por si fuera poco, después nos invitaron a comer a su casa, nos enseñaron sus flechas, sus medallas y pasamos buena parte de la tarde en su terraza charlando. Fue una forma fantástica de cerrar el viaje con una afición que compartimos los 4 y nuestros amables anfitriones.
 
-{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48702419648_eeedda7f80_z.jpg" title="" alt="" >}}
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48710110282_ee5555c5de_b.jpg" title="" alt="" >}}
 
 Y así llegamos al final de este viaje; me queda contaros algunas cositas sobre la caravana y los presupuestos, como suelo hacer, pero ya no quedan más visitas, ni más kilómetros; ahora toca poco a poco mirar hacia casa, donde nos esperan nuestros gatitos y nuestra rutina. Aunque no he echado de menos esta rutina, tampoco sufro por recuperarla, pues ha sido un viaje fantástico que me ha permitido desconectar un montón.
 

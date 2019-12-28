@@ -23,6 +23,12 @@ paginate = 12
 canonifyurls = true
 removePathAccents = true
 
+# https://gohugo.io/getting-started/configuration-markup#goldmark
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [permalinks]
   post = "/:year/:month/:slug/"
 

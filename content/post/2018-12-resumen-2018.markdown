@@ -5,6 +5,8 @@ slug: resumen-viajero-2018
 title: Resumen viajero de 2018
 thumbnailImage: https://farm2.staticflickr.com/1960/45119809892_120272346e_c.jpg
 
+tags:
+- Resumen viajero
 ---
 
 Como en <a href="{{< ref "2017-12-resumen-2017.markdown" >}}" target="_new">ocasiones anteriores</a>, aprovecho estos últimos días para hacer el repaso viajero del año. 2018 ha sido un año con menos salidas que 2017 pero con viajes más grandes si cabe. Un año de conocer lugares muy especiales cerca y lejos y que me han dejado unos recuerdos maravillosos.

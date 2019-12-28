@@ -5,6 +5,9 @@ slug: resumen-2017
 title: Resumen de 2017
 thumbnailImage: https://farm5.staticflickr.com/4467/23841503518_734c0cbda5_c.jpg
 
+tags:
+- Resumen viajero
+
 ---
 
 Este año está ya terminando y me ha parecido una buena ocasión para hacer un pequeño resumen de cómo han ido los viajes dendarii. 2017 ha sido fantástico en cuanto a experiencias y a aprendizaje viajero. ¡Espero que os guste la retrospectiva!

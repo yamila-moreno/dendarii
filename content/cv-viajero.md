@@ -34,11 +34,16 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 ### 2019
 <DIV class="cv-list">
 
+* 12 - <a href="{{< ref "2019-12-27-cantabria-2019.markdown" >}}" target="_blank">Cantabria</a>
 * 12 - <a href="/trip/roma-2019" target="_blank">Roma</a>
 * 08 - <a href="/trip/canada-2019" target="_blank">Canadá</a>
+* 05 - I Mereth de Ithilien en Barcelona
+* 03 - <a href="{{< ref "2019-03-01-sierra-de-ayllon.markdown" >}}" target="_blank">Sierra de Ayllón</a>
 * 02 - <a href="/trip/madeira-2019" target="_blank">Madeira</a>
+* 01 - FOSDEM en Bruselas
 
 </DIV>
+
 ### 2018
 <DIV class="cv-list">
 

@@ -1,0 +1,124 @@
+---
+author: yamila
+date: 2019-12-28T08:00:00.000Z
+slug: resumen-viajero-2019
+title: Resumen viajero de 2019
+thumbnailImage: https://live.staticflickr.com/65535/48662472291_274e21dea2_z.jpg
+coverImage: https://live.staticflickr.com/65535/48662472291_274e21dea2_b.jpg
+
+tags:
+- Resumen viajero
+
+---
+
+Un nuevo año se termina, y es una época de hacer una pequeña revisión; el **resumen viajero de 2019** me ha dado la oportunidad de repasar los viajes y las salidas de este año. Visto todo en perspectiva, ha sido un *añazo* que he podido compartir a través de este blog.
+
+<!--more-->
+
+**Años previos**
+
+Si queréis ver este mismo resumen de años anteriores, podéis visitar <a href="{{< ref "2017-12-resumen-2017.markdown" >}}" target="_new">resumen viajero de 2017</a> o <a href="{{< ref "2018-12-resumen-2018.markdown" >}}" target="_new">resumen viajero de 2018</a>.
+
+Este 2019 ha sido un año con un viaje grande, algunos viajes más pequeños y muchas salidas senderistas. Las rutas senderistas no suelo comentarlas en este blog, pero se pueden ver en <a href="https://yamila-moreno.github.io/routes/#9/40.6390/-3.1229" target="_blank">el mapa</a> que sí que mantengo actualizado. En este blog he escrito 27 posts (incluyendo este resumen) y he publicado 1330 fotos en mi flickr.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/47781033552_0ced4db50c_b.jpg" alt="" title="" >}}
+
+### Enero en Bruselas: frío y Open Source
+
+Este año volvimos en <strong>enero</strong> a Bruselas, para asistir al <a href="https://fosdem.org/2019/" target="_new">FOSDEM</a>. Es un evento al que le tengo mucho cariño, pero en los últimos años se ha masificado de tal forma que me resulta imposible asistir a las charlas que me interesan. No me puedo quejar, pues representa un auge del *Open Source* del que solo me puedo alegrar. El caso es que este año decidí hacer un plan mixto. Angela también venía a Bruselas, así que el sábado lo dedicamos a visitar museos y a pasear por la ciudad, y el domingo sí que fui a la ULB para asistir a algunas charlas.
+
+Para 2020 ya tenemos billetes y hotel y preveo hacer el mismo plan. A ver si me organizo bien las visitas y se merecen un pequeño post viajero.
+
+### Febrero: Levadas en Madeira
+
+En <strong>febrero</strong> fuimos a recorrer <a href="/trip/madeira-2019" target="_new">Madeira</a>, una isla frondosa y llena de rincones que recorrer. Es una isla volcánica, pertenece a Portugal y es absolutamente maravillosa. Visitamos la **Ponta de Sao Lourenço**, un paraje natural precioso. Conocimos las *levadas*, antiguas canalizaciones de agua que han reconvertido en rutas senderistas en medio de bosques de *laurisilvas*. En una de las levadas me caí haciendo un asombroso ridículo, mojando el móvil (y hasta el culete), pero sin más mella que mi propia honra.
+
+En el viaje me dio un cólico y aprendí por las malas que *grávida* en portugués no significa mareada sino embarazada y que no se puede estar un *poco grávida*. El médico me miró y puso cara de: "¿es que has caído en una levada?" Sí, señor médico, ¡me caí en una levada! A pesar de los contratiempos, pude conocer la **Levada del Caldeirao Verde**, una absoluta maravilla natural escondida entre los valles.
+
+También visitamos **Funchal**, la capital, y nos asomamos a sus palacios señoriales del S.XVIII como **La Quinta das Cruzes**; subimos hasta el **Jardín tropical**, una visita maravillosa, y desde donde pudimos observar cómo bajaban con los **carros de cesto**. Como siempre que viajo a tierras portuguesas, comí fenomenal, espetada y arroces deliciosos.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/7895/47179017121_8de77ddaf9_b.jpg" alt="" title="" >}}
+
+### Marzo: Sierra de Ayllón
+
+En marzo el Equipo Tontako cumple años e intentamos hacer una escapada para celebrarlo. Este año nos fuimos a la <a href="{{< ref "2019-03-01-sierra-de-ayllon.markdown" >}}" target="_blank">**Sierra de Ayllón**</a> en la frontera de Segovia con Guadalajara. Pudimos subir al **Pico de la Buitrera**, aunque había mucha nieve y la ruta costó un poco más de lo previsto; visitamos los **Pueblos rojos** y desde Riaza, hicimos el **Sendero de los Molinos**, que sólo tiene un molino, pero tenía muchos cachés. Da gusto cumplir años tontakos así :) Veremos qué nos depara en 2020 el Tontacumple.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/7814/47269707551_23fb687394_b.jpg" alt="" title="" >}}
+
+### Mayo: I Mereth de Ithilien
+
+Desde hace algunos años practico la arquería de forma regular, y con varios amigos hemos montado un club de tiro esencial, <a href="https://ithilien.es" target="_blank">Ithilien</a>. Como excusa para juntarnos, viajar y tirar con arco, organizamos la **I Mereth de Ithilien** en la provincia de Barcelona. Salió un viaje genial que Pablo relató en su blog <a href="https://blog.aljaba.net/i-mereth-de-ithilien-encuentro-anual-entre-flechas-y-forja/" target="_blank">Aljaba.net</a>. Además aprovechamos ese viaje para hacer un taller de forja de puntas de flecha medievales, que liberó nuestros instintos más... ¿medievales? Los liberó poco porque había que darle muy fuerte en el yunque y no tenía tanta fuerza. Terminamos el viaje con ganas de más flechas y con muchas agujetas por la forja. En 2020 repetiremos la Mereth y ya tenemos las fechas, ¡estad atentas!
+
+{{< image classes="center margin-top" src="https://blog.aljaba.net/content/images/2019/05/P1001124-1.JPG" alt="" title="" >}}
+
+### De Enero a Agosto por senderos
+
+Este año, Alex y yo nos hicimos miembros del <a href="https://clubalpino.es/" target="_blank">Club Alpino Madrileño</a>, con quienes hemos hecho algún curso de orientación en el monte y meteorología, así como alguna ruta. En estos meses estuvimos especialmente activos en cuanto a senderismo, e hicimos 13 rutas distintas, sobre todo en la Sierra de Madrid y en Navarra.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/7926/46728229311_01674b0619_b.jpg" alt="" title="" >}}
+
+### Agosto: Las Rocosas de Canadá en caravana
+
+Este año, el viaje grande venía realmente grande. A principios de año, nuestros amigos Pablo y Angela se dejaron convencer para un viaje que ninguno de los cuatro habíamos hecho: <a href="/trip/canada-2019" target="_blank">**Canadá en caravana**</a>.
+
+Fue un viaje de viajes; primero visitamos **Calgary**, la ciudad principal de las Rocosas, ordenada, limpia y esencialmente aburrida. Una ciudad bonita pero donde sospecho que no me gustaría vivir, ni siquiera estando tan cerca de las *Rockies*. Lo que sí me gustó mucho fue la visita al **Glenbow Museum**, un museo enorme que no pude ver al completo, pero que me pareció magnífico.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48709951766_dd2fa5fba7_b.jpg" alt="" title="" >}}
+
+El viaje después nos llevó a conocer a los dinosaurios. Varios cientos de millas (más si son kilómetros) al este de Calgary fuimos al **Tyrrell Museum**, un museo maravilloso dedicado a la investigación y divulgación paleontológica. Dedicamos varias horas y aún podríamos haber estado más; es un museo chulísimos para pequeños y mayores que merece mucho la pena el viaje (está un poco en medio de la nada). En nuestro viaje prehistórico nos acercamos al **Dinosaur Provincial Park**, donde pudimos visitar las canteras que aún hoy en día se excavan y ver gran cantidad de fósiles en las **Badlands** (para los navarros: son como las Bardenas Reales).
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48632637153_b141d1d959_b.jpg" alt="" title="" >}}
+
+El siguiente mini-viaje por Canadá fue seguir la pista de las **Primeras Naciones de Canadá**, es decir, los *Blackfoot*. Visitamos los **petroglifos** en **Writing-on-Stone** y también el centro de interpretación **Head-Smashed-In Buffalo Jump**, donde cuentan sobre la historia y las costumbres de estos primeros pobladores; le dan especial énfasis a la forma que tenían de cazar búfalos: se juntaban varias tribus, y montaban un escenario bastante sofisticado con el que generaban una estampida de bisontes que despeñaban por un precipicio. Esta visita me gustó aunque tuve una sensación dividida entre la apreciación de la cultura *blackfoot* y lo que considero una visita "circo".
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48632663658_e608c8eabf_b.jpg" alt="" title="" >}}
+
+Nuestra caravana entonces fue hasta el sur de Canadá, a la frontera con USA, donde visitamos el **Waterton National Park**. Este parque nacional fue comido por el fuego hace dos años; esto está muy presente en la memoria colectiva y en las actuaciones sobre la naturaleza que se llevan a cabo desde entonces. El parque aún no está recuperado, en términos humanos, pero actualmente se entiende que ese fuego supuso una necesaria renovación para el sustrato. Descubrimos que en Canadá están ahora llegando a las mismas conclusiones que nos contaban los *rangers* estadounidenses, y es que el fuego es imprescindible en el ciclo de un bosque. En este parque hicimos la que fue la ruta con más desafío para mí, por el vértigo, y también una de las más bonitas. Además, un oso nos gruñó pero salimos ilesos...
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48633377998_f81b4ac5f3_b.jpg" alt="" title="" >}}
+
+Y así llegamos a la siguiente parada, **Banff National Park**, el más famoso de las rocosas de Canadá; es también el que tiene el mayor desarrollo turístico, con mucha oferta y servicios. Aquí pudimos quedarnos sin palabras frente a los lagos de colores imposibles, como el **Lake Louise** o el **Lake Moraine**. En Banff hicimos una ruta imprescindible en las **Sunshine Meadows**, unas llanuras de alta montaña que ofrecen un paseo muy singular y un paisaje de cuento.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48662610677_868fd9a9dd_b.jpg" alt="" title="" >}}
+
+También nos acercamos a otro de los grandes parques de las rocosas, el **Jasper National Park**. Aquí los montes son más salvajes y el turismo más montañero. Pudimos contemplar las montañas de día y las estrellas de noche, pues es un sitio con el cielo especialmente claro y pudimos asistir a una observación genial.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48690985963_02d6031a30_b.jpg" alt="" title="" >}}
+
+Yendo con Pablo y Angela, era casi obligado hacer una parada arquera en el viaje. Fue una experiencia fantástica: una pareja de británicos nos abrió las puertas de su rancho, donde tienen un campo de tiro 3D, nos prestaron arcos, flechas y pudimos hacer un recorrido acompañados por dos grandes perros, "por si vienen los osos". Nos dieron de comer y sobre todo, hicieron gala de una hospitalidad que tardaré en olvidar. Fue una de las experiencias más bonitas del viaje.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/48710110282_ee5555c5de_b.jpg" alt="" title="" >}}
+
+Este viaje fue especial por hacerlo con amigos, ya que normalmente viajamos solos. En este caso viajamos con Pablo y Angela, a quienes conocemos bien y con quienes nos organizamos muy bien las visitas, los ratos juntos y los ratos por nuestra cuenta. Era un viaje con mucha incertidumbre pero fue maravilloso viajar con ellos y compartir la vivencia. Además, teníamos la caravana, con la que hicimos casi 3 mil kilómetros. Aprendimos mucho de este viaje sobre viajar en caravana. Alex y yo nos quedamos con ganas de repetir, aunque cambiando el formato de la caravana por algo más manejable (como una furgoneta) o más versátil (como coche + remolque). Estoy segura de que encontraremos la excusa para viajar así de nuevo.
+
+### Noviembre: Roma
+
+A finales de Noviembre nos vimos con unos días de vacaciones y decidimos aprovecharlos para un viaje a <a href="/trip/roma-2019" target="_blank">Roma</a>. Era un viaje con muchas incógnitas y bastante riesgo, ya que 8 días de visita urbana (me) parecían demasiado. Sin embargo, resultó ser un viaje inolvidable. Tuvimos tiempo de conocer los grandes monumentos de Roma y buena parte de los *medianos* monumentos de la Ciudad: Coliseo, Foro, Palatino, Termas, Catacumbas, Vaticano, Capilla Sixtina, las plazas... Además visitamos todas (casi) las iglesias y vimos todos los *Caravaggios* que hay desperdigados por la ciudad. Comimos muy bien, el tiempo acompañó así que fuimos caminando a todas partes y en general hubo poca gente lo que nos permitió ir a nuestro aire.
+
+Además del disfrute del viaje en sí, me llevo el aprendizaje de que puedo disfrutar de una ciudad tan masificada como Roma si me tomo más días y me lo tomo con mucha calma. Rememoro mis viajes anteriores a NYC o a París y creo que podría darles otra oportunidad con estas nuevas condiciones. No creo que esta oportunidad llegue pronto, pero la idea de ir a una ciudad grande ya no me resulta tan pesada.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49153377921_03b8e81261_b.jpg" alt="" title="" >}}
+
+## Diciembre: Cantabria
+
+Y para cerrar el año, esquivamos las fiestas navideñas y nos fuimos con mi padre a <a href="{{< ref "2019-12-27-cantabria-2019.markdown" >}}" target="_blank">**Cantabria**</a>. Pudimos pasear por la costa cántabra aprovechando un tiempo fabuloso, comimos muy bien y conocimos algunos de los lugares más emblemáticos como **la Cueva del Soplao**, **Santillana del Mar**, el **Capricho de Gaudí** o la célebre **Cueva de Altamira**. Un viaje muy sencillo y agradable que además de las visitas nos dio ocasión de descansar y desconectar.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49286211141_ac757c1756_b.jpg" alt="" title="" >}}
+
+## Compañeros de viaje
+
+Este año cumplí mi deseo del año pasado de viajar más con amigos. Mi idea era que a pesar de que añadía un punto de complejidad en la organización, la experiencia de viajar con amigos merecía la pena; la yami del pasado tenía toda la razón y los viajes con amigos de este año así lo demuestran. El más importante el de Canadá, con Pablo y Angela, pero también la Mereth de Ithilien con Pablo, Angela, Luiyo y Juan. Este año repetiremos la Mereth y seremos incluso más amigos. ¡Hay ganas!
+
+Aunque, como siempre, mi gran compañero de viaje es Alex. Nos repartimos muy bien las tareas de organización del viaje (a ver si un día me animo a detallar cómo organizamos nuestros viajes), y ya en el terreno nos coordinamos de lujo. Este año su ayuda fue especialmente crítica durante el cólico en Madeira, y en una ruta muy difícil para mi vértigo en Canadá. Para 2020 ya tengo algunos viajes previstos y es genial saber que los podré compartir con él.
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/47043589064_16c21446e5_b.jpg" alt="" title="" >}}
+
+## Próximos destinos
+
+El año pasado por estas fechas hacía propósito "contra" los viajes grandes, y este año incumplí ese propósito. No puedo arrepentirme menos, ya que el viaje salió tan bien. Este año no he "padecido" tanto los meses yermos porque estuvimos muy activos en lo que a salidas senderistas se refiere. Estas salidas me dan la vida, ya que me permiten desconectar y descansar y darme un baño de naturaleza. Así que es posible que gracias a esto el año no se me hiciera tan duro.
+
+Para 2020 ya tenemos pensado uno de los viajes, centrado en el senderismo. Se trata de hacer una parte del **Camino de Santiago**. Además del atractivo de este plan, es también una forma de viajar con menos impacto. Aún no sabemos fechas, ni alcance, ni casi nada, solo tenemos la idea y la iremos perfilando. ¡No os lo perdáis!
+
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/49286214806_2c8840fae1_b.jpg" alt="" title="" >}}
+
+Y así cierro un año viajero fantástico, con muchísimos recuerdos que me acompañarán siempre y con el propósito de tener un año 2020 incluso mejor. ¡Nos vemos en los viajes!

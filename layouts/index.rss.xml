@@ -1,0 +1,36 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viajes Dendarii</title>
+    <link>{{ .Permalink }}</link>
+    <description>Aventuras y viajes Dendarii más recientes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <image>
+        <url>https://c1.staticflickr.com/5/4390/35894586054_ce05e96c7d_q.jpg"</url>
+        <title>Viajes Dendarii</title>
+        <link>{{ .Permalink }}</link>
+    </image>
+    {{ with .Site.LanguageCode }}
+      <language>{{.}}</language>
+    {{end}}
+    {{ with .Site.Copyright }}
+      <copyright>{{.}}</copyright>
+    {{end}}
+    {{ if not .Date.IsZero }}
+      <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    {{ end }}
+    {{ with .OutputFormats.Get "RSS" }}
+        {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{ end }}
+    {{ range .Pages }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+      <guid>{{ .Permalink }}</guid>
+      <description>{{ .Summary | html }}</description>
+    </item>
+    {{ end }}
+  </channel>
+</rss>

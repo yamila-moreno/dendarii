@@ -23,7 +23,7 @@ Si queréis ver este mismo resumen de años anteriores, podéis visitar <a href=
 
 Este 2019 ha sido un año con un viaje grande, algunos viajes más pequeños y muchas salidas senderistas. Las rutas senderistas no suelo comentarlas en este blog, pero se pueden ver en <a href="https://yamila-moreno.github.io/routes/#9/40.6390/-3.1229" target="_blank">el mapa</a> que sí que mantengo actualizado. En este blog he escrito 27 posts (incluyendo este resumen) y he publicado 1330 fotos en mi flickr.
 
-{{< image classes="center margin-top webfeedsFeaturedVisual" src="https://live.staticflickr.com/65535/47781033552_0ced4db50c_b.jpg" alt="" title="" >}}
+{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/47781033552_0ced4db50c_b.jpg" alt="" title="" >}}
 
 ### Enero en Bruselas: frío y Open Source
 

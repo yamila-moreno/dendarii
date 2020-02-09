@@ -123,7 +123,7 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 ### 2013
 <DIV class="cv-list">
 
-* 12 - <a href="/trip/ruta-de-los-cátaros-2013" target="blank">Cátaros</a>
+* 12 - <a href="/trip/ruta-de-los-cataros-2013" target="blank">Cátaros</a>
 * 08 - Londres
 * 08 - Val de Aran
 * 07 - Sigüenza

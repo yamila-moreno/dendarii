@@ -31,6 +31,14 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 <div id="map" style="height: 400px; width: 100%"></div>
 
 ## En orden cronológico
+### 2020
+<DIV class="cv-list">
+
+* 03 - <a href="{{< ref "2020-03-sierra-de-cameros.markdown" >}}" target="_blank">Sierra de Cameros</a>
+* 01 - FOSDEM en Bruselas, con visita a <a href="{{< ref "2020-02-01-brugante-en-1-dia.markdown" >}}" target="_blank">Gante</a>
+
+</DIV>
+
 ### 2019
 <DIV class="cv-list">
 

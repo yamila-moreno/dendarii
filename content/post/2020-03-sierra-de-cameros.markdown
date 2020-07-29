@@ -12,7 +12,7 @@ tags:
 
 Como va siendo <a href="{{< ref "2019-03-01-sierra-de-ayllon.markdown" >}}" target="_blank">costumbre</a>, celebramos el aniversario tontako haciendo una pequeña escapada haciendo una de las actividades que más nos gusta: senderismo; sin pretensiones y con mucha ilusión. Este séptimo aniversario (¡ostrás!) nos decidimos por la Sierra de Cameros, de donde era mi abuela Josefa.
 
-<!-- more -->
+<!--more-->
 
 Nos alojamos en una bonita casa rural algo inaccesible, aunque sólo metafóricamente, pues en realidad pudimos acceder. El sábado tocó madrugar para poder hacer la ruta y disfrutarla con tiempo. Dejamos el coche en Torrecilla de Cameros donde además pudimos desayunar antes de partir.
 

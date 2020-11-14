@@ -8,6 +8,8 @@ coverImage: https://live.staticflickr.com/65535/50411656688_6e8b7616f1_b.jpg
 
 tags:
 - Senderismo
+trip: Galicia 2020
+
 ---
 
 La **Serra do Courel** en medio del GeoParque de las **Montañas do Courel** es un lugar recóndito y mágico, donde tuvimos la suerte de _perdernos_ unos días.

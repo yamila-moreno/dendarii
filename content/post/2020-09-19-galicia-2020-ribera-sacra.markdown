@@ -8,6 +8,8 @@ coverImage: https://live.staticflickr.com/65535/50411599908_8e94ca8749_b.jpg
 
 tags:
 - Senderismo
+trip: Galicia 2020
+
 ---
 
 La **Ribeira Sacra** y **Cañón del Río Sil** es una zona perfecta para unas vacaciones relajadas de turismo, naturaleza y gastronomía. Allí el Team Tontako hemos pasado 4 días inolvidables.

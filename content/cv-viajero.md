@@ -34,6 +34,8 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 ### 2020
 <DIV class="cv-list">
 
+* 09 - <a href="/trip/galicia-2020" target="_blank">Galicia</a>
+* 08 - <a href="{{< ref "2020-08-23-val-daran-walking-festival.markdown" >}}" target="_blank">Val d'Aran Walking Festival</a>
 * 03 - <a href="{{< ref "2020-03-sierra-de-cameros.markdown" >}}" target="_blank">Sierra de Cameros</a>
 * 01 - FOSDEM en Bruselas, con visita a <a href="{{< ref "2020-02-01-brugante-en-1-dia.markdown" >}}" target="_blank">Gante</a>
 

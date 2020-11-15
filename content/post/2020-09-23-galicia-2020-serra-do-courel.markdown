@@ -62,7 +62,7 @@ Un caché nos llevó hasta el **Pozo das mulas**, por un paseo estrecho y resbal
 
 {{< image classes="center margin-top pano" src="https://live.staticflickr.com/65535/50411653433_d5c4afb21a_b.jpg" title="" alt="" >}}
 
-Como ya era la hora de comer, fuimos a **Paderna**, un restaurente de comida casera, sin un menú donde elegir, porque cada día hay lo que hay. Por fin hemos probado el típico jabalí con castañas, además de otras delicias. Estaba todo riquísmo, pero sentó especialmente bien al sabe que las castañas que sirven están preparadas de forma tradicioan, ya que tienen su propio **sequeiro** que es una cabaña de dos pisos, donde ahúman las castañas durante unos 20 días para secarlas y matar al gusano si lo tuviera. Para bajar un poco la comida, hemos ido paseando hasta un castaño de unos 500 años.
+Como ya era la hora de comer, fuimos a **Paderna**, un restaurente de comida casera, sin un menú donde elegir, porque cada día hay lo que hay. Por fin hemos probado el típico jabalí con castañas, además de otras delicias. Estaba todo riquísmo, pero sentó especialmente bien al saber que las castañas que sirven están preparadas de forma tradicional, ya que tienen su propio **sequeiro** que es una cabaña de dos pisos, donde ahúman las castañas durante unos 20 días para secarlas y matar al gusano si lo tuviera. Para bajar un poco la comida, hemos ido paseando hasta un castaño de unos 500 años.
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/50411655103_b279687f8a_b.jpg" title="" alt="" >}}
 

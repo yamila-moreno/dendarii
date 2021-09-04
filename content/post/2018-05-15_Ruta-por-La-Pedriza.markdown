@@ -8,6 +8,7 @@ coverImage: https://farm1.staticflickr.com/955/42086483882_4e775be710_c.jpg
 tags:
 - La Pedriza
 - Senderismo
+- España
 ---
 
 ¡RUTAZA POR LA PEDRIZA! Como el 15 de Mayo es festivo en Madrid Capital (San Isidro), y como daban buen tiempo, el equipo Tontako nos preparamos una ruta por La Pedriza, que aún no habíamos visitado juntos. La ruta, además, llega hasta Los Chorros, que ni Alex ni yo conocíamos. Así que a pesar del madrugón, se veía venir una ruta fantástica.

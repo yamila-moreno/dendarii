@@ -8,6 +8,7 @@ coverImage: https://live.staticflickr.com/65535/50165718601_6d3a2e4e82_b.jpg
 
 tags:
 - Senderismo
+- España
 ---
 
 **La Senda de las Pesquerías Reales** es una ruta fantástica en la Sierra de Guadarrama segoviana; perfecta para hacerla en verano, pues es muy fresquita y discurre bajo la sombra y entre helechos.

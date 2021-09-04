@@ -8,6 +8,7 @@ coverImage: https://farm8.staticflickr.com/7849/46264969955_ce3ed8795b_b.jpg
 trip: Madeira 2019
 tags:
 - Madeira
+- Portugal
 ---
 
 El martes 19 aprovechamos para conocer Funchal, la capital de la isla. Es una ciudad a pie de mar en la parte sur de la isla. Y está en cuesta.

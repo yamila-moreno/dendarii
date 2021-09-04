@@ -7,6 +7,7 @@ thumbnailImage: http://upload.wikimedia.org/wikipedia/commons/f/ff/Abbaye-senanq
 trip: Ruta de los Cátaros 2013
 tags:
 - Cátaros
+- Francia
 ---
 
 

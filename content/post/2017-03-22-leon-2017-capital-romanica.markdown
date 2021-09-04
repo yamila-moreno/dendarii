@@ -7,6 +7,7 @@ thumbnailImage: https://c1.staticflickr.com/4/3827/33465317191_ed8099267d_c.jpg
 trip: León 2017
 tags:
 - León
+- España
 ---
 
 Dejamos atrás los montes leoneses, a los que tenemos que volver, y nos fuimos a León. Aunque recuerdo haber visitado León anteriormente, apenas me acordaba de la ciudad, así que fue un re-descubrimiento fantástico.

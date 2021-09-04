@@ -8,6 +8,7 @@ coverImage: https://live.staticflickr.com/65535/50411599908_8e94ca8749_b.jpg
 
 tags:
 - Senderismo
+- España
 trip: Galicia 2020
 
 ---

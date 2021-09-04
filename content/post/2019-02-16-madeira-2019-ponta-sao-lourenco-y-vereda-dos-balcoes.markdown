@@ -9,6 +9,7 @@ trip: Madeira 2019
 tags:
 - Madeira
 - Senderismo
+- Portugal
 ---
 
 Cuando de pronto Alex y yo nos vimos con 3 días de vacaciones de 2018, decidimos hacer un pequeño viaje para escapar de los rigores del invierno; buscamos un destino que pudiéramos visitar en poco tiempo y que no estuviera demasiado lejos; y _voilá_ las luces de Madeira aparecían bajo nuestro avión.

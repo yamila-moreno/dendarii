@@ -9,6 +9,7 @@ coverImage: https://live.staticflickr.com/65535/49574849002_e6c4ec093b_b.jpg
 tags:
 - Gante
 - Brujas
+- Bélgica
 ---
 
 Con la ocasión de un viaje a Bruselas, decidí escaparme un día y visitar Brujas. Había estado allí hace unos años, y me había encantado, así que aproveché la ocasión para pasear de nuevo por sus estrechas calles y asomarme a sus canales.

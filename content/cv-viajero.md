@@ -179,23 +179,23 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 <DIV class="cv-list">
 
 
-* Alemania
+* <a href="/tags/alemania" target="blank">Alemania</a>
 * Argentina
-* Bélgica
+* <a href="/tags/belgica" target="blank">Bélgica</a>
 * <a href="/tags/camboya" target="blank">Camboya</a>
 * <a href="/tags/canada" target="blank">Canadá</a>
 * Croacia
 * Escocia
 * <a href="/tags/eslovenia" target="blank">Eslovenia</a>
-* España
+* <a href="/tags/espana" target="blank">España</a>
 * <a href="/tags/usa" target="blank">Estados Unidos</a>
-* Francia
+* <a href="/tags/francia" target="_blank">Francia</a>
 * <a href="/tags/gales" target="_blank">Gales</a>
-* Holanda
 * <a href="/tags/inglaterra" target="_blank">Inglaterra</a>
 * Irlanda
-* Italia
+* <a href="/tags/italia" target="blank">Italia</a>
 * <a href="/tags/marruecos" target="blank">Marruecos</a>
+* <a href="/tags/paises-bajos" target="_blank">Países Bajos</a>
 * Polonia
 * <a href="/tags/portugal" target="blank">Portugal</a>
 * <a href="/tags/suiza" target="blank">Suiza</a>

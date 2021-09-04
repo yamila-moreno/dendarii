@@ -9,6 +9,7 @@ coverImage: https://live.staticflickr.com/65535/49165121353_84c51fb64b_b.jpg
 trip: Roma 2019
 tags:
 - Roma
+- Italia
 ---
 
 En un viaje, hay días en que todo sale a pedir de boca; otros días salen desastrosos y lo mejor es quedarse en casa. Finalmente hay días que te llevan por el finísimo precipicio que separa el paraíso del infierno... Hoy fue unos de esos días.

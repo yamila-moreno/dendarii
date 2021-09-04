@@ -6,7 +6,7 @@ title: Semana Santa 2016- La Pradera de Navalhondo
 thumbnailImage: http://c4.staticflickr.com/2/1535/26004524891_1ea29ce3b3_c.jpg
 tags:
 - Senderismo
-
+- España
 ---
 
 Dos mini-entradas de la Semana Santa tontaka y un poco improvisada. El jueves madrugamos para echar el día en una ruta sencilla por la cara norte de la Sierra de Guadarrama.

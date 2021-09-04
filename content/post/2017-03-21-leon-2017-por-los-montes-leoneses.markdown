@@ -8,6 +8,7 @@ trip: León 2017
 tags:
 - León
 - Cuevas
+- España
 ---
 
 Hacía tiempo que un compi me había recomendado visitar la <a href="https://www.google.es/search?q=cueva+de+valporquero&client=firefox-b-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXztXWvujSAhUkDMAKHaObCk0Q_AUICSgC&biw=1918&bih=992" target="_new">Cueva de Valporquero</a> así que aprovechamos el finde largo que teníamos en Marzo para ir a conocer la zona. Cogimos una casita rural en Villanueva de Pontedo, en la zona de Los Argüellos, como base de operaciones montañeras. Las vistas desde la casita solo auguraban cosas buenas:

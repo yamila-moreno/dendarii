@@ -9,6 +9,7 @@ coverImage: https://live.staticflickr.com/65535/49174254566_faa2e5e5f6_b.jpg
 trip: Roma 2019
 tags:
 - Roma
+- Italia
 ---
 
 Al dedicar tantos días a Roma, teníamos la oportunidad de conocer otras zonas que se suelen quedar para segundas o terceras visitas. Teníamos muchas ganas de ir a **Tívoli** aunque Tívoli no tenía muchas ganas de que nosotros fuéramos.

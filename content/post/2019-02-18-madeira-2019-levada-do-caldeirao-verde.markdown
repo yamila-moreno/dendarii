@@ -10,6 +10,7 @@ tags:
 - Madeira
 - Senderismo
 - Cuevas
+- Portugal
 ---
 
 El domingo teníamos previsto realizar la **Levada do Caldeirão Verde**, sin embargo, tocó poner a prueba nuestra capacidad de adaptación ante la adversidad.

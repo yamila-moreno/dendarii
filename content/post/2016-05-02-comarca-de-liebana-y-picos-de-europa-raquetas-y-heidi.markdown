@@ -9,6 +9,7 @@ tags:
 - Liébana
 - Picos de Europa
 - Senderismo
+- España
 ---
 
 Tras un primer día tan chulo, nos levantamos muy motivados por subir a Fuente Dé. Habíamos previsto una ruta senderista potente, pero había demasiada nieve y no parecía muy prudente ir por nuestra cuenta. Así que en su lugar, contratamos una excursión con raquetas por la nieve.

@@ -8,6 +8,7 @@ trip: Rías Baixas 2014
 tags:
 - Galicia
 - Rías Baixas
+- España
 ---
 
 - ¿¡QUE NUNCA HAS ESTADO EN GALICIA!?

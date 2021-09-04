@@ -8,6 +8,7 @@ coverImage: https://farm8.staticflickr.com/7814/47269707551_23fb687394_b.jpg
 
 tags:
 - Senderismo
+- España
 ---
 
 ¡El Team Tontako cumple años! Y nos pareció que la mejor forma de celebrarlo era de finde rural y geocacher. En esta ocasión elegimos la Sierra de Ayllón, en Segovia junto a la muga con Guadalajara.

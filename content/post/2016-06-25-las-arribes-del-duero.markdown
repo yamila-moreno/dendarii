@@ -6,7 +6,7 @@ title: Las Arribes del Duero
 thumbnailImage: https://farm8.staticflickr.com/7331/27828381711_f815d4fe0b.jpg
 tags:
 - Senderismo
-
+- España
 ---
 
 Finde largo tontako aprovechando el puente de San Isidro en Madrid. Esta vez el viaje nos llevó al parque natural de <a href="https://es.wikipedia.org/wiki/Parque_natural_de_Arribes_del_Duero" target="_new">las arribes del Duero</a>, una zona entre Castilla León y Portugal, con el Duero como protagonista silencioso.

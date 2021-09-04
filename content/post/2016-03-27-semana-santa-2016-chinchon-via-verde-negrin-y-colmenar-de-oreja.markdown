@@ -6,7 +6,7 @@ title: Semana Santa 2016- Chinchón, Vía Verde Negrín y Colmenar de Oreja
 thumbnailImage: http://c4.staticflickr.com/2/1483/26070873075_49ef6ea489_c.jpg
 tags:
 - Senderismo
-
+- España
 ---
 
 La segunda parte de la Semana Santa nos fuimos al Sur de Madrid, desde donde organizamos un par de salidas.

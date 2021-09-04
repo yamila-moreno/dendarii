@@ -9,6 +9,7 @@ coverImage: https://live.staticflickr.com/65535/49160409781_bcace01fbe_b.jpg
 trip: Roma 2019
 tags:
 - Roma
+- Italia
 - Itinerario y pecunia
 ---
 

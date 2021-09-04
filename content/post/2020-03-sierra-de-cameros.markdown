@@ -8,6 +8,7 @@ coverImage: https://live.staticflickr.com/65535/50074626428_95774d95d0_b.jpg
 
 tags:
 - Senderismo
+- España
 ---
 
 Como va siendo <a href="{{< ref "2019-03-01-sierra-de-ayllon.markdown" >}}" target="_blank">costumbre</a>, celebramos el aniversario tontako haciendo una pequeña escapada haciendo una de las actividades que más nos gusta: senderismo; sin pretensiones y con mucha ilusión. Este séptimo aniversario (¡ostrás!) nos decidimos por la Sierra de Cameros, de donde era mi abuela Josefa.

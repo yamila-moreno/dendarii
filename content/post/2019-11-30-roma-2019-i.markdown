@@ -9,6 +9,7 @@ coverImage: https://live.staticflickr.com/65535/49153270422_9498dc0cab_b.jpg
 trip: Roma 2019
 tags:
 - Roma
+- Italia
 ---
 
 Tras "descansar" de las vacaciones de montaña en <a href="/trip/canada-2019" target="_blank">Canadá</a>, el Team Tontako sacamos una semana y nos decidimos por un plan urbano y cosmopolita: **Roma, la ciudad eterna**. Sólo disponíamos de 7 días, pero tendría que valer.

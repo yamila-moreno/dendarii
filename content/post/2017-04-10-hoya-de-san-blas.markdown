@@ -6,6 +6,7 @@ title: Hoya de San Blas
 thumbnailImage: https://c1.staticflickr.com/4/3941/33962098025_06a2feb415.jpg
 tags:
 - Senderismo
+- España
 ---
 
 Aprovechando el buen tiempo, Alex y yo nos fuimos a hacer una ruta senderista por la Sierra de Guadarrama. Es una ruta super sencilla y en un entorno impresionante.

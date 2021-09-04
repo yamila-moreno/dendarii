@@ -8,6 +8,7 @@ trip: Ruta de los Cátaros 2013
 tags:
 - Carcassonne
 - Cátaros
+- Francia
 ---
 
 

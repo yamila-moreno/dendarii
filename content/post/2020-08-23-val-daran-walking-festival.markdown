@@ -8,6 +8,7 @@ coverImage: https://live.staticflickr.com/65535/50297989771_17863c2c61_b.jpg
 
 tags:
 - Senderismo
+- España
 ---
 
 Este año, el Tontako Team, muy bien acompañados por <a href="https://luiyo.net" target="_blank">Luiyo</a>, fuimos al *Val d'Aran Walking Festival 2020*. Se trata de una semana de rutas senderistas con guías expertos, y tiempo para visitas; si a esto le sumamos que me dio la excusa para ir a uno de mis rincones favoritos, os podéis imaginar que fue una semana maravillosa.

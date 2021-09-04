@@ -7,6 +7,7 @@ thumbnailImage: /images/2013/12/sissac.jpg
 trip: Ruta de los Cátaros 2013
 tags:
 - Cátaros
+- Francia
 ---
 
 Último día de estas vacaciones cátaras. Tanto va el cátaro a la fuente… (es que si no lo digo, reviento). Pues bien, ayer os comentaba que nos tocaba el sur-oeste. No hay caso. Hoy cogió Alex el mapa y se inspiró, “¡mejor vamos al norte!”. Y al norte que fuimos.

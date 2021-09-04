@@ -9,6 +9,7 @@ tags:
 - Liébana
 - Picos de Europa
 - Senderismo
+- España
 ---
 
 ¡Puente tontako! Se venía un puente y teníamos ya ganas de salir unos días; aprovechando que teníamos noches de alojamiento regaladas, nos buscamos un hotel rural en Cantabria. Es un sitio que me gusta mucho y que quería visitar con Alex.

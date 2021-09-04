@@ -7,6 +7,7 @@ thumbnailImage: //farm8.staticflickr.com/7417/16187410238_2c55309836_z.jpg
 trip: Landas 2015
 tags:
 - Landas
+- Francia
 ---
 
 

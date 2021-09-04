@@ -9,6 +9,7 @@ coverImage: https://live.staticflickr.com/65535/49159948056_633baf9f8e_b.jpg
 trip: Roma 2019
 tags:
 - Roma
+- Italia
 ---
 
 Tras dos días de viaje, tocaba uno de los platos fuertes: Coliseo, Foro y Palatino. Era además una visita muy especial para mí, ya que soy muy de Julio César, y tenía mucha emoción ante la idea de asomarme a sus pretéritos pasos.

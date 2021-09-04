@@ -7,6 +7,7 @@ thumbnailImage: /images/2012/12/p10408331.jpg
 trip: Tenerife 2012
 tags:
 - Tenerife
+- España
 ---
 
 

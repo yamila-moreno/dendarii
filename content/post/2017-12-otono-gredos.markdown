@@ -8,6 +8,7 @@ coverImage: https://farm5.staticflickr.com/4524/38961959281_3a80482ee5_c.jpg
 tags:
 - Gredos
 - Cuevas
+- España
 ---
 
 

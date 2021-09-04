@@ -8,6 +8,7 @@ coverImage: https://farm8.staticflickr.com/7839/46579488242_6a028907a4_c.jpg
 tags:
 - Alto del Mirlo
 - Senderismo
+- España
 ---
 
 Qué mejor forma de empezar el año tontako que saliendo a estirar las piernas en una ruta. Tras los excesos de las fiestas navideñas (¿quién no se ha pasado un poco con los dulces?), aprovechamos que no iba a llover para acercarnos al embalse del Burguillo desde donde partía nuestra caminata.

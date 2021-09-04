@@ -6,6 +6,7 @@ title: Guadalajara- Hayedo de la Tejera Negra y Ocejón
 thumbnailImage: /images/2012/11/2012-11-24-hayedo-de-tejera-negra-25-copy.jpg
 tags:
 - Guadalajara
+- España
 ---
 
 

@@ -7,6 +7,7 @@ thumbnailImage: /images/2015/01/IMG_20150110_131721_blog.jpg
 tags:
 - Senderismo
 - Valle de Iruelas
+- España
 ---
 
 

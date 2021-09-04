@@ -6,6 +6,7 @@ title: Köln 2016
 thumbnailImage: https://c2.staticflickr.com/2/1484/24450571699_7201576778_c.jpg
 tags:
 - Köln
+- Alemania
 ---
 
 ¡Nueva entrega dendarii! Como cada año por estas fechas, el Team Tontako se va de viaje coincidiendo con el FOSDEM y aprovechamos para conocer algún sitio nuevo del norte de Europa.

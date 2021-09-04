@@ -7,6 +7,7 @@ thumbnailImage: https://c2.staticflickr.com/6/5726/22030932626_d3d538fe57_c.jpg
 tags:
 - Madrid
 - Bici
+- España
 ---
 
 Últimamente el Team Tontako estamos haciendo un poco de bici siempre que podemos. Así que cuando nos enteramos de que se celebraba <a href="https://twitter.com/fiestadelabici" target="_new">la fiesta de la bici</a>, decidimos apuntarnos. Y nuestro buen amigo Luiyo se unió sin falta.

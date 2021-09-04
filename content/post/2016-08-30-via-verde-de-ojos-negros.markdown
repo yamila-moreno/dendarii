@@ -4,7 +4,8 @@ date: 2016-08-30T21:50:08.730Z
 slug: via-verde-de-ojos-negros
 title: Vía Verde de Ojos Negros
 thumbnailImage: https://c2.staticflickr.com/8/7401/27868062361_2d5d7c735c_c.jpg
-
+tags:
+- España
 ---
 
 En mayo me fui con mi buen amigo <a href="http://luiyo.blogspot.com.es" target="_new">Luiyo</a> a hacer la <a href="http://www.viasverdes.com/itinerarios/itinerario.asp?id=46" targt="_new">Vía Verde de Ojos Negros</a> en bici, haciendo el trozo que está acondicionado desde Santa Eulalia hasta el Puerto de Sagunto.

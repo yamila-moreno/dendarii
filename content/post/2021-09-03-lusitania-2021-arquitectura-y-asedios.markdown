@@ -1,8 +1,8 @@
 ---
 author: yamila
 date: 2021-09-03T00:00:00.000Z
-slug: iberia-2021-arquitectura-y-asedios
-title: Iberia 2021 - Arquitectura y asedios
+slug: lusitania-2021-arquitectura-y-asedios
+title: Lusitania 2021 - Arquitectura y asedios
 thumbnailImage: https://live.staticflickr.com/65535/51426735007_f4c7cdceb1_z.jpg
 coverImage: https://live.staticflickr.com/65535/51426735007_f4c7cdceb1_b.jpg
 
@@ -10,11 +10,11 @@ tags:
 - Salamanca
 - Ciudad Rodrigo
 - España
-trip: Iberia 2021
+trip: Lusitania 2021
 
 ---
 
-Para el equipo Tontako, septiembre es un mes clásico de hacer vacaciones, y aunque seguimos en una época muy rara para viajar, quisimos organizarnos para hacer un **road trip** por la Península Ibérica occidental.
+Para el equipo Tontako, septiembre es un mes clásico de hacer vacaciones, y aunque seguimos en una época muy rara para viajar, quisimos organizarnos para hacer un **road trip** por Lusitania, es decir, la Península Ibérica occidental.
 
 <!--more-->
 

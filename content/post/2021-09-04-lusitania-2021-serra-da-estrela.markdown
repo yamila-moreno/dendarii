@@ -43,7 +43,7 @@ Nuestro paseo continuó por la N338 hasta un sitio que nos había recomendado el
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/51436878862_a2a43c8bac_b.jpg" title="" alt="" >}}
 
-Para el segundo día en la Serra da Estrela hicimos una ruta senderista. En este valle han recuperado algunos caminos y los han marcado como senderos: los _trilhos verdes_. Pero claro, si todo está en cuesta, y no hay ni un pueblo así en llano, las rutas senderistas no iban a ser menos... Nos decidimos por una de las más emblemáticas y sencillas, **La Rota del Jabali**.
+Para el segundo día en la Serra da Estrela hicimos una ruta senderista. En este valle han recuperado algunos caminos y los han marcado como senderos: los _trilhos verdes_. Pero claro, si todo está en cuesta, y no hay ni un pueblo así en llano, las rutas senderistas no iban a ser menos... Nos decidimos por una de las más emblemáticas y sencillas, **La Rota del Javali**.
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/51438596430_6a0127a380_b.jpg" title="" alt="" >}}
 
@@ -55,13 +55,13 @@ Pasamos bastante calor pero encontramos alguna fuente de agua fresca por el cami
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/51437888988_4fa8a3360b_b.jpg" title="" alt="" >}}
 
-Tras la ruta, volvimos a la quesería (sí, nos encanta el queso) y le comentamos al camarero que no habíamos ido por el camino del averno, sino que habíamos ido siguiendo la nacional; y ahí fue cuando dijo "pero si es por donde os mandé, ¿por dónde os queríais ir?", y a punto estuve de tirar todo lo que había en la mesa e irme indiganada, pero es que estábamos terminando los deliciosos quesos y después confiaba en tomar _uma sobremesa_ casera en forma de tarta de chocolate. Así que mi furia visigoda tuvo que esperar.
+Tras la ruta, volvimos a la quesería (sí, nos encanta el queso) y le comentamos al camarero que no habíamos ido por el camino del averno, sino que habíamos ido siguiendo la nacional; y ahí fue cuando dijo "pero si es por donde os mandé, ¿por dónde os queríais ir?", y a punto estuve de tirar todo lo que había en la mesa e irme indignada, pero es que estábamos terminando los deliciosos quesos y después confiaba en tomar _uma sobremesa_ casera en forma de tarta de chocolate. Así que mi furia visigoda tuvo que esperar.
 
 Y la ruta tenía esta pinta :)
 
 {{< route center="#14/40.3839/-7.5233" >}}
 
-Para que os hagáis una idea de cómo son las carreteras en esa zona, GoogleMaps muchas veces nos recomendaba dejar la nacional y coger la pista forestal. Así que teńiamos que ir muy atentos de no caer en una trampa de carretera portuguesa, porque salir podría ser muy complicado. Al día siguiente salimos de la Serra de la Estrela por unas carreteras que no habíamos recorrido enl os días anteriores y aún pudimos disfrutar de unos valles increíbles.
+Para que os hagáis una idea de cómo son las carreteras en esa zona, GoogleMaps muchas veces nos recomendaba dejar la nacional y coger la pista forestal. Así que teńiamos que ir muy atentos de no caer en una trampa de carretera portuguesa, porque salir podría ser muy complicado. Al día siguiente salimos de la Serra de la Estrela por unas carreteras que no habíamos recorrido en los días anteriores y aún pudimos disfrutar de unos valles increíbles.
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/51438597740_804cf5149b_b.jpg" title="" alt="" >}}
 

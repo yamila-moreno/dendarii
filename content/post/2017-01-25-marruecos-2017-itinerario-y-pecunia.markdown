@@ -6,6 +6,7 @@ title: Marruecos 2017 - Itinerario y Pecunia
 trip: Marruecos 2017
 tags:
 - Marruecos
+- Itinerario y pecunia
 ---
 
 **Generalidades**

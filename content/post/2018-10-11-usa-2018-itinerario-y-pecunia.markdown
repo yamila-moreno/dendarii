@@ -8,6 +8,7 @@ coverImage: https://farm2.staticflickr.com/1953/44195686895_e20901c07b_b.jpg
 trip: USA 2018
 tags:
 - USA
+- Itinerario y pecunia
 ---
 
 Como es habitual en <a href="{{< ref "2017-10-22-vietnam-2017-itinerario-y-pecunia.markdown" >}}" target="_blank">viajes</a> <a href="{{< ref "2016-09-25-eslovenia-2016-kropa-itinerario-y-pecunia.markdown" >}}" target="_blank">anteriores</a> comparto los detalles significativos del itinerario y del presupuesto. Confío en que sean útiles a otras viajeras pensando en un viaje similar.

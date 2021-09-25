@@ -34,6 +34,7 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 ### 2020
 <DIV class="cv-list">
 
+* 09 - <a href="/trip/lusitania-2021" target="_blank">Lusitania</a>
 * 06 - Pirineo aragonés
 
 </DIV>

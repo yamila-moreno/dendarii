@@ -7,6 +7,7 @@ thumbnailImage: https://c1.staticflickr.com/9/8464/29546902190_7c1e059a01_c.jpg
 trip: Eslovenia 2016
 tags:
 - Eslovenia
+- Itinerario y pecunia
 ---
 
 El último día en Eslovenia nos lo hemos tomado con calma. Por la mañana nos acercamos a Kropa, a visitar su museo sobre forja. Muy interesante, con un montón de piezas de forja preciosas.

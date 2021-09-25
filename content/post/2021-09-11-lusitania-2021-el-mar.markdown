@@ -28,7 +28,7 @@ Recorrer el Algarve a nuestro aire, en camper, había sido la excusa con la que 
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/51500641565_fe27ce6f38_b.jpg" title="" alt="" >}}
 
-En el puerto de Peniche hay varias empresas que venden "la experiencia Berlanga"; te llevan ahí, te dan un paseo por las grutas, otras añaden snorkel o buceo... Elegimos una que nos encajaba con el horario que queríamos, y en veinticinco minutos de paseo por el mar estábamos desembarcando en **Berlenga Grande**, la isla más importante del conjunto.
+En el puerto de Peniche hay varias empresas que venden "la experiencia Berlenga"; te llevan ahí, te dan un paseo por las grutas, otras añaden snorkel o buceo... Elegimos una que nos encajaba con el horario que queríamos, y en veinticinco minutos de paseo por el mar estábamos desembarcando en **Berlenga Grande**, la isla más importante del conjunto.
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/51499939238_a235aec4c7_b.jpg" title="" alt="" >}}
 
@@ -36,7 +36,7 @@ Es un mini-puerto donde se encuentra la mayor parte de huella humana: una mini-p
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/51500643010_a552d5ca3c_b.jpg" title="Adivine el paquidermo" alt="" >}}
 
-El fuerte de San Juan Bautista es una fortificación defensiva del S.XVII, en un islote junto a Berlanga Grande, al que se accede por un puente de piedra, estrecho y sin asideros. _Portugal way of life._ Actualmente es un hostal con 20 camas y unas vistas alucinantes.
+El fuerte de San Juan Bautista es una fortificación defensiva del S.XVII, en un islote junto a Berlenga Grande, al que se accede por un puente de piedra, estrecho y sin asideros. _Portugal way of life._ Actualmente es un hostal con 20 camas y unas vistas alucinantes.
 
 {{< image classes="center margin-top" src="https://live.staticflickr.com/65535/51498920732_8fddbb6535_b.jpg" title="" alt="" >}}
 

@@ -40,13 +40,15 @@ Continuamos visitando la **Capela de San Miguel** donde destaca un enorme órgan
 
 Visitamos también la **Casa Real**, todo dentro del campus de la Universidad, que es donde actualmente se realizan los actos académicos importantes. El salón del trono se reconvirtió en sala de actos; la colección de reyes se cambió por la ristra de rectores de la Universidad porque eran una panda de señores y sacar pechito es lo que sabían hacer.
 
-{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/51447473611_25d6765681_b.jpg" title="" alt="" >}}
+{{< image classes="center fancybox fig-100 margin-top"
+    thumbnail="https://live.staticflickr.com/65535/51447473611_25d6765681_b.jpg"
+    src="https://live.staticflickr.com/65535/51447473611_2607a53b6d_o.jpg" >}}
 
 Aún pudimos pasear un poco más por el campus. Tiene por todas partes edificios imponentes, con enormes estatuas y bajorrelieves chulísimos, aunque no tiene apenas árboles y es algo que le pido a un campus universitario: césped y árboles para pasar los mejores años de mi vida ;)
 
-{{< image classes="left fancybox fig-30" src="https://live.staticflickr.com/65535/51447711048_ae167d1b63_b.jpg" title="" alt="" >}}
-{{< image classes="left fancybox fig-30" src="https://live.staticflickr.com/65535/51447711223_aa1751ca4d_b.jpg" title="" alt="" >}}
-{{< image classes="left fancybox fig-30 clear" src="https://live.staticflickr.com/65535/51447711393_862aa8fa62_b.jpg" title="" alt="" >}}
+{{< image classes="left fancybox fig-33" src="https://live.staticflickr.com/65535/51447711048_ae167d1b63_b.jpg" >}}
+{{< image classes="left fancybox fig-33" src="https://live.staticflickr.com/65535/51447711223_aa1751ca4d_b.jpg" >}}
+{{< image classes="left fancybox fig-33 clear" src="https://live.staticflickr.com/65535/51447711393_862aa8fa62_b.jpg" >}}
 
 Desde el campus, fuimos al centro pasando por el **Jardín Botánico**, un paseo muy refrescante a la sombra de las distintas especies que lo habitan. Hay también una _estufa fria_ pero por cuestiones COVID está solo con reserva, así que la tuvimos que ver desde fuera.
 

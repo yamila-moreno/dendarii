@@ -31,9 +31,18 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 <div id="map" style="height: 400px; width: 100%"></div>
 
 ## En orden cronológico (inverso)
+
+### 2022
+<DIV class="cv-list">
+
+* 04 - Doñana
+* 03 - Floración de los cerezos en el Jerte
+* 03 - Sierra de Gredos (norte)
+
 ### 2021
 <DIV class="cv-list">
 
+* 12 - Visita exprés a Laguardia
 * 11 - Plasencia y Valle del Jerte
 * 10 - Norte de Navarra con Zarangollo
 * 09 - <a href="/trip/lusitania-2021" target="_blank">Lusitania</a>

@@ -1,0 +1,11 @@
+<section class="tripindex">
+  <h3>Todos los resúmenes viajeros</h3>
+  <ol>
+    {{ $pages := .Site.RegularPages.RelatedTo (keyVals "tags" "Resumen viajero") }}
+    {{ range $pages.ByDate }}
+    <li><a href="{{ .Permalink }}">{{ .Title }} </a> </li>
+    {{ end }}
+  </ol>
+</section>
+
+

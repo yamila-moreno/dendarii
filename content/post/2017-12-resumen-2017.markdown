@@ -2,7 +2,7 @@
 author: yamila
 date: 2017-12-28T11:44:06.925Z
 slug: resumen-2017
-title: Resumen de 2017
+title: Resumen viajero de 2017
 thumbnailImage: https://farm5.staticflickr.com/4467/23841503518_734c0cbda5_c.jpg
 
 tags:

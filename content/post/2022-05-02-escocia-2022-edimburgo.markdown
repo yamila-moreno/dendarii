@@ -1,7 +1,7 @@
 ---
 draft: true
 author: yamila
-date: 2022-04-30T00:00:00.000Z
+date: 2022-05-02T00:00:00.000Z
 slug: escocia-2022-edimburgo
 title: Escocia 2022 - Edimburgo
 thumbnailImage: https://live.staticflickr.com/65535/51500733565_3ec08c4875_z.jpg
@@ -35,7 +35,7 @@ castilo de edimburgo - visita chula pero audioguía solo super aburrida
 
 ## Los paseos
 old town - royal mile, holyroot park, grassmarket, cementerios, victoria street
-new town - calton hill, dean village (pueblo cozy), water of laith walkway
+new town - princess street y el parque de la princesa con su cementerio bonico, calton hill, dean village (pueblo cozy), water of laith walkway (paseo cozy)
 
 ## La comida
 el primer día ya estábamos muertos con la comida de aquí y su culto por la hamburguesa y los super fritos
@@ -44,8 +44,6 @@ cosas ricas escocesas que hemos comido:
 - langosta?
 - salmón
 - queso ahumado de orkney
-
-## La costa
 
 ## Cómo pasa el tiempo
 el tiempo ha pasado para la ciudad y también para mí

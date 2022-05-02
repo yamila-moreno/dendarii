@@ -33,7 +33,7 @@ La segunda noche fuimos a otra sala a ver a un grupo de más modernete, Ross Ain
 
 En línea con nuestro plan musical, fuimos al museo de instrumentos antiguos que hay en la <a href="https://www.stcecilias.ed.ac.uk/" target="_blank">St Cecilia's Hall</a>. Una pequeña exposición que, por supuesto, visitamos totalmente solos, donde había un repaso bastante exhaustivo a la historia del piano y sus antecesores (queda siempre muy vistoso), además de varias salas con instrumentos de distintas épocas y orígenes.
 
-Y para rematar este nuestro viaje musical (hincapié en el "matar" de rematar), Alex me llevó a una tienda de música donde se compró... ¡un wishtle! Los wishtles en concierto están fenomenal, suenan a la siembra, a hadas del bosque y a farra sanota, pero en el apartamento de 20 metros cuadrados en el que estamos parece más bien una vuvuzela desafinada.
+Y para rematar este nuestro viaje musical (hincapié en el "matar" de rematar), Alex me llevó a una tienda de música donde se compró... ¡un whistle! Los whistles en concierto están fenomenal, suenan a la siembra, a hadas del bosque y a farra sanota, pero en el apartamento de 20 metros cuadrados en el que estamos parece más bien una vuvuzela desafinada.
 
 {{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52042974461_035a4a7e2b_b.jpg" >}}
 
@@ -51,11 +51,11 @@ Después fuimos a ver el <a href="https://www.edinburghcastle.scot/" target="_bl
 
 ## Los paseos
 
-Edimburgo es una ciudad que se puede pasear perfectamente. Hay un par de cuestas a las que una se acostumbra rápido, y el resto son calles y callejuelas en las que perderse sin tiempo. En la **ciudad vieja**, al sur del castillo, visitamos el castillo, la Royal Mile, Holyroot Park, Grassmarket, varios cementerios y la calle Victoria. Es la ciudad gótica, la de Harry Potter, la catedral y las leyendas. Es la parte más turística de la ciudad y es muy fácil hacerse con ella.
+Edimburgo es una ciudad que se puede pasear perfectamente. Hay un par de cuestas a las que una se acostumbra rápido, y el resto son calles y callejuelas en las que perderse sin tiempo. En la **ciudad vieja**, al sur del castillo, visitamos el castillo, la Royal Mile, Holyrood Park, Grassmarket, varios cementerios y la calle Victoria. Es la ciudad gótica, la de Harry Potter, la catedral y las leyendas. Es la parte más turística de la ciudad y es muy fácil hacerse con ella.
 
 {{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52041927077_ddd19b8184_b.jpg" >}}
 
-La **ciudad nueva**, al norte, está dominada por la ilustración, calles racionales, edificios más modernos y zonas de casas bastante caras. Aquí está la calle Princesa, con el precioso parque que limita con el castillo, y que alberga también un cementerio muy bien cuidado. También esá la zona de Calton Hill, una colina que sirve de perfecto mirador de la ciudad, dentro de la ciudad. Visitamos las calles que conforman el **Dean village**, una pequeña colonia de casas muy coquetas y por donde discurre un paseo fluvial junto al río Water of Leith.
+La **ciudad nueva**, al norte, está dominada por la ilustración, calles racionales, edificios más modernos y zonas de casas bastante caras. Aquí está la calle Princes, con el precioso parque que limita con el castillo, y que alberga también un cementerio muy bien cuidado. También esá la zona de Calton Hill, una colina que sirve de perfecto mirador de la ciudad, dentro de la ciudad. Visitamos las calles que conforman el **Dean village**, una pequeña colonia de casas muy coquetas y por donde discurre un paseo fluvial junto al río Water of Leith.
 
 {{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52043471360_c824cbf0ce_b.jpg" >}}
 

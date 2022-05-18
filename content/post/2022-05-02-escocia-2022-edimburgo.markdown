@@ -94,3 +94,5 @@ Y del resto de foticos de Edimburgo:
 {{< flickr album="72177720298559004" >}}
 
 A partir de ahora, el viaje cambia de tercio: toca coger la furgoneta camper que hemos alquilado y ver si llegamos a Inverness ilesos. ¡No os lo perdáis!
+
+{{< tripindex trip="Escocia 2022" >}}

@@ -83,3 +83,5 @@ No creo que se convierta en nuestra forma principal de viajar en el corto plazo,
 Y para finalizar, la ocasión la pintan... ¡de selfie tontakoneto!
 
 {{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52082614943_1710f78dda_b.jpg" >}}
+
+{{< tripindex trip="Escocia 2022" >}}

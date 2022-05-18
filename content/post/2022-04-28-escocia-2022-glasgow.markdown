@@ -74,3 +74,5 @@ A media tarde, volvimos paseando por la zona comercial, con sus insólitos comer
 Y el resto de las fotos :D
 
 {{< flickr album="72177720298527631" >}}
+
+{{< tripindex trip="Escocia 2022" >}}

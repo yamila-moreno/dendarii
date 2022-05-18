@@ -9,6 +9,7 @@ coverImage: https://live.staticflickr.com/65535/52067727212_f81ab5f302_b.jpg
 trip: Escocia 2022
 tags:
 - Escocia
+- Senderismo
 
 ---
 
@@ -90,3 +91,5 @@ Lo siguiente ya fue preparar la caravana, devolverla en perfecto estado y empren
 Y el resto (veréis que no son muchas) de fotos de estos días inciertos:
 
 {{< flickr album="72177720298873881" >}}
+
+{{< tripindex trip="Escocia 2022" >}}

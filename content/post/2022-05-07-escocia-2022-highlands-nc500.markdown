@@ -8,6 +8,7 @@ coverImage: https://live.staticflickr.com/65535/52064087738_2d05a1da15_b.jpg
 trip: Escocia 2022
 tags:
 - Escocia
+- Senderismo
 
 ---
 
@@ -156,3 +157,5 @@ Han sido unos días fantásticos, recorriendo lugares emblemáticos y otros más
 Y el resto de fotos de la NC500:
 
 {{< flickr album="72177720298807336" >}}
+
+{{< tripindex trip="Escocia 2022" >}}

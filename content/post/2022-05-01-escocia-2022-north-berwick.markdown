@@ -63,3 +63,5 @@ Y para fauna en su hábitat natural, aquí dos ejemplares de Tontakus Tontakos, 
 Y el resto de foticos del día:
 
 {{< flickr album="72177720298550151" >}}
+
+{{< tripindex trip="Escocia 2022" >}}

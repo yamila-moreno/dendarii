@@ -74,7 +74,7 @@ Los gastos desglosados serían:
 - 270€ de visitas turísticas, entradas, etc
 - 130€ de gatoteca (mis gatitos siempre bien cuidados durante los viajes)
 - 762€ de comida (compra en supermercado, restaurantes y cafés varios)
-- 90€ de varios (regalitos, el wishtle, lector de tarjeta de cámara...)
+- 90€ de varios (regalitos, el whistle, lector de tarjeta de cámara...)
 
 {{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52064088343_7996386157_b.jpg" >}}
 
@@ -94,7 +94,7 @@ Ha sido un viaje bastante cansado; es el primer viaje "grande" que hago desde qu
 
 {{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52064516035_1cedfac926_b.jpg" >}}
 
-Como viene siendo habitual, mi compañero de viajes es Alex. Tras casi 10 años de periplos juntos es difícil ser original en este punto, pero como siempre, es de recibo comentar que es un compañero excepcional. En este viaje condujimos los dos, pero él bastante más, sobre todo los días de lluvia. Entre los dos íbamos buscando sitios y planificando visitas, o sencillamente copilando al otro, construyendo el viaje juntos.
+Como viene siendo habitual, mi compañero de viajes es Alex. Tras casi 10 años de periplos juntos es difícil ser original en este punto, pero como siempre, es de recibo comentar que es un compañero excepcional. En este viaje condujimos los dos, pero él bastante más, sobre todo los días de lluvia. Entre los dos íbamos buscando sitios y planificando visitas, o sencillamente copilotando al otro, construyendo el viaje juntos.
 
 {{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52064288664_aace894b55_b.jpg" >}}
 

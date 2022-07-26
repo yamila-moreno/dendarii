@@ -230,7 +230,7 @@ Nosotros hicimos las etapas sin comida; desayunábamos pronto por la mañana y a
 
 Disfruté más del camino cuando salimos de las etapas canónicas y las rehicimos a nuestro aire. Por un lado, eran etapas con menos competición por los albergues, puesto que casi todo el mundo intentaba maximizar los tramos. Por otro lado, eran albergues en pueblos pequeños o aislados, en lugar de ciudades pequeñas y esto implicaba un entorno mucho más bonito.
 
-La única recomendación fuerte que haría tras mi experiencia es que para estre tramo te lleves zapatillas de trekking. No tienen por qué ser botas, pero sí deberían ser zapatillas con buena suela, que amortigue las piedras y que sujete el empeine durante las bajadas.
+La única recomendación fuerte que haría tras mi experiencia es que para estre tramo te lleves zapatillas de trekking. No tienen por qué ser botas, pero sí deberían ser zapatillas con buena suela, que amortigüe las piedras y que sujete el empeine durante las bajadas.
 
 Aunque durante el viaje no tuvimos apenas molestias musculares o articulares (a Alex un poco la rodilla pero nunca llegó a ser más que una pequeña molestia), a la vuelta pasé una semana con lumbalgia fuerte, y además pillamos covid los dos. Ambas cosas eran riesgos que asumíamos, y tocó hacer una buena cuarentena.
 

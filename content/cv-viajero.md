@@ -35,6 +35,9 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 ### 2022
 <DIV class="cv-list">
 
+* 10 - Pirineos con Zarangollo
+* 09 - Tanzania
+* 08 - Sierra de la Demanda
 * 07 - <a href="{{< ref "2022-07-camino-de-santiago-2022.markdown" >}}" target="_blank">Camino de Santiago del Norte, de Irún a Bilbo</a>
 * 05 - II Mereth arquera de Ithilien en Barcelona
 * 05 - <a href="/trip/escocia-2022" target="_blank">Escocia</a>
@@ -160,6 +163,7 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 * 08 - Val de Aran
 * 07 - Sigüenza
 * 05 - Val de Aran
+* 02 - Fosdem
 
 </DIV>
 

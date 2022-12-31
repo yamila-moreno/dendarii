@@ -1,63 +1,176 @@
 ---
-draft: true
 author: yamila
-date: 2022-12-28T08:00:00.000Z
+date: 2022-12-31T08:00:00.000Z
 slug: resumen-viajero-2022
 title: Resumen viajero de 2022
-thumbnailImage: https://live.staticflickr.com/65535/48662472291_274e21dea2_z.jpg
-coverImage: https://live.staticflickr.com/65535/48662472291_274e21dea2_b.jpg
+thumbnailImage: https://live.staticflickr.com/65535/52064059486_49f2848ff9_z.jpg
+coverImage: https://live.staticflickr.com/65535/52064059486_49f2848ff9_b.jpg
 tags:
 - Resumen viajero
 
 ---
 
-**resumen viajero de 2022** me ha dado la oportunidad de repasar los viajes y las salidas de este año. Visto todo en perspectiva, ha sido un *añazo* que he podido compartir a través de este blog.
-
-
-{{< resumenviajero >}}
+El **resumen viajero de 2022** me ha dado la oportunidad de repasar los viajes y las salidas del año. Visto todo en perspectiva, ha sido un *añazo* de viajes que he podido compartir con mi gente.
 
 <!--more-->
 
-**Años previos**
+{{< resumenviajero >}}
 
-Si queréis ver este mismo resumen de años anteriores, podéis visitar <a href="{{< ref "2017-12-resumen-2017.markdown" >}}" target="_new">resumen viajero de 2017</a> o <a href="{{< ref "2018-12-resumen-2018.markdown" >}}" target="_new">resumen viajero de 2018</a>.
 
-Este 2019 ha sido un año con un viaje grande, algunos viajes más pequeños y muchas salidas senderistas. Las rutas senderistas no suelo comentarlas en este blog, pero se pueden ver en <a href="https://yamila-moreno.github.io/routes/#9/40.6390/-3.1229" target="_blank">el mapa</a> que sí que mantengo actualizado. En este blog he escrito 27 posts (incluyendo este resumen) y he publicado 1330 fotos en mi flickr.
+### Resumen
 
-{{< image classes="center margin-top" src="https://live.staticflickr.com/65535/47781033552_0ced4db50c_b.jpg" alt="" title="" >}}
+En 2022 volví a viajar *viajar* tras la etapa Covid. No es que esa estapa esté ya en el pasado: en el momento en que escribo estas líneas aún tengo amigos que acaban de pasar el corona, y desde China llegan noticias preocupantes de nuevo. Con todo, poco a poco estamos aprendiendo a vivir con esta gripe y eso significa que también aprendemos a viajar a pesar de la incertidumbre.
+
+Por ejemplo, este año, Álex y yo volvimos del <a href="https://dendarii.es/2022/07/camino-santiago-2022/" target="_blank">**Camino de Santiago**</a> con Covid los dos. Gracias a las vacunas, los efectos no fueron nada problemáticos, y gracias a que los tests ya son asequibles, pudimos descubrirlo rápidamente y hacer cuarentena.
+
+En otro orden de cosas, gracias al viaje a **Tanzania** di un ¿paso adelante? en cuanto a fotografía. Me compré una cámara réflex de segunda mano, con varios accesorios, y di varios cursos de fotografía para poder sacarle el máximo partido al safari fotográfico. Ha sido un gran aprendizaje, y he podido hacer algunas fotos que guardaré siempre conmigo, pero he descubierto que soy mejor fotógrafa con mi querida compacta. Este ha sido un pequeño viaje de ida y vuelta.
+
+En 2022 hemos tenido viajes grandes y pequeños, solos, con amigos, con familia... ya sabéis que yo procuro hacer algún viaje en grupo y como es un plan que suele suceder menos, lo disfruto el doble. Este año hemos 9 viajes y casi 40 rutas senderistas. Las rutas las podéis encontrar casi todas en mi <a href="https://routes.dendarii.es/" target="_blank">mapa de rutas</a>.
+
+No he llevado al día este blog todo lo que me gustaría, con bastante pena, aunque tengo mucho material ya escrito y pretendo ir sacando posts poco a poco. Y sin más dilación, aquí va el resumen de las salidas tontakas de 2022.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52596331361_c725960218_b.jpg" title="" >}}
 
 ### Marzo: Aniversario en Gredos y cerezas en el Jerte
 
-En marzo celebramos el aniversario tontako y este año nos fuimos a la Sierra Norte de Gredos para celebrarlo.
+En marzo celebramos el **aniversario tontako** y este año nos fuimos a la **Sierra Norte de Gredos** para celebrarlo. Fue la primera vez que me alojé en un Parador de Turismo. El entorno era absolutamente increíble y tuvimos mucha suerte con el tiempo, que nos permitió disfrutar de paseos por los bosques.
 
-Y a finales de marzo, gracias a un regalo de Zarangollo, nos asomamos a la floración del cerezo en el valle del Jerte.
+{{< image classes="center fancybox margin-top pano" src="https://live.staticflickr.com/65535/52596316541_5031417fd0_k.jpg" title="" >}}
+
+A finales de marzo, gracias a un regalo de Zarangollo, nos asomamos a la floración del cerezo en el **valle del Jerte**. Habíamos estado hacía pocos meses y nos encantó la zona, así que fue genial volver en una época tan especial.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52595855147_c8af47f313_b.jpg" title="" >}}
 
 ### Abril: rol y flamencos
 
-A comienzos de abril fuimos a Pedraza, para pasar un finde rolero, y de paso disfrutar del campo segoviano. Además, conocimos la Casa del Águila Imperial: una visita fantástica que nos sorprendió mucho. Sobre el águila imperial y su presencia en las serranías segovianas. Además, el centro está construido sobre la antigua iglesia, y alrededor de la iglesia hay además un jardín botánico magnífico.
+A comienzos de abril fuimos a **Pedraza** para pasar un finde rolero con nuestros amigos Pablo, Angela y Luiyo, y de paso disfrutar del campo segoviano. Además, conocimos la Casa del Águila Imperial: una visita fantástica que nos sorprendió mucho. Tiene mucha información sobre el águila imperial y su presencia en las serranías segovianas. Además, el centro está construido sobre la antigua iglesia, y alrededor de la iglesia hay además un jardín botánico magnífico.
 
-En Semana Santa por fin pudimos dedicar tiempo a conocer a fondo el Parque Natural de Doñana en Huelva. Disfrutamos mucho de las aves en las marismas, hicimos las visitas guiadas del parque y aún tuvimos tiempo para visitar algunos pueblos del interior de Huelva.
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52596465506_9ac27ec744_b.jpg" title="Autor: Pablo Ruiz" >}}
+
+El año pasado, de vuelta de nuestro viaje por <a href="/trip/lusitania-2021">Lusitania</a> nos asomamos a **Doñana** y yo me quedé con muchas ganas de volver en época de migración. En Semana Santa por fin pudimos dedicar tiempo a conocer a fondo el Parque Natural de Doñana en Huelva. Disfrutamos mucho de las aves en las marismas, hicimos las visitas guiadas del parque y aún tuvimos tiempo para visitar algunos pueblos del interior de Huelva. Y a la vuelta hicimos una parada fantástica en Mérida.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52596903138_9f7425f8dd_b.jpg" title="" >}}
 
 ### Mayo: Highlands y Tiro con Arco
 
+En la primavera, con el buen tiempo, retomamos una idea que estaba esperando desde nuestro increíble viaje por <a href="/trip/canada-2019">Canadá en 2019</a>: queríamos probar qué tal era viajar en una caravana más pequeña. Y para ello, decidimos ir a <a href="/trip/escocia-2022">**Escocia**</a>, un país que ambos habíamos visitado por separado anteriormente. El viaje comenzó con visitas pequeñas pero muy interesantes. Visitamos <a href="{{< ref "2022-04-28-escocia-2022-glasgow.markdown" >}}">Glasgow</a>, donde descubrí un museo ecléctico y divertido y un jardín botánico realmente alucinante.
+
+{{< image classes="center fancybox margin-top fig-50" src="https://live.staticflickr.com/65535/52041403670_872a320d73_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/52039873322_0f5a8318cf_b.jpg" title="" >}}
+
+Pudimos disfrutar de una observación de aves privilegiada en <a href="{{< ref "2022-05-01-escocia-2022-north-berwick.markdown" >}}">North Berwick</a>: alcatraces, frailecillos, y además focas e incluso delfines.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52042981523_6702c4c7d8_b.jpg" title="" >}}
+
+Y paseamos juntos por <a href="{{< ref "2022-05-02-escocia-2022-edimburgo.markdown" >}}">Edimburgo</a>, una ciudad con mucho encanto. Como ya me voy conociendo en las ciudades, nos lo tomamos con calma y combinamos visitas "obligadas" (no nos engañemos, nunca lo son) con otras más pedestres.
+
+{{< image classes="center fancybox margin-top fig-50" src="https://live.staticflickr.com/65535/52043226684_baa26e68e4_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/52042973496_1d1a06bf2a_b.jpg" title="" >}}
+
+Y después ya cogimos la **Tontakoneta** para viajar por las Highlands. Nos aventuramos a bastantes de las 500 millas de la <a href="{{< ref "2022-05-07-escocia-2022-highlands-nc500.markdown" >}}">NC500</a>, viendo castillos y faros en la costa.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52064053791_d0dc72687a_b.jpg" title="" >}}
+
+La <a href="{{< ref "2022-05-09-escocia-2022-highlands-la-lluvia.markdown" >}}">Isla de Skye</a> nos puso alguna traba en el camino viajero en forma de lluvia torrencial y problemas mecánicos, lo que nos obligó a adaptarnos y replanificar. No es que me alegre de tener problemas en los viajes, pero si miro hacia ese viaje, junto con los paisajes increíbles que visitamos, me acuerdo de cómo nos tocó hacer equipo y sacar adelante el viaje en la isla ventosa.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52068771841_37cb24679b_b.jpg" title="" >}}
+
+Volvimos justo a tiempo para la **II Mereth de Ithilien**, nuestro club de Tiro con Arco con amigos. Volvimos a la misma masía que la vez anterior, y compartimos unas tiradas increíbles, en campos con seres de fantasía en un entorno genial.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52597459087_101e72e1b1_b.jpg" title="" >}}
 
 ### Julio: haciendo el Camino
 
+Llevaba yo mucho tiempo con el runrún del <a href="{{< ref "2022-07-camino-de-santiago-2022.markdown" >}}">**Camino de Santiago**</a>. No hizo falta mucho para Álex se animara también y así en Julio dedicamos una semana a recorrer un tramo del <a href="https://www.gronze.com/camino-norte" target="_blank">Camino del Norte</a>, desde Irún hasta Bilbo.
 
-### Septiembre: en las llanuras del Serengueti
+Volvimos con Covid los dos, y en mi caso además con una estupenda lumbalgia y con los pies destrozadicos. Pero ya al final del viaje sospechábamos que querríamos hacer más, y para 2023 ya estamos hablando de cuál sería la fecha. Fue una experiencia fantástica, en la que disfruté mucho de caminar "con la casa a cuestas" y siempre hacia adelante. El ambiente peregrino me gustó mucho, y conocí a mucha gente de muchos sitios y con muchas y variopintas razones para estar allí.
 
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52220406634_863350f053_b.jpg" title="" >}}
 
-### De enero a diciembre: rutas senderistas
+### Agosto: Escapada a la Sierra de la Demanda
 
+Con los rigores del verano, Álex tuvo la genial idea de escaparnos a la **Sierra de la Demanda**. Es una zona preciosa, con lagos alpinos y unos paseos geniales. Lo mejor es que por la noche refresca y pudimos ¡dormir tapados!
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52597253957_be27193602_b.jpg" title="" >}}
+
+### Septiembre: en las llanuras del Serengeti y PyConES
+
+Después del verano venía el que para mí era el viaje más importante del año: **un safari en el norte de Tanzania**. Un viaje que vislumbré por primera vez en 2019, para ir con mi padre. La pandemia lo dejó totalmente parado, pero cuando de nuevo se pudo viajar, y vi que estábamos todos bien, pensé que era _el momento_.
+
+Lo primero fue convencer a mi padre, aunque este viaje era un sueño para él y a pesar de las reticencias, se apuntó. Después, Álex me dijo que también se venía, lo cual me dio un extra de motivación. Y como una oportunidad así no se da cada año, también se vino nuestro amigo Luiyo. Y ya teníamos el viaje tontako, con amigos y familia.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52597477372_cce559c2c5_b.jpg" title="" >}}
+
+Fue un viaje increíble en el que pudimos disfrutar de todo lo que íbamos buscando: naturaleza salvaje, la infinita sabana del Serengeti, inmensos parques naturales y la Gran Migración. Empezamos por el **Parque Nacional de Tarangire**, donde los elefantes conviven con los baobabs.
+
+{{< image classes="center fancybox margin-top fig-50" src="https://live.staticflickr.com/65535/52598232424_4378044bb1_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/52527337938_ea519ed7ed_b.jpg" title="" >}}
+
+Después visitamos, de la mano de un guía local, al **pueblo hazabe** (bosquimanos) cerca del **lago Eyasi**, uno de los pueblos más antiguos que pueblan actualmente la tierra. Son nómadas y cazadores y nos permitieron tirar con sus arcos. Y también conocimos al **pueblo datoga**: nos sentaron con las mujeres del poblado y con la ayuda del guía como traductor, nos hacíamos preguntas mutuamente. Además, son orfebres y pudimos ver cómo hacen puntas de flecha y abalorios con metal.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52465338395_f0ca88c034_b.jpg" title="Autor: lekum" >}}
+
+Poco después nos adentramos en el Serengeti, _la llanura sin fin_. Gracias a nuestro guía Gody vimos muchísimos felinos y aprendimos a identificar a buena parte de los hervíboros que pueblan la sabana africana. En la zona de **Seronera** tuvimos la suerte de ver guepardos, leones, hipopótamos, multitud de aves...
+
+{{< image classes="center fancybox margin-top fig-50" src="https://live.staticflickr.com/65535/52526789996_19013f47f0_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/52526789956_2186941db1_b.jpg" title="" >}}
+
+Y seguimos hacia el norte, en busca de la Gran Migración de los ñúes. En las fechas en las que fuimos, los ñúes están cruzando el **río Mara** de vuelta. Fue un día de mucha paciencia, pero conseguimos ver varios cruces.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52598525568_307932cdda_b.jpg" title="" >}}
+
+Y para despedirnos de Tanzania, nos sumergimos en el gran cráter de **Ngorongoro**, un _arca de Noé_ donde por fin pudimos atisbar el rinoceronte, junto con otro sinfín de animales.
+
+{{< image classes="center fancybox margin-top fig-25" src="https://live.staticflickr.com/65535/52527065219_f604cc7120_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-25" src="https://live.staticflickr.com/65535/52527337853_f6fc0d0242_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-25" src="https://live.staticflickr.com/65535/52526789736_2ea738024f_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-25 clear" src="https://live.staticflickr.com/65535/52527265255_6840f2037a_b.jpg" title="" >}}
+
+Fue un viaje muy sorprendente para mí; no era un destino que yo tuviera en mente, pero consiguió ilusionarme pronto y fue un auténtico lujo poder compartirlo con Álex, con mi padre y con Luiyo.
+
+A la vuelta de semejante viaje, nos fuimos a **Granada**, a una conferencia de tecnología y aprovechamos para contratar un paseo fotográfico por el Sacromonte.
+
+### Octubre: Pirineos
+
+Y en octubre hicimos un viaje que se está convirtiendo en un clásico: escapada con Zarangollo (los padres de Álex). Este año fuimos a la **comarca de Sobrarbe**, en el Pirineo Aragonés. Nos hizo un tiempo espectacular, pudimos hacer alguna ruta senderista, también contamos con un guía para visitar ciertas zonas más inaccesibles, nos asomamos a todos los miradores que encontramos y, por supuesto, cogimos algunos cachés.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52598197470_cb1bccb293_b.jpg" title="" >}}
+
+## Habilidades viajeras
+
+Este año el Camino supuso mucho aprendizaje viajero. Ir con la mochila a cuestas y depender enteramente de lo que aguantásemos físicamente me puso a prueba. Me tocó ser amable conmigo misma cuando los pies se negaban a cumplir con mis planes. Una cosa es adaptar el viaje por circunstancias externas, pero otra que costó un poco más fue aceptar que teníamos que adaptar el viaje por mis circunstancias concretas. Creo que esto es un sentimiento bastante común y me alegro de no haberme obcecado en ese aspecto de forma que pude terminar de disfrutar el viaje.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52220411204_4d5505ff84_b.jpg" title="" >}}
+
+El viaje a Tanzania no tuvo tanto aprendizaje, pero sí que fue muy distinto a los que solemos hacer. Todo estaba organizado con antelación a través de una agencia. Nuestro guía nos recogió en el aeropuerto y nos acompañó durante los 10 días de viaje. No tuve que gestionar nada apenas. Lo disfruté y creo que fue la mejor decisión para un primer viaje así, pero sí que en general noto que disfruto más cuando tengo el control o descontrol del viaje y dependo más de mí misma.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52598556193_1ab7cfaedd_b.jpg" title="" >}}
 
 ## Compañeros de viaje
 
-Con Pablo, Angela y Luiyo - a Pedraza
-Con unos cuantos arqueros y arqueras de Ithilien - a la II Mereth
-Con Luiyo ¡y con mi padre! - a Tanzania
+Este ha sido un año con muchos viajes en compañía, lo que me hace profundamente feliz. Poder compartir esta afición con mi gente es para mí una cuestión vital que me llena de energía.
 
-Y en todos ellos, con Alex :)
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52598425568_943a4c52f1_b.jpg" title="" >}}
+
+Con nuestros amigos Pablo, Angela y Luiyo hemos ido de fin de semana rolero y de puente arquero con un nutrido grupo de amigos; con Luiyo y mi padre fuimos a Tanzania; y con Zarangollo fuimos al Pirineo.
+
+{{< image classes="center fancybox margin-top fig-50" src="https://live.staticflickr.com/65535/52598562958_e48f445c52_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/52597574002_954bdc2c0f_b.jpg" title="" >}}
+
+Desde luego, es un año para enmarcar en este sentido; lo mejor de estos viajes es poder compartirlos con Álex, que es el mejor compañero que una puede imaginar.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52064261869_c0de3df842_b.jpg" title="" >}}
 
 ## Próximos destinos
 
-¿qué me deparará 2023...?
+¿Y qué nos depara 2023? Pues, a diferencia de otros años, ya tenemos sobre la mesa una gran multitud de planes.
+
+En Febrero, volvemos al FOSDEM, en Bruselas. Este año de mi empresa vamos un pequeño gran escuadrón, así que será una ocasión para coincidir en persona muchos de nosotros. En Marzo, Zarangollo nos lleva a Egipto, donde podré conocer uno de los patrimonios históricos más importantes del mundo. Queremos visitar alguna ciudad europea, como Berlín, y tal vez recorrer durante un par de semanas la antigua Checoslovaquia.
+
+En septiembre, un congreso del que somos habituales nos lleva a Canarias, y parece la ocasión perfecta para conocer alguna isla del archipiélago. También querríamos sacar otra semana para seguir avanzando etapas del Camino de Santiago. Y hay alguna idea de que el viaje arquero de este año sea a la Selva Negra.
+
+Todo esto sin contar con los viajes que pueden aparecer durante el año. Veo claro que va a ser difícil realizar todos estos planes durante 2023, pero lejos de deprimirme, me encanta tener tantas posibilidades por delante y poder compartirlos en este blog.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52595896882_b6d6a0fe3e_b.jpg" title="" >}}
+
+Así que gracias por acompañarme durante este año viajero; espero que tengáis unas fiestas fantásticas y os deseo un próspero y viajero 2023.

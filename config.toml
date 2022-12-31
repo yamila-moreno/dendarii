@@ -82,7 +82,7 @@ copyright = "CC BY NC SA 4.0 || https://creativecommons.org/licenses/by-nc-sa/4.
   weight = 5
   identifier = "flickr"
   name = "Flickr"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-flickr\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-images\"></i>"
   url = "https://www.flickr.com/photos/125687915@N08/albums/"
 [[menu.main]]
   weight = 6

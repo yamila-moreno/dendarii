@@ -1,0 +1,57 @@
+---
+draft: true
+author: yamila
+date: 2023-12-31T08:00:00.000Z
+slug: resumen-viajero-2023
+title: Resumen viajero de 2023
+thumbnailImage: https://live.staticflickr.com/65535/52064059486_49f2848ff9_z.jpg
+coverImage: https://live.staticflickr.com/65535/52064059486_49f2848ff9_b.jpg
+tags:
+- Resumen viajero
+
+---
+
+El **resumen viajero de 2022** me ha dado la oportunidad de repasar los viajes y las salidas del año. Visto todo en perspectiva, ha sido un *añazo* de viajes que he podido compartir con mi gente.
+
+<!--more-->
+
+{{< resumenviajero >}}
+
+
+### Resumen
+
+
+### Febrero: FOSDEM
+
+
+### Marzo: Aniversario en Cuéllar y Pirámides
+
+Aniversario: Cuéllar. Visita teatralizada al castillo de Cuéllar (suúúper bien). Jardines de la Granja de San Ildefonso.
+Egipto con la familia de Alex. Todo organizado y yo "a mesa puesta 100%"
+
+### Abril:
+
+Campamento montaraz en Sigüenza
+Viaje a Berlín
+III Mereth de Ithilien en la Selva Negra
+
+### Julio:
+¿Camino de Santiago?
+
+### Septiembre:
+¿Canarias?
+
+## Habilidades viajeras
+
+
+## Compañeros de viaje
+
+Amigos: Berlín, III Mereth Ithilien
+Familia de Alex
+Con Alex
+
+## Próximos destinos
+
+¿Y qué nos depara 2024?
+
+NZ?!

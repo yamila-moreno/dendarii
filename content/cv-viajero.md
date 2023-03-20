@@ -32,6 +32,13 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 
 ## En orden cronológico (inverso)
 
+### 2023
+<DIV class="cv-list">
+
+* 03 - <a href="/trip/egipto-2023" target="_blank">Egipto</a>
+* 03 - Cuéllar y La Granja de San Ildefonso
+* 02 - FOSDEM (Bruselas)
+
 ### 2022
 <DIV class="cv-list">
 

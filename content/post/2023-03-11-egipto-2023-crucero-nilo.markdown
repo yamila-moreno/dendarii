@@ -88,7 +88,7 @@ Esa noche cruzamos con el barco la presa de Esna, con el crucero en un convoy de
 
 Se fue a la guedda, qué dolod, qué dolod, qué pena... El segundo día empezamos con una visita vespertina al **templo de Edfú**, construido durante la dinastía ptolemáica (ya de época grecorromana) pero al estilo antiguo.
 
-El pilono principal está prácticamente intacto y me impresionó mucho con sus bajorrelieves de tamaño descomunal. Aunque la planta del templo era de estilo antiguo, los capiteles delatan el gusto mucho más moderno de los arquirectos.
+El pilono principal está prácticamente intacto y me impresionó mucho con sus bajorrelieves de tamaño descomunal. Aunque la planta del templo era de estilo antiguo, los capiteles delatan el gusto mucho más moderno de los arquitectos.
 
 ## Kom Ombo
 

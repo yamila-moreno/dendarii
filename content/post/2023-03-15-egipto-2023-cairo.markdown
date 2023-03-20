@@ -40,7 +40,7 @@ Para terminar la visita, nos acercamos a la gran **Esfinge**, cuya construcción
 Algo pasó en esta visita, no sé si fue místico o que había mucha gente y ruidos... Al principio no le di importancia, pero en cierto momento ya no pude ignorar más los hechos: me había convertido en una guiri. Así que vi lo que hacían el resto de guiris y me hice las fotos de rigor:
 
 {{< image classes="center fancybox margin-top fig-50" src="https://live.staticflickr.com/65535/52757472123_4a3510f4ec_c.jpg" title="Cogiendo (casi) la pirámide" >}}
-{{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/52757395360_14e57106bb_c.jpg" title="Sosteniendo la pirámide incliniada de Gisa" >}}
+{{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/52757395360_14e57106bb_c.jpg" title="Sosteniendo la pirámide inclinada de Gisa" >}}
 
 ## Menfis y Saqqara
 

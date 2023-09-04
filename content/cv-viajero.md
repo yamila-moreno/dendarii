@@ -218,7 +218,8 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 * <a href="/tags/camboya" target="blank">Camboya</a>
 * <a href="/tags/canada" target="blank">Canadá</a>
 * Croacia
-* Escocia
+* <a href="/tags/escocia" target="blank">Escocia</a>
+* <a href="/tags/egipto" target="blank">Egipto</a>
 * <a href="/tags/eslovenia" target="blank">Eslovenia</a>
 * <a href="/tags/espana" target="blank">España</a>
 * <a href="/tags/usa" target="blank">Estados Unidos</a>
@@ -227,11 +228,13 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 * <a href="/tags/inglaterra" target="_blank">Inglaterra</a>
 * Irlanda
 * <a href="/tags/italia" target="blank">Italia</a>
+* Liechtestein
 * <a href="/tags/marruecos" target="blank">Marruecos</a>
 * <a href="/tags/paises-bajos" target="_blank">Países Bajos</a>
 * Polonia
 * <a href="/tags/portugal" target="blank">Portugal</a>
 * <a href="/tags/suiza" target="blank">Suiza</a>
+* <a href="/tags/tanzania" target="blank">Tanzania</a>
 * <a href="/tags/vietnam" target="blank">Vietnam</a>
 
 </DIV>

@@ -214,12 +214,15 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 
 * <a href="/tags/alemania" target="blank">Alemania</a>
 * Argentina
+* <a href="/tags/austria" target="blank">Austria</a>
 * <a href="/tags/belgica" target="blank">Bélgica</a>
 * <a href="/tags/camboya" target="blank">Camboya</a>
 * <a href="/tags/canada" target="blank">Canadá</a>
+* <a href="/tags/chequia" target="blank">Chequia</a>
 * Croacia
 * <a href="/tags/escocia" target="blank">Escocia</a>
 * <a href="/tags/egipto" target="blank">Egipto</a>
+* <a href="/tags/eslovaquia" target="blank">Eslovaquia</a>
 * <a href="/tags/eslovenia" target="blank">Eslovenia</a>
 * <a href="/tags/espana" target="blank">España</a>
 * <a href="/tags/usa" target="blank">Estados Unidos</a>

@@ -10,7 +10,6 @@ tags:
 - Checoslovaquia
 - Eslovaquia
 - Cuevas
-- hide
 
 ---
 

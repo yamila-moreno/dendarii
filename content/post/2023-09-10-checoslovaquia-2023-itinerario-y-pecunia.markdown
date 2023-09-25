@@ -9,7 +9,6 @@ trip: Checoslovaquia 2023
 tags:
 - Checoslovaquia
 - Itinerario y pecunia
-- hide
 
 ---
 

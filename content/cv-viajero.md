@@ -35,6 +35,9 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 ### 2023
 <DIV class="cv-list">
 
+* 09 - <a href="/trip/checoslovaquia-2023" target="_blank">Checoslovaquia</a>
+* 04 - III Mereth Ithilien (arquería) en la Selva Negra
+* 04 - Berlín con amigos
 * 03 - <a href="/trip/egipto-2023" target="_blank">Egipto</a>
 * 03 - Cuéllar y La Granja de San Ildefonso
 * 02 - FOSDEM (Bruselas)

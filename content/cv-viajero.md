@@ -36,6 +36,7 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 <DIV class="cv-list">
 
 * 09 - <a href="/trip/checoslovaquia-2023" target="_blank">Checoslovaquia</a>
+* 07 - Barcelona
 * 04 - III Mereth Ithilien (arquería) en la Selva Negra
 * 04 - Berlín con amigos
 * 03 - <a href="/trip/egipto-2023" target="_blank">Egipto</a>

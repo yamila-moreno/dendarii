@@ -1,57 +1,188 @@
 ---
-draft: true
 author: yamila
-date: 2023-12-31T08:00:00.000Z
+date: 2023-12-28T08:00:00.000Z
 slug: resumen-viajero-2023
 title: Resumen viajero de 2023
-thumbnailImage: https://live.staticflickr.com/65535/52064059486_49f2848ff9_z.jpg
-coverImage: https://live.staticflickr.com/65535/52064059486_49f2848ff9_b.jpg
+thumbnailImage: https://live.staticflickr.com/65535/53163468653_1cabf6d399_z.jpg
+coverImage: https://live.staticflickr.com/65535/53163468653_1cabf6d399_b.jpg
+
 tags:
 - Resumen viajero
 
 ---
 
-El **resumen viajero de 2022** me ha dado la oportunidad de repasar los viajes y las salidas del año. Visto todo en perspectiva, ha sido un *añazo* de viajes que he podido compartir con mi gente.
+Se acerca el final de año, y vuelvo al blog para cumplir con la pequeña tradición de echar la vista al año que termina y tener un cuadro general de cómo ha sido el año viajero. Este **año viajero de 2023** ha sido muy afortunado y solo puedo sentirme agradecida por seguir viajando y descubriendo sitios increíbles en compañía de gente maravillosa.
 
 <!--more-->
 
+Si os apetece ver otros resúmenes viajeros, aquí están todos los que he hecho hasta la fecha:
 {{< resumenviajero >}}
 
 
 ### Resumen
 
+Si en 2022 aún sentía los coletazos del Covid, en 2023 apenas he percibido que sea algo presente en los viajes. No estoy segura de que sea enteramente bueno, aunque sí lo atribuyo a un espíritu de superación y de dejar atrás unos años tan duros.
 
-### Febrero: FOSDEM
+En 2023 he tenido muchos viajes pequeños y alguno mediano. Este modo "picoteo" es una experiencia distinta de tener _un gran viaje_ (por tiempo y/o coste). No he tenido una gran implicación organizando ninguno de los viajes, pero a cambio cierro el año con una colección muy variopinta de lugares nuevos y aventuras.
 
+Este año hemos hecho poco senderismo y ambos lo hemos echado mucho de menos. Creo que en 2024 vamos a intentar dedicar más tiempo de calidad a hacer rutas nuevas, porque estirar las piernas y que nos de el aire es algo que nos da muchísima energía. Por contra, en 2023 hemos comenzado con un nuevo hobby que tiene una fantástica intersección con salir al monte; se trata de pajarear. Tanto Alex como yo nos hemos hecho socios de la <a href="https://seo.org/" target="_blank">Sociedad Española de Ornitología</a> y hemos salido a humedales y ríos a identificar aves. Ya soy capaz de distinguir un azulón de un martín pescador así que diría que por ahora es un exitazo total.
 
-### Marzo: Aniversario en Cuéllar y Pirámides
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53424716786_e11dc80bfc_b.jpg" title="" >}}
 
-Aniversario: Cuéllar. Visita teatralizada al castillo de Cuéllar (suúúper bien). Jardines de la Granja de San Ildefonso.
-Egipto con la familia de Alex. Todo organizado y yo "a mesa puesta 100%"
+### Febrero: Cerveza y stömp
 
-### Abril:
+Un año más, febrero es el mes de comprobar que en el norte de Europa todo sigue igual. El <a href="https://fosdem.org/" target="_blank">FOSDEM</a> es la excusa anual para ir a **Bruselas**. Tras más de diez años, la ciudad sigue sin gustarme, pero voy con mis compañeros de trabajo y me encuentro con colegas de profesión, así que se hace ameno. También aprovecho para conocer algún barrio o museo o para darme un paseo por los murales de Tintín.
 
-Campamento montaraz en Sigüenza
-Viaje a Berlín
-III Mereth de Ithilien en la Selva Negra
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53425145860_a0049ed831_b.jpg" title="" >}}
 
-### Julio:
-¿Camino de Santiago?
+### Marzo: Cuéllar y Pirámides
 
-### Septiembre:
-¿Canarias?
+Marzo es el mes del aniversario tontako y procuramos hacer una escapada de fin de semana, nada que requiera mucha organización pero que nos ofrezca mucha desconexión. Es año fuimos a **Cuéllar**, donde pudimos ver la visita teatralizada al castillo, que nos encantó por su frescura y por cómo abraza el absurdo hasta las últimas consecuencias. Y también aprovechamos el finde para pasear por unos invernales **Jardines de la Granja de San Ildefonso**, que, en parte porque están tan a mano, visitamos menos de lo que se merecen.
 
-## Habilidades viajeras
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53425041894_ba18d02987_b.jpg" title="" >}}
 
+A finales de marzo vino el primer viajazo. Fuimos a **Egipto** con la familia de Alex. Fue un viaje imprevisto para mí, que nunca había puesto Egipto entre mi lista cercana de viajes; los padres de Alex nos regalaron esta aventura a la familia y eligieron un destino que a la madre de Alex le impresionó muchísimo y que quería compartir con nosotros. <a href="/trip/egipto-2023" target="_new">El resultado</a> fue un viaje alucinante donde pude asomarme a una civilización increíble y a un patrimonio que corta la respiración.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52757496293_6c3ef1a11d_b.jpg" title="" >}}
+
+La primera parte del viaje a Egipto fue un crucero remontando el Nilo. Desde nuestra embarcación nos asomamos al **Valle de los Reyes** y las tumbas faraónicas de Ramsés o Nefertiti. Cerca del Valle de los Reyes estaba el **Templo de Hatshepsut**, una señora de armas tomar con un templo a la altura de su grandeza.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52756994776_efb2d3e61c_b.jpg" title="" >}}
+
+No podía faltar la visita al **Templo de Luxor** y a la **Avenida de las Esfinges**. Son monumentos super turísticos y muy masificados, pero una vez ahí una no puede evitar comprender y empatizar con la atracción que generan.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52757256939_342350c327_b.jpg" title="" >}}
+
+Seguimos bajando al sur y asomándonos a varios templos, cada cual más impresionante que el anterior. Nos perdimos en **Karnak**, la gran ciudad religiosa que deja pequeñas las catedrales europeas. Me alucinaron los bajorrelieves del pilono de **Edfú**. Pudimos "comparar notas" en el templo doble de **Kom Ombo** dedicado tanto a Horus como a Sobek. Y pude disfrutar de la columnata "helenipcia" del **Templo de Filae**, rescatado de la inundación de la presa de Asuán.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52757009091_86c50f7746_b.jpg" title="" >}}
+
+El final de nuestro crucero fue para visitar **Abu Simbel**, del que volvimos sobrecogidos. Ni el madrugón, ni las muchísimas horas de autobús, ni el calor hicieron mella en una visita que está en el _top_ de todos los turistas que viajamos a este país. Los templos de Abu Simbel son una absoluta maravilla y este humilde blog no se atreve a intentar transmitir esa experiencia. Sólo puedo deciros que si tenéis la oportunidad, cojáis el madrugón con ganas porque va a merecer la pena.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52757004231_281b437335_b.jpg" title="" >}}
+
+En la segunda parte del viaje estábamos ya en **El Cairo** y desde ahí visitamos las **pirámides de Giza**. Contra todo pronóstico, me atreví a entrar en una de las pirámides, por opresivos pasillos, hasta la sala principal en el centro.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52756452637_7d7407db6b_b.jpg" title="" >}}
+
+Tuvimos también una visita guiada por El Cairo, una ciudad descomunal, contaminada, desorganizada y, de nuevo, con un patrimonio que bien mereció la pena el paseo apretujado; pudimos ver: la **Mezquita de Alabastro**, una **iglesia copta** y el **Gran Museo Egipcio**, donde estaban las joyas de Tutankamón (bueno, ya no están ahí, ahora están en mi _secreter_, shhh).
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52757404965_9a3bd5d229_b.jpg" title="" >}}
+
+Fue un viaje atípico porque íbamos con todo organizado y con las decisiones ya tomadas; nuestra única obligación era dejarnos llevar y disfrutar de ir "a pirámide puesta". Esto significó que pude dedicarme en cuerpo y alma a descubrir esta fascinante civilización con los mejores compañeros.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/52757238314_b9d862e883_b.jpg" title="" >}}
+
+### Abril: amigos a tutiplén
+
+En abril tuve un cambio radical en cuanto a viajes. A comienzos del mes me fui al **Campamento Montaraz en Sigüenza**, un fin de semana largo con socios de la <a href="https://www.sociedadtolkien.org/" target="_blank">STE</a>, donde disfrutamos de la vertiente más montañera y artesana de la obra de Tolkien.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53424716681_61b7950422_b.jpg" title="" >}}
+
+A mediados de mes tuve un fantástico viaje con amigos a **Berlín**; Alex, Pablo, Angela, Luiyo y yo nos fuimos juntos a conocer la ciudad alemana. En otras ocasiones hemos tenido viajes más montañeses y me pareció que sería una buena ocasión para cambiar a un formato más urbano.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53423796862_273edd9b4b_b.jpg" title="" >}}
+
+En Berlín visitamos los principales museos de la **Isla de los museos** y nos asomamos a la historia del muro y un poco a la del holocausto. Hicimos las visitas típicas de la primera vez que vas a Berlín y alguna menos típica, como una antigua prisión de la Stasi, cuya visita nos gustó mucho.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53424877518_11fdbf244b_b.jpg" title="" >}}
+
+También aprovechamos para conocer **Postdam**, una excursión de día. El **Museo Barberini** me impresionó (#patapumpish) y estiramos las piernas al solete en el enorme parque Sansouci.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53423796402_49abb821db_b.jpg" title="" >}}
+
+Como ya sabéis bien, soy _muy fan_ de viajar con amigos y de tener experiencias distintas y salir de la rutina habitual, que, por otro lado, también me encanta. Así que, mientras se dejen liar, seguiré proponiendo planes para escapadas con amigos.
+
+Y dejamos un viaje con amigos para ir a otro viaje con amigos, ¡y también en Alemania! Apenas volvimos de Berlín, hicimos de nuevo la maleta para ir a la **Selva Negra** a celebrar la **III Mereth de Ithilien**. Ithilien es el club arquero que montamos entre varios amigos y es la excusa para hacer actividades arqueras. La mereth consiste en ir a un sitio donde haya varios campos de tiro chulos y hacer sesiones maratonianas de tiro con arco. La Selva Negra nos acogió este año y fue pura magia tirar entre bosques enormes, verdes, con propuestas realmente potentes.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53424877363_8641b46783_b.jpg" title="" >}}
+
+### Mayo: la France
+
+Aprovechando un viaje a Pamplona para visitar a la familia, nos escapamos con mi padre y mi hermano a Biarritz; eran unos días bastante lluviosos en Iruña, pero en la costa francesa nos hizo un día fantástico para caminar por el paseo marítimo.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53424877733_e83717b60e_b.jpg" title="" >}}
+
+### Julio: Barcelona
+
+Un viaje de trabajo me llevó a Barcelona en julio, y después se unió Alex para una pequeña visita a la ciudad condal. A pesar del calor sofocante de esas fechas, pudimos hacer planes geniales y fuimos a zonas menos concurridas para huir de las aglomeraciones. Visitamos el **Museo Nacional D'Art de Catalunya**, el **Recinto Modernista de Sant Pau**, con visita guiada (muy recomendable), y el **Poble Espanyol**, un lugar curioso aunque no repetiría y no lo recomiendo mucho.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53425042334_0d33b51f8b_b.jpg" title="" >}}
+
+### Septiembre: Checoslovaquia y un whistle
+
+Dejamos atrás los rigores del verano y llegó otro de los platos fuertes del año viajero tontako: **Checoslovaquia**. Si vais a empezar con que no es un país, os buscáis otro blog. En esta mi casa nos encanta <a href="/trip/checoslovaquia-2023" target="_blank">Checoslovaquia</a> y por eso la fuimos a visitar.
+
+Empezamos visitando **Viena**, porque para nosotros las fronteras de los países son un concepto al arbitrio de nuestro corazón. No me esperaba que Viena me gustara tanto; siendo una ciudad tan turística y tan _pija_, tenía todos los ingredientes para que me agobiara. Sin embargo, descubrí una ciudad donde los vieneses no necesitan vivir a la sombra del turismo. Aquí conocimos a más Hasburgos de los que realmente me hubiera gustado, pusimos nuestros pies a remojo en el Danubio y dimos un paseo por los valles vinícolas.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53143885305_061243e303_b.jpg" title="" >}}
+
+Pasamos un par de días en **Bratislava**, la capital de Eslovaquia, donde percibimos mucho contraste con la grandeza de Viena. Aun así, me gustó mucho la visita, Bratislava se puede conocer a pie y tiene mucha oferta cultural y gastronómica.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53155461261_5991b81324_b.jpg" title="" >}}
+
+Desde la capi, cogimos el coche y nos internamos en la Eslovaquia más rural. Desde **Levoča** como base de operaciones tuvimos la oportunidad de conocer algunas zonas montañosas y pueblitos de Eslovaquia. Subimos y bajamos _todas las cuestas_ del pueblo minero **Banská Štiavnica**; también conocimos varias **Iglesias de Madera** que forman parte del partimonio de la Unesco. Fuimos al **Paraíso eslovaco**, un pequeño parque natural que es de todo menos paradisíaco (si, como yo, tienes bastante vértigo); el parque es una auténtica joya, pero difícil de transitar. Hacia el norte conocimos los **Altos Tatras**, que forma parte de la cordillera de los Cárpatos. Aquí visitamos un lago alpino precioso y un cementerio muy singular.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53163468653_1cabf6d399_b.jpg" title="" >}}
+
+Tocó dejar atrás Eslovaquia y cruzar a la República Checa, con sus carreteras eternamente atascadas, su cerveza y sus coronas checas. Empezamos por **Praga**, donde hicimos las visitas más emblemáticas. Caminamos por el **barrio judío**, donde entramos en varias sinagogas y en el impresionante **cementerio judío**. Dimos un paseo browniano por el **Barrio Nuevo** para ver las Casas Danzantes y acudimos al auditorio para escuchar un concierto. Dedicamos una mañana entera al **Castillo de Praga**, un recinto amurallado con muchos edificios visitables. También firmamos el muro de John Lenon en **Mala Strana**. En el centro disfrutamos del **Reloj astronómico**... Praga me dejó una sensación de parque temático; es preciosa y se visita fácilmente, pero, a diferencia de Viena, el turismo lo copa todo.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53171354281_24093a16db_b.jpg" title="" >}}
+
+Al igual que en el país anterior, hicimos un par de excursiones a pueblos en los alrededores. Tuvimos una de cal y otra de arena. En **Karlovy Vary** pinchamos, una visita aburrida y que os invito a que evitéis si podéis. A cambio, la visita a **Cesky Krumlov** me encantó: un pueblo precioso entre dos meandros, con un castillo magnífico (visitas guiadas, sois lo mejor) y unos jardines para perderse.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53176482507_e9dae12b1b_b.jpg" title="" >}}
+
+De la que volvíamos a Bratislava a dejar el coche, paramos en **Brno**, una ciudad universitaria y donde vi mucha vida propia, y que me dejó con ganas de dedicarle más tiempo.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53176481007_b24fe92140_b.jpg" title="" >}}
+
+Fue un viaje con muchas ciudades y con el tiempo las mezclo; no sé qué vi en dónde. Sí que me acuerdo de la sensación que dejaron, pero aun así, este viaje me reafirmó en que disfruto más de los viajes largos cuando tienen menos componente de ciudad.
+
+Antes de dejar el mes atrás, nos fuimos a Cáceres, al festival **Irish Flead**, un festival de música y cultura celta, donde Alex pudo poner a prueba sus dotes musicales con el _low whistle_, ya que participó en una _session_ pública.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53423796597_27d274a7dd_b.jpg" title="" >}}
+
+### Octubre: ola de calor en las islas
+
+Bien metidos en el otoño, un viaje de "trabajo" nos llevó a **Tenerife** y decidimos alargar una semana el viaje. En esta isla visitamos **Anaga** y el **Teide**.
+
+{{< image classes="center fancybox margin-top fig-50" src="https://live.staticflickr.com/65535/53423797057_37b818c929_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/53424716676_ce7c87fec1_b.jpg" title="" >}}
+
+Y después "saltamos" (con el ferry, tranquilidad) a **La Gomera**, donde esperábamos visitar las laurisilvas y y recorrer todo el **Parque Nacional de Garajonay**. Nuestra visita coincidió con una ola de calor inaudita en la isla, con lo que se canceló nuestra visita guiada y de hecho, cerraron por completo el parque: no se podía recorrer ningún sendero por el altísimo riesgo de incendios. La isla, además, no está preparada para una ola de calor así, y apenas había aire acondicionado o ventiladores; nos tocó replanificar por completo y buscar zonas a la sombra donde pasar las horas centrales. Al final fue un viaje de mucho relax y pocos planes, pudimos descansar mucho aunque nos quedamos con las ganas de conocer esos bosques de la Macaronesia que ya nos impresionaron en Madeira.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53423796622_d6336811d7_b.jpg" title="" >}}
+
+### Diciembre: rol y pajaricos
+
+Para terminar el año, en diciembre nos acercamos con amigos también a las Rolea, unas jornadas de rol en el interior de la provincia de Málaga. Rafa y Raquel hicieron de _Cicerone_ para los tontakos y para Esther, que íbamos por primera vez. Eran cuatro días de rol intenso y ya sospechaba yo que iba a ser _demasié_ así que me preparé alguna alternativa. Aunque me gustó la experiencia rolera, me alegré de tener opciones para cambiar de aires.
+
+Resultó que estábamos cerca de la Laguna de la Fuente de piedra, donde pudimos ver flamencos, zampullines, azulones, cucharas, gallinetas... mil y un paseriformes ¡y hasta se nos coló un meloncillo! (que nos os confunda el nombre, tienen pinta de malotes). Otro día, nos acercamos al **Torcal de Antequera**, un paraje kárstico precioso del que nunca había oído hablar y que me cautivó con sus grandes paredes y sus caminos por el fondo del torcal. Ambas escapadas tuvieron componente montañero y pajarero, ¡la seña tontaka de 2023!
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53423796242_238af07a71_b.jpg" title="" >}}
 
 ## Compañeros de viaje
 
-Amigos: Berlín, III Mereth Ithilien
-Familia de Alex
-Con Alex
+Como veis, ha sido un año muy completo, con viajes imprescindibles, urbanos y montañosos, muy preparados y algunos de refilón. Con rotundos éxitos viajeros y también con algunas pifias. Y con grandes sorpresas por el camino.
+
+Ha sido un año de viajar con muchos compañeros de viaje distintos. A Bruselas con compañeros de trabajo; a Egipto con Mercedes y Ángel, los padres de Alex y con Héctor y Fabi, sus hermanos; a Sigüenza con otros cincuenta socios de la Sociedad Tolkien, algunos amigos cercanos como Pablo y Luiyo, otros amigos con los que me reencontré después de muchos años; a Berlín con Angela, Pablo y Luiyo; a la Selva Negra con los mismos, y se sumaron Paula, beor y Olivia; a Biarritz con mi hermano y mi padre; a Málaga con Rafa, Raquel, Esther. Este listado de compañeros de viajes me da un alegrón increíble, poder compartir una afición que es más bien un anhelo con gente que quiero es fantástico y no dejo de disfrutarlo.
+
+{{< image classes="center fancybox margin-top fig-50" src="https://live.staticflickr.com/65535/53424717121_3bfd834603_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/53423796792_0f818a8057_b.jpg" title="" >}}
+
+Y por si fuera poco, comparto todos estos viajes y muchos más con Alex, el mejor compañero que me podría imaginar. Sospecho que es la vigésima vez que digo esto mismo, pero es que sigue siendo totalmente cierto. Me siento muy afortunada de compartir con él nuestras aventurillas grandes y pequeñas.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53424877668_aefaccfbe6_b.jpg" title="" >}}
 
 ## Próximos destinos
 
-¿Y qué nos depara 2024?
+¿Qué nos traerá el 2024? Pues el próximo año viene con sorpresas y viajes especiales. Alex y yo hemos decidido casarnos (yupiii) y ya tenemos lo que para nosotros es el plato fuerte: ¡la luna de miel!
 
-NZ?!
+Iremos a una playa paradisíaca a tostarnos al sol y a tomar daikiris... jajajaja, ¡qué va! Lo que vamos a hacer es cumplir un sueño que ambos tenemos desde hace tiempo, y nos iremos a recorrer **Nueva Zelanda en caravana**. Serán seis semanas en marzo y abril.
+
+A estas alturas del año ya tenemos los vuelos y la caravana y alguna cosa más de la organización, pero al ser un viaje tan largo y con tanta incertidumbre, hay muchas cosas que resolveremos sobre el terreno. Os contaré puntualmente la aventura aquí, en vuestro blog de viajes favorito.
+
+Espero que tengáis un final de año estupendo y que 2024 os lleve a descubrir muchos sitios preciosos. Preciosos como este selfie tontako, que a ver qué mejor foto para cerrar el año :D
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53425041759_a4eb8e1481_b.jpg" title="" >}}

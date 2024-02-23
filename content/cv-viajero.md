@@ -145,7 +145,7 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 * 07 - Bilbo
 * 07 - <a href="{{< ref "2015-07-05-escapada-senderista-a-windsor.markdown" >}}" target="blank">Windsor</a>
 * 04 - <a href="{{< ref "2015-04-05-salisbury-y-stonehenge.markdown" >}}" target="blank">Salisbury y Stonehenge</a>
-* 02 - <a href="/trip/países-bajos-2015" target="blank">Fosdem y Países Bajos</a>
+* 02 - <a href="/trip/paises-bajos-2015" target="blank">Fosdem y Países Bajos</a>
 * 01 - <a href="{{< ref "2015-01-26-valle-de-iruelas.markdown" >}}" target="blank">Valle de Iruelas</a>
 * 01 - <a href="{{< ref "2015-01-08-burdeos-landas-aquitania.markdown" >}}" target="blank">Burdeos, Landas, Aquitania</a>
 

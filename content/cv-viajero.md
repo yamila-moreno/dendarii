@@ -32,6 +32,13 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 
 ## En orden cronológico (inverso)
 
+### 2024
+<DIV class="cv-list">
+
+* 03 - <a href="/trip/nueva-zelanda-2024" target="_blank">Nueva Zelanda</a>
+
+</DIV>
+
 ### 2023
 <DIV class="cv-list">
 
@@ -42,6 +49,8 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 * 03 - <a href="/trip/egipto-2023" target="_blank">Egipto</a>
 * 03 - Cuéllar y La Granja de San Ildefonso
 * 02 - FOSDEM (Bruselas)
+
+</DIV>
 
 ### 2022
 <DIV class="cv-list">
@@ -55,6 +64,7 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 * 04 - Doñana
 * 03 - Floración de los cerezos en el Jerte
 * 03 - Sierra de Gredos (norte)
+</DIV>
 
 ### 2021
 <DIV class="cv-list">

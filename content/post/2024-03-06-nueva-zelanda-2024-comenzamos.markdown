@@ -110,7 +110,6 @@ Y para pájaros, estos dos tontakos:
 
 {{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53570845806_9fac488421_c.jpg" title="Selfie tontako" >}}
 
-Resto de fotos:
-{{< flickr album="72177720315263261" >}}
+Podéis ver el resto de fotos en el <a href="https://www.flickr.com/photos/yamila_moreno/albums/72177720315263261/" target="_new">álbum de Flickr</a>.
 
 {{< tripindex trip="Nueva Zelanda 2024" >}}

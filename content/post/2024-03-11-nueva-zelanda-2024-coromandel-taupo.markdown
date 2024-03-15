@@ -140,7 +140,6 @@ Y por si tanto nombre os ha dejado confundidos, os recuerdo el único nombre cie
 
 {{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53584858701_6956640d37_c.jpg" title="" >}}
 
-Resto de fotos:
-{{< flickr album="72177720315388366" >}}
+Podéis ver el resto de fotos en el <a href="https://www.flickr.com/photos/yamila_moreno/albums/72177720315388366" target="_new">álbum de Flickr</a>.
 
 {{< tripindex trip="Nueva Zelanda 2024" >}}

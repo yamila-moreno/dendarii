@@ -53,7 +53,7 @@ Dejamos atrás la Península de Coromandel con ganas de haber explorado más, se
 
 ## Visita a Hobbiton
 
-No nos costó mucho decidir meter esta visita en el viaje. Aunque ya sopsechábamos que estaría masificado, como fan de la obra de Tolkien y que además disfruté de las pelis como una enana en casa de Bilbo, no nos lo íbamos a perder.
+No nos costó mucho decidir meter esta visita en el viaje. Aunque ya sospechábamos que estaría masificado, como fan de la obra de Tolkien y que además disfruté de las pelis como una enana en casa de Bilbo, no nos lo íbamos a perder.
 
 La visita básica fue muy sencilla; dejamos el coche en el centro de visitantes, donde está la tienda y una cafetería y desde allí el guía nos llevó en un autobús propio hasta el set de rodaje. Es 100% visita guiada y no nos dejaron _pasear a nuestro aire_.
 

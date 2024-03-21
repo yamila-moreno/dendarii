@@ -134,7 +134,7 @@ Esa noche, después de más de una semana por fin pude conciliar el sueño _alla
 
 ## Pajareo
 
-Registro pajarero de las aves que vi por pirmera vez durante estas visitas: white faced heron, spotted dove, australian magpie, SIPO (o variable oystercatcher no nos quedó claro), pied stilt, southern black bucket gull, eastern rosella, spur winged plover, zorzal, mirlo, fan tail, yellowhammer, silvereye, australasian harrier, kingsfisher, cisnes, calamón pukeko, eurasian coot, estornino pinto, new Zealand scoup, cisne negro, ganso, pinzón y tomtit. En ese momento no tenía muy claro (sigo sin tenerlo) si usar el nombre común en inglés o español o el nombre científico o el nombre maorí.
+Registro pajarero de las aves que vi por pirmera vez durante estas visitas: white faced heron, spotted dove, australian magpie, SIPO (o variable oystercatcher no nos quedó claro), pied stilt, southern black backed gull, eastern rosella, spur winged plover, zorzal, mirlo, fan tail, yellowhammer, silvereye, australasian harrier, kingsfisher, cisnes, calamón pukeko, eurasian coot, estornino pinto, New Zealand scaup, cisne negro, ganso, pinzón y tomtit. En ese momento no tenía muy claro (sigo sin tenerlo) si usar el nombre común en inglés o español o el nombre científico o el nombre maorí.
 
 Y por si tanto nombre os ha dejado confundidos, os recuerdo el único nombre científico que debéis tener siempre presente: Tontako-Team.
 

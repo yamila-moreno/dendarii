@@ -52,6 +52,10 @@ Los noventa minutos se pasan volando mientras explican temas de maquillaje, pros
 
 {{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53595102585_20e2ded47c_b.jpg" title="" >}}
 
+Una zona que me llamó particularmente la atención fue el rincón / taller de la escultora con papel de plata. Nos hizo una pequeña demostración, y nos enseñó auténticas barbaridades hechas con papel de plata. Lo llamó "escultura con metal" y me encantó.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53595101270_0cedaab631_b.jpg" title="" >}}
+
 ## El ferry
 
 Y tras esa visita tocaba despedirse (por el momento) de la Isla Norte; para comenzar nuestro periplo por la Isla Sur, debíamos tomar un ferry y cruzar el Estrecho de Cook (no confundir con un cocinero hetero, Strait Cook). El trayecto duró unas cuatro horas; nos hizo tan buen tiempo (aunque ostia el viento) que pudimos estar todo el viaje en cubierta disfrutando del paisaje. En particular, me encantó la parte en la que se mete en el fiordo y empezamos a descubrir playas y calas.

@@ -90,7 +90,7 @@ Y metimos los pies en los lagos **Wanaka** y **Hawea**, que son super famosos co
 
 ## Arrowtown y Queenstown
 
-Llegamos a **Arrowtown** a media mañana y comprobamos que es un destino turístico importante; es un sitio pequeño y estaba llenísimo de coches, buses y gente. El pueblo mantiene bastante el estilo antiguo en las fachadas, lo que le confiere un aire muy coqueto. La mayoría de los visitantes son chinos, pues Arrowtown fue una zona de explotación de oro donde prosperó un asentamiento chino, que siguieron buscando (y encontrando) oro cuando los europeos daban por extinto el preciado metal. Quedan algunas casas de este asentamiento, y, además de la explicación de cómo vivían, el gobierno neozelandés aprovecha para pedir disculpas por el racismo al que se sometió a estos trabajadores y también ensalazar su papel en la historia y la sociedad de finales del S.XIX. Tiene además, un paseo junto al río fantástico.
+Llegamos a **Arrowtown** a media mañana y comprobamos que es un destino turístico importante; es un sitio pequeño y estaba llenísimo de coches, buses y gente. El pueblo mantiene bastante el estilo antiguo en las fachadas, lo que le confiere un aire muy coqueto. La mayoría de los visitantes son chinos, pues Arrowtown fue una zona de explotación de oro donde prosperó un asentamiento chino, que siguieron buscando (y encontrando) oro cuando los europeos daban por extinto el preciado metal. Quedan algunas casas de este asentamiento, y, además de la explicación de cómo vivían, el gobierno neozelandés aprovecha para pedir disculpas por el racismo al que se sometió a estos trabajadores y también ensalzar su papel en la historia y la sociedad de finales del S.XIX. Tiene además, un paseo junto al río fantástico.
 
 {{< image classes="center fancybox margin-top fig-25" src="https://live.staticflickr.com/65535/53600211172_183a561d31_b.jpg" title="" >}}
 {{< image classes="center fancybox margin-top fig-25" src="https://live.staticflickr.com/65535/53601420584_06bb9e4388_b.jpg" title="" >}}
@@ -101,16 +101,18 @@ Nosotros nos lanzanos al río en la zona donde se encontró la primera pepita y 
 
 Después fuimos a **Queenstown**, ciudad por excelencia de deportes de aventura. Incluso fuera de temporada alta (verano e invierno), nos encontramos mucha gente y pudimos comprobar que tenía su propia vida al margen del turismo, aunque es cierto que el centro de la ciudad está totalmente sacrificada al turismo de aventura: empresas de *jumping*, *shotover*, *heliski*, *zipline*, *paraglide*, barranquismo, ¡*zorbing*! y otras movidas todas super mortales e imposibles de asegurar. Además, muchas, MUCHAS, tiendas de deporte y montaña.
 
-Además de dar un paseo por el centro (es decir comernos un helado), nos fuimos a unos grandes jardines que tiene la ciudad y que son preciosos y muy bien cuidados. Tienen muchos ejemplares de sequoias gigantes formidables y ¡un circuito de disco-golf! que consiste en lanzar freesbies a unas cestas metálicas dispuestas a modo de circuito de golf. Había muchísimos locales practicando y picándose entre ellos. Un pequeño camino alrededor de los jardines junto al lago fue el ratito perfectol
+Además de dar un paseo por el centro (es decir comernos un helado), nos fuimos a unos grandes jardines que tiene la ciudad y que son preciosos y muy bien cuidados. Tienen muchos ejemplares de sequoias gigantes formidables y ¡un circuito de disco-golf! que consiste en lanzar freesbies a unas cestas metálicas dispuestas a modo de circuito de golf. Había muchísimos locales practicando y picándose entre ellos. Un pequeño camino alrededor de los jardines junto al lago fue el ratito perfecto.
 
 {{< image classes="center fancybox margin-top fig-50" src="https://live.staticflickr.com/65535/53601082076_c9a63b078b_b.jpg" title="" >}}
 {{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/53600209482_68cccbc375_b.jpg" title="" >}}
 {{< image classes="center fancybox margin-top fig-50" src="https://live.staticflickr.com/65535/53601080151_e148b69839_b.jpg" title="" >}}
 {{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/53601080791_b32f509b44_b.jpg" title="" >}}
 
+Tontería random: En Queenstown descubrimos **Pedro's House of Lamb** (La casa del cordero de Pedro). Resulta que un español montó un restaurante en Christchurch hasta que el terremoto de 2011 lo destruyó. Entonces decidió empezar de cero con un sitio de comida para llevar y actualmente tiene una mini-franquicia con sede en Queenstown y, atención, en Majadahonda. El cordero estaba delicioso (muy especiado para estándares españoles) y muy bien cocinado y nos atendió un mexicano majísimo que, según entendimos, no es sobrino-nieto del famoso Pedro.
+
 ## Pajareo
 
-Registro pajarero de las aves que vi por pirmera vez durante estas visitas: white heron (¡solo hay 170 en NZ!), kea (¡por fin!), warbler y, atención, la barnacla canadiense.
+Registro pajarero de las aves que vi por pirmera vez durante estas visitas: white heron (¡solo hay 170 en NZ!), kea (¡por fin!), grey warbler y, atención, la barnacla canadiense.
 
 Como habéis leído, no nos hicimos ricos con el oro, pero quién quiere ser milloneti cuando tiene un un selfie tontako (no, no contestéis, es más bien retórica):
 

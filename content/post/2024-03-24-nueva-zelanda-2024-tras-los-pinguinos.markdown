@@ -125,6 +125,10 @@ El Museo SteamPunk resultó ser una chatarrería un poco venida a más. Se supon
 {{< image classes="center fancybox margin-top fig-50" src="https://live.staticflickr.com/65535/53615838294_b3692b7060_b.jpg" title="" >}}
 {{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/53615946130_47a511611f_b.jpg" title="" >}}
 
+## Pajareo
+
+Registro pajarero de las aves que vi por pirmera vez durante estas visitas: ¡el pingüino azul! el único e inigualable.
+
 Y para que vosotras también aprovechéis bien este post, ¡el selfie tontako!
 
 {{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53610945067_d95138fd5c_b.jpg" title="" >}}

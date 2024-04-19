@@ -79,10 +79,13 @@ De vuelta en la Isla Norte visitamos <a href="https://www.visitzealandia.com/" t
 **Vale, ahora dame datos sobre la experiencia pajarera en Nueva Zelanda**
 
 Según eBird, estos son los datos:
+- Hemos contabilizado 2828 aves en total
+- 72 nuevas especies observadas para nuestro listado vitalicio
 - 64 listados enviados, de los cuales 51 son listados completos
 - 30 días con observaciones reportadas
-- 72 nuevas especies observadas para nuestro listado vitalicio
+- Hemos dedicado más de 37 horas a hacer listados
 - Observaciones en 14 provincias de Nueva Zelanda
+- Hemos recorrido más de 90kms haciendo observaciones
 
 **¿Cuál fue la observación que más apreciaste? ¿Y qué ave se te escapó?**
 

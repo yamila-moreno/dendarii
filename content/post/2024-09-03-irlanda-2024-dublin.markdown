@@ -17,7 +17,7 @@ Tras un verano con poco movimiento, el Equipo Tontako comenzamos el curso con un
 
 <!--more-->
 
-Como el viaje a Nueva Zelanda, además de ser increíble nos dejó agotados, queríamos un viaje sencillo de organizar y donde el plan fuera _tranki_. Lo único que adelantamos fueron los alojamientos porque varias perosnas nos habían avisado de que el alojamiento en Irlanda es muy caro y escaso. Ya con las bases de operaciones resueltas, el viaje consistió en ir organizando las visitas sobre la marcha.
+Como el viaje a Nueva Zelanda, además de ser increíble nos dejó agotados, queríamos un viaje sencillo de organizar y donde el plan fuera _tranki_. Lo único que adelantamos fueron los alojamientos porque varias personas nos habían avisado de que el alojamiento en Irlanda es muy caro y escaso. Ya con las bases de operaciones resueltas, el viaje consistió en ir organizando las visitas sobre la marcha.
 
 {{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53970727427_dfe102b35a_b.jpg" title="" >}}
 

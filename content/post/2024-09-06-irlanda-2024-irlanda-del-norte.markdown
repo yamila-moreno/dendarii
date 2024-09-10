@@ -15,7 +15,7 @@ tags:
 - The troubles
 ---
 
-El viaje por la isla de Irlanda nos lleva a conocer una nación muy interesante y con mucho carácter: nos fuimos a **Irlanda del Norte**.
+El viaje por la isla de Irlanda nos llevó a conocer una nación muy interesante y con mucho carácter: nos fuimos a **Irlanda del Norte**.
 
 <!--more-->
 

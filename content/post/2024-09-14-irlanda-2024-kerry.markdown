@@ -1,0 +1,30 @@
+---
+draft: true
+author: yamila
+date: 2024-09-14T08:00:00.000Z
+slug: irlanda-2024-condado-de-kerry
+title: Irlanda 2024 - Condado de Kerry
+thumbnailImage: _z.jpg
+coverImage: _b.jpg
+
+trip: Irlanda 2024
+tags:
+- Anillo de Kerry
+- Killarney NP
+
+---
+
+
+<!--more-->
+
+
+{{< image classes="center fancybox margin-top" src="" title="" >}}
+
+
+SELFIE
+
+{{< image classes="center fancybox margin-top" src="" title="" >}}
+
+Podéis ver el resto de fotos en el <a href="https://www.flickr.com/photos/yamila_moreno/albums/" target="_new">álbum de Flickr</a>.
+
+{{< tripindex trip="Irlanda 2024" >}}

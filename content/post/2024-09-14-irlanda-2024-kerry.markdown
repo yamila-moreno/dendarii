@@ -1,11 +1,10 @@
 ---
-draft: true
 author: yamila
 date: 2024-09-14T08:00:00.000Z
 slug: irlanda-2024-condado-de-kerry
 title: Irlanda 2024 - Condado de Kerry
-thumbnailImage: _z.jpg
-coverImage: _b.jpg
+thumbnailImage: https://live.staticflickr.com/65535/53995404308_cc07a76556_z.jpg
+coverImage: https://live.staticflickr.com/65535/53995404308_cc07a76556_b.jpg
 
 trip: Irlanda 2024
 tags:
@@ -14,17 +13,114 @@ tags:
 
 ---
 
+Con la visita al **Condado de Kerry** llegamos a la última etapa del viaje a Irlanda 2024.
 
 <!--more-->
 
+## Killarney NP
 
-{{< image classes="center fancybox margin-top" src="" title="" >}}
+Echamos un día en el **Parque Nacional de Killarney** desde el que hicimos varias visitas y rutas. Es el primer parque nacional de Irlanda y se formó cuando los propietarios de la mansión Muckross donaron el castillo y sus tierras al gobierno irlandés.
 
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995451820_a45f6d5d81_b.jpg" title="" >}}
 
-SELFIE
+Desde el Castillo de Ross salimos a hacer un pequeño paseo que se asomaba al lago Leane. Tuvimos la suerte de tener un día espléndido. Es un camino muy sencillo y apacible que me hizo sentir como la condesa que siempre he merecido ser, con mis tierras y mis títulos nobiliarios para conquistar un highlander despistado.
 
-{{< image classes="center fancybox margin-top" src="" title="" >}}
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53994132252_6db45146a4_b.jpg" title="" >}}
 
-Podéis ver el resto de fotos en el <a href="https://www.flickr.com/photos/yamila_moreno/albums/" target="_new">álbum de Flickr</a>.
+Después visitamos la **Casa Muckross**, muy estilo Downtown Abbey; la casa impresiona muchísimo, aunque todas las habitaciones de uso público (salones, recibidores, salas de estar, bibliotecas...) tenían cabezas de animales cazados, lo cual es de muy mal gusto en cualquier siglo.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995409829_f4f87dff04_b.jpg" title="" >}}
+
+Por este motivo sólo saqué fotos de las habitaciones de uso privado. La Reina Victoria fue invitada a pasar allí una temporada y se acondicionaron varias habitaciones para ella (sin cabezas muertas); eran unos aposentos lujosos para agasajar a semejante visita.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995484515_f0f69166c2_b.jpg" title="" >}}
+
+Aunque la casa es enorme y super noble, los alrededores son lo que hacen que sea un sitio tan increíble.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995085481_b897890c56_b.jpg" title="" >}}
+
+Aún dentro del parque nacional nos acercamos a la **Cascada Torc**, que aparecía tras un brevísimo paseo por un bosque denso y húmedo.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995413709_e79263a27a_b.jpg" title="" >}}
+
+Y antes de salir del parque nos detuvimos en el paso de montaña y lo que llaman el **Ladies View** justo al atardecer, lo que otorgaba al valle unas texturas preciosas (y sin quemar pupilas \o/).
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995247898_cac6de4103_b.jpg" title="" >}}
+
+## El anillo de Kerry
+
+El **anillo de Kerry** consiste en una carretera panorámica de unos 170kms que recorre la parte más exterior de la península de Iveragh, en el condado de Kerry. Es una ruta por carretera que se va asomando a playas, abadías, miradores, acantilados... Es un plan muy muy turísco y se nota.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995139601_5181f54957_b.jpg" title="" >}}
+
+Álex tenía la noción de que los (muchos) buses recorren la carretera en sentido horario así que decidimos recorrerla al revés, que además nos venía bien porque estábamos alojados al sureste de la península.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995547460_1ef5ddf3ca_b.jpg" title="Vistas desde nuestro alojamiento en Kerry <3" >}}
+
+Paramos en **Sneem**, _el pueblo más bonico de la zona_ rezaba. Es un pueblecito bonito al fondo de un fiordo, con un montón de esculturas por todo el pueblo y casas pintadas de colores llamativos.
+
+{{< image classes="center fancybox margin-top fig-33" src="https://live.staticflickr.com/65535/53994240272_9a775e3e35_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-33" src="https://live.staticflickr.com/65535/53995440584_006d1d2656_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-33 clear" src="https://live.staticflickr.com/65535/53995443849_4e530eb36c_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53994247077_2c847c78fe_b.jpg" title="" >}}
+
+Continuamos hasta **Staigue Stone Fort**, una fortaleza defensiva del S.IV aC. Tiene forma circular y por entro se aprecia perfectamente la estructura de pared-escalerapara acceder a la parte de arriba desde donde se obtiene una vista privilegiada del valle.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995391993_9105d2f708_b.jpg" title="Yo sí que tenía una vista privilegiada ;-)" >}}
+
+Después bajamos a la playa **Derryname**, con una arena fina y muy limpia, y una abadía en una isla. Cuando baja la marea la isla se convierte en un montículo perfectamente accesible y es cuando aprovechamos para ir porque nos habíamos dejado los manguitos en casa. El entorno de la abadía-cementerio junto al mar era precioso.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995589200_29445932b6_b.jpg" title="" >}}
+
+En cierto momento dejamos la carretera principal del anillo para saltar a la **Península de Skellig**; desde allí nos hemo asomado al **Castillo y abadía de Ballinskellig** pero justo se puso a llover fuerte y no saqúe la cámara. Así que foto bonita random del álbum.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995165046_5837d89100_b.jpg" title="Foto bonita del álbum" >}}
+
+Paramos en **Portmagee** a comer pescado y marisco local; el mejor hasta la fecha. Es un pueblo coqueto donde se quedó atascado un tractor y por ende, pues nosotros también. Desde el pueblo se accede por un puente a la **Isla Valentia**, célebre porque desde ahí salió el primer cable transatlántico, que permitió comunicaciones inmediatas entre América y Europa. En la isla hay un museo sobre este proyecto titánico de mediados del S.XIX. Como es muy específico de alfa-charlies yo me quedé leyendo mientras Álex hacía el saludo secreto con sus amigos operadores de radio.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995491999_d8e5f47aa1_b.jpg" title="" >}}
+
+Para volver a nuestro alojamiento decidimos coger una ruta alternativa: en lugar de rodear la península por la carretera "oficial", la cruzamos por el paso de montaña. Esa parte es la que, de lejos, más me gustó: unos páramos inmensos con lagos escondidos y bosques antiguos. Un paisaje desolado que no podía dejar de mirar. El paso de montaña lo hicimos entre niebla fina que nos pareció mágica, como si hubiera magia de verdad... nah, solo era super bonita y muy emocionante, que no es poco ;-) En total nos debimos cruzar por este camino con diez coches (los buses no pueden transitar por ahí) y fue la parte más singular de la visita.
+
+{{< image classes="center fancybox margin-top fig-50" src="https://live.staticflickr.com/65535/53994287552_01177b73b2_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/53995115076_8bfac55a75_b.jpg" title="" >}}
+
+## Anillo de Beara
+
+Al sur de Kenmare hay una península compartida entre los condados de Kerry y Cork; se trata de la **Península de Beara**, que también tiene su anillo turístico, su paso de montaña, sus pueblos pintorescos... Así que no podíamos dejar pasar la oportunidad de asomarnos de nuevo a todas estas maravillas.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995640240_084ed5c1f6_b.jpg" title="" >}}
+
+Empezamos en **Kenmare**, pueblecito pintoresco que ha vivido edades más pintorescas. Estaba muy sucia y parecía que los dueños de los perros estaban en huelga de recoger las deposiciones de sus canes de la cantidad que había :-/ Ahí nos acercamos a un *círculo de piedras* que resultó ser una trampa para turistas del carajo.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995210996_a66980e707_b.jpg" title="" >}}
+
+Después fuimos a **Glengarriff Woods** una reserva natural en un hayedo precoiso, con caminos fáclies para disfrutar de un pequeño baño de naturaleza. También para un baño de río pero venía con mucha corriente y nos quedamos sólo con el baño metafórico.
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995480308_4d1a2c0db1_b.jpg" title="" >}}
+
+Y de ahí nos acercamos al pueblo que da nombre a la reserva donde nos encontramos el sorpresón del día: era el "tour de Beara", una carrera para aficionados a la bici que empezaba y terminaba ahí. Según vimos, la carrera se llamaba "Tour del anillo de Beara", así que supusimos que el recorrido sería por el anillo y, para no ~~atropellar~~ molestar a las ciclistas, decidimos ir por las carreteras de montaña y evitar la ruta principal. CRASO ERROR. Ya estaréis pensando: "yami, si hay un paso de montaña, es probable que la carrera vaya por ahí, que a los ciclistas les flipa subir puertos y en Irlanda hay más bien pocos, no los van a desaprovechar". Y entonces yo os pregunto dónde diablos estábais mientras nosotros tomábamos esa decisión tan clarísimamente mala. Eh? dónde?
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995492408_ca56a2971c_b.jpg" title="" >}}
+
+Bueno, pues al final subimos el puerto con los ciclistas que bajaban y bajamos el puerto con los ciclistas que aún estaban en la escalada y las vistas fueron un lujazo increíble. En cierto momento vimos a un pastor dando órdenes a su perro que a más de cincuenta metros respondía a lo que le pedía y recogía a las ovejas para bajarlas de la montaña. Me impresionó muchísimo ver al perro dando saltos por las lomas y _pastoreando_ a las ovejas que andaban desperdigadas.
+
+{{< image classes="center fancybox margin-top fig-50" src="https://live.staticflickr.com/65535/53995496073_a3595717d7_b.jpg" title="" >}}
+{{< image classes="center fancybox margin-top fig-50 clear" src="https://live.staticflickr.com/65535/53995527439_1543fb6f69_b.jpg" title="" >}}
+
+## Glendalough
+
+El final del viaje tuvo mucho de cruzar el país para volver a Dublín a retornar el coche. Aprovechamos para hacer alguna parada pajarera por el camino. También paramos en **Glendalough**, el parque nacional más imporante de Irlanda, seguramente porque está muy cerca de la capital. Tiene los restos de un complejo monástico (convertido en cementerio, como no podía ser de otra forma) y un paseo entre bosques hasta dos lagos. Fue un broche genial para el viaje ya que tuvo bosques, pajaricos, abadías-cementerio, parkings de pago y atracciones turísticas sobrepreciadas. Pero en realidad el sitio es precioso y nos encantó visitarlo, claro :D
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/54001989837_f64b7e1584_b.jpg" title="" >}}
+
+Pero si hay algo precioso y que os encanta es... ¡el selfie tontako!
+
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/53995428065_e428cd2ffc_b.jpg" title="" >}}
+
+Podéis ver el resto de fotos en los álbumes de Flickr:
+- <a href="https://www.flickr.com/photos/yamila_moreno/albums/72177720320420669" target="_new">Killarney NP</a>
+- <a href="https://www.flickr.com/photos/yamila_moreno/albums/72177720320320600" target="_new">Condado de Kerry</a>
+- <a href="https://www.flickr.com/photos/yamila_moreno/albums/72177720320420554" target="_new">Glendalough</a>
 
 {{< tripindex trip="Irlanda 2024" >}}

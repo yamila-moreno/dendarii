@@ -35,6 +35,7 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 ### 2024
 <DIV class="cv-list">
 
+* 09 - <a href="/trip/irlanda-2024" target="_blank">Irlanda</a>
 * 03 - <a href="/trip/nueva-zelanda-2024" target="_blank">Nueva Zelanda</a>
 
 </DIV>

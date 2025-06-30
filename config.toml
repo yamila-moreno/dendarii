@@ -14,7 +14,7 @@ title = "Viajes dendarii"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "https-dendarii-es"
 # googleAnalytics = "UA-109832381-1"
-paginate = 12
+pagerSize = 12
 canonifyurls = true
 removePathAccents = true
 copyright = "CC BY NC SA 4.0 || https://creativecommons.org/licenses/by-nc-sa/4.0/"
@@ -33,7 +33,7 @@ copyright = "CC BY NC SA 4.0 || https://creativecommons.org/licenses/by-nc-sa/4.
   archive = "archives"
   trip = "trip"
 
-[author]
+[params.author]
   name = "Yamila Moreno"
   bio = "Blog de viajes de Yamila Moreno"
   # job = "Soldado dendarii"

@@ -6,6 +6,7 @@ title: USA 2014 - Itinerario y pecunia
 trip: USA 2014
 tags:
 - USA
+- Itinerairo y pecunia
 ---
 
 

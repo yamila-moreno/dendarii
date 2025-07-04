@@ -32,6 +32,13 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 
 ## En orden cronológico (inverso)
 
+### 2025
+<DIV class="cv-list">
+
+* 06 - <a href="/trip/francia-2025" target="_blank">Francia</a>
+
+</DIV>
+
 ### 2024
 <DIV class="cv-list">
 

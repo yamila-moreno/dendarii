@@ -8,6 +8,7 @@ coverImage: https://live.staticflickr.com/65535/53994168602_92de1c887e_b.jpg
 
 trip: Irlanda 2024
 tags:
+- Irlanda
 - Itinerario y pecunia
 
 ---

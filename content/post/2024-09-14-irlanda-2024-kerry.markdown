@@ -8,6 +8,7 @@ coverImage: https://live.staticflickr.com/65535/53995404308_cc07a76556_b.jpg
 
 trip: Irlanda 2024
 tags:
+- Irlanda
 - Anillo de Kerry
 - Killarney NP
 

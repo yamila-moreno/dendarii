@@ -8,6 +8,7 @@ coverImage: https://live.staticflickr.com/65535/53972954617_a384334163_b.jpg
 
 trip: Irlanda 2024
 tags:
+- Irlanda
 - Irlanda del Norte
 - Belfast
 - La calzada del gigante

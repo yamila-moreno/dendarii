@@ -8,6 +8,7 @@ coverImage: https://live.staticflickr.com/65535/53983913864_7bf8c79232_b.jpg
 
 trip: Irlanda 2024
 tags:
+- Irlanda
 - Connemara NP
 - Galway
 - El hombre tranquilo

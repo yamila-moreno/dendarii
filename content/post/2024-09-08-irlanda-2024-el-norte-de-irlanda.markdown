@@ -8,6 +8,7 @@ coverImage: https://live.staticflickr.com/65535/53977156517_39112afaa4_b.jpg
 
 trip: Irlanda 2024
 tags:
+- Irlanda
 - Donegal
 - Glenveagh NP
 - Paso de Glengesh

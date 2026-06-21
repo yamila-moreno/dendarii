@@ -8,6 +8,7 @@ coverImage: https://live.staticflickr.com/65535/53993334470_1926ac8bce_b.jpg
 
 trip: Irlanda 2024
 tags:
+- Irlanda
 - Islas de Aran
 - Inisheer
 - Condado de Claire

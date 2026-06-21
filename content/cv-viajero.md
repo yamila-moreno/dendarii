@@ -32,6 +32,13 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 
 ## En orden cronológico (inverso)
 
+### 2026
+<DIV class="cv-list">
+
+* 06 - <a href="/trip/azores-2026" target="_blank">Azores</a>
+
+</DIV>
+
 ### 2025
 <DIV class="cv-list">
 
@@ -251,7 +258,7 @@ En este currículum viajero podéis encontrar de un vistazo rápido los viajes q
 * <a href="/tags/francia" target="_blank">Francia</a>
 * <a href="/tags/gales" target="_blank">Gales</a>
 * <a href="/tags/inglaterra" target="_blank">Inglaterra</a>
-* Irlanda
+* <a href="/tags/irlanda" target="_blank">Irlanda</a>
 * <a href="/tags/italia" target="blank">Italia</a>
 * Liechtestein
 * <a href="/tags/marruecos" target="blank">Marruecos</a>

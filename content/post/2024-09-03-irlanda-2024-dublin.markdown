@@ -8,6 +8,7 @@ coverImage: https://live.staticflickr.com/65535/53971868628_5fc7a61fdb_b.jpg
 
 trip: Irlanda 2024
 tags:
+- Irlanda
 - Dublín
 - Brú na Bóinne
 

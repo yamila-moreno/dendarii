@@ -3,7 +3,7 @@ author: yamila
 date: 2026-06-21T08:00:00.000Z
 slug: azores-2026-arrancamos
 title: Azores 2026 - Arrancamos
-thumbnailImage: https://live.staticflickr.com/65535/55350569342_f9551f1616_b.jpg
+thumbnailImage: https://live.staticflickr.com/65535/55350569342_f9551f1616_z.jpg
 coverImage: https://live.staticflickr.com/65535/55350569342_f9551f1616_b.jpg
 
 trip: Azores 2026

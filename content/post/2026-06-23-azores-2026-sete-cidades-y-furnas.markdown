@@ -86,7 +86,7 @@ Después, por si todo lo anterior no fuera suficiente, descubrimos que las horte
 
 Al día siguiente yo me levanté confiada de que la furia yamicida se le habría pasado. Además, daban lluvias. El plan era ir a **Furnas** a conocer más sobre el aspecto volcánico de esta isla que es básicamente una isla de volcanes profusamente decorados con selva. Fuimos primero a dar un paseo por la orilla de la _lagoa_, que en ese momento estaba bastante ominosa por la niebla.
 
-{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/55353663054_3da5f2b842_b.jpg" title="Lo cierto es que son preciosas" >}}
+{{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/55353663054_3da5f2b842_b.jpg" title="" >}}
 
 En el parque que rodea la laguna hay una serie de tallas en madera que hay que ir ubicando y que nos llevaron a distintos rincones del mismo.
 
@@ -124,8 +124,8 @@ Y para que veáis que sobreviví a todos los retos, nuestras mejores galas en el
 {{< image classes="center fancybox margin-top" src="https://live.staticflickr.com/65535/55353662224_685b6aa1d9_b.jpg" title="" >}}
 
 Y si queréis ver más fotos de estos días, aquí os dejo los álbumes:
-- <a href="" target="_blank">Azores 2026 - Sete Cidades</a>
-- <a href="" target="_blank">Azores 2026 - Furnas</a>
+- <a href="https://www.flickr.com/photos/yamila_moreno/albums/72177720334351947" target="_blank">Azores 2026 - Sete Cidades</a>
+- <a href="https://www.flickr.com/photos/yamila_moreno/albums/72177720334350775" target="_blank">Azores 2026 - Furnas</a>
 
 {{< tripindex trip="Azores 2026" >}}
 

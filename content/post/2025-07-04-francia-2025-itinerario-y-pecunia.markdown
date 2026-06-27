@@ -8,6 +8,7 @@ coverImage: https://live.staticflickr.com/65535/54630863741_54041553cb_b.jpg
 
 trip: Francia 2025
 tags:
+- Francia
 - Itinerairo y pecunia
 
 ---
